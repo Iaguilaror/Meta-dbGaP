@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001333.v1.p1" parentStudy="phs001333.v1.p1" createDate="2017-03-10" modDate="2017-06-23">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Study Chair</td><td>S. Michael Mauer, MD</td><td>University of Minnesota, Minneapolis, MN, USA</td></tr>
+		<tr><td>Current Funding Sources</td><td>U54-NS065768-06</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Natural History in Fabry Renal Disease</StudyNameEntrez>
+	<StudyNameReportPage>Natural History and Structural Functional Relationships in Fabry Renal Disease</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal</StudyType>
+		<StudyType>Observational</StudyType>
+		<StudyType>Cross-Sectional</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Fabry disease is a rare genetic disease with deficient activity of an enzyme, which leads to accumulation of inclusions in different organs including kidney, heart and vessels. The purpose of the study is to conduct a cross-sectional investigation of the natural history of Fabry renal disease and measure renal function and renal structure in male and female Fabry&#39;s patients. The study will utilize the resultant cross-sectional information to determine the renal structural parameters or composite of parameters that most closely relates to the onset and progression of clinical renal disease in Fabry patients.</p> <p>This is an observational, cross-sectional study of 60 individuals with Fabry disease. Those participating in the study will be evaluated during a one day visit and on a PRN basis. The primary study objectives are as follows: <ol> <li>To study the natural history of Fabry renal disease and measure renal function and renal structure in male and female Fabry&#39;s patients. These patients would encompass the broad age range from childhood to adulthood and from normal renal function to moderate renal insufficiency [serum creatinine (SCr) &#8804; 2.5mg/dl (chronic kidney disease or CKD3)].</li> <li>To utilize the resultant cross-sectional information to determine the renal structural parameters or composite of parameters that most closely relates to the onset and progression of clinical renal disease in Fabry patients.</li> </ol> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion criteria: <ul> <li>Subjects with a diagnosis of Fabry who have consented to having a GFR and may have a kidney biopsy in the future as part of their clinical work up. Patients with GFR estimates (e.g. serum creatinine) would also be included.</li> </ul> </p> <p>Exclusion Criteria: <ul> <li>Individuals are excluded from the Fabry study if any of the following Exclusion criteria exist, or unless otherwise determined by one of the study PI&#39;s: <ul> <li>Unwilling/unable to give informed consent, or sign the assent (if applicable) and parental consent</li> <li>Presence of other kidney diseases</li> </ul> </li> </ul> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="21659733"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21160462"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21804088"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22898981"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25386848"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Fabry Disease"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Study Chair">
+			<AttName>S. Michael Mauer, MD</AttName>
+			<Institution>University of Minnesota, Minneapolis, MN, USA</Institution>
+		</Header>
+		<Header title="Current Funding Sources">
+			<AttName>U54-NS065768-06</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Lysosomal Disease Network" url="https://www.rarediseasesnetwork.org/LDN/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p> <ul> <li>Study Activated January 25,2011</li> <li>First Accrual April 26, 2011</li> </ul> </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-PUB" longName="General Research Use (IRB, PUB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <Documents>
+    <Document phd="phd007261.1" type="questionnaire" createDate="2017-06-16" modDate="2017-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007261.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001333.v1.p1&amp;phd=7261">
+      <OrigName>6702_ConcomitantMedications_18Mar2011.pdf</OrigName>
+      <DisplayName>Concomitant Medications Form</DisplayName>
+      <Description>Concomitant Medications Form</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007262.1" type="questionnaire" createDate="2017-06-16" modDate="2017-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007262.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001333.v1.p1&amp;phd=7262">
+      <OrigName>6702_Eligibility_17Mar2011.pdf</OrigName>
+      <DisplayName>6702 - Eligibility</DisplayName>
+      <Description>6702 - Eligibility</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007263.1" type="questionnaire" createDate="2017-06-16" modDate="2017-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007263.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001333.v1.p1&amp;phd=7263">
+      <OrigName>6702_LabResults_14Feb2012.pdf</OrigName>
+      <DisplayName>Lab Results</DisplayName>
+      <Description>Lab Results</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007264.1" type="questionnaire" createDate="2017-06-16" modDate="2017-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007264.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001333.v1.p1&amp;phd=7264">
+      <OrigName>6702_ParticipantMedicalHistory_22Mar2011.pdf</OrigName>
+      <DisplayName>Participant Medical History</DisplayName>
+      <Description>Participant Medical History</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007265.1" type="questionnaire" createDate="2017-06-16" modDate="2017-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007265.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001333.v1.p1&amp;phd=7265">
+      <OrigName>6702_PhysicalMeasurements_17Mar11.pdf</OrigName>
+      <DisplayName>Physical Measurements</DisplayName>
+      <Description>Physical Measurements</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007266.1" type="protocol" createDate="2017-06-16" modDate="2017-06-23" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007266.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001333.v1.p1&amp;phd=7266">
+      <OrigName>6702_ScheduleOfEvents_17Mar2011.pdf</OrigName>
+      <DisplayName>6702 Schedule of Events - for development</DisplayName>
+      <Description>6702 Schedule of Events - for development</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007267.1" type="protocol" createDate="2017-06-16" modDate="2017-06-23" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007267.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001333.v1.p1&amp;phd=7267">
+      <OrigName>RDCRN_LDN6702_ScheduleOfEvents_12Apr2012.pdf</OrigName>
+      <DisplayName>6702 Schedule of Events</DisplayName>
+      <Description>6702 Schedule of Events</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007268.1" type="questionnaire" createDate="2017-06-16" modDate="2017-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007268.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001333.v1.p1&amp;phd=7268">
+      <OrigName>RDN3_DemographicsShort_12Dec16.pdf</OrigName>
+      <DisplayName>Demographics (Short)</DisplayName>
+      <Description>Demographics (Short)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd007261.1" sectionId="phd007261">
+      <phvList>
+        <phvRef variableId="301874"/>
+        <phvRef variableId="301875"/>
+        <phvRef variableId="301876"/>
+        <phvRef variableId="301877"/>
+        <phvRef variableId="301878"/>
+        <phvRef variableId="301879"/>
+        <phvRef variableId="301880"/>
+        <phvRef variableId="301881"/>
+        <phvRef variableId="301883"/>
+        <phvRef variableId="301884"/>
+        <phvRef variableId="301885"/>
+        <phvRef variableId="301889"/>
+        <phvRef variableId="301890"/>
+        <phvRef variableId="301892"/>
+        <phvRef variableId="301894"/>
+        <phvRef variableId="301896"/>
+        <phvRef variableId="301909"/>
+        <phvRef variableId="301910"/>
+        <phvRef variableId="301911"/>
+        <phvRef variableId="301912"/>
+        <phvRef variableId="301913"/>
+        <phvRef variableId="301914"/>
+        <phvRef variableId="301915"/>
+        <phvRef variableId="301916"/>
+        <phvRef variableId="301917"/>
+        <phvRef variableId="301918"/>
+        <phvRef variableId="301919"/>
+        <phvRef variableId="301920"/>
+        <phvRef variableId="301921"/>
+        <phvRef variableId="301922"/>
+        <phvRef variableId="301923"/>
+        <phvRef variableId="301924"/>
+        <phvRef variableId="301925"/>
+        <phvRef variableId="301926"/>
+        <phvRef variableId="301927"/>
+        <phvRef variableId="301928"/>
+        <phvRef variableId="301929"/>
+        <phvRef variableId="301930"/>
+        <phvRef variableId="301931"/>
+        <phvRef variableId="301932"/>
+        <phvRef variableId="301933"/>
+        <phvRef variableId="301934"/>
+        <phvRef variableId="301935"/>
+        <phvRef variableId="301936"/>
+        <phvRef variableId="301937"/>
+        <phvRef variableId="301938"/>
+        <phvRef variableId="301939"/>
+        <phvRef variableId="301940"/>
+        <phvRef variableId="301941"/>
+        <phvRef variableId="301945"/>
+        <phvRef variableId="301947"/>
+        <phvRef variableId="301950"/>
+        <phvRef variableId="301956"/>
+        <phvRef variableId="301957"/>
+        <phvRef variableId="301958"/>
+        <phvRef variableId="301959"/>
+        <phvRef variableId="301960"/>
+        <phvRef variableId="301961"/>
+        <phvRef variableId="301962"/>
+        <phvRef variableId="301963"/>
+        <phvRef variableId="301964"/>
+        <phvRef variableId="301966"/>
+        <phvRef variableId="301969"/>
+        <phvRef variableId="301970"/>
+        <phvRef variableId="301971"/>
+        <phvRef variableId="301972"/>
+        <phvRef variableId="301973"/>
+        <phvRef variableId="301980"/>
+        <phvRef variableId="301982"/>
+        <phvRef variableId="301983"/>
+        <phvRef variableId="301984"/>
+        <phvRef variableId="301985"/>
+        <phvRef variableId="301986"/>
+        <phvRef variableId="301987"/>
+        <phvRef variableId="301988"/>
+        <phvRef variableId="301989"/>
+        <phvRef variableId="301990"/>
+        <phvRef variableId="301991"/>
+        <phvRef variableId="301992"/>
+        <phvRef variableId="6531"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007262.1" sectionId="phd007262">
+      <phvList>
+        <phvRef variableId="301565"/>
+        <phvRef variableId="301566"/>
+        <phvRef variableId="301567"/>
+        <phvRef variableId="301568"/>
+        <phvRef variableId="301569"/>
+        <phvRef variableId="301570"/>
+        <phvRef variableId="301573"/>
+        <phvRef variableId="301574"/>
+        <phvRef variableId="301575"/>
+        <phvRef variableId="301576"/>
+        <phvRef variableId="301577"/>
+        <phvRef variableId="301578"/>
+        <phvRef variableId="301579"/>
+        <phvRef variableId="301580"/>
+        <phvRef variableId="301581"/>
+        <phvRef variableId="301582"/>
+        <phvRef variableId="6526"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007263.1" sectionId="phd007263">
+      <phvList>
+        <phvRef variableId="301433"/>
+        <phvRef variableId="301434"/>
+        <phvRef variableId="301435"/>
+        <phvRef variableId="301436"/>
+        <phvRef variableId="301437"/>
+        <phvRef variableId="301438"/>
+        <phvRef variableId="301439"/>
+        <phvRef variableId="301440"/>
+        <phvRef variableId="301441"/>
+        <phvRef variableId="301442"/>
+        <phvRef variableId="301443"/>
+        <phvRef variableId="301444"/>
+        <phvRef variableId="301445"/>
+        <phvRef variableId="301446"/>
+        <phvRef variableId="301447"/>
+        <phvRef variableId="301448"/>
+        <phvRef variableId="301449"/>
+        <phvRef variableId="301450"/>
+        <phvRef variableId="301451"/>
+        <phvRef variableId="301452"/>
+        <phvRef variableId="301453"/>
+        <phvRef variableId="301454"/>
+        <phvRef variableId="301455"/>
+        <phvRef variableId="301456"/>
+        <phvRef variableId="301457"/>
+        <phvRef variableId="301458"/>
+        <phvRef variableId="301459"/>
+        <phvRef variableId="301460"/>
+        <phvRef variableId="301461"/>
+        <phvRef variableId="301462"/>
+        <phvRef variableId="301463"/>
+        <phvRef variableId="301464"/>
+        <phvRef variableId="301465"/>
+        <phvRef variableId="301466"/>
+        <phvRef variableId="301467"/>
+        <phvRef variableId="301468"/>
+        <phvRef variableId="301469"/>
+        <phvRef variableId="301470"/>
+        <phvRef variableId="301471"/>
+        <phvRef variableId="301472"/>
+        <phvRef variableId="301473"/>
+        <phvRef variableId="301474"/>
+        <phvRef variableId="301475"/>
+        <phvRef variableId="301476"/>
+        <phvRef variableId="301477"/>
+        <phvRef variableId="301478"/>
+        <phvRef variableId="301479"/>
+        <phvRef variableId="301480"/>
+        <phvRef variableId="301481"/>
+        <phvRef variableId="301483"/>
+        <phvRef variableId="301484"/>
+        <phvRef variableId="301485"/>
+        <phvRef variableId="301486"/>
+        <phvRef variableId="301487"/>
+        <phvRef variableId="301488"/>
+        <phvRef variableId="301489"/>
+        <phvRef variableId="301490"/>
+        <phvRef variableId="301491"/>
+        <phvRef variableId="301492"/>
+        <phvRef variableId="301493"/>
+        <phvRef variableId="301494"/>
+        <phvRef variableId="301495"/>
+        <phvRef variableId="301496"/>
+        <phvRef variableId="301497"/>
+        <phvRef variableId="301498"/>
+        <phvRef variableId="301499"/>
+        <phvRef variableId="301500"/>
+        <phvRef variableId="301501"/>
+        <phvRef variableId="301502"/>
+        <phvRef variableId="301503"/>
+        <phvRef variableId="301504"/>
+        <phvRef variableId="301505"/>
+        <phvRef variableId="301506"/>
+        <phvRef variableId="301507"/>
+        <phvRef variableId="301508"/>
+        <phvRef variableId="301509"/>
+        <phvRef variableId="301510"/>
+        <phvRef variableId="301511"/>
+        <phvRef variableId="301512"/>
+        <phvRef variableId="301513"/>
+        <phvRef variableId="301514"/>
+        <phvRef variableId="301515"/>
+        <phvRef variableId="301516"/>
+        <phvRef variableId="301517"/>
+        <phvRef variableId="301518"/>
+        <phvRef variableId="301519"/>
+        <phvRef variableId="301520"/>
+        <phvRef variableId="301521"/>
+        <phvRef variableId="301522"/>
+        <phvRef variableId="301523"/>
+        <phvRef variableId="301524"/>
+        <phvRef variableId="301525"/>
+        <phvRef variableId="301526"/>
+        <phvRef variableId="301527"/>
+        <phvRef variableId="301528"/>
+        <phvRef variableId="301529"/>
+        <phvRef variableId="301530"/>
+        <phvRef variableId="301531"/>
+        <phvRef variableId="301532"/>
+        <phvRef variableId="301533"/>
+        <phvRef variableId="301534"/>
+        <phvRef variableId="301535"/>
+        <phvRef variableId="301536"/>
+        <phvRef variableId="301537"/>
+        <phvRef variableId="301538"/>
+        <phvRef variableId="301539"/>
+        <phvRef variableId="301543"/>
+        <phvRef variableId="301546"/>
+        <phvRef variableId="301549"/>
+        <phvRef variableId="301551"/>
+        <phvRef variableId="301553"/>
+        <phvRef variableId="301554"/>
+        <phvRef variableId="301555"/>
+        <phvRef variableId="301556"/>
+        <phvRef variableId="301557"/>
+        <phvRef variableId="301558"/>
+        <phvRef variableId="301559"/>
+        <phvRef variableId="301560"/>
+        <phvRef variableId="301561"/>
+        <phvRef variableId="301562"/>
+        <phvRef variableId="301563"/>
+        <phvRef variableId="301564"/>
+        <phvRef variableId="6525"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007264.1" sectionId="phd007264">
+      <phvList>
+        <phvRef variableId="301609"/>
+        <phvRef variableId="301610"/>
+        <phvRef variableId="301611"/>
+        <phvRef variableId="301612"/>
+        <phvRef variableId="301613"/>
+        <phvRef variableId="301614"/>
+        <phvRef variableId="301615"/>
+        <phvRef variableId="301616"/>
+        <phvRef variableId="301617"/>
+        <phvRef variableId="301618"/>
+        <phvRef variableId="301619"/>
+        <phvRef variableId="301620"/>
+        <phvRef variableId="301621"/>
+        <phvRef variableId="301622"/>
+        <phvRef variableId="301623"/>
+        <phvRef variableId="301624"/>
+        <phvRef variableId="301625"/>
+        <phvRef variableId="301626"/>
+        <phvRef variableId="301627"/>
+        <phvRef variableId="301628"/>
+        <phvRef variableId="301629"/>
+        <phvRef variableId="301630"/>
+        <phvRef variableId="301631"/>
+        <phvRef variableId="301632"/>
+        <phvRef variableId="301633"/>
+        <phvRef variableId="301634"/>
+        <phvRef variableId="301635"/>
+        <phvRef variableId="301636"/>
+        <phvRef variableId="301637"/>
+        <phvRef variableId="301638"/>
+        <phvRef variableId="301639"/>
+        <phvRef variableId="301640"/>
+        <phvRef variableId="301641"/>
+        <phvRef variableId="301642"/>
+        <phvRef variableId="301643"/>
+        <phvRef variableId="301644"/>
+        <phvRef variableId="301645"/>
+        <phvRef variableId="301649"/>
+        <phvRef variableId="301653"/>
+        <phvRef variableId="301654"/>
+        <phvRef variableId="301655"/>
+        <phvRef variableId="301656"/>
+        <phvRef variableId="301657"/>
+        <phvRef variableId="301658"/>
+        <phvRef variableId="301660"/>
+        <phvRef variableId="301661"/>
+        <phvRef variableId="301662"/>
+        <phvRef variableId="301663"/>
+        <phvRef variableId="301664"/>
+        <phvRef variableId="301665"/>
+        <phvRef variableId="301666"/>
+        <phvRef variableId="301667"/>
+        <phvRef variableId="301668"/>
+        <phvRef variableId="301669"/>
+        <phvRef variableId="301670"/>
+        <phvRef variableId="301671"/>
+        <phvRef variableId="301672"/>
+        <phvRef variableId="301673"/>
+        <phvRef variableId="301674"/>
+        <phvRef variableId="301675"/>
+        <phvRef variableId="301676"/>
+        <phvRef variableId="301678"/>
+        <phvRef variableId="301679"/>
+        <phvRef variableId="301680"/>
+        <phvRef variableId="301681"/>
+        <phvRef variableId="301682"/>
+        <phvRef variableId="301683"/>
+        <phvRef variableId="301684"/>
+        <phvRef variableId="301685"/>
+        <phvRef variableId="301686"/>
+        <phvRef variableId="301687"/>
+        <phvRef variableId="301688"/>
+        <phvRef variableId="301689"/>
+        <phvRef variableId="301690"/>
+        <phvRef variableId="301691"/>
+        <phvRef variableId="301692"/>
+        <phvRef variableId="301693"/>
+        <phvRef variableId="301694"/>
+        <phvRef variableId="301695"/>
+        <phvRef variableId="301696"/>
+        <phvRef variableId="301698"/>
+        <phvRef variableId="301703"/>
+        <phvRef variableId="301704"/>
+        <phvRef variableId="301705"/>
+        <phvRef variableId="301706"/>
+        <phvRef variableId="301707"/>
+        <phvRef variableId="301709"/>
+        <phvRef variableId="301710"/>
+        <phvRef variableId="301711"/>
+        <phvRef variableId="301712"/>
+        <phvRef variableId="301713"/>
+        <phvRef variableId="301714"/>
+        <phvRef variableId="301715"/>
+        <phvRef variableId="301716"/>
+        <phvRef variableId="301717"/>
+        <phvRef variableId="301719"/>
+        <phvRef variableId="301720"/>
+        <phvRef variableId="301721"/>
+        <phvRef variableId="301722"/>
+        <phvRef variableId="301723"/>
+        <phvRef variableId="301724"/>
+        <phvRef variableId="301725"/>
+        <phvRef variableId="301726"/>
+        <phvRef variableId="301727"/>
+        <phvRef variableId="301728"/>
+        <phvRef variableId="301729"/>
+        <phvRef variableId="301730"/>
+        <phvRef variableId="301731"/>
+        <phvRef variableId="301732"/>
+        <phvRef variableId="301733"/>
+        <phvRef variableId="301734"/>
+        <phvRef variableId="301735"/>
+        <phvRef variableId="301736"/>
+        <phvRef variableId="301737"/>
+        <phvRef variableId="301738"/>
+        <phvRef variableId="301739"/>
+        <phvRef variableId="301740"/>
+        <phvRef variableId="301741"/>
+        <phvRef variableId="301742"/>
+        <phvRef variableId="301743"/>
+        <phvRef variableId="301744"/>
+        <phvRef variableId="301745"/>
+        <phvRef variableId="301746"/>
+        <phvRef variableId="301747"/>
+        <phvRef variableId="301748"/>
+        <phvRef variableId="301749"/>
+        <phvRef variableId="301750"/>
+        <phvRef variableId="301751"/>
+        <phvRef variableId="301752"/>
+        <phvRef variableId="301753"/>
+        <phvRef variableId="301754"/>
+        <phvRef variableId="301755"/>
+        <phvRef variableId="301756"/>
+        <phvRef variableId="301757"/>
+        <phvRef variableId="301758"/>
+        <phvRef variableId="301759"/>
+        <phvRef variableId="301760"/>
+        <phvRef variableId="301761"/>
+        <phvRef variableId="301762"/>
+        <phvRef variableId="301763"/>
+        <phvRef variableId="301764"/>
+        <phvRef variableId="301765"/>
+        <phvRef variableId="301766"/>
+        <phvRef variableId="301767"/>
+        <phvRef variableId="301768"/>
+        <phvRef variableId="301769"/>
+        <phvRef variableId="301774"/>
+        <phvRef variableId="301776"/>
+        <phvRef variableId="301778"/>
+        <phvRef variableId="301779"/>
+        <phvRef variableId="301780"/>
+        <phvRef variableId="301783"/>
+        <phvRef variableId="301788"/>
+        <phvRef variableId="301789"/>
+        <phvRef variableId="301793"/>
+        <phvRef variableId="301796"/>
+        <phvRef variableId="301797"/>
+        <phvRef variableId="301798"/>
+        <phvRef variableId="301801"/>
+        <phvRef variableId="301802"/>
+        <phvRef variableId="301806"/>
+        <phvRef variableId="301807"/>
+        <phvRef variableId="301809"/>
+        <phvRef variableId="301810"/>
+        <phvRef variableId="301813"/>
+        <phvRef variableId="301814"/>
+        <phvRef variableId="301815"/>
+        <phvRef variableId="301816"/>
+        <phvRef variableId="301817"/>
+        <phvRef variableId="301818"/>
+        <phvRef variableId="301819"/>
+        <phvRef variableId="301820"/>
+        <phvRef variableId="301822"/>
+        <phvRef variableId="301823"/>
+        <phvRef variableId="301824"/>
+        <phvRef variableId="301825"/>
+        <phvRef variableId="301826"/>
+        <phvRef variableId="301827"/>
+        <phvRef variableId="301828"/>
+        <phvRef variableId="301829"/>
+        <phvRef variableId="301830"/>
+        <phvRef variableId="301831"/>
+        <phvRef variableId="301832"/>
+        <phvRef variableId="301841"/>
+        <phvRef variableId="301842"/>
+        <phvRef variableId="301843"/>
+        <phvRef variableId="301844"/>
+        <phvRef variableId="301845"/>
+        <phvRef variableId="301846"/>
+        <phvRef variableId="301847"/>
+        <phvRef variableId="301848"/>
+        <phvRef variableId="301849"/>
+        <phvRef variableId="6529"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007265.1" sectionId="phd007265">
+      <phvList>
+        <phvRef variableId="301857"/>
+        <phvRef variableId="301859"/>
+        <phvRef variableId="301860"/>
+        <phvRef variableId="301861"/>
+        <phvRef variableId="301862"/>
+        <phvRef variableId="301863"/>
+        <phvRef variableId="301864"/>
+        <phvRef variableId="301865"/>
+        <phvRef variableId="301869"/>
+        <phvRef variableId="301870"/>
+        <phvRef variableId="301871"/>
+        <phvRef variableId="301872"/>
+        <phvRef variableId="301873"/>
+        <phvRef variableId="6530"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007268.1" sectionId="phd007268">
+      <phvList>
+        <phvRef variableId="301588"/>
+        <phvRef variableId="301589"/>
+        <phvRef variableId="301590"/>
+        <phvRef variableId="301592"/>
+        <phvRef variableId="301602"/>
+        <phvRef variableId="301603"/>
+        <phvRef variableId="301604"/>
+        <phvRef variableId="301605"/>
+        <phvRef variableId="301606"/>
+        <phvRef variableId="301607"/>
+        <phvRef variableId="301608"/>
+        <phvRef variableId="6528"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

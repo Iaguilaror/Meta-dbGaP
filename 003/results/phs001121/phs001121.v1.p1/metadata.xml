@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001121.v1.p1" parentStudy="phs001121.v1.p1" createDate="2016-05-13" modDate="2016-05-13">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>William C. Hahn, MD, PhD</td><td>Dana-Farber Cancer Institute, Boston, MA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Jesse Boehm, PhD</td><td>Broad Institute, Cambridge, MA, USA</td></tr>
+		<tr><td>Funding Source</td><td>U01 CA176058</td><td>Dana-Farber Cancer Institute, Boston, MA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Integrated Genetic and Pharmacologic Interrogation of Rare Cancers</StudyNameEntrez>
+	<StudyNameReportPage>Integrated Genetic and Pharmacologic Interrogation of Rare Cancers</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Due to the paucity of patient derived models in rare cancers, identification of therapeutic targets remains challenging. We developed a patient derived model, CLF-PED-015-T, from a patient with an undifferentiated sarcoma. From this model, we performed pooled RNAi and CRISPR-Cas9 negative selection screens and integrated that with a small molecule screen. Integration of these data identified CDK4 and XPO1 as potential therapeutic targets.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>No inclusion or exclusion criteria.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Sarcoma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>William C. Hahn, MD, PhD</AttName>
+			<Institution>Dana-Farber Cancer Institute, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Jesse Boehm, PhD</AttName>
+			<Institution>Broad Institute, Cambridge, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01 CA176058</AttName>
+			<Institution>Dana-Farber Cancer Institute, Boston, MA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-CA-MDS" longName="Disease-Specific (Cancer, MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

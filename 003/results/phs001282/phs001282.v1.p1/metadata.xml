@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001282.v1.p1" parentStudy="phs001282.v1.p1" createDate="2017-01-31" modDate="2017-02-06">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Ann M. Moormann</td><td>University of Massachusetts Medical School, Worcester, MA, USA</td></tr>
+		<tr><td>Co-Principal Investigator</td><td>Jeffrey A. Bailey</td><td>University of Massachusetts Medical School, Worcester, MA, USA</td></tr>
+		<tr><td>Funding Source</td><td>Funding Source	NCI R01 CA134051</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>NCI R01 CA189806</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>The Thrasher Research Fund 02833-7</td><td>The Thrasher Research Fund, Salt Lake City, UT</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genomics of Endemic Burkitt Lymphoma</StudyNameEntrez>
+	<StudyNameReportPage>Expression and Mutational Analysis of Endemic Burkitt Lymphoma</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>This genomic landscape of Burkitt lymphoma represents a multimodal sequencing of tumors and control tissues and individuals to better understand the etiology, and molecular pathogenesis of Burkitt lymphoma including the roles of the associated Plasmodium falciparum malaria and EBV infections. Comprehensive sequencing set includes genomic, transcriptomic, and epigenomic datasets in concert with variable clinical phenotypes and outcome information such as anatomical presentation site, in-hospital survival rates, and EBV genome type. The initial deposit represents polyA RNA-seq from tumor specimens from 28 cases of endemic BL and 2 cases of sporadic BL.</p> <p><b>For initial transcriptome analysis see: Kaymaz et al.</b> Comprehensive Transcriptome and Mutational Profiling of Endemic Burkitt Lymphoma Reveals EBV Type-specific Difference. Molecular Cancer Research: MCR, January. doi:10.1158/1541-7786.MCR-16-0305.<br/> <b>For general overview of cohort study see:</b> Buckle et al. Factors influencing survival among Kenyan children diagnosed with endemic Burkitt lymphoma between 2003 and 2011: A historical cohort study. Int J Cancer. 15:1231, 2016.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Fine needle aspirates were prospectively obtained between 2009 and 2012 at time of diagnosis and prior to commencing chemotherapy at Jaramogi Oginga Odinga Teaching and Referral Hospital (JOOTRH), a regional referral hospital for pediatric cancer in western Kenya. Tumor aspirates were smeared and stained with Giemsa/May-Grunwald for morphologic diagnosis by microscopy. Morphology was assessed by two independent pathologists to verify the diagnosis. Written informed consent was obtained from a parent or legal guardian of the child before enrollment. Ethical approval was obtained from the Institutional Review Board at the University of Massachusetts Medical School and the Scientific and Ethics Review Unit at the Kenya Medical Research Institute. Approval for this study was also granted by the JOOTRH, Kenya Ministry of Health Ethical Review Committee.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27136063"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="28137761"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Burkitt Lymphoma"/>
+		<Disease vocab_source="MESH" vocab_term="Lymphoma, Non-Hodgkin"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Ann M. Moormann</AttName>
+			<Institution>University of Massachusetts Medical School, Worcester, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Funding Source	NCI R01 CA134051</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>NCI R01 CA189806</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>The Thrasher Research Fund 02833-7</AttName>
+			<Institution>The Thrasher Research Fund, Salt Lake City, UT</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>UMCCTS Pilot Project Program U1 LTR000161-04</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Co-Principal Investigator">
+			<AttName>Jeffrey A. Bailey</AttName>
+			<Institution>University of Massachusetts Medical School, Worcester, MA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="University of Msssachusetts, Medical School" url="http://www.umassmed.edu/"/>
+		<Url name="Kenya Medical Research Institute" url="http://www.kemri.org/"/>
+		<Url name="Jaramogi Oginga Odinga Teaching Referral Hospital" url="http://www.jaramogireferral.go.ke/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>Endemic Burkitt lymphoma (eBL) is the most prevalent pediatric cancer in sub-Saharan Africa. It is etiology has been linked to early-age infection with Epstein-Barr Virus (EBV) and residing in Plasmodium falciparum malaria holoendemic regions where children are commonly co-infected with this parasite. The etiologic mechanisms involving both human genetic mutations and the influence of EBV and malaria on B cell transformation are not fully understood. However, given that eBL can be cured with combination chemotherapy, treating children diagnosed with eBL is feasible even in resource-constrained settings. The overall goal of our BL consortium is to understand the basic biology resulting in B cell tumorigenesis in order to prevent and cure this pediatric cancer.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-BL-PUB-NPU" longName="Disease-Specific (Burkitt Lymphoma, PUB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001282.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001282.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001282.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Burkitt Lymphoma, PUB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-BL-PUB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Burkitt Lymphoma.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

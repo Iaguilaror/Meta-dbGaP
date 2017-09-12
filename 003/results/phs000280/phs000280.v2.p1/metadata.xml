@@ -1,0 +1,3031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+	<Project/>
+	<Project/>
+	<Project/>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000280.v2.p1" parentStudy="phs000280.v2.p1" createDate="2012-10-12" modDate="2013-06-07">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators (Field Center)</td><td>Aaron R. Folsom, MD</td><td>Division of Epidemiology and Community Health, School of Public Health, University of Minnesota, Minneapolis, MN, USA</td></tr>
+		<tr><td>Principal Investigators (Field Center)</td><td>Gerardo Heiss, MD</td><td>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA</td></tr>
+		<tr><td>Principal Investigators (Field Center)</td><td>Thomas H. Mosley Jr., PhD</td><td>Department of Medicine (Geriatrics), University of Mississippi Medical Center, Jackson, MS, USA</td></tr>
+		<tr><td>Principal Investigators (Field Center)</td><td>Josef Coresh, MD, PhD</td><td>Department of Epidemiology, Biostatistics, and Medicine, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA</td></tr>
+		<tr><td>Principal Investigator (Atherosclerosis Clinical Research Laboratory)</td><td>Christie M. Ballantyne, MD</td><td>Department of Medicine, Baylor College of Medicine, Houston, TX, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Atherosclerosis Risk in Communities (ARIC) Cohort</StudyNameEntrez>
+	<StudyNameReportPage>Atherosclerosis Risk in Communities (ARIC) Cohort</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal</StudyType>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Atherosclerosis Risk in Communities (ARIC) Study, sponsored by the National Heart, Lung and Blood Institute (NHLBI), is a prospective epidemiologic study conducted in four U.S. communities. The four communities are Forsyth County, NC; Jackson, MS; the northwest suburbs of Minneapolis, MN; and Washington County, MD. ARIC is designed to investigate the etiology and natural history of atherosclerosis, the etiology of clinical atherosclerotic diseases, and variation in cardiovascular risk factors, medical care and disease by race, gender, location, and date.</p> <p>ARIC includes two parts: the Cohort Component and the Community Surveillance Component. The Cohort Component began in 1987, and each ARIC field center randomly selected and recruited a cohort sample of approximately 4,000 individuals aged 45-64 from a defined population in their community. A total of 15,792 participants received an extensive examination, including medical, social, and demographic data. These participants were examined with the baseline visit occurring in 1987-89, the second visit in 1990-92, the third visit in 1993-95, the fourth visit in 1996-98, and the fifth visit in 2011-13. Follow-up occurs yearly by telephone to maintain contact with participants and to assess health status of the cohort. </p> <p>In the Community Surveillance Component, currently ongoing, these four communities are investigated to determine the community-wide occurrence of hospitalized myocardial infarction and coronary heart disease deaths in men and women aged 35-84 years. Hospitalized stroke is investigated in cohort participants only. Starting in 2006, the study conducts community surveillance of inpatient (ages 55 years and older) and outpatient heart failure (ages 65 years and older) for heart failure events beginning in 2005.</p> <p>ARIC is currently funded through October 31, 2016.</p> <p><b>The ARIC Cohort is utilized in the following dbGaP sub-studies.</b> To view genotypes, other molecular data, and derived variables collected in these sub-studies, please click on the following sub-studies below or in the "Sub-studies" box located on the right hand side of this top-level study page <a href="study.cgi?study_id=phs000280">phs000280</a> ARIC Cohort. <ul> <li><a href="study.cgi?study_id=phs000557">phs000557</a> ARIC_CARe</li> <li><a href="study.cgi?study_id=phs000090">phs000090</a> GENEVA_ARIC</li> <li><a href="study.cgi?study_id=phs000223">phs000223</a> CALiCo_ARIC</li> <li><a href="study.cgi?study_id=phs000398">phs000398</a> GO-ESP: HeartGo_ARIC</li> </ul> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Aged 45-64 at baseline</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="20400780"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18974833"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1342297"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1342298"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1342299"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1342324"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1442716"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1442717"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1442718"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1458214"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1462967"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1615543"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1626733"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1679164"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1789804"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1789804"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1877584"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2031493"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2084937"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2141054"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2161309"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2208707"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2526384"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2646917"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2681023"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="2914371"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="3131044"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7484830"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7485048"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7489232"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7554194"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7582873"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7606307"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7606308"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7616851"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7625335"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7661118"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7661119"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7695455"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7709914"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7718022"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7735636"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7740015"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7741126"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7741126"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7762561"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7782801"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7792740"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7805229"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7855109"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7867184"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7878631"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7886711"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7921473"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7974576"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="7981841"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8015569"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8018103"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8018665"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8023041"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8023349"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8037129"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8042207"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8115984"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8128432"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8167826"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8178786"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8178786"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8187241"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8192558"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8199177"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8203995"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8218095"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8238066"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8241104"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8252692"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8259533"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8259552"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8266385"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8304350"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8308517"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8343489"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8343495"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8362421"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8366910"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8384316"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8399698"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8419668"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8462139"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8499398"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8499402"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8520633"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8536954"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8553406"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8596494"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8606324"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8615310"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8620351"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8630675"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8633598"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8637443"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8637443"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8637443"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8640970"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8691220"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8696957"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8712190"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8732701"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8732713"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8785911"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8790026"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8823151"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8854330"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8861461"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8865551"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8873660"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8876843"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8876844"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8882874"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8890663"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8890664"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8892766"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8899392"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8902149"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8921480"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8923698"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8942436"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8969791"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8970495"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8972884"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8978880"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9022543"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9031455"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9038429"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9070548"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9112876"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9125996"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9126503"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9140173"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9159770"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9167103"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9177112"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9180252"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9194770"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9194770"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9215223"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9229215"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9243489"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9267993"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9279450"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9283796"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9286936"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9290509"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9303011"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9327777"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9394702"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9416885"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9440661"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9447421"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9465988"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9476831"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9485136"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9493915"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9521183"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9523221"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9533374"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9596234"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9678776"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9697819"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9699907"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9734754"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9736141"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9738638"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9744969"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9744969"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9786230"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9839103"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9856357"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9860781"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9867265"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="9927352"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10030399"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10068326"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10072750"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10149803"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10149810"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10187871"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10192646"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10192647"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10215280"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10221321"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10320306"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10326055"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10332679"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10334798"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10335783"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10335783"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10347984"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10351918"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10388971"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10390304"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10408996"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10412959"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10424519"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10430230"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10438276"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10448782"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10449696"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10454441"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10466473"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10467206"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10472949"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10472949"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10472985"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10472985"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10475537"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10480621"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10480621"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10487488"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10496392"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10527292"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10539866"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10543398"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10549880"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10568620"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10580179"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10599656"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10604906"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10660218"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10669661"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10678540"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10684749"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10707915"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10707916"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10723108"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10729397"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10738048"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10770144"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10783222"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10790343"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10807384"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10813506"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10818059"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10821330"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10845884"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10845884"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10856280"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10857984"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10886574"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10888976"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10896647"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10896847"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10912737"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10917717"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10933303"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10953989"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10965976"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10978036"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10980106"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10982537"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11012298"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11022055"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11032156"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11034936"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11034966"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11068957"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11068957"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11137833"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11148234"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11156865"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11165467"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11208620"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11208620"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11245641"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11257276"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11257277"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11283377"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11293402"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11304480"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11340220"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11340220"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11358935"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11359076"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11384950"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11390330"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11416590"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11416590"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11450679"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11472730"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11479187"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11486096"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11487026"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11535564"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11590086"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11590088"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11590089"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11597667"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11701471"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11707536"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11740300"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11743306"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11755842"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11756346"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11759846"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11772783"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11772784"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11777675"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11779882"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11791147"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11832671"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11834540"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11867355"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11868062"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11879113"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11880221"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11921083"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11929758"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11943686"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11943688"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11947908"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11988410"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12020191"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12020333"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12036803"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12040341"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12052841"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12052841"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12052979"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12067914"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12090864"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12093643"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12099509"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12118905"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12145235"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12163431"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12177639"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12181105"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12188010"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12220323"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12351449"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12351467"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12376580"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12390062"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12393393"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12398956"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12406805"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12411667"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12424536"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12444538"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12444538"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12444538"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12447958"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12453910"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12456228"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12470750"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12472581"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12505113"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12510702"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12578803"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12605391"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12624282"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12634024"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12652553"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12668515"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12716785"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12765972"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12767953"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12816776"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12821274"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12829649"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12829986"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12857352"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12859033"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12860264"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12871544"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12873652"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12873652"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12873656"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12932629"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12936919"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12947363"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14504325"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14505774"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14514579"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14517173"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14569182"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14581296"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14592833"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14627754"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14630601"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14630902"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14644396"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14652302"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14657449"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14687237"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14693970"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14709368"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14717057"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14739565"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14739565"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14747224"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14757686"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14757692"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14970147"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14975464"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14979879"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15051586"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15051586"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15062883"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15072827"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15082648"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15112174"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15112174"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15113727"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15152812"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15164900"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15184348"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15210384"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15224209"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15246330"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15257999"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15286929"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15295942"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15308955"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15321844"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15326106"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15331562"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15331562"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15331562"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15339997"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15353414"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15370875"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15462113"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15536489"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15541239"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15541239"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15541239"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15547647"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15548332"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15566908"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15569859"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15583364"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15583364"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15623679"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15623679"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15623679"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15625072"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15632337"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15632881"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15644132"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15644132"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15650344"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15662040"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15668424"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15670554"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15677797"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15699243"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15699243"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15709084"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15724766"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15735206"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15806467"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15892024"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15893320"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15910864"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15910867"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15920070"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15937022"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15956634"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15956634"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15983248"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15985571"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15990741"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16043740"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16043747"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16061739"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16112038"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16125711"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16129724"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16157837"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16169313"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16186527"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16210555"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16235773"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16239005"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16275176"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16285993"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16286527"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16297840"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16306463"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16314544"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16322533"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16322883"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16331433"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16339402"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16380570"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16389125"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16401319"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16406547"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16407698"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16410350"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16442920"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16443415"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16504033"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16530621"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16537353"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16554528"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16567831"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16574125"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16595607"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16616022"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16675734"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16675734"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16707651"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16721800"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16760224"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16760224"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16832001"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16836659"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16847292"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16850292"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16882462"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16894039"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16936419"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16968859"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16979003"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16982672"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16996852"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17003361"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17027292"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17060502"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17065666"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17092348"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17108813"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17130206"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17136392"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17145219"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17149994"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17153088"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17157861"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17166977"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17179018"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17192352"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17215445"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17225957"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17227586"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17259502"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17273844"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17284722"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17299380"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17334519"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17344421"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17350020"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17356698"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17363362"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17378884"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17389288"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17389333"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17399675"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17413112"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17420019"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17425663"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17433418"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17442705"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17443022"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17443022"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17443022"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17478681"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17493471"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17568951"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17587397"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17629908"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17663738"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17719331"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17761915"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17764567"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17846365"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17855114"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17950804"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17959182"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18006936"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18032796"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18048462"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18056886"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18208984"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18212291"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18246060"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18268068"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18268068"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18275964"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18292760"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18342390"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18342864"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18369664"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18378515"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18384690"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Atherosclerosis"/>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular System"/>
+		<Disease vocab_source="MESH" vocab_term="Cerebrovascular Accident"/>
+		<Disease vocab_source="MESH" vocab_term="Cholesterol"/>
+		<Disease vocab_source="MESH" vocab_term="Diabetes Mellitus"/>
+		<Disease vocab_source="MESH" vocab_term="Heart Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Heart Failure, Congestive"/>
+		<Disease vocab_source="MESH" vocab_term="Hypertension"/>
+		<Disease vocab_source="MESH" vocab_term="Myocardial Infarction"/>
+		<Disease vocab_source="MESH" vocab_term="Obesity"/>
+		<Disease vocab_source="MESH" vocab_term="Risk Factors"/>
+		<Disease vocab_source="MESH" vocab_term="Smoking"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators (Field Center)">
+			<AttName>Aaron R. Folsom, MD</AttName>
+			<Institution>Division of Epidemiology and Community Health, School of Public Health, University of Minnesota, Minneapolis, MN, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators (Field Center)">
+			<AttName>Gerardo Heiss, MD</AttName>
+			<Institution>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators (Field Center)">
+			<AttName>Thomas H. Mosley Jr., PhD</AttName>
+			<Institution>Department of Medicine (Geriatrics), University of Mississippi Medical Center, Jackson, MS, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators (Field Center)">
+			<AttName>Josef Coresh, MD, PhD</AttName>
+			<Institution>Department of Epidemiology, Biostatistics, and Medicine, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator (Atherosclerosis Clinical Research Laboratory)">
+			<AttName>Christie M. Ballantyne, MD</AttName>
+			<Institution>Department of Medicine, Baylor College of Medicine, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator (Central DNA Laboratory)">
+			<AttName>Eric Boerwinkle, PhD</AttName>
+			<Institution>Human Genetics Center, University of Texas School of Public Health, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator (Coordinating Center)">
+			<AttName>David Couper, PhD</AttName>
+			<Institution>Collaborative Studies Coordinating Center, Department of Biostatistics, University of North Carolina at Chapel Hill, Chapel Hill, NC</Institution>
+		</Header>
+		<Header title="Principal Investigator (Echo Reading Center)">
+			<AttName>Scott Solomon, MD</AttName>
+			<Institution>Brigham and Women&#39;s Hospital, Harvard University, Boston, MA</Institution>
+		</Header>
+		<Header title="Principal Investigator(CVD Outcomes Research Center)">
+			<AttName>Sally Stearns, PhD</AttName>
+			<Institution>Department of Health Policy and Management University of North Carolina at Chapel Hill, Chapel Hill, NC</Institution>
+		</Header>
+		<Header title="Project Officer">
+			<AttName>Jacqueline Wright, DrPH</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Deputy Project Officer">
+			<AttName>Hanyu Ni, PhD</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="ARIC Funding Source - University of North Carolina Coordinating Center">
+			<AttName>HHSN268201100005C</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="ARIC Funding Source - Baylor Atherosclerosis Clinical Research Laboratory">
+			<AttName>HHSN268201100006C</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="ARIC Funding Source - University of North Carolina Field Center">
+			<AttName>HHSN268201100007C</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="ARIC Funding Source - University of Minnesota Field Center">
+			<AttName>HHSN268201100008C</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="ARIC Funding Source - Johns Hopkins University Field Center">
+			<AttName>HHSN268201100009C</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="ARIC Funding Source - University of Mississippi Medical Center Field Center">
+			<AttName>HHSN268201100010C</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="ARIC Funding Source - Brigham and Women&#39;s Hospital Reading Center">
+			<AttName>HHSN268201100011C</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="ARIC Funding Source - University of North Carolina CVD Outcomes Research Center">
+			<AttName>HHSN268201100012C</AttName>
+			<Institution>National Heart, Lung, and Blood Institute; National Institutes of Health; Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="ARIC Atherosclerosis Risk in Communities Study" url="http://www2.cscc.unc.edu/aric/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>The cohort was examined at 5 clinic visits:</p> <p>Visit 1: 1987-89</p> <p>Visit 2: 1990-92</p> <p>Visit 3: 1993-95</p> <p>Visit 4: 1996-98</p> <p>Visit 5: 2011-13 (ongoing)</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects."/>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB" longName="Health/Medical/Biomedical with IRB"/>
+		<ConsentGroup groupNum="2" shortName="DS-CVD-IRB" longName="Disease-specific (Cardiovascular Disease)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000280.v2.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000280.v2.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000280.v2.p1" FileName="ARIC_DUC-Cohort_Centric_12_17-2012_NI.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical with IRB</ConsentName>
+        <ConsentAbbrev>HMB-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the ARIC Study data deposited in dbGaP is restricted to research on associations between phenotypes and genotypes. ARIC data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). These data may be used for
+            health/medical/biomedical research. This Data Use Certification will be reviewed and approved by the NHLBI Data Access Committee. The NHLBI will keep all Data Use Certifications, and all approved studies utilizing ARIC dbGaP data will be listed on the dbGaP website. Annual updates regarding publications, etc. will be provided by the NHLBI to the ARIC study when and if necessary.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-specific (Cardiovascular Disease)</ConsentName>
+        <ConsentAbbrev>DS-CVD-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the ARIC Study data deposited in dbGaP is restricted to research on associations between phenotypes and genotypes. ARIC data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). These data may be used for
+            cardiovascular disease research only. This Data Use Certification will be reviewed and approved by the NHLBI Data Access Committee. The NHLBI will keep all Data Use Certifications, and all approved studies utilizing ARIC dbGaP data will be listed on the dbGaP website. Annual updates regarding publications, etc. will be provided by the NHLBI to the ARIC study when and if necessary.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the ARIC Study data deposited in dbGaP is restricted to research on associations between phenotypes and genotypes. ARIC data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). These data may be used for health/medical/biomedical research.
+            Pre-release exchange area for use by study investigators only.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd002859.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002859.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2859">
+      <OrigName>Annual Follow-up Form A.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) A</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) A</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002860.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002860.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2860">
+      <OrigName>Annual Follow-up Form B.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) B</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) B</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002861.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002861.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2861">
+      <OrigName>Annual Follow-up Form C.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) C</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) C</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002862.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002862.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2862">
+      <OrigName>Annual Follow-up Form D.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) D</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) D</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002863.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002863.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2863">
+      <OrigName>Annual Follow-up Form E.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) E</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) E</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002864.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002864.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2864">
+      <OrigName>Annual Follow-up Form F.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) F</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) F</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002865.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002865.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2865">
+      <OrigName>Annual Follow-up Form G.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) G</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) G</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002866.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002866.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2866">
+      <OrigName>Annual Follow-up Form H.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) H</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) H</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002867.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002867.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2867">
+      <OrigName>Annual Follow-up Form I.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) I</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) I</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002868.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002868.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2868">
+      <OrigName>Annual Follow-up Form J.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) J</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) J</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002869.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002869.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2869">
+      <OrigName>Annual Follow-up Form K.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) K</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) K</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002870.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002870.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2870">
+      <OrigName>Annual Follow-up Form L.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) L</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) L</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002871.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002871.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2871">
+      <OrigName>Annual Follow-up Form M.pdf</OrigName>
+      <DisplayName>Cohort Form, Annual Follow-Up (AFU) M</DisplayName>
+      <Description>Cohort Form, Annual Follow-Up (AFU) M</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002872.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002872.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2872">
+      <OrigName>Appendix.1_2_9.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 2a. Cohort Procedures Appendix IX: Study Forms</DisplayName>
+      <Description>Cohort Manual, Exam 1, 2a. Cohort Procedures Appendix IX: Study Forms</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002873.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002873.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2873">
+      <OrigName>Blood_Collection_and_Processing.4_7.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 4, 7. Blood Collection and Processing</DisplayName>
+      <Description>Cohort Manual, Exam 4, 7. Blood Collection and Processing</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002874.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002874.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2874">
+      <OrigName>Clinical_Chemistry_Determinations.1_10.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 10. Clinical Chemistry Determinations</DisplayName>
+      <Description>Cohort Manual, Exam 1, 10. Clinical Chemistry Determinations</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002875.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002875.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2875">
+      <OrigName>Clinical_Chemistry_Determinations.2_10.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 2, 10. Clinical Chemistry Determinations</DisplayName>
+      <Description>Cohort Manual, Exam 2, 10. Clinical Chemistry Determinations</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002876.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002876.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2876">
+      <OrigName>Cohort_Procedures.4_2.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 4, 2. Cohort Procedures</DisplayName>
+      <Description>Cohort Manual, Exam 4, 2. Cohort Procedures</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002877.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002877.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2877">
+      <OrigName>Cohort Eligibility.pdf</OrigName>
+      <DisplayName>Surveillance Form, Cohort Event Eligibility Form (CEL)</DisplayName>
+      <Description>Surveillance Form, Cohort Event Eligibility Form (CEL)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002878.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002878.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2878">
+      <OrigName>Common Hospital Information.pdf</OrigName>
+      <DisplayName>Surveillance Form, Common Hospital Information Form (CHI)</DisplayName>
+      <Description>Surveillance Form, Common Hospital Information Form (CHI)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002879.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002879.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2879">
+      <OrigName>Confidential Data Form.pdf</OrigName>
+      <DisplayName>Surveillance Form, Confidential Data Form (CFD)</DisplayName>
+      <Description>Surveillance Form, Confidential Data Form (CFD)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002880.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002880.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2880">
+      <OrigName>Coroner-Medical Examiner Form.pdf</OrigName>
+      <DisplayName>Surveillance Form, Coroner/Medical Examiner Form (COR)</DisplayName>
+      <Description>Surveillance Form, Coroner/Medical Examiner Form (COR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002881.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002881.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2881">
+      <OrigName>DerVaribleDictonaryExam1.pdf</OrigName>
+      <DisplayName>Cohort Dictionary, Exam 1, Derived Variable Dictionary</DisplayName>
+      <Description>Cohort Dictionary, Exam 1, Derived Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002882.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002882.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2882">
+      <OrigName>DerVaribleDictonaryExam2.pdf</OrigName>
+      <DisplayName>Cohort Dictionary, Exam 2, Derived Variable Dictionary</DisplayName>
+      <Description>Cohort Dictionary, Exam 2, Derived Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002883.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002883.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2883">
+      <OrigName>DerVaribleDictonaryExam3.pdf</OrigName>
+      <DisplayName>Cohort Dictionary, Exam 3, Derived Variable Dictionary</DisplayName>
+      <Description>Cohort Dictionary, Exam 3, Derived Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002884.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002884.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2884">
+      <OrigName>DerVaribleDictonaryExam4.pdf</OrigName>
+      <DisplayName>Cohort Dictionary, Exam 4, Derived Variable Dictionary</DisplayName>
+      <Description>Cohort Dictionary, Exam 4, Derived Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002885.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002885.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2885">
+      <OrigName>Death Certificate.pdf</OrigName>
+      <DisplayName>Surveillance Form, Death Certificate Form (DTH)</DisplayName>
+      <Description>Surveillance Form, Death Certificate Form (DTH)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002886.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002886.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2886">
+      <OrigName>Electrocardiography.1_5.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 5. Electrocardiography</DisplayName>
+      <Description>Cohort Manual, Exam 1, 5. Electrocardiography</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002887.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002887.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2887">
+      <OrigName>Exam 1 Anthropometry.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Anthropometry (ANT)</DisplayName>
+      <Description>Cohort Form, Exam 1, Anthropometry (ANT)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002888.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002888.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2888">
+      <OrigName>Exam 1 Dietary Intake.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Dietary Intake (DTI)</DisplayName>
+      <Description>Cohort Form, Exam 1, Dietary Intake (DTI)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002889.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002889.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2889">
+      <OrigName>Exam 1 Fasting-Tracking.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Fasting / Tracking (FTR)</DisplayName>
+      <Description>Cohort Form, Exam 1, Fasting / Tracking (FTR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002890.1" type="protocol" createDate="2010-06-17" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002890.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2890">
+      <OrigName>Exam 1 Health history.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Health History (HHX)</DisplayName>
+      <Description>Cohort Form, Exam 1, Health History (HHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002891.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002891.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2891">
+      <OrigName>Exam 1 Hematology.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Hematology (HMT)</DisplayName>
+      <Description>Cohort Form, Exam 1, Hematology (HMT)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002892.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002892.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2892">
+      <OrigName>Exam 1 Home Interview.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Home Interview (HOM)</DisplayName>
+      <Description>Cohort Form, Exam 1, Home Interview (HOM)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002893.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002893.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2893">
+      <OrigName>Exam 1 Household Information.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Household Enumeration (HEF)</DisplayName>
+      <Description>Cohort Form, Exam 1, Household Enumeration (HEF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002894.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002894.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2894">
+      <OrigName>Exam 1 Identification Form.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Identification (IDN)</DisplayName>
+      <Description>Cohort Form, Exam 1, Identification (IDN)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002895.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002895.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2895">
+      <OrigName>Exam 1 Medical History.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Medical History (MHX)</DisplayName>
+      <Description>Cohort Form, Exam 1, Medical History (MHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002896.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002896.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2896">
+      <OrigName>Exam 1 Medication Survey.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Medication Survey (MSR)</DisplayName>
+      <Description>Cohort Form, Exam 1, Medication Survey (MSR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002897.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002897.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2897">
+      <OrigName>Exam 1 Physical Examination.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Physical Examination (PHE)</DisplayName>
+      <Description>Cohort Form, Exam 1, Physical Examination (PHE)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002898.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002898.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2898">
+      <OrigName>Exam 1 Physician Questionnaire.pdf</OrigName>
+      <DisplayName>Surveillance Form, Exam 1, Physician Questionnaire (PHQ)</DisplayName>
+      <Description>Surveillance Form, Exam 1, Physician Questionnaire (PHQ)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002899.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002899.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2899">
+      <OrigName>Exam 1 Reproductive History.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Reproductive History (RHX)</DisplayName>
+      <Description>Cohort Form, Exam 1, Reproductive History (RHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002900.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002900.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2900">
+      <OrigName>Exam 1 Respiratory Symptoms &amp; Physical Activity.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Respiratory Symptoms/Physical Activities (RPA)</DisplayName>
+      <Description>Cohort Form, Exam 1, Respiratory Symptoms/Physical Activities (RPA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002901.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002901.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2901">
+      <OrigName>Exam 1 Sitting Blood Pressure.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Sitting Blood Pressure (SBP)</DisplayName>
+      <Description>Cohort Form, Exam 1, Sitting Blood Pressure (SBP)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002902.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002902.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2902">
+      <OrigName>Exam 1 TIA Stroke Summary.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, TIA/Stroke Summary (TIATSR)</DisplayName>
+      <Description>Cohort Form, Exam 1, TIA/Stroke Summary (TIATSR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002903.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002903.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2903">
+      <OrigName>Exam 1 TIA Stroke.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, TIA/Stroke (TIA)</DisplayName>
+      <Description>Cohort Form, Exam 1, TIA/Stroke (TIA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002904.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002904.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2904">
+      <OrigName>Exam 1 Venipuncture.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Venipuncture (VEN)</DisplayName>
+      <Description>Cohort Form, Exam 1, Venipuncture (VEN)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002905.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002905.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2905">
+      <OrigName>Exam 2 Anthropometry.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Anthropometry (ANT)</DisplayName>
+      <Description>Cohort Form, Exam 2, Anthropometry (ANT)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002906.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002906.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2906">
+      <OrigName>Exam 2 Cognitive Function.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Cognitive Function (CNF)</DisplayName>
+      <Description>Cohort Form, Exam 2, Cognitive Function (CNF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002907.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002907.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2907">
+      <OrigName>Exam 2 Dietary Intake.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Dietary Intake (DTI)</DisplayName>
+      <Description>Cohort Form, Exam 2, Dietary Intake (DTI)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002908.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002908.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2908">
+      <OrigName>Exam 2 Family History.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Family History (FHX)</DisplayName>
+      <Description>Cohort Form, Exam 2, Family History (FHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002909.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002909.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2909">
+      <OrigName>Exam 2 Fasting-Tracking.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Fasting/Tracking (FTR)</DisplayName>
+      <Description>Cohort Form, Exam 2, Fasting/Tracking (FTR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002910.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002910.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2910">
+      <OrigName>Exam 2 Health &amp; Life Profile.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Health and Life Profile (HPA)</DisplayName>
+      <Description>Cohort Form, Exam 2, Health and Life Profile (HPA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002911.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002911.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2911">
+      <OrigName>Exam 2 Health history.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Health History (HHX)</DisplayName>
+      <Description>Cohort Form, Exam 2, Health History (HHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002912.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002912.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2912">
+      <OrigName>Exam 2 Hemoatology.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Hematology (HMT)</DisplayName>
+      <Description>Cohort Form, Exam 2, Hematology (HMT)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002913.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002913.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2913">
+      <OrigName>Exam 2 Medication Survey.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Medication Survey (MSR)</DisplayName>
+      <Description>Cohort Form, Exam 2, Medication Survey (MSR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002914.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002914.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2914">
+      <OrigName>Exam 2 Physical Examination.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Physical Examination (PHE)</DisplayName>
+      <Description>Cohort Form, Exam 2, Physical Examination (PHE)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002915.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002915.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2915">
+      <OrigName>Exam 2 Physician Questionnaire.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Physician Questionnaire (PHQ)</DisplayName>
+      <Description>Cohort Form, Exam 2, Physician Questionnaire (PHQ)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002916.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002916.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2916">
+      <OrigName>Exam 2 PPL Clinic Interview.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, PPL Clinic Interview (PLC)</DisplayName>
+      <Description>Cohort Form, Exam 2, PPL Clinic Interview (PLC)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002917.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002917.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2917">
+      <OrigName>Exam 2 PPL Physical Activity.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, PPL Physical Activity (PLA)</DisplayName>
+      <Description>Cohort Form, Exam 2, PPL Physical Activity (PLA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002918.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002918.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2918">
+      <OrigName>Exam 2 PPL Post Clinic Interview.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, PPL Post - Clinic Interview (PLP)</DisplayName>
+      <Description>Cohort Form, Exam 2, PPL Post - Clinic Interview (PLP)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002919.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002919.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2919">
+      <OrigName>Exam 2 Respiratory Symptoms &amp; Physical Activity.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Respiratory Symptoms/Physical Activities (RPA)</DisplayName>
+      <Description>Cohort Form, Exam 2, Respiratory Symptoms/Physical Activities (RPA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002920.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002920.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2920">
+      <OrigName>Exam 2 Sitting Blood Pressure.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Sitting Blood Pressure (SBP)</DisplayName>
+      <Description>Cohort Form, Exam 2, Sitting Blood Pressure (SBP)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002921.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002921.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2921">
+      <OrigName>Exam 2 TIA Stroke Summary.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, TIA/Stroke Summary (TIATSR)</DisplayName>
+      <Description>Cohort Form, Exam 2, TIA/Stroke Summary (TIATSR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002922.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002922.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2922">
+      <OrigName>Exam 2 TIA Stroke.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, TIA/Stroke (TIA)</DisplayName>
+      <Description>Cohort Form, Exam 2, TIA/Stroke (TIA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002923.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002923.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2923">
+      <OrigName>Exam 2 Update Form.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Update (UPD)</DisplayName>
+      <Description>Cohort Form, Exam 2, Update (UPD)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002924.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002924.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2924">
+      <OrigName>Exam 2 Venipuncture.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 2, Venipuncture (VEN)</DisplayName>
+      <Description>Cohort Form, Exam 2, Venipuncture (VEN)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002925.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002925.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2925">
+      <OrigName>Exam 3 Anthropometry.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Anthropometry (ANT)</DisplayName>
+      <Description>Cohort Form, Exam 3, Anthropometry (ANT)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002926.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002926.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2926">
+      <OrigName>Exam 3 Cognitive Function.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Cognitive Function (CNF)</DisplayName>
+      <Description>Cohort Form, Exam 3, Cognitive Function (CNF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002927.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002927.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2927">
+      <OrigName>Exam 3 Dietary Intake.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Dietary Intake (DTI)</DisplayName>
+      <Description>Cohort Form, Exam 3, Dietary Intake (DTI)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002928.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002928.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2928">
+      <OrigName>Exam 3 Fasting-Tracking.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Fasting/Tracking (FTR)</DisplayName>
+      <Description>Cohort Form, Exam 3, Fasting/Tracking (FTR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002929.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002929.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2929">
+      <OrigName>Exam 3 Health &amp; Life Profile.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Health and Life Profile (HPA)</DisplayName>
+      <Description>Cohort Form, Exam 3, Health and Life Profile (HPA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002930.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002930.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2930">
+      <OrigName>Exam 3 Health history.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Health History (HHX)</DisplayName>
+      <Description>Cohort Form, Exam 3, Health History (HHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002931.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002931.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2931">
+      <OrigName>Exam 3 Medical History.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, AFU Medical History (AMH)</DisplayName>
+      <Description>Cohort Form, Exam 3, AFU Medical History (AMH)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002932.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002932.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2932">
+      <OrigName>Exam 3 Medication Survey.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Medication Survey (MSR)</DisplayName>
+      <Description>Cohort Form, Exam 3, Medication Survey (MSR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002933.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002933.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2933">
+      <OrigName>Exam 3 MRI procedure.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, MRI Procedure (MPR)</DisplayName>
+      <Description>Cohort Form, Exam 3, MRI Procedure (MPR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002934.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002934.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2934">
+      <OrigName>Exam 3 MRI Screening.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, MRI Screening (MSC)</DisplayName>
+      <Description>Cohort Form, Exam 3, MRI Screening (MSC)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002935.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002935.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2935">
+      <OrigName>Exam 3 Personal History.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Personal History (PHX)</DisplayName>
+      <Description>Cohort Form, Exam 3, Personal History (PHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002936.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002936.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2936">
+      <OrigName>Exam 3 Report &amp; Referral.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Report and Referral (REF)</DisplayName>
+      <Description>Cohort Form, Exam 3, Report and Referral (REF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002937.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002937.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2937">
+      <OrigName>Exam 3 Reproductive History.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Reproductive History (RHX)</DisplayName>
+      <Description>Cohort Form, Exam 3, Reproductive History (RHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002938.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002938.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2938">
+      <OrigName>Exam 3 Respiratory Symptoms &amp; Physical Activity.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Respiratory Symptoms/Physical Activities (RPA)</DisplayName>
+      <Description>Cohort Form, Exam 3, Respiratory Symptoms/Physical Activities (RPA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002939.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002939.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2939">
+      <OrigName>Exam 3 Retinal Exam.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Retinal Exam (REX)</DisplayName>
+      <Description>Cohort Form, Exam 3, Retinal Exam (REX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002940.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002940.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2940">
+      <OrigName>Exam 3 Sitting Blood Pressure.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Sitting Blood Pressure (SBP)</DisplayName>
+      <Description>Cohort Form, Exam 3, Sitting Blood Pressure (SBP)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002941.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002941.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2941">
+      <OrigName>Exam 3 TIA Stroke.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, TIA/Stroke (TIA)</DisplayName>
+      <Description>Cohort Form, Exam 3, TIA/Stroke (TIA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002942.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002942.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2942">
+      <OrigName>Exam 3 Update Form.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Update (UPD)</DisplayName>
+      <Description>Cohort Form, Exam 3, Update (UPD)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002943.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002943.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2943">
+      <OrigName>Exam 3 Venipuncture.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Venipuncture (VEN)</DisplayName>
+      <Description>Cohort Form, Exam 3, Venipuncture (VEN)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002944.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002944.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2944">
+      <OrigName>Exam 3 Vitamin Survey.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 3, Vitamin Survey (VIT)</DisplayName>
+      <Description>Cohort Form, Exam 3, Vitamin Survey (VIT)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002945.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002945.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2945">
+      <OrigName>Exam 4 Anthropometry.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Anthropometry (ANT)</DisplayName>
+      <Description>Cohort Form, Exam 4, Anthropometry (ANT)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002946.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002946.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2946">
+      <OrigName>Exam 4 Cognitive Function.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Cognitive Function (CNF)</DisplayName>
+      <Description>Cohort Form, Exam 4, Cognitive Function (CNF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002947.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002947.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2947">
+      <OrigName>Exam 4 Fasting-Tracking.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Fasting / Tracking (FTR)</DisplayName>
+      <Description>Cohort Form, Exam 4, Fasting / Tracking (FTR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002948.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002948.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2948">
+      <OrigName>Exam 4 Health &amp; Life Profile.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Health and Life Profile Trait Anger (HPC)</DisplayName>
+      <Description>Cohort Form, Exam 4, Health and Life Profile Trait Anger (HPC)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002949.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002949.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2949">
+      <OrigName>Exam 4 Health history.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Health History (HHX)</DisplayName>
+      <Description>Cohort Form, Exam 4, Health History (HHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002950.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002950.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2950">
+      <OrigName>Exam 4 Inflammation Interview.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Inflammation Interview (INF)</DisplayName>
+      <Description>Cohort Form, Exam 4, Inflammation Interview (INF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002951.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002951.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2951">
+      <OrigName>Exam 4 Informed Consent Tracking.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Informed Consent Tracking (ICT)</DisplayName>
+      <Description>Cohort Form, Exam 4, Informed Consent Tracking (ICT)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002952.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002952.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2952">
+      <OrigName>Exam 4 Medical History Questionnaire.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Medical History Questionnaire (MHQ)</DisplayName>
+      <Description>Cohort Form, Exam 4, Medical History Questionnaire (MHQ)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002953.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002953.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2953">
+      <OrigName>Exam 4 Medication Survey.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Medication Survey (MSR)</DisplayName>
+      <Description>Cohort Form, Exam 4, Medication Survey (MSR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002954.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002954.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2954">
+      <OrigName>Exam 4 Oral Glucose Tolerance Administration.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Oral Glucose Tolerance Administration (GTA)</DisplayName>
+      <Description>Cohort Form, Exam 4, Oral Glucose Tolerance Administration (GTA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002955.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002955.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2955">
+      <OrigName>Exam 4 Oral Glucose Tolerance Sceening 1.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Oral Glucose Tolerance Screening VerA (GTS)</DisplayName>
+      <Description>Cohort Form, Exam 4, Oral Glucose Tolerance Screening VerA (GTS)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002956.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002956.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2956">
+      <OrigName>Exam 4 Oral Glucose Tolerance Sceening 2.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Oral Glucose Tolerance Screening VerB (GTS)</DisplayName>
+      <Description>Cohort Form, Exam 4, Oral Glucose Tolerance Screening VerB (GTS)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002957.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002957.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2957">
+      <OrigName>Exam 4 Personal History.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Personal History (PHX)</DisplayName>
+      <Description>Cohort Form, Exam 4, Personal History (PHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002958.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002958.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2958">
+      <OrigName>Exam 4 Physical Ability.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Physical Ability (PAQ)</DisplayName>
+      <Description>Cohort Form, Exam 4, Physical Ability (PAQ)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002959.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002959.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2959">
+      <OrigName>Exam 4 Report &amp; Referral.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Report and Referral (REF)</DisplayName>
+      <Description>Cohort Form, Exam 4, Report and Referral (REF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002960.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002960.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2960">
+      <OrigName>Exam 4 Reproductive History.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Reproductive History (RHX)</DisplayName>
+      <Description>Cohort Form, Exam 4, Reproductive History (RHX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002961.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002961.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2961">
+      <OrigName>Exam 4 Retinal Exam.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Retinal Exam (REX)</DisplayName>
+      <Description>Cohort Form, Exam 4, Retinal Exam (REX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002962.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002962.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2962">
+      <OrigName>Exam 4 Sitting Blood Pressure.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Sitting Blood Pressure (SBP)</DisplayName>
+      <Description>Cohort Form, Exam 4, Sitting Blood Pressure (SBP)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002963.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002963.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2963">
+      <OrigName>Exam 4 Socio-economic Status.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, Socioeconomic Status (SES)</DisplayName>
+      <Description>Cohort Form, Exam 4, Socioeconomic Status (SES)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002964.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002964.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2964">
+      <OrigName>Exam 4 TIA Stroke.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 4, TIA/Stroke (TIA)</DisplayName>
+      <Description>Cohort Form, Exam 4, TIA/Stroke (TIA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002965.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002965.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2965">
+      <OrigName>FrozenCHDVariableDictionaryVer1.pdf</OrigName>
+      <DisplayName>Surveillance Dictionary, Frozen CHD Variable Dictionary</DisplayName>
+      <Description>Surveillance Dictionary, Frozen CHD Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002966.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002966.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2966">
+      <OrigName>Heart Failure Diagnosis.pdf</OrigName>
+      <DisplayName>Surveillance Form, Heart Failure Diagnosis (HDX)</DisplayName>
+      <Description>Surveillance Form, Heart Failure Diagnosis (HDX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002967.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002967.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2967">
+      <OrigName>Heart Failure Hospital Record Abstraction with Supplements.pdf</OrigName>
+      <DisplayName>Surveillance Form, Heart Failure Hospital Record Abstraction with Supp. Info (HFS)</DisplayName>
+      <Description>Surveillance Form, Heart Failure Hospital Record Abstraction with Supp. Info (HFS)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002968.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002968.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2968">
+      <OrigName>Heart Failure Hospital Record Abstraction.pdf</OrigName>
+      <DisplayName>Surveillance Form, Heart Failure Hospital Record Abstraction (HFA)</DisplayName>
+      <Description>Surveillance Form, Heart Failure Hospital Record Abstraction (HFA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002969.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002969.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2969">
+      <OrigName>Hemostasis_Determination.1_9.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 9. Hemostasis Determination</DisplayName>
+      <Description>Cohort Manual, Exam 1, 9. Hemostasis Determination</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002970.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002970.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2970">
+      <OrigName>Hospital Record Abstraction.pdf</OrigName>
+      <DisplayName>Surveillance Form, Hospital Record Abstraction (HRA)</DisplayName>
+      <Description>Surveillance Form, Hospital Record Abstraction (HRA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002971.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002971.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2971">
+      <OrigName>Informant Interview.pdf</OrigName>
+      <DisplayName>Surveillance Form, Informant Interview (IFI)</DisplayName>
+      <Description>Surveillance Form, Informant Interview (IFI)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002972.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002972.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2972">
+      <OrigName>Lipid_and_Lipoprotein_Determinations.1_8.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 8. Lipid and Lipoprotein Determinations</DisplayName>
+      <Description>Cohort Manual, Exam 1, 8. Lipid and Lipoprotein Determinations</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002973.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002973.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2973">
+      <OrigName>Lipid_and_Lipoprotein_Determinations.3_8.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 3, 8. Lipid and Lipoprotein Determinations</DisplayName>
+      <Description>Cohort Manual, Exam 3, 8. Lipid and Lipoprotein Determinations</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002974.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002974.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2974">
+      <OrigName>ModVariableDictionaryExam1.pdf</OrigName>
+      <DisplayName>Cohort Dictionary, Exam 1, Modified Variable Dictionary</DisplayName>
+      <Description>Cohort Dictionary, Exam 1, Modified Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002975.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002975.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2975">
+      <OrigName>ModVariableDictionaryExam2.pdf</OrigName>
+      <DisplayName>Cohort Dictionary, Exam 2, Modified Variable Dictionary</DisplayName>
+      <Description>Cohort Dictionary, Exam 2, Modified Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002976.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002976.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2976">
+      <OrigName>ModVariableDictionaryExam3.pdf</OrigName>
+      <DisplayName>Cohort Dictionary, Exam 3, Modified Variable Dictionary</DisplayName>
+      <Description>Cohort Dictionary, Exam 3, Modified Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002977.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002977.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2977">
+      <OrigName>ModVariableDictionaryExam4.pdf</OrigName>
+      <DisplayName>Cohort Dictionary, Exam 4, Modified Variable Dictionary</DisplayName>
+      <Description>Cohort Dictionary, Exam 4, Modified Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002978.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002978.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2978">
+      <OrigName>MMCC Cohort Final Diagnosis.pdf</OrigName>
+      <DisplayName>Surveillance Form, MMCC Community Final Diagnosis (MDX)</DisplayName>
+      <Description>Surveillance Form, MMCC Community Final Diagnosis (MDX)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002979.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002979.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2979">
+      <OrigName>NO Form.pdf</OrigName>
+      <DisplayName>Surveillance Form, No Form (NOF)</DisplayName>
+      <Description>Surveillance Form, No Form (NOF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002980.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002980.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2980">
+      <OrigName>Phantom Form.pdf</OrigName>
+      <DisplayName>Surveillance Form, Phantom Form (PTM)</DisplayName>
+      <Description>Surveillance Form, Phantom Form (PTM)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002981.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002981.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2981">
+      <OrigName>ARIC_PAQ_Summary.pdf</OrigName>
+      <DisplayName>ARIC Physical Activity Measurement</DisplayName>
+      <Description>ARIC Physical Activity Measurement</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002982.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002982.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2982">
+      <OrigName>Physician Heart Failure Survey.pdf</OrigName>
+      <DisplayName>Surveillance Form, Physician Heart Failure Survey (PHF)</DisplayName>
+      <Description>Surveillance Form, Physician Heart Failure Survey (PHF)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002983.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002983.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2983">
+      <OrigName>Physician Questionnaire.pdf</OrigName>
+      <DisplayName>Surveillance Form, Physician Questionnaire (PHQ)</DisplayName>
+      <Description>Surveillance Form, Physician Questionnaire (PHQ)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002985.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002985.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2985">
+      <OrigName>Sitting_Blood_Pressure_and_Postural_Changes_in_Blood_Pressure_and_Heart_Rate.1_11.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 11. Sitting Blood Pressure and Postural Changes in Blood Pressure and Heart Rate</DisplayName>
+      <Description>Cohort Manual, Exam 1, 11. Sitting Blood Pressure and Postural Changes in Blood Pressure and Heart Rate</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002986.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002986.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2986">
+      <OrigName>Sitting_Blood_Pressure_and_Postural_Changes_in_Blood_Pressure_and_Heart_Rate.3_11A.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 3, 11. Sitting Blood Pressure and Postural Changes in Blood Pressure and Heart Rate</DisplayName>
+      <Description>Cohort Manual, Exam 3, 11. Sitting Blood Pressure and Postural Changes in Blood Pressure and Heart Rate</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002987.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002987.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2987">
+      <OrigName>Sitting_Blood_Pressure_and_Postural_Changes_in_Blood_Pressure_and_Heart_Rate.4_11.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 4, 11. Sitting Blood Pressure and Postural Changes in Blood Pressure and Heart Rate</DisplayName>
+      <Description>Cohort Manual, Exam 4, 11. Sitting Blood Pressure and Postural Changes in Blood Pressure and Heart Rate</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002988.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002988.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2988">
+      <OrigName>Stroke Abstraction.pdf</OrigName>
+      <DisplayName>Surveillance Form, Stroke Abstraction (STR)</DisplayName>
+      <Description>Surveillance Form, Stroke Abstraction (STR)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002990.1" type="questionnaire" createDate="2010-06-17" modDate="2010-06-18" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002990.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2990">
+      <OrigName>Surveillance Event Inventory-Linkage.pdf</OrigName>
+      <DisplayName>Surveillance Form, Surveillance Event Inventory/Linkage (SXI)</DisplayName>
+      <Description>Surveillance Form, Surveillance Event Inventory/Linkage (SXI)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002992.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002992.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2992">
+      <OrigName>UNLICOMMIncidentCHDVariableDictionary03052003.pdf</OrigName>
+      <DisplayName>Surveillance Dictionary, Incident CHD Variable Dictionary</DisplayName>
+      <Description>Surveillance Dictionary, Incident CHD Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002993.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002993.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2993">
+      <OrigName>UNLICOMMIncidentStrokeVariableDictionary03052003.pdf</OrigName>
+      <DisplayName>Surveillance Dictionary, Incident Stroke Variable Dictionary</DisplayName>
+      <Description>Surveillance Dictionary, Incident Stroke Variable Dictionary</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002994.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002994.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2994">
+      <OrigName>Ultrasound_Assessment-_Ultrasound_Scanning.1_6a.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 6a. Ultrasound Assessment - Scanning Procedures</DisplayName>
+      <Description>Cohort Manual, Exam 1, 6a. Ultrasound Assessment - Scanning Procedures</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002995.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002995.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2995">
+      <OrigName>Ultrasound_Assessment-_Scanning_Procedures.3_6a.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 3, 6a. Ultrasound Assessment - Scanning Procedures</DisplayName>
+      <Description>Cohort Manual, Exam 3, 6a. Ultrasound Assessment - Scanning Procedures</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd002996.1" type="protocol" createDate="2010-06-17" modDate="2010-06-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd002996.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=2996">
+      <OrigName>Ultrasound_Assessment-_Scanning_Procedures.4_6a.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 4, 6a. Ultrasound Assessment - Scanning Procedures</DisplayName>
+      <Description>Cohort Manual, Exam 4, 6a. Ultrasound Assessment - Scanning Procedures</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003118.1" type="questionnaire" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003118.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3118">
+      <OrigName>Appendix.1_2_5.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 2a. Cohort Procedures Appendix V: Scoring for the Physical Activity Questionnaire</DisplayName>
+      <Description>Cohort Manual, Exam 1, 2a. Cohort Procedures Appendix V: Scoring for the Physical Activity Questionnaire</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003119.1" type="protocol" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003119.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3119">
+      <OrigName>Appendix.1_2_6.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 2a. Cohort Procedures Appendix VI: Body Size Measurements</DisplayName>
+      <Description>Cohort Manual, Exam 1, 2a. Cohort Procedures Appendix VI: Body Size Measurements</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003120.1" type="protocol" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003120.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3120">
+      <OrigName>Blood_Collection_and_Processing.1_7.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 7. Blood Collection and Processing</DisplayName>
+      <Description>Cohort Manual, Exam 1, 7. Blood Collection and Processing</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003121.1" type="protocol" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003121.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3121">
+      <OrigName>Cohort_Component_Procedures.1_2.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 2. Cohort Procedures</DisplayName>
+      <Description>Cohort Manual, Exam 1, 2. Cohort Procedures</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003122.1" type="protocol" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003122.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3122">
+      <OrigName>General_Description_and_Study_Management.1_1.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 1. General Description and Study Management</DisplayName>
+      <Description>Cohort Manual, Exam 1, 1. General Description and Study Management</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003123.1" type="protocol" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003123.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3123">
+      <OrigName>Informed_Consent_V4.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 4, 2. Cohort Procedures, Informed Consent</DisplayName>
+      <Description>Cohort Manual, Exam 4, 2. Cohort Procedures, Informed Consent</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003124.1" type="protocol" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003124.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3124">
+      <OrigName>Pulmonary_Function_Assessment.1_4.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 4. Pulmonary Function Assessment</DisplayName>
+      <Description>Cohort Manual, Exam 1, 4. Pulmonary Function Assessment</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003125.1" type="protocol" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003125.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3125">
+      <OrigName>Quality_Assurance.1_12.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 12. Quality Assurance and Quality Control</DisplayName>
+      <Description>Cohort Manual, Exam 1, 12. Quality Assurance and Quality Control</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003127.1" type="protocol" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003127.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3127">
+      <OrigName>Ultrasound_Scanning-_Ultrasound_Reading.1_6b.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 6b. Ultrasound Assessment - Reading Procedures</DisplayName>
+      <Description>Cohort Manual, Exam 1, 6b. Ultrasound Assessment - Reading Procedures</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003128.1" type="questionnaire" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003128.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3128">
+      <OrigName>Medical Data Review Printout.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Medical Data Review</DisplayName>
+      <Description>Cohort Form, Exam 1, Medical Data Review</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003129.1" type="questionnaire" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003129.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3129">
+      <OrigName>ARIC Cohort Annual Follow up_TR.pdf</OrigName>
+      <DisplayName>Cohort Form, Exam 1, Annual Follow Up Record of Calls (TRC)</DisplayName>
+      <Description>Cohort Form, Exam 1, Annual Follow Up Record of Calls (TRC)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003132.1" type="questionnaire" createDate="2010-06-25" modDate="2010-06-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003132.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000280.v2.p1&amp;phd=3132">
+      <OrigName>Manapement Forms.pdf</OrigName>
+      <DisplayName>Cohort Manual, Exam 1, 2a. Cohort Procedures Appendix IX: Management Forms</DisplayName>
+      <Description>Cohort Manual, Exam 1, 2a. Cohort Procedures Appendix IX: Management Forms</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

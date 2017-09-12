@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001250.v1.p1" parentStudy="phs001250.v1.p1" createDate="2016-11-17" modDate="2016-12-09">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Todd R. Golub, MD</td><td>Harvard Medical School; Pediatric Oncology, Dana-Farber Cancer Institute; Broad Institute of MIT and Harvard, Cambridge, MA, USA</td></tr>
+		<tr><td>Co-Principal Investigator</td><td>Gad Getz, PhD</td><td>Harvard Medical School; Department of Pathology, Massachusetts General Hospital; Broad Institute of MIT and Harvard, Cambridge, MA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Sequencing of Coding and Non-coding Regions in Primary Breast Cancers and Patient-matched Controls</StudyNameEntrez>
+	<StudyNameReportPage>Sequencing of Coding and Non-coding Regions in Primary Breast Cancers and Patient-matched Controls</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Genomic analysis of tumor samples has led to the identification of hundreds of cancer genes based on the presence of mutations in protein-coding regions. By contrast, much less is known about cancer-causing mutations in non-coding regions. Here, we performed deep sequencing in 360 primary breast cancers and developed computational methods to identify significantly mutated promoters. Clear signals were found in the promoters of four genes. FOXA1, a known driver of hormone-receptor positive breast cancer, harbors a mutational hotspot in its promoter that leads to overexpression through increased E2F binding. RMRP and NEAT1, two non-coding RNA genes, carry mutations that alter protein binding to the promoter and impact expression levels. Overall, our study shows that recurrent mutations in or near gene promoters in cancers have functional consequences. Power analyses indicate that more such genes remain to be discovered through deep sequencing of adequately sized patient cohorts. </p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Breast Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Sequence Analysis, DNA"/>
+		<Disease vocab_source="MESH" vocab_term="Hepatocyte Nuclear Factor 3-alpha"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Todd R. Golub, MD</AttName>
+			<Institution>Harvard Medical School; Pediatric Oncology, Dana-Farber Cancer Institute; Broad Institute of MIT and Harvard, Cambridge, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Principal Investigator">
+			<AttName>Gad Getz, PhD</AttName>
+			<Institution>Harvard Medical School; Department of Pathology, Massachusetts General Hospital; Broad Institute of MIT and Harvard, Cambridge, MA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>This study is linked to dbGAP study <a href="./study.cgi?study_id=phs000369.v1.p1">phs000369.v1.p1</a>.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+		<ConsentGroup groupNum="2" shortName="DS-CA-MDS" longName="Disease-Specific (Cancer, MDS)"/>
+		<ConsentGroup groupNum="3" shortName="HMB-MDS" longName="Health/Medical/Biomedical (MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

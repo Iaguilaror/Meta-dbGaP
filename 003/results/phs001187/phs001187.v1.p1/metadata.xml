@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001187.v1.p1" parentStudy="phs001187.v1.p1" createDate="2016-08-10" modDate="2016-08-11">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Jorg J Goronzy</td><td>Division of Immunology and Rheumatology, Department of Medicine, Stanford University, Stanford, CA, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>William J Greenleaf</td><td>Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>David M Moskowitz</td><td>Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>David W Zhang</td><td>Division of Immunology and Rheumatology, Department of Medicine, Stanford University, Stanford, CA, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>Bin Hu</td><td>Division of Immunology and Rheumatology, Department of Medicine, Stanford University, Stanford, CA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Epigenomics of Human CD8 T cell Differentiation and Aging</StudyNameEntrez>
+	<StudyNameReportPage>Epigenomics of Human CD8 T cell Differentiation and Aging</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The efficacy of the adaptive immune response declines dramatically with age, but the cell-intrinsic mechanisms driving the changes characteristic of immune aging in humans remain poorly understood. One hallmark of immune aging is the loss of self-renewing naive cells and the accumulation of differentiated but dysfunctional cells within the CD8 T cell compartment. Using ATAC-seq, we first inferred the transcription factor binding activities that maintain the naive and central and effector memory CD8 T cell states in young adults. Integrating our results with RNA-seq, we determined that BATF, ETS1, Eomes, and Sp1 govern transcription networks associated with specific CD8 T cell subset properties, including activation and proliferative potential. Extending our analysis to aged humans, we found that the differences between memory and naive CD8 T cells were largely preserved across age, but that naive and central memory cells from older individuals exhibited a shift toward a more differentiated pattern of chromatin openness. Additionally, aged naive cells displayed a loss in chromatin openness at gene promoters, a phenomenon that appears to be due largely to a loss in binding by NRF1, leading to a marked drop-off in the ability of the naive cell to initiate transcription of mitochondrial genes. Our findings identify BATF- and NRF1-driven gene regulation as targets for delaying CD8 T cell aging and restoring T cell function.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion: healthy human adults under the age of 35 or over the age of 65. We did not exclude for smoking, gender, ethnicity, or the presence of CMV.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Aging"/>
+		<Disease vocab_source="MESH" vocab_term="Antigens, Differentiation, T-Lymphocyte"/>
+		<Disease vocab_source="MESH" vocab_term="T-Lymphocytes"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Jorg J Goronzy</AttName>
+			<Institution>Division of Immunology and Rheumatology, Department of Medicine, Stanford University, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>William J Greenleaf</AttName>
+			<Institution>Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>David M Moskowitz</AttName>
+			<Institution>Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>David W Zhang</AttName>
+			<Institution>Division of Immunology and Rheumatology, Department of Medicine, Stanford University, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Bin Hu</AttName>
+			<Institution>Division of Immunology and Rheumatology, Department of Medicine, Stanford University, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Sabine Le Saux</AttName>
+			<Institution>Division of Immunology and Rheumatology, Department of Medicine, Stanford University, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Jason D Buenrostro</AttName>
+			<Institution>Department of Genetics, Stanford University School of Medicine, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Cornelia M Weyand</AttName>
+			<Institution>Division of Immunology and Rheumatology, Department of Medicine, Stanford University, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Funding">
+			<AttName>R01 AG015043</AttName>
+			<Institution>National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding">
+			<AttName>R01 AI108891</AttName>
+			<Institution>National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding">
+			<AttName>U19 AI057266</AttName>
+			<Institution>National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding">
+			<AttName>R01 AI108906</AttName>
+			<Institution>National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding">
+			<AttName>Rita Allen Foundation</AttName>
+			<Institution>National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding">
+			<AttName>Baxter Foundation Faculty Scholar Grant</AttName>
+			<Institution>National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding">
+			<AttName>T32AR050942</AttName>
+			<Institution>National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding">
+			<AttName>LM-07033</AttName>
+			<Institution>National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="The Goronzy Lab" url="http://goronzylab.stanford.edu/"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB" longName="General Research Use (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIAID</DacName>
+      <DacFullName>NIAID DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001187.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>8</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001187.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001187.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

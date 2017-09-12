@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000999.v1.p1" parentStudy="phs000999.v1.p1" createDate="2015-10-01" modDate="2015-11-20">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Gail Jarvik, MD, PhD</td><td>University of Washington, Seattle, WA, USA</td></tr>
+		<tr><td>Funding Source</td><td>U01 HG006507</td><td>National Human Genome Research Institute and National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>CSER: Clinical Sequencing in Cancer: Clinical, Ethical, and Technological Studies</StudyNameEntrez>
+	<StudyNameReportPage>Clinical Sequencing Exploratory Research (CSER): Clinical sequencing in cancer: Clinical, ethical, and technological studies</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal</StudyType>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Clinical Sequencing Exploratory Research (CSER) program supports multi-disciplinary projects that bring together clinicians, bioinformaticians, and ethicists to research the challenges of utilizing genomic sequence data in the clinic in the routine practice of medicine. The challenges are many and not disease-specific. Important aims of the research include: development of technical specifications and standards for sequencing in a clinical setting, investigation of methods to transmit genome-scale data to physicians in a fashion and timescale that fits the normal clinical workflow, exploration of regulatory requirements for applying genomic sequence data to patient care, study of physician and patient preferences regarding presentation of genomic information, and study of the ethical implications of returning unanticipated findings. More information about CSER and the investigators and institutions who comprise the CSER consortium can be found at <a href="http://www.genome.gov/27546194" target="_blank">http://www.genome.gov/27546194</a>.</p> <p>The NEXT (New Exome Technology) Medicine Study utilizes a randomized controlled trial (RCT) structure to compare usual care (UC) practice in Medical Genetics Clinics with the introduction of a powerful research tool of whole exome sequencing plus UC practices for Colorectal Cancer and Polyposis (CRCP) in adults. In doing so, the study aims to explore the practical, economic, and ethical implications of identifying and returning incidental findings ("extra" whole exome genetic risk results not associated with CRCP that includes pharmacogenetic variants) to patients. The study will also attempt to identify novel causal genes for CRCP by studying relatives of selected research subjects.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Subjects originate as patients that have come for a first time visit a Medical Genetics clinic to investigate their apparent inherited CRCP risk. After patients have completed their first clinical visit, they are approached for possible study participation. Subjects are randomized to either arm and later told of the determination after they complete their scheduled clinical results visit (RRV1-Return of CRCP results from UC or UC + WXS). Approximately one month later, all subjects return to the clinic for the research visit RRV2 where WXS subjects receive incidental findings results from exome sequencing and UC subjects have an extended CRCP risk discussion. During this time period and for approximately 1 year more, subjects complete surveys and questionnaires that address the psychosocial/economic aspects of participation in this study. Some subjects are also asked to participate in "Focus Groups" or "Patient Interviews" that comprises a separate minimal risk IRB review.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="25637381"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24055113"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25940718"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Colorectal Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Gail Jarvik, MD, PhD</AttName>
+			<Institution>University of Washington, Seattle, WA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01 HG006507</AttName>
+			<Institution>National Human Genome Research Institute and National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="CSER" url="http://www.genome.gov/27546194"/>
+		<Url name="CSER Consortium" url="https://cser-consortium.org/"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000999.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000999.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000999.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

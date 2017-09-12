@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000170.v1.p1" parentStudy="phs000170.v1.p1" createDate="2009-01-26" modDate="2010-06-29">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Catherine A. McCarty, PhD, MPH</td><td>Marshfield Clinic Research Foundation, Marshfield, WI, USA</td></tr>
+		<tr><td>Funding Source</td><td>1U01HG004608-01</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source for Genotyping</td><td>U01HG004438-01</td><td>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>GWAS on Cataract and HDL in the PMRP</StudyNameEntrez>
+	<StudyNameReportPage>A Genome-Wide Association Study on Cataract and HDL in the Personalized Medicine Research Project Cohort</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The primary goals of this project are to develop and validate electronic phenotyping algorithms, to accurately identify cases and   	controls while maintaining a positive predictive value (PPV) of &gt;95%, and to conduct a genome wide association study that   	advances understanding of two specific yet interrelated disease states, while simultaneously engaging the community in these   	research efforts.  Lipid abnormalities and cataracts are both diseases of public health significance, they share common risk   	factors, and they are both complex diseases which likely have many genes contributing   	to disease development.  Whole genome association studies with these two outcomes and environmental risk factors could yield novel   	data about the etiology of the two separate outcomes as well as their interaction.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Cataract - (Please see additional document <a href="GetPdf.cgi?id=phd001563" target="_blank">Marshfield-CataractDefinition</a>)<br/>  	   Low HDL - (Please see additional document <a href="GetPdf.cgi?id=phd001564" target="_blank">Marshfield-LowHDLDefinition</a>)</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="19006210"/>
+		</Publication>
+		<Publication>
+			<Journal authors="McCarty CA, Wilke RA, Giampietro PF, Wesbrook SD, Caldwell MD" title="Marshfield Clinic Personalized Medicine Research Project (PMRP): design, methods and recruitment for a large population-based biobank" journal="Personalized Medicine. 2005;2:49-79" notes="http://www.marshfieldclinic.org/chg/pages/Proxy.aspx?Content=MCRF-Centers-PMRP-Pubs-McCartyMethodsCHG0522122553.1.pdf"/>
+		</Publication>
+		<Publication>
+			<Journal authors="McCarty CA , Mukesh BN, Giampietro PF, Wilke RA" title="Healthy People 2010 disease prevalence in the Marshfield Clinic Personalized Medicine Research Project cohort: opportunities for public health genomic research" journal="Personalized Medicine. 2007;4:183-190" notes="http://www.marshfieldclinic.org/chg/pages/Proxy.aspx?Content=MCRF-Centers-PMRP-Pubs-McCartyPME.1.pdf"/>
+		</Publication>
+		<Publication>
+			<Journal authors="McCarty CA , Peissig P, Caldwell MD, Wilke RA" title="The Marshfield Clinic Personalized Medicine Research Project: 2008 scientific update and lessons learned in the first 6 years" journal="Personalized Medicine. 2008;5:529-542" notes="http://www.futuremedicine.com/doi/abs/10.2217/17410541.5.5.529"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Cataract"/>
+		<Disease vocab_source="MESH" vocab_term="Cholesterol, HDL"/>
+		<Disease vocab_source="MESH" vocab_term="Lipoproteins, HDL"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Catherine A. McCarty, PhD, MPH</AttName>
+			<Institution>Marshfield Clinic Research Foundation, Marshfield, WI, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>1U01HG004608-01</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source for Genotyping">
+			<AttName>U01HG004438-01</AttName>
+			<Institution>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Personalized Medicine Research Project" url="http://www.marshfieldclinic.org/pmrp"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p><b>Cataract and HDL Time Line</b>  	<ul>  	<li>September 2002 - Personalized Medicine Research Project (PMRP) launches recruitment</li>  	<li>November 2007 - IRB officially approves the 1st  GWAS study for Personalized Medicine to be included in a data-repository (dbGaP)</li>  	<li>December 2007 - Cut-off date for Cataract and Low HDL cohort enrollment</li>  	<li>January 2008 - Began phenotyping process</li>  	<li>January 2009 - Selected samples to be genotyped</li>  	<li>February 2009 - Samples shipped and received at CIDR</li>  	</ul>  	</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects."/>
+		<ConsentGroup groupNum="1" shortName="HR_MC" longName="Health Research - Marshfield Clinic"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>nhgridac@mail.nih.gov</DacEmail>
+      <DacPhone></DacPhone>
+      <DacFax>301-480-2770</DacFax>
+      <DacUrl>http://grants.nih.gov/grants/gwas</DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000170.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+               In accord with the NIH GWAS Policy for Data Sharing, and as expressed through the submission of the DAR, Approved Users acknowledge the NIH?s expectation that they will not submit findings using the eMERGE GWAS dataset(s), or updated versions thereof, for publication or presentation for a period of exclusivity for Contributing Investigators concluding with the Embargo Date identified on the dbGaP or other NIH genomic data repository homepage.
+	Approved Users agree to acknowledge the NIH data repository, the Contributing Investigator(s) who contributed the phenotype data and DNA samples from his/her original study, and the primary funding organization that supported the contributing study in all oral and written presentations, disclosures, and publications resulting from any analyses of the data. Approved Users further agree that the acknowledgment shall include the dbGaP accession number to the specific version of the dataset(s) analyzed.
+               Sample statements for the acknowledgment of the eMERGE GWAS dataset(s) can be found at the following link: eMERGE dbGaP Acknowledgment Statements [http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=eMERGE_Acknowledgement.pdf]
+            </para>
+        <para>
+               In accord with the NIH GWAS Policy for Data Sharing, and as expressed through the submission of the DAR, Approved Users acknowledge the NIH?s expectation that they will not submit findings using the eMERGE GWAS dataset(s), or updated versions thereof, for publication or presentation for a period of exclusivity for Contributing Investigators concluding with the Embargo Date identified on the dbGaP or other NIH genomic data repository homepage.
+	Approved Users agree to acknowledge the NIH data repository, the Contributing Investigator(s) who contributed the phenotype data and DNA samples from his/her original study, and the primary funding organization that supported the contributing study in all oral and written presentations, disclosures, and publications resulting from any analyses of the data. Approved Users further agree that the acknowledgment shall include the dbGaP accession number to the specific version of the dataset(s) analyzed.
+               Sample statements for the acknowledgment of the eMERGE GWAS dataset(s) can be found at the following link: eMERGE dbGaP Acknowledgment Statements [http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=eMERGE_Acknowledgement.pdf]
+            </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000170.v1.p1" FileName="eMERGE_GWAS_DUC_09-23-2011.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health Research - Marshfield Clinic</ConsentName>
+        <ConsentAbbrev>HR_MC</ConsentAbbrev>
+        <UseLimitation>May be used for genetic studies to learn about, prevent, or treat health problems. No Permitted Use: Insurance companies.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd001563.1" type="protocol" createDate="2009-04-22" modDate="2009-05-04" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd001563.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000170.v1.p1&amp;phd=1563">
+      <OrigName>Marshfield-CataractDefinition.doc</OrigName>
+      <DisplayName>Genome-Wide Study of Cataract and Low HDL in the Personalized Medicine Research Project: Marshfield-Cataract Definition</DisplayName>
+      <Description>Genome-Wide Study of Cataract and Low HDL in the Personalized Medicine Research Project: Marshfield-Cataract Definition</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd001564.1" type="protocol" createDate="2009-04-22" modDate="2009-05-04" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd001564.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000170.v1.p1&amp;phd=1564">
+      <OrigName>Marshfield-LowHDLDefinition.doc</OrigName>
+      <DisplayName>Genome-Wide Study of Cataract and Low HDL in the Personalized Medicine Research Project: Marshfield-Low HDL Definition</DisplayName>
+      <Description>Genome-Wide Study of Cataract and Low HDL in the Personalized Medicine Research Project: Marshfield-Low HDL Definition</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd001565.1" type="questionnaire" createDate="2009-04-22" modDate="2009-09-03" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd001565.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000170.v1.p1&amp;phd=1565">
+      <OrigName>PMRP-Questionnaire.pdf</OrigName>
+      <DisplayName>Marshfield Clinic Personalized Medicine Research Project Information Sheet</DisplayName>
+      <Description>Marshfield Clinic Personalized Medicine Research Project Information Sheet</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd001566.1" type="consent-form" createDate="2009-04-22" modDate="2009-05-01" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd001566.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000170.v1.p1&amp;phd=1566">
+      <OrigName>PMRP-ConsentForm.pdf</OrigName>
+      <DisplayName>Research Consent/Authorization Form, Marshfield Clinic Research Foundation</DisplayName>
+      <Description>Research Consent/Authorization Form, Marshfield Clinic Research Foundation</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd001563.1" sectionId="fig1">
+      <phvList>
+        <phvRef variableId="71869"/>
+        <phvRef variableId="71875"/>
+        <phvRef variableId="73569"/>
+        <phvRef variableId="73606"/>
+        <phvRef variableId="73610"/>
+        <phvRef variableId="73613"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001563.1" sectionId="sec5">
+      <phvList>
+        <phvRef variableId="73578"/>
+        <phvRef variableId="73579"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001563.1" sectionId="tr1">
+      <phvList>
+        <phvRef variableId="73570"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001564.1" sectionId="g1">
+      <phvList>
+        <phvRef variableId="73587"/>
+        <phvRef variableId="73588"/>
+        <phvRef variableId="73589"/>
+        <phvRef variableId="73590"/>
+        <phvRef variableId="73591"/>
+        <phvRef variableId="73592"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001564.1" sectionId="li1">
+      <phvList>
+        <phvRef variableId="73584"/>
+        <phvRef variableId="73585"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001564.1" sectionId="li2">
+      <phvList>
+        <phvRef variableId="73574"/>
+        <phvRef variableId="73575"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001564.1" sectionId="li3">
+      <phvList>
+        <phvRef variableId="73582"/>
+        <phvRef variableId="73583"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001564.1" sectionId="li4">
+      <phvList>
+        <phvRef variableId="73580"/>
+        <phvRef variableId="73581"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001564.1" sectionId="li5">
+      <phvList>
+        <phvRef variableId="73576"/>
+        <phvRef variableId="73577"/>
+        <phvRef variableId="73607"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001565.1" sectionId="V13">
+      <phvList>
+        <phvRef variableId="73586"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001565.1" sectionId="V2">
+      <phvList>
+        <phvRef variableId="76431"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001565.1" sectionId="V4">
+      <phvList>
+        <phvRef variableId="76432"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001565.1" sectionId="V9">
+      <phvList>
+        <phvRef variableId="73572"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd001565.1" sectionId="sec6">
+      <phvList>
+        <phvRef variableId="73576"/>
+        <phvRef variableId="73577"/>
+        <phvRef variableId="73607"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+<GenotypeDatasets>
+	<Accession ID="phg000065.v1" Status="na" ref_Policy_Id="phs000170.v1.p1_policy">
+		<GenotypeDataset name="eMERGE_Cataract_NHGRI_SNPs" description="SNP genotypes for all samples" genotyping_array="Human660W-Quad_v1_A" data_type="SNP" sample_count ="4048"/>
+	</Accession>
+</GenotypeDatasets>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

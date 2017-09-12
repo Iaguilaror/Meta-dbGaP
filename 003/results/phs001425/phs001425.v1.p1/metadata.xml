@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001425.v1.p1" parentStudy="phs001425.v1.p1" createDate="2017-08-08" modDate="2017-08-08">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Andrew Futreal, PhD</td><td>UT MD Anderson Cancer Center, Houston, TX, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>Jennifer Wargo, MD</td><td>UT MD Anderson Cancer Center, Houston, TX, USA</td></tr>
+		<tr><td>Funding Source</td><td>R1205 01</td><td>Cancer Prevention Research Institute of Texas, TX, USA</td></tr>
+		<tr><td>Funding Source</td><td>G-0040</td><td>A Robert Welch Distinguished University Chair</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Melanoma Sequential Immune Checkpoint Blockade Treatment Sequencing Study</StudyNameEntrez>
+	<StudyNameReportPage>Integrative Analysis of Tumor Biopsies on Sequential CTLA-4 and PD-1 Blockade Reveals Markers of Response and Resistance</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Blockade of T cell coinhibitory molecules such as CTLA-4 and PD-1, can activate T cell antitumor response. Although these immune checkpoint blockades (CTLA-4 blockade and PD-1 blockade) have shown durable response, response rate is modest. Therefore, there is a need to find stable biomarkers predictive of response to immune checkpoint blockades and to understand underlying resistance mechanisms. We collected longitudinal tumor biopsies from a cohort of metastatic melanoma patients treated with sequential immune checkpoint blockades and performed whole exome sequencing of this cohort. The comprehensive genomic characterization of tumors enabled identification of higher copy number loss burden as a resistance mechanism and clonal T cell repertoire as a predictive biomarker.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="28251903"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Melanoma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Andrew Futreal, PhD</AttName>
+			<Institution>UT MD Anderson Cancer Center, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>Jennifer Wargo, MD</AttName>
+			<Institution>UT MD Anderson Cancer Center, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R1205 01</AttName>
+			<Institution>Cancer Prevention Research Institute of Texas, TX, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>G-0040</AttName>
+			<Institution>A Robert Welch Distinguished University Chair</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-PUB-NPU" longName="General Research Use (PUB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001425.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001425.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001425.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (PUB, NPU)</ConsentName>
+        <ConsentAbbrev>GRU-PUB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

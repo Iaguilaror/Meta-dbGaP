@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001371.v1.p1" parentStudy="phs001371.v1.p1" createDate="2017-05-16" modDate="2017-06-23">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Lionel B. Ivashkiv, MD</td><td>Hospital for Special Surgery, New York, NY, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>George D. Kalliolias, MD, PhD</td><td>Hospital for Special Surgery, New York, NY, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>Konstantinos Loupasakis</td><td>Hospital for Special Surgery, New York, NY, USA</td></tr>
+		<tr><td>Funding Source</td><td>RO1 AR046713</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>Arthritis National Research Foundation Grant</td><td>Arthritis National Research Foundation, Long Beach, CA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Inflammation-Induced Stabilization of mRNA in Rheumatoid Arthritis</StudyNameEntrez>
+	<StudyNameReportPage>TNF-induced dynamic regulation of mRNA stabilome in rheumatoid arthritis fibroblast-like synoviocytes</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>During rheumatoid arthritis (RA), TNF activates fibroblast-like synoviocytes (FLS) inducing in a temporal order a constellation of genes, which perpetuate synovial inflammation. Although the molecular mechanisms regulating TNF-induced transcription are well characterized, little is known about the impact of mRNA stability on gene expression and the impact of TNF on decay rates of mRNA transcripts in FLS. To address these issues we performed RNA sequencing and genome-wide analysis of the mRNA stabilome in RA FLS. We found that TNF induces a biphasic gene expression program: initially, the inducible transcriptome consists primarily of unstable transcripts but progressively switches and becomes dominated by very stable transcripts. This temporal switch is due to: a) TNF-induced prolonged stabilization of previously unstable transcripts that enables progressive transcript accumulation over days and b) sustained expression and late induction of very stable transcripts. TNF- induced mRNA stabilization in RA FLS occurs during the late phase of TNF response, is MAPK-dependent, and involves several genes with pathogenic potential such as IL6, CXCL1, CXCL3, CXCL8/IL8, CCL2, and PTGS2. These results provide the first insights into genome-wide regulation of mRNA stability in RA FLS and highlight the potential contribution of dynamic regulation of the mRNA stabilome by TNF to chronic synovitis.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Arthritis, Rheumatoid"/>
+		<Disease vocab_source="MESH" vocab_term="Arthritis"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Lionel B. Ivashkiv, MD</AttName>
+			<Institution>Hospital for Special Surgery, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>George D. Kalliolias, MD, PhD</AttName>
+			<Institution>Hospital for Special Surgery, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>RO1 AR046713</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Arthritis National Research Foundation Grant</AttName>
+			<Institution>Arthritis National Research Foundation, Long Beach, CA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Scientist Development Award</AttName>
+			<Institution>Rheumatology Research Foundation/ American College of Rheumatology, Atlanta, GA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Konstantinos Loupasakis</AttName>
+			<Institution>Hospital for Special Surgery, New York, NY, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB-NPU" longName="Health/Medical/Biomedical (IRB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

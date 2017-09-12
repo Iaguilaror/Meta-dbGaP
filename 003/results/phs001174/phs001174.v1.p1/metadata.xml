@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001174.v1.p1" parentStudy="phs001174.v1.p1" createDate="2016-07-21" modDate="2017-04-03">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Richard K. Wilson, PhD</td><td>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Elaine Mardis, PhD</td><td>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA</td></tr>
+		<tr><td>Principal Investigator and Sample Provider</td><td>Larry Nelson, MD</td><td>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>U54HG003079</td><td>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Female Infertility: Primary ovarian insufficiency</StudyNameEntrez>
+	<StudyNameReportPage>Female Infertility: Primary Ovarian Insufficiency</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Premature ovarian failure, or primary ovarian insufficiency (POI) is a phenotype of diminished or absent ovarian function occurring in 1-2% of reproductive aged women. Most cases occur spontaneously. Evaluation of the gametes in women with POI is difficult and invasive. Practitioners must often rely on indirect biomarkers of ovarian function and oocyte health, making it difficult to identify patients who may benefit from therapies allowing them to achieve pregnancy utilizing their own oocytes. This study will generate exome sequences from POI patients in an effort to elucidate the causes of unexplained POI and to better understand the normal processes of ovarian aging. A better understanding of the genetics of ovarian function may lead to new non-invasive tools for managing women&#39;s reproductive health, and direct better use of existing biomarkers in diagnosis, screening and predicting clinical outcomes. </p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Infertility, Female"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Richard K. Wilson, PhD</AttName>
+			<Institution>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Elaine Mardis, PhD</AttName>
+			<Institution>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator and Sample Provider">
+			<AttName>Larry Nelson, MD</AttName>
+			<Institution>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U54HG003079</AttName>
+			<Institution>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB" longName="Health/Medical/Biomedical"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001174.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001174.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001174.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical</ConsentName>
+        <ConsentAbbrev>HMB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

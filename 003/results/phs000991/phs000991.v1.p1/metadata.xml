@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000991.v1.p1" parentStudy="phs000991.v1.p1" createDate="2015-09-22" modDate="2016-01-26">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Dan Roden, MD</td><td>Vanderbilt University Medical Center, Nashville, TN, USA</td></tr>
+		<tr><td>Funding Source</td><td>RC2GM092618</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>VESPA: Vanderbilt Electronic Systems for Pharmacogenomic Assessment</StudyNameEntrez>
+	<StudyNameReportPage>VESPA: Vanderbilt Electronic Systems for Pharmacogenomic Assessment</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Vanderbilt Electronic Systems for Pharmacogenomic Assessment (VESPA) Project is a large electronic medical record (EMR)- and biobank-based initiative for translational pharmacogenomics discoveries. Key research resources utilized in this effort include the BioVU DNA databank and associated Synthetic Derivative database of clinical information, and software tools developed to identify drugs and clinical events using EHR-derived structured and unstructured ("free text") data. Cohorts include subjects with primarily drug-response phenotypes, and most cases and controls identified include three data types: ICD-9 codes, medication regimens, and medical test results. Advanced informatics methods, such as natural language processing, were also used for some phenotypes. Algorithms used event-sequence analyses to establish temporal relationships between drugs and phenotypes. Both cases and control algorithms excluded records that contained specific comorbidities and were refined to achieve positive predictive value (PPV) &#62; 90%. For automated algorithms failing to meet this threshold, manual review was coupled with algorithms to validate that the included cases were true positives.</p> <p>A total of 11,639 subjects met phenotyping criteria for a least one of the 28 phenotypes investigated. Across all phenotypes cases and controls, 90% were reused as either a case or control for a least one other phenotype. Data are deposited for individual phenotypes in the VESPA substudies.</p> <p><b>Substudies</b>: <li>VESPA: Genome Wide Association Study of Serum Creatinine during Vancomycin Therapy and Vancomycin Pharmacokinetics - <a href="./study.cgi?study_id=phs000894">phs000894</a></li> <li>VESPA: Genome Wide Study of Clinically Diagnosed Ace Inhibitor Cough - <a href="./study.cgi?study_id=phs000992">phs000992</a></li> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion and exclusion criteria are specific to each phenotype or substudy (<a href="./study.cgi?study_id=phs000894">phs000894</a>; <a href="./study.cgi?study_id=phs000992">phs000992</a>).</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="24786321"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Dose-Response Relationship, Drug"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Dan Roden, MD</AttName>
+			<Institution>Vanderbilt University Medical Center, Nashville, TN, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>RC2GM092618</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB" longName="Health/Medical/Biomedical"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIGMS</DacName>
+      <DacFullName>National Institute of General Medical Sciences DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000991.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000991.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000991.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical</ConsentName>
+        <ConsentAbbrev>HMB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

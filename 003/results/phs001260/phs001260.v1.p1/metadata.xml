@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001260.v1.p1" parentStudy="phs001260.v1.p1" createDate="2016-12-22" modDate="2017-01-06">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Sarah Highlander, PhD</td><td>J Craig Venter Institute, La Jolla, CA, USA</td></tr>
+		<tr><td>Funding Source</td><td>U19 AI110819</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Metagenomic Epidemiology of Antibiotic Resistance in Infectious Diarrhea</StudyNameEntrez>
+	<StudyNameReportPage>Metagenomic Epidemiology of Antibiotic Resistance in Infectious Diarrhea</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The study of antimicrobial resistance (AMR) in infectious diarrhea has generally been limited to cultivation, antimicrobial susceptibility testing and targeted PCR assays. When individual strains of significance are identified, whole genome shotgun (WGS) sequencing of important clones and clades is performed. Genes that encode resistance to antibiotics have been detected in environmental, insect, human and animal metagenomes and are known as &#34;resistomes&#34;. While metagenomic datasets have been mined to characterize the healthy human gut resistome in the Human Microbiome Project and MetaHIT and in a Yanomani Amerindian cohort, directed metagenomic sequencing has not been used to examine the epidemiology of AMR. Especially in developing countries where sanitation is poor, diarrhea and enteric pathogens likely serve to disseminate antibiotic resistance elements of clinical significance. Unregulated use of antibiotics further exacerbates the problem by selection for acquisition of resistance. This is exemplified by recent reports of multiple antibiotic resistance in Shigella strains in India, in Escherichia coli in India and Pakistan, and in nontyphoidal Salmonella (NTS) in South-East Asia. We propose to use deep metagenomic sequencing and genome level assembly to study the epidemiology of AMR in stools of children suffering from diarrhea. Here the epidemiology component will be surveillance and analysis of the microbial composition (to the bacterial species/strain level where possible) and its constituent antimicrobial resistance genetic elements (such as plasmids, integrons, transposons and other mobile genetic elements, or MGEs) in samples from a cohort where diarrhea is prevalent and antibiotic exposure is endemic. The goal will be to assess whether consortia of specific mobile antimicrobial resistance elements associate with species/strains and whether their presence is enhanced or amplified in diarrheal microbiomes and in the presence of antibiotic exposure. This work could potentially identify clonal complexes of organisms and MGEs with enhanced resistance and the potential to transfer this resistance to other enteric pathogens.</p> <p>We have performed WGS, metagenomic assembly and gene/protein mapping to examine and characterize the types of AMR genes and transfer elements (transposons, integrons, bacteriophage, plasmids) and their distribution in bacterial species and strains assembled from DNA isolated from diarrheal and non-diarrheal stools. The samples were acquired from a cohort of pediatric patients and controls from Colombia, South America where antibiotic use is prevalent. As a control, the distribution and abundance of AMR genes can be compared to published studies where resistome gene lists from healthy cohort sequences were compiled. Our approach is more epidemiologic in nature, as we plan to identify and catalogue antimicrobial elements on MGEs capable of spread through a local population and further we will, where possible, link mobile antimicrobial resistance elements with specific strains within the population.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Cases:</b><br/> <i>Inclusion criteria:</i> <ul> <li>Children less than 5 years</li> <li>Child is not currently enrolled as a case (not previously enrolled for diarrhea within the last 60 days)</li> <li>Presence of acute, moderate-to-severe diarrhea and/or vomiting within the past 10 days. Diarrhea is defined by the WHO as three or more liquid stools in a 24 hour period.</li> <li>Diarrhea is moderate to severe, and must meet at least one of the following criteria.</li> <dl><dd>- Sunken eyes, confirmed by parent/caretaker</dd> <dd>- Loss of skin turgor by skin pinch (&#8804;2s slow, or &#62;2 very slow)</dd> <dd>- IV rehydration prescribed or administered</dd> <dd>- Dysentery (1 or more bloody stools)</dd> <dd>- Evaluated in the Emergency Department or admitted to the hospital for diarrhea</dd></dl> <li>Children will still be eligible for enrollment even if they have received antibiotics within the last 14 days.</li> <li>Children who reside within the catchment area of the city Bucaramanga, Colombia and its surrounding suburbs including the municipalities of: Gir&#243;n, Floridablanca y Piedecuesta.</li> </ul><br/> <i>Exclusion criteria</i> <ul><br/> <li>Children older than 60 months of age</li> <li>Presence of chronic diarrhea (&#62;10 days) or other co-morbid conditions such as Crohn&#39;s disease or ulcerative colitis.</li> <li>Children with URI symptoms including: runny nose, sneezing, cough, congestion, sore throat, and ear ache.</li> <li>Children who live outside of Bucaramanga and its surrounding suburbs.</li> </ul> </p> <p><b>Healthy Controls:</b><br/> <i>Inclusion criteria:</i> <ul> <li>Children who reside within the catchment area of the city Bucaramanga, Colombia and its surrounding suburbs: Gir&#243;n, Floridablanca y Piedecuesta.</li> <li>Matched to cases for age. Age matching is &#177;2 months for 0-11 months, &#177;4months for 12-59 months. (Cannot exceed the stratum boundaries of the case).</li> </ul><br/> <i>Exclusion criteria:</i> <ul><br/> <li>Diarrhea, as defined by the WHO, in the previous 7 days (regardless of whether they develop diarrhea after enrollment).</li> <li>Children older than 60 months of age</li> <li>Presence of chronic diarrhea (&#62;10 days) or other co-morbid conditions such as Crohn&#39;s disease or ulcerative colitis.</li> <li>Children who live outside of Bucaramanga and its surrounding suburbs.</li> </ul> </p> <p><b>Rationale for Exclusion/Inclusion Criteria:</b><br/> Children from outlying municipalities will be included in this study because the volume of children with diarrhea at the central study site, Universidad de Santander, is not sufficient for the purposes of this study to not utilize outlying health care facilities. The population distribution is equitable between these two locations in terms of socioeconomic factors and there is not transportation limitation between the two. The suburbs have access to pediatricians and health clinics, so no sampling bias will be introduced by including this population.</p> <p>In prior studies, antibiotic use has been used as exclusion criteria for cases. The rationale for this has been primarily for the benefit of the research team. That is, in patients with prior antibiotic use bacterial species, such as E. coli, are very difficult to culture (and thus may skew the data). However, the most commonly used antibiotics in Colombia are older and include ampicillin, bactrim, and first generation penicillins. Since there is high resistance among E. coli strains for these antibiotics, we feel that their use will not necessarily prevent use from recovering these bacteria in laboratory culture.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Diarrhea"/>
+		<Disease vocab_source="MESH" vocab_term="Escherichia coli"/>
+		<Disease vocab_source="MESH" vocab_term="Salmonella"/>
+		<Disease vocab_source="MESH" vocab_term="Campylobacter"/>
+		<Disease vocab_source="MESH" vocab_term="Norovirus"/>
+		<Disease vocab_source="MESH" vocab_term="Astroviridae"/>
+		<Disease vocab_source="MESH" vocab_term="Adenoviridae"/>
+		<Disease vocab_source="MESH" vocab_term="Gastroenteritis"/>
+		<Disease vocab_source="MESH" vocab_term="Rotavirus"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Sarah Highlander, PhD</AttName>
+			<Institution>J Craig Venter Institute, La Jolla, CA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U19 AI110819</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB" longName="Health/Medical/Biomedical (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIAID</DacName>
+      <DacFullName>NIAID DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001260.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>no</DisplayResearchStatement>
+      <DisplayPublicSummary>no</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001260.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001260.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical (IRB)</ConsentName>
+        <ConsentAbbrev>HMB-IRB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000876.v1.p1" parentStudy="phs000876.v1.p1" createDate="2015-02-27" modDate="2016-01-05">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Christopher Amos</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>U19 CA148127</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Transdisciplinary Research Into Cancer of the Lung (TRICL)</StudyNameEntrez>
+	<StudyNameReportPage>Transdisciplinary Research Into Cancer of the Lung (TRICL) - Exome Plus Targeted Sequencing</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The study was conducted under the auspices of the Transdisciplinary Research In Cancer of the Lung (TRICL) Research Team, which is a part of the Genetic Associations and MEchanisms in ONcology (GAME-ON) consortium, and associated with the International Lung Cancer Consortium (ILCCO).</p> <p><b>Ethics</b><br/> All participants provided written informed consent. All studies were reviewed and approved by institutional ethics review committees at the involved institutions. </p> <p><b>Sequencing data</b> are derived from four sub-studies. The sub-studies that contributed include Harvard, Liverpool, Toronto, and IARC. The IARC and Toronto studies are described above. A description of the Harvard and Liverpool studies is provided below. </p> <p><i><b>Liverpool Lung Project:</b></i> The Liverpool Lung Project (LLP)1 is a case control and cohort study, which has over 11,500 individuals, with detailed epidemiological, clinical and outcome data with associated specimens (i.e. tumour tissue, blood, plasma, sputum, bronchial lavage, EBUS and oral brushings). The participants have completed a detailed lifestyle questionnaire and updated data on clinical outcome and hospital events are collected through the Office of National Statistics, Cancer Registry and from Health Episode Statistics. The project is registered on the UK National Institute for Health Research (NIHR) lung cancer portfolio and has all the required ethical approvals and sponsorship arrangements in place. The LLP has detailed standard operating procedures (SOP) for all aspects of the recruitment, data, specimen collection as well as the data storage. The LLP Cohort study has 8,224 participants with blood and 7,761 with plasma samples. The LLP case-control samples have been incorporated into in a large number of international GWAS and molecular studies <sup>2,3</sup>, methylation <sup>4-7</sup>, microRNA <sup>8</sup>and next generation studies <sup>9-11</sup>, resulting in high ranking publications, as well as forming the basis for the LLP risk prediction model <sup>12-14</sup> which has been utilised in the UK lung cancer screening trial (UKLS) <sup>15-17</sup></p> <p>Patient and control DNAs were derived from EDTA-venous blood samples.</p> <p><b>Harvard Samples.</b> David Christiani at the Harvard University School of Public Health has been directing research studies to investigate etiological factors influencing lung cancer development since 1983 and has amassed a collection of 2000 controls and 5055 lung cancer cases. He has been actively collecting and storing snap frozen tumor samples since 1992. Around 1500 tumor samples have been collected and the average wet tumor yield is about 30 grams of tumor, of which 631 cases have completely annotated clinical and survival information. Pathology confirmation is provided by two pathologists. At the time of surgery, a minimum of 30 grams of wet lung tumor tissue and 30 grams of non-involved tissue from the same lobe is sectioned, flash frozen and sent to Dr. Christiani&#39;s lab for logging and storage. A blood sample for DNA and serum is collected. A structured interview by trained research staff is conducted on each case, and clinical outcomes and treatments is extracted and entered into the molecular epidemiology data base at Harvard. Fresh frozen samples have been collected from 1451 lung cancer and are available for study. Samples from this collaborative study have played key roles in major studies, including the initial finding describing EGFR mutations in lung cancer <sub>22</sub>. Participants in this study are patients, &#62; 18 years of age, with newly diagnosed histologically confirmed lung cancer. Samples that are included in the analysis have the following histologies: Adenocarcinoma: 8140/3, 8250/3, 8260/3, 8310/3, 8480/3 8560/3; LCC: 8012/3, 8031/3; squamous carcinoma: 8070/3, 8071/3, 8072/3, 8074/3; and other NSCLC: 8010/3, 8020/3, 8021/3, 8032/3, 8230/3.</p> <p><b>The Toronto Study:</b> The Toronto study was conducted in the Great Toronto Area between 1997 and 2014. Cases were recruited at the hospitals in the network of University of Toronto and Lunenfeld- Tanenbaum Research Institute. At the time of recruitment in the clinical setting, provisional diagnoses of lung carcinoma were first assigned based on clinical criteria. Diagnoses for all cases included were histologically confirmed by the reference pathologist who is a specialist in pulmonary pathology, based on review of pathology reports from surgery, biopsy or cytology samples in 100% of cases. Diagnostic classification was done initially according to ICD-9, ICD-10, and ICD for oncology-2, and subsequently converted to ICD-O-3. Tumors were grouped into the major categories included in this analysis according to primary cancer type based on the ICD-3 definitions. Controls were randomly selected from individual visiting family medicine clinics and Ministry of Finance Municipal Tax Tapes. All subjects were interviewed using a standard questionnaire and information on lifestyle risk factors, occupational history, medical and family history was collected. Blood samples were collected from more than 85% of the subjects.</p> <p><b>IARC:</b> The IARC data are derived from case-control studies conducted in Russia and include samples that have available tissue samples. Patient and control DNAs were derived from EDTA-venous blood samples. The lung cancer patients were classified according to ICD-O-3; SQ: 8070/3, 8071/3, 8072/3, 8074/3; AD: 8140/3, 8250/3, 8260/3, 8310/3, 8480/3, 8560/3, 8251/3, 8490/3, 8570/3, 8574/3; with tumous with overlapping histologies classified as mixed.</p> <p><b>The Lung Cancer Transdisciplinary Research Cohort is utilized in the following dbGaP sub-studies.</b> To view genotypes, other molecular data, and derived variables collected in these sub-studies, please click on the following sub-studies below or in the "Sub-studies" box located on the right hand side of this top-level study page <a href="study.cgi?study_id=phs000876">phs000876</a> Lung Cancer Transdisciplinary Research Cohort. <ul> <li><a href="study.cgi?study_id=phs000877">phs000877</a> Meta Analysis</li> <li><a href="study.cgi?study_id=phs000878">phs000878</a> CIDR Lung Cancer</li> </ul> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Cases:</b> All cases had to have received diagnosis of pathologically confirmed lung cancer. Tumors from patients were classified as adenocarcinomas (AD), squamous carcinomas (SQ), large-cell carcinomas (LCC), mixed adenosquamous carcinomas (MADSQ) and other non-small cell lung cancer (NSCLC) histologies following either the International Classification of Diseases for Oncology (ICD-O) or World Health Organization (WHO) coding. Tumors with overlapping histologies were classified as mixed. </p> <p>Tumors from patients were classified as adenocarcinomas (AD), squamous carcinomas (SQ), large-cell carcinomas (LCC), mixed adenosquamous carcinomas (MADSQ) and other non-small cell lung cancer (NSCLC) histologies following either the International Classification of Diseases for Oncology (ICD-O) or World Health Organization (WHO) coding. Tumors with overlapping histologies classified as mixed. All cases and controls were reported to be European ancestry. During PLINK analysis, cases or controls that clustered more than 6 standard deviations from the centroid of the population were removed.</p> <p><b>Controls:</b>Controls were collected at each site, according to matching schemes at each site. The M.D. Anderson Cancer Site only collected ever smoking cases matched to ever smoking controls. Data on epidemiological risk factors were not available from the UK/ICR-GWAS as these originated from the 1958 birth cohort and Wellcome Trust Case Control Consortium for which data on epidemiological risk factors were not collected.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="24880342"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22899653"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24681604"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16273220"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18385738"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18978790"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17108128"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16243968"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24081945"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24113142"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22941188"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24174329"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24670920"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18087271"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22910935"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24441672"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21317179"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23972816"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25208072"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Lung Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Adenocarcinoma"/>
+		<Disease vocab_source="MESH" vocab_term="Neoplasms, Squamous Cell"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Christopher Amos</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U19 CA148127</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>This study brings together 4 studies for which extensive genotyping has already been completed using either the OnoArray or an Affymetrix Array that has been genotyped in Canada and which will be deposited into dbGAP once quality control procedures are complete.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="DS-CA-MDS" longName="Disease-Specific (Cancer, MDS)"/>
+		<ConsentGroup groupNum="2" shortName="DS-CA" longName="Disease-Specific (Cancer)"/>
+		<ConsentGroup groupNum="3" shortName="HMB-MDS" longName="Health/Medical/Biomedical (MDS)"/>
+		<ConsentGroup groupNum="4" shortName="LCRF" longName="Lung Cancer Risk Factors"/>
+		<ConsentGroup groupNum="5" shortName="DS-LCS-RD" longName="Disease-Specific (Lung Cancer or Smoking, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000876.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000876.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000876.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Cancer, MDS)</ConsentName>
+        <ConsentAbbrev>DS-CA-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Cancer)</ConsentName>
+        <ConsentAbbrev>DS-CA</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Health/Medical/Biomedical (MDS)</ConsentName>
+        <ConsentAbbrev>HMB-MDS</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Lung Cancer Risk Factors</ConsentName>
+        <ConsentAbbrev>LCRF</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited to research on risk factors for the development of lung cancer; and its association with environmental, diet, and occupational exposures</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="5">
+        <ConsentName>Disease-Specific (Lung Cancer or Smoking, RD)</ConsentName>
+        <ConsentAbbrev>DS-LCS-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Lung Cancer or Smoking and related disorders.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Pre-release exchange area for use by study investigators only.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

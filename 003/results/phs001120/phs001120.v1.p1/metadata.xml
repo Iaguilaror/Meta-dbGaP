@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001120.v1.p1" parentStudy="phs001120.v1.p1" createDate="2016-05-12" modDate="2017-04-03">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Chris Haiman, ScD</td><td>University of Southern California, Los Angeles, CA, USA</td></tr>
+		<tr><td>Funding Source</td><td>U19 CA 148537</td><td>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>ELLIPSE Prostate Cancer Meta-Analysis and Genotyping</StudyNameEntrez>
+	<StudyNameReportPage>ELLIPSE Prostate Cancer Meta-Analysis and Genotyping</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Elucidating Loci Involved in Prostate Cancer Susceptibility (ELLIPSE) Consortium is an international effort to discover risk loci for prostate cancer. It includes the meta-analysis of existing GWAS data as well as novel GWAS, exome, and iCOGS genotyping. The GWAS meta-analysis includes the following cases and controls from studies of European ancestry: UK GWAS stage 1 (Illumina Infinium HumanHap 550 Array: 1854 cases and 1894 controls), UK GWAS stage 2 (Illumina iSELECT: 3706 cases and 3884 controls), CAPS1 (Affymetrix GeneChip 500K: 474 cases and 482 controls), CAPS2 (Affymetrix GeneChip 5.0K: 1458 cases and 512 controls), BPC3 (Illumina Human610 Illumina: 2068 cases and 3011 controls), and PEGASUS (HumanOmni2.5: 4600 cases and 2941 controls). The OMNI 2.5M genotyping was conducted for 977 prostate cancer cases from UKGPCS. The Exome SNP array genotyping was conducted for 4741 subjects from UKGPCS. The iCOGs genotyping was conducted for 10366 subjects which includes the Multiethnic Cohort (n=1648) and UKGPCS (n=8718). Below is a description of each study.</p> <p><b>UK GWAS Stage 1 (UK1) and UK GWAS Stage 2 (UK2):</b><br/> The UK Genetic Prostate Cancer Study (UKGPCS) was first established in 1993 and is the largest prostate cancer study of its kind in the UK, involving nearly 189 hospitals. We are based at The Institute of Cancer Research in Sutton, Surrey, and collaborate with the Royal Marsden NHS Foundation Trust. Our aim is to find genetic changes which are associated with prostate cancer risk. Our target is to recruit 26,000 gentlemen into the UKGPCS by 2017. Men are eligible to take part if they fit into at least one of the following groups:</p> <p><ul><li>They have been diagnosed with prostate cancer at 60 years of age or under (up to their 61st birthday).</li> <li>They have been diagnosed with prostate cancer and a first, second or third degree relative where at least one of these men were diagnosed with prostate cancer at 65 years of age or under.</li> <li>They are affected and have 3 or more cases of prostate cancer on one side of their family.</li> <li>They are a prostate cancer patient at the Royal Marsden NHS Foundation Trust.</li></ul></p> <p>We have to date recruited around 16,000 men on whom we have germline DNA and clinical data at diagnosis. The UK GWAS is based on genotyping of 541,129 SNPs in 1,854 individuals with clinically detected (non-PSA-screened) prostate cancer (cases) and 1,894 controls. 43,671 SNPs showing strong evidence of association in stage 1 were followed up by genotyping a further 3,268 cases and 3,366 controls from UK and Melbourne in stage 2. <p><b>Cancer of the Prostate in Sweden 1 (CAPS1) and Cancer of the Prostate in Sweden 2 (CAPS2):</b><br/> The CAPS study represents a large Swedish population-based cancer study, comprising 3,161 cases and 2,149 controls, recruited between 2001 and 2003. Biopsy confirmed prostate cancer cases were identified and recruited from four out of six regional cancer registries in Sweden, diagnosed between July 2001 and October 2003. Clinical data including TNM stage, Gleason grade and PSA levels at time for diagnosis were retrieved through record linkage to the National Prostate Cancer Registry. Control subjects, who were recruited concurrently with case subjects, were randomly selected from the Swedish Population Registry and matched according to the expected age distribution of cases (groups of 5-year intervals) and geographic region. Whole blood was collected from all individuals for extraction of genomic DNA. A GWAS was conducted in two parts. In the first phase (CAPS1) 498 cases and 502 controls were genotyped, in the second phase 1,483 cases and 519 controls were genotyped. Genotyping was performed using the GeneChip Human Mapping 500K (CAPS1) and 5.0K (CAPS2) Array Set from Affymetrix (Santa Clara, CA).</p> <p><b>The National Cancer Institute Breast and Prostate Cancer Cohort Consortium (BPC3):</b><br/> BPC3 was a consortium of prospective cohort studies investigating genetic and gene-environmental risk factors for breast and prostate cancer. Each study selected cases and controls for this study as described below. The clinical criteria defining advanced prostate cancer (Gleason &#8805; 8 or stage C/D) were either obtained from medical records or cancer registries. The Gleason score source was either surgical specimens (radical prostatectomy or autopsy) or the diagnostic biopsy (needle biopsy or TURP). When multiple Gleason scores were available the surgical value was used. PLCO was removed from the analysis as the samples were included in the Pegasus GWAS described below. In total 2,473 advanced prostate cancer cases and 3,534 controls were included in the analysis following QC.</p> <p><b>Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study (ATBC):</b><br/> ATBC was a randomized, placebo-controlled primary prevention trial to investigate whether &#945;-tocopherol or &#946;-carotene supplementation reduced the incidence of lung or other cancers in male smokers. Between 1985 and 1988, 29,133 men ages 50 to 69 years were enrolled in the trial from Finland and randomized to supplementation (50 mg &#945;-tocopherol, 20mg &#946;-carotene, or both) or placebo. Men with a prior history of cancer, other than non-melanoma skin cancer or carcinoma in situ, were excluded from participating. Incident cancer cases are identified through linkage with the Finnish Cancer Registry, which has ~100% ascertainment of cancer cases nationwide. Cases included 249 men diagnosed with advanced prostate cancer (Gleason &#8805; 8 or stage C/D) from 1985 to 2003 with DNA available. Controls were 1,271 men selected previously for a GWAS of lung cancer in ATBC without a diagnosis of prostate cancer.</p> <p><b>Cancer Prevention Study II (CPSII):</b><br/> CPSII is a cohort study started in 1982 to investigate the relationship between dietary, lifestyle and other etiologic factors and cancer mortality. Approximately 1.2 million men and women enrolled in the study from 50 states in the U.S. In 1992, a subset of these participants (N = ~184,000) were enrolled in the CPSII Nutrition Cohort to examine the relationship between dietary and other exposures and cancer incidence. Blood samples were drawn from approximately 39,376 members of the Nutritional Cohort from 1998 to 2001, and buccal cells were collected from 69,467 members from 2001 to 2002. Cancer cases are identified by self-report through follow-up questionnaires followed by verification through medical records and/or linkage to state cancer registries as well as death certificates. A total of 660 advanced prostate cancer cases (Gleason &#8805; 8 or stage III/IV) with a source of DNA were identified for this study. Controls were 660 men matched on ethnicity, date of birth, sample collection date and DNA type.</p> <p><b>European Prospective Investigation into Cancer and Nutrition (EPIC):</b><br/> EPIC is a prospective study designed to investigate both genetic and non-genetic risk factors for different forms of cancer. Study participants were almost all white Europeans. Approximately 500,000 individuals (150,000 men) in EPIC were recruited between 1992 and 2000, from 23 centers in 10 European countries. Overall approximately 400,000 subjects also provided a blood sample at recruitment. The methods of recruitment and details of the study design are described in detail elsewhere. In brief, study participants completed an extensive questionnaire on both dietary and nondietary data at recruitment. The present study includes subjects from advanced prostate cancer cases (Gleason &#8805; 8 or stage III/IV) matched to controls based on study center, length of follow-up, age at enrollment (&#177;6 months), fasting and time of day of blood collection (&#177;1 hour). The advanced prostate cancer subjects were from 8 of the 10 participating countries: Denmark, Germany, Greece, Italy, the Netherlands, Spain, Sweden and the United Kingdom (UK). France and Norway were not included in the current study because these cohorts only included female subjects. All participants gave written consent for the research and approval for the study was obtained from the ethical review board from all local institutions in the regions where participants had been recruited for the EPIC study.</p> <p><b>Health Professionals Follow-up Study (HPFS):</b><br/> HPFS began in 1986 and is an ongoing prospective cohort study of 51,529 United States male dentists, optometrists, osteopaths, podiatrists, pharmacists, and veterinarians 40 to 75 years of age. The baseline questionnaire provided information on age, marital status, height and weight, ancestry, medications, smoking history, disease history, physical activity, and diet. At baseline the cohort was 97% white, 2% Asian American, and 1% African American. The median follow-up through 2005 was 10.5 years (range 2-19 years). Self-reported prostate cancer diagnoses were confirmed by obtaining medical and/or pathology records. Prostate cancer deaths are either reported by family members in response to follow-up questionnaires, discovered by the postal system, or the National Death Index. Questionnaires are sent every two years to surviving men to update exposure and medical history. In 1993 and 1994, a blood specimen was collected from 18,018 men without a prior diagnosis of cancer. Prostate cancer cases are matched to controls on birth year (&#177;1) and ethnicity. Controls are selected from those who are cancer-free at the time of the case&#39;s diagnosis, and had a prostate-specific antigen test after the date of blood draw.</p> <p><b>Multiethnic Cohort (MEC):</b><br/> The Multiethnic Cohort Study is a population-based prospective cohort study that was initiated between 1993 and 1996 and includes subjects from various ethnic groups - African Americans and Latinos primarily from Californian (great Los Angeles area) and Native Hawaiians, Japanese-Americans, and European Americans primarily from Hawaii. State drivers&#39; license files were the primary sources used to identify study subjects in Hawaii and California. Additionally, in Hawaii, state voter&#39;s registration files were used, and, in California, Health Care Financing Administration (HCFA) files were used to identify additional African American men. All participants (n=215,251) returned a 26-page self-administered baseline questionnaire that obtained general demographic, medical and risk factor information. In the cohort, incident cancer cases are identified annually through cohort linkage to population-based cancer Surveillance, Epidemiology, and End Results (SEER) registries in Hawaii and Los Angeles County as well as to the California State cancer registry. Information on stage and grade of disease are also obtained through the SEER registries. Blood sample collection in the MEC began in 1994 and targeted incident prostate cancer cases and a random sample of study participants to serve as controls for genetic analyses. </p> <p><b>Physicians Health Study (PHS):</b><br/> PHS was a randomized trial of aspirin and &#946; carotene for cardiovascular disease and cancer among 22,071 U.S. male physicians ages 40-84 years at randomization; none had a cancer diagnosis at baseline. The original trial ended, but the men are followed. From 1982 to 1984, blood samples were collected from 14,916 physicians before randomization. Participants are sent yearly questionnaires to ascertain endpoints. Whenever a physician reports cancer, we request permission to obtain the medical records, and cancers are confirmed by pathology report. We obtain death certificates and pertinent medical records for all deaths. Follow-up for nonfatal outcomes in PHS is over 97% complete, and for mortality, over 99%.</p> <p><b>Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial:</b><br/> PLCO is a multicenter, randomized trial to evaluate screening methods for the early detection of prostate, lung, colorectal and ovarian cancer. Between 1993 and 2001, over 150,000 men and women ages 55-74 years were recruited from ten centers in the United States (Birmingham, AL; Denver, CO; Detroit, MI; Honolulu, HI; Marshfield, WI; Minneapolis, MN; Pittsburgh, PA; Salt Lake City, UT; St. Louis, MO; and Washington, D.C.). Men randomized to the screening arm underwent prostate cancer screening with prostate-specific antigen (PSA) annually for six years and digital rectal exam annually for four years. Blood specimens were collected from participants randomized to the screening arm of the trial, and buccal cell specimens were obtained from participants randomized to the control arm. Cases included 754 men diagnosed with advanced prostate cancer (Gleason &#8805; 8 or stage III/IV) from either arm of the trial. Of these cases, 317 were genotyped previously as part of Cancer Genetic Markers of Susceptibility (CGEMS), a GWAS for prostate cancer. Controls included 1,491 men without a diagnosis of prostate cancer from the screening arm of the PLCO trial. All subjects provided informed consent to participate in genetic etiology studies of cancer and other traits. This study was approved by the institutional review boards at the ten centers and the National Cancer Institute. PLCO was removed from the meta-analysis of the BPC3 studies as a consequence of PEGASUS below.</p> <p><b>Prostate Cancer Genome-wide Association Study of Uncommon Susceptibility Loci (PEGASUS):</b><br/> Pegasus is a genome-wide association nested within the PLCO Cancer Screening Trial. PLCO is a multicenter, randomized trial to evaluate screening methods for the early detection of prostate, lung, colorectal and ovarian cancer. Between 1993 and 2001, over 150,000 men and women ages 55-74 years were recruited from ten centers in the United States (Birmingham, AL; Denver, CO; Detroit, MI; Honolulu, HI; Marshfield, WI; Minneapolis, MN; Pittsburgh, PA; Salt Lake City, UT; St. Louis, MO; and Washington, D.C.). Men randomized to the screening arm underwent prostate cancer screening with prostate-specific antigen annually for six years and digital rectal exam annually for four years. Blood specimens were collected from participants randomized to the screening arm of the trial, and buccal cell specimens were obtained from participants randomized to the control arm. Cases included 4,598 men of European ancestry diagnosed with prostate cancer from either arm of the trial and controls included 2,941 men of European ancestry without a diagnosis of cancer from the screening arm, matched on age and year of randomization. All subjects provided informed consent, and the study approved by the institutional review board at the National Cancer Institute.</p> <p><b>Funding:</b><br/> This work was supported by the GAME-ON U19 initiative for prostate cancer (ELLIPSE): U19 CA148537.</p> The <b>BPC3</b> was supported by the U.S. National Institutes of Health, National Cancer Institute (cooperative agreements U01-CA98233, U01-CA98710, U01-CA98216, and U01-CA98758, and Intramural Research Program of NIH/National Cancer Institute, Division of Cancer Epidemiology and Genetics). The <b>ATBC</b> study and <b>PEGASUS</b> was supported in part by the Intramural Research Program of the NIH and the National Cancer Institute. Additionally, this research was supported by U.S. Public Health Service contracts N01-CN-45165, N01-RC-45035, N01-RC-37004 and HHSN261201000006C from the National Cancer Institute, Department of Health and Human Services. <b>CAPS:</b>The Department of Medical Epidemiology and Biostatistics, Karolinska Institute, Stockholm, Sweden was supported by the Cancer Risk Prediction Center (CRisP; <a href="http://www.crispcenter.org">Cancer Health Risk Prediction Center</a>), a Linneus Centre (Contract ID 70867902) financed by the Swedish Research Council, Swedish Research Council (grant no K2010-70X-20430-04-3), the Swedish Cancer Foundation (grant no 09-0677), the Hedlund Foundation, the S&#246;derberg Foundation, the Enqvist Foundation, ALF funds from the Stockholm County Council. Stiftelsen Johanna Hagstrand och Sigfrid Linn&#233;r&#39;s Minne, Karlsson&#39;s Fund for urological and surgical research. We thank and acknowledge all of the participants in the Stockholm-1 study. We thank Carin Cavalli-Bj&#246;rkman and Ami R&#246;nnberg Karlsson for their dedicated work in the collection of data. Michael Broms is acknowledged for his skillful work with the databases. KI Biobank is acknowledged for handling the samples and for DNA extraction. Hans Wallinder at Aleris Medilab and Sven Gustafsson at Karolinska University Laboratory are thanked for their good cooperation in providing historical laboratory results. <b>UKGPCS</b> would like to acknowledge the NCRN nurses and Consultants for their work in the UKGPCS study. We thank all the patients who took part in this study. This work was supported by Cancer Research UK (grant numbers C5047/A7357, C1287/A10118, C1287/A5260, C5047/A3354, C5047/A10692, C16913/A6135 and C16913/A6835). We would also like to thank the following for funding support: Prostate Research Campaign UK (now Prostate Cancer UK), The Institute of Cancer Research and The Everyman Campaign, The National Cancer Research Network UK, The National Cancer Research Institute (NCRI) UK. We are grateful for support of NIHR funding to the NIHR Biomedical Research Centre at The Institute of Cancer Research and The Royal Marsden NHS Foundation Trust. The <b>MEC</b> was supported by NIH grants CA63464, CA54281 and CA098758. </p> <p>A detailed description of each substudy is provided under their own pages below and via the grouping tool in the right-hand box: <ul> <li><a href="study.cgi?study_id=phs001081">phs001081</a> ELLIPSE Prostate Cancer Genotyping</li> <li><a href="study.cgi?study_id=phs001125">phs001125</a> ELLIPSE Prostate Cancer Meta-Analysis</li> </ul> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>An analysis of overall prostate cancer as well as aggressive disease was performed. Aggressive disease was defined as Gleason score &#8805;8, disease stage as &#39;distant&#39;, a prostate-specific antigen (PSA) level &gt;100 ng/ml, or death from prostate cancer.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="25217961"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Prostatic Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Chris Haiman, ScD</AttName>
+			<Institution>University of Southern California, Los Angeles, CA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U19 CA 148537</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-PC-MDS" longName="Disease-Specific (Prostate Cancer, MDS)"/>
+		<ConsentGroup groupNum="2" shortName="DS-CA" longName="Disease-Specific (Cancer)"/>
+		<ConsentGroup groupNum="3" shortName="GRU-MDS" longName="General Research Use (MDS)"/>
+		<ConsentGroup groupNum="4" shortName="DS-PC" longName="Disease-Specific (Prostate Cancer)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001120.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001120.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001120.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Prostate Cancer, MDS)</ConsentName>
+        <ConsentAbbrev>DS-PC-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Prostate Cancer.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Cancer)</ConsentName>
+        <ConsentAbbrev>DS-CA</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Methods development research is NOT permitted</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>General Research Use (MDS)</ConsentName>
+        <ConsentAbbrev>GRU-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Disease-Specific (Prostate Cancer)</ConsentName>
+        <ConsentAbbrev>DS-PC</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Prostate Cancer.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

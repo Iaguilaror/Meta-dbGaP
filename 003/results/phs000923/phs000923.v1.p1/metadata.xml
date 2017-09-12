@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000923.v1.p1" parentStudy="phs000923.v1.p1" createDate="2015-05-29" modDate="2016-05-24">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Levi A. Garraway, MD, PhD</td><td>1. Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA        2. Broad Institute of Harvard and MIT, Cambridge, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Eliezer Van Allen, MD</td><td>1. Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA       2. Broad Institute of Harvard and MIT, Cambridge, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Christopher Sweeney, MBBS</td><td>Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Molecular Characterization of Germ Cell Tumors</StudyNameEntrez>
+	<StudyNameReportPage>Molecular Characterization of Germ Cell Tumors</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>We performed comprehensive molecular profiling of germ cell tumors, including whole exome sequencing and transcriptome sequencing, derived from patient samples. This project additionally explores mechanisms of chemosensivity in these patients, as well as mechanisms of tumor evolution in the context of treatment.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion: </p> <p> Germ cell tumor </p> <p> Availability of tumor and germline samples </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Male Germ Cell Tumor"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Levi A. Garraway, MD, PhD</AttName>
+			<Institution>1. Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA        2. Broad Institute of Harvard and MIT, Cambridge, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Eliezer Van Allen, MD</AttName>
+			<Institution>1. Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA       2. Broad Institute of Harvard and MIT, Cambridge, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Christopher Sweeney, MBBS</AttName>
+			<Institution>Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-CA-MDS" longName="Disease-Specific (Cancer, MDS)"/>
+		<ConsentGroup groupNum="2" shortName="DS-GCT-MDS" longName="Disease-Specific (Germ Cell Tumors, MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

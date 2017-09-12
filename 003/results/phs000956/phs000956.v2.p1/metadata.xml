@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000956.v2.p1" parentStudy="phs000956.v2.p1" createDate="2017-03-16" modDate="2017-04-05">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Braxton D. Mitchell, PhD</td><td>University of Maryland, Baltimore, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01 HL121007</td><td>National Heart, Lung, Blood Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: Genetics of Cardiometabolic Health in the Amish</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: Genetics of Cardiometabolic Health in the Amish</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Family</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Amish Complex Disease Research Program includes a set of large community-based studies focused largely on cardiometabolic health carried out in the Old Order Amish (OOA) community of Lancaster, Pennsylvania (<a href="http://medschool.umaryland.edu/endocrinology/amish/research-program.asp" target="_blank">http://medschool.umaryland.edu/endocrinology/amish/research-program.asp</a>). The OOA population of Lancaster County, PA immigrated to the Colonies from Western Europe in the early 1700&#39;s. There are now over 30,000 OOA individuals in the Lancaster area, nearly all of whom can trace their ancestry back 12-14 generations to approximately 700 founders. Investigators at the University of Maryland School of Medicine have been studying the genetic determinants of cardiometabolic health in this population since 1993. To date, over 7,000 Amish adults have participated in one or more of our studies.</p> <p>Due to their ancestral history, the OOA may be enriched for rare variants that arose in the population from a single founder (or small number of founders) and propagated through genetic drift. Many of these variants have large effect sizes and identifying them can lead to new biological insights about health and disease. The parent study for this WGS project provides one (of multiple) examples. In our parent study, we identified through a genome-wide association analysis a haplotype that was highly enriched in the OOA that is associated with very high LDL-cholesterol levels. At the present time, the identity of the causative SNP - and even the implicated gene - is not known because the associated haplotype contains numerous genes, none of which are obvious lipid candidate genes. A major goal of the WGS that will be obtained through the NHLBI TOPMed Consortium will be to identify functional variants that underlie some of the large effect associations observed in this unique population.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Subjects included in this sequencing sample were from the Amish HAPI Heart Study and the Amish Longevity Study. Participants from these studies were relatively healthy subjects recruited from the Amish community of Lancaster County, PA. Individuals aged 20 years and older were eligible to participate in the HAPI Heart Study along with their age-eligible family members. Amish Longevity Study subjects included long-lived probands aged 90 years or older, their offspring, and spouses of their offspring. HAPI Study exclusion criteria included pregnancy or postpartum &lt; 6 months, high blood pressure (&lt; 180 mmHg SBP or &gt; 105 mmHg DBP), current use of prescription medications that could not safely or willingly discontinued, coexisting malignancy, serum creatinine &gt; 2.0 mg/dL, elevated liver enzymes (AST or ALT &gt; 2X upper limit of normal), hematocrit &lt; 32%, or abnormal TSH (&lt; 0.4 or &gt; 5.5 mIU/L).</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="18440328"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15621217"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21059979"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19074352"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24848981"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Diseases"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Braxton D. Mitchell, PhD</AttName>
+			<Institution>University of Maryland, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01 HL121007</AttName>
+			<Institution>National Heart, Lung, Blood Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="University of Maryland School of Medicine - Amish Studies" url="http://medschool.umaryland.edu/endocrinology/amish/research-program.asp"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p><b>Name of grants:</b> Genome-wide search for CVD gene-environment interactions<br/> <b>Agency number:</b> NIH/NHLBI, U01 HL072515<br/> <b>PI:</b> Alan R. Shuldiner, MD<br/> <b>Dates:</b> 2002 - 2010<br/> <b>Specific aims:</b> The goal of this project is to identify genes influencing response to four short-term interventions influencing cardiovascular function in the Amish. </p> <p><b>Name of grants:</b> Identification of longevity genes in founder populations<br/> <b>Agency number:</b> NIH/NIA, R01 AG18728<br/> <b>PI:</b> Alan R. Shuldiner, MD<br/> <b>Dates:</b> 2001 - 2006<br/> <b>Specific aims:</b> The goal of this project is to identify genes associated with longevity and longevity-related traits in the Amish. </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="2" shortName="HMB-IRB-MDS" longName="Health/Medical/Biomedical (IRB, MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000956.v2.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000956.v2.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000956.v2.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Health/Medical/Biomedical (IRB, MDS)</ConsentName>
+        <ConsentAbbrev>HMB-IRB-MDS</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Use of these data is limited to health/medical/biomedical purposes.  The data can be used only for health related research, including research to improve methods for health related research.  It is not permissible to use the genetic or relationship information to attempt to identify these individuals or to link these data to other databases (e.g., the Anabaptist Genealogy Database).  These data may not be used for analyses whose primary purpose is to study population origins or ancestry or for the study of inbreeding, non-paternity rates, etc. without the express approval of the Amish study PI.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only
+There is one consent group for this study: HMB-IRB-MDS.
+Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Use of these data is limited to health/medical/biomedical purposes.  The data can be used only for health related research, including research to improve methods for health related research.  It is not permissible to use the genetic or relationship information to attempt to identify these individuals or to link these data to other databases (e.g., the Anabaptist Genealogy Database).  These data may not be used for analyses whose primary purpose is to study population origins or ancestry or for the study of inbreeding, non-paternity rates, etc. without the express approval of the Amish study PI.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006968.1" type="protocol" createDate="2016-10-03" modDate="2016-10-03" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006968.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000956.v2.p1&amp;phd=6968">
+      <OrigName>README_6a_dbGaP_Pedigree.txt</OrigName>
+      <DisplayName>Pedigree README</DisplayName>
+      <Description>Pedigree README</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd006969.2" type="protocol" createDate="2017-04-03" modDate="2017-04-05" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.2" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000956.v2.p1&amp;phd=6969">
+      <OrigName>TOPMed_for_dbGaP_April2016_v5_final.docx</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd006968.1" sectionId="phd006968">
+      <phvList>
+        <phvRef variableId="5768"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

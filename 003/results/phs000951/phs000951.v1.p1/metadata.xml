@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000951.v1.p1" parentStudy="phs000951.v1.p1" createDate="2015-07-06" modDate="2016-10-11">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>James D. Crapo</td><td>National Jewish Health Denver, CO,USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Edwin K. Silverman</td><td>Brigham and Women&#39;s Hospital Boston, MA, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01HL089897</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01HL089856</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: Genetic Epidemiology of COPD (COPDGene) in the TOPMed Program</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: Genetic Epidemiology of COPD (COPDGene) Funded by the National Heart, Lung, and Blood Institute (NHLBI) in the NHLBI Trans-Omics for Precision Medicine (TOPMed) Program</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Chronic obstructive pulmonary disease (COPD) is the third leading cause of death in the United States and the only leading cause of death that is steadily increasing in frequency. This project established a racially diverse cohort that is sufficiently large and appropriately designed for genome-wide association analysis of COPD. A total of 10,371 subjects were recruited, including control smokers, definite COPD cases (GOLD Stage 2 to 4), and subjects not included in either group (GOLD 1 or GOLD-Unclassified). This cohort is being used for cross-sectional analysis, and long-term longitudinal follow-up after five years is also being performed. The primary focus of the study is to identify the genetic risk factors that determine susceptibility for COPD and COPD-related phenotypes. Detailed phenotyping of both cases and controls, including chest CT scan assessment of emphysema and airway disease, will allow identification of genetic determinants for the heterogeneous components of the COPD syndrome. <b>The hypotheses to be studied are: 1) Precise phenotypic characterization of COPD subjects using computed tomography, as well as clinical and physiological measures, will provide data that will enable the broad COPD syndrome to be decomposed into clinically significant subtypes. 2) Genome-wide association studies will identify genetic determinants for COPD susceptibility that will provide insight into clinically relevant COPD subtypes. 3) Distinct genetic determinants influence the development of emphysema and airway disease.</b> The TOPMed analysis will include 1900 severe COPD and smoking control subjects with whole genome sequencing.</p> <p>Comprehensive phenotypic data for COPDGene subjects is available through dbGaP entry <a href="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000179.v4.p2">phs179.v4.p2</a>.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>COPD Cases:</b><br/> <b>Inclusion Criteria</b><br/> Age at Enrollment: 45 - 80 years<br/> Smoking history of &#8805; 10 pack-years<br/> Diagnosis of COPD Stages 2, 3 and 4 by GOLD criteria (post-bronchodilator FEV1/FVC &#60; 0.70 and FEV1 &#60; 80% predicted)<br/> Non-Hispanic White or non-Hispanic African American<br/> <b>Exclusion Criteria</b><br/> Concomitant respiratory disorder other than asthma or COPD (such as, but not limited to, diffuse bronchiectasis, cystic fibrosis, or interstitial lung disease)<br/> Lung surgery with removal of a lobe or more (including lung volume reduction surgery or lung transplantation)<br/> Lung cancer, known or suspected<br/> Surgical or bronchoscopic lung volume reduction<br/> Pregnancy or suspected pregnancy<br/> Uncontrolled cancer, defined as ongoing radiation therapy, ongoing chemotherapy, narcotics for pain control, or known metastatic disease<br/> History of radiation therapy to the chest (other than for breast cancer)<br/> Use of antibiotics and/or systemic steroids (new prescription or increased dose) for a COPD exacerbation or respiratory infection within the last month<br/> Inability to use albuterol<br/> First or second degree relative (parent, brother, sister, daughter, son, aunt, uncle, nephew, niece, half-sibling, grandparent, grandchild) of a subject enrolled in COPDGene<br/> Subjects who indicate they are in more than one racial category<br/> Metal objects that may interfere with chest CT quantification including presence of a cardiac pacemaker, defibrillator, metal prosthetic heart valve, or metal shoulder prosthesis<br/> Subjects with affirmative answers to the following:</p> <ul> <li>chest or abdominal surgery in the past three months</li> <li>a heart attack in the last three months</li> <li>detached retina or eye surgery in the past three months</li> <li>hospitalization for any other heart problem in the past month</li> </ul> <p>Participation in the ECLIPSE study, Boston Early-Onset COPD Study, or International COPD Genetics Network (Selected replication cohorts) </p> <p><b>Smokers without COPD</b><br/> <b>Inclusion Criteria</b><br/> Age at Enrollment: 45 - 80 years<br/> History (current or formerly) of cigarette smoking &#8805; 10 pack-years<br/> Post-bronchodilator FEV1/FVC &#8805; 0.70 and FEV1 &#8805; 80% predicted<br/> Non-Hispanic White or non-Hispanic African American<br/> <b>Exclusion Criteria</b><br/> Physician diagnosed respiratory disease other than COPD or asthma (based on subject report)<br/> Lung surgery with removal of a lobe or more (including lung volume reduction surgery and lung transplantation)<br/> Pregnancy or suspected pregnancy<br/> Lung cancer, known or suspected<br/> Uncontrolled cancer, defined as ongoing radiation therapy, ongoing chemotherapy, narcotics for pain control, or known metastatic disease<br/> History of radiation therapy to the chest<br/> Use of antibiotics (new prescription or increased dose) for a respiratory infection within the past month<br/> Use of systemic corticosteroids (new prescription or increased dose) for a respiratory process within the past month<br/> Inability to use albuterol<br/> First or second degree relative (parent, brother, sister, daughter, son, aunt, uncle, nephew, niece, half-sibling, grandparent, or grandchild) of a subject enrolled in COPDGene<br/> Subjects who indicate they are in more than one racial category<br/> Metal objects that may interfere with chest CT quantification including presence of a cardiac pacemaker, defibrillator, metal prosthetic heart valve, or metal shoulder prosthesis<br/> Subjects with affirmative answers to the following:</p> <ul> <li>chest or abdominal surgery in the past three months</li> <li>a heart attack in the last three months</li> <li>detached retina or eye surgery in the past three months</li> <li>hospitalization for any other heart problem in the past month</li> </ul> <p>Participation in the ECLIPSE study, Boston Early-Onset COPD Study, or International COPD Genetics Network (Selected replication cohorts) </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="20214461"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Pulmonary Disease, Chronic Obstructive"/>
+		<Disease vocab_source="MESH" vocab_term="Emphysema"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>James D. Crapo</AttName>
+			<Institution>National Jewish Health Denver, CO,USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Edwin K. Silverman</AttName>
+			<Institution>Brigham and Women&#39;s Hospital Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01HL089897</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01HL089856</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="COPDGene" url="http://www.copdgene.org/"/>
+		<Url name="phs000179.v4.p2" url="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000179.v4.p2"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>The COPDGene Study was funded by the NHLBI in October 2007 as two U01 grants-one to National Jewish Medical and Research Center (PI: James D. Crapo) and one to Brigham and Women&#39;s Hospital (PI: Edwin K. Silverman). After a pilot study in 2007, study recruitment began in February 2008 at 21 clinical centers throughout the United States. In 2012, the NHLBI funded longitudinal assessment of the COPDGene cohort and additional genetic analysis through paired R01 grants.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="HMB" longName="Health/Medical/Biomedical"/>
+		<ConsentGroup groupNum="2" shortName="DS-CS-RD" longName="Disease-Specific (COPD and Smoking, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000951.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000951.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000951.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical</ConsentName>
+        <ConsentAbbrev>HMB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (COPD and Smoking, RD)</ConsentName>
+        <ConsentAbbrev>DS-CS-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to COPD and Smoking and related disorders.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only
+There are two consent groups for this study: HMB and DS-CS-RD / Disease-Specific (COPD and Smoking, RD):
+For HMB:
+Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+For DS-CS-RD:
+Use of the data must be related to COPD and Smoking and related disorders.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006969.1" type="protocol" createDate="2016-10-05" modDate="2016-10-11" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000951.v1.p1&amp;phd=6969">
+      <OrigName>TOPMed_document.txt</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

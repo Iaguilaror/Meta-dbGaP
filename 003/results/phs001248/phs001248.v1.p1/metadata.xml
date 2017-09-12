@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001248.v1.p1" parentStudy="phs001248.v1.p1" createDate="2016-11-15" modDate="2017-03-06">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Ann Falsey, MD</td><td>University of Rochester, Rochester, NY, USA</td></tr>
+		<tr><td>Investigator</td><td>Tom Mariani, PhD</td><td>University of Rochester, Rochester, NY, USA</td></tr>
+		<tr><td>Funding Source for Respiratory Pathogens Research Center</td><td>HHSN272201200005C</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Gene Array to Predict Bacterial Infection with in Respiratory Illness</StudyNameEntrez>
+	<StudyNameReportPage>Validation of Gene Array to Predict Bacterial Co-infection In Adults Hospitalized with Viral Lower Respiratory Tract Infections (LRTI)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Accurate tests for microbiologic diagnosis of lower respiratory tract infections (LRTI) are needed. Gene expression profiling of whole blood represents a powerful new approach for analysis of the host response during respiratory infection that can be used to supplement pathogen detection testing. Using qPCR, we prospectively validated the differential expression of 10 genes previously shown to discriminate bacterial and non-bacterial LRTI confirming the utility of this approach. In addition, a novel approach using RNAseq analysis identified 141 genes differentially expressed in LRTI subjects with bacterial infection. Using "pathway-informed" dimension reduction, we identified a novel 11 gene set (selected from lymphocyte, &#945;-linoleic acid metabolism, and IGF regulation pathways) and demonstrated a predictive accuracy for bacterial LRTI (nested CV-AUC=0.87). RNAseq represents a new and an unbiased tool to evaluate host gene expression for the diagnosis of LRTI.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion Criteria:</b> <ul> <li>Adults over 21 years of age.</li> <li>Hospitalized with symptoms or admission diagnoses compatible with a respiratory infection (diagnoses of AECOPD, bronchitis, asthma, upper respiratory infection, influenza, viral syndrome, respiratory failure and congestive heart failure with infection, pneumonia and/or symptoms of wheezing, dyspnea, cough, sputum production, nasal congestion, sore throat, hoarseness).</li> <li>Subject or authorized representative will provide informed consent prior to any study procedure.</li> </ul> </p> <p><b>Exclusion Criteria:</b> <ul> <li>Undergoing immunosuppression as a result of an underlying illness or treatment.</li> <li>Using oral or parenteral steroids for greater than 2 weeks prior to admission or other immunosuppressive or cytotoxic drugs.</li> <li>Antibiotic use within 5 days of admission to the hospital.</li> <li>History of receiving immunoglobulin or other blood products within 1 week prior to enrollment in this study.</li> <li>Ongoing active infection at another site in addition to respiratory illness.</li> </ul> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Respiratory Tract Infections"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Ann Falsey, MD</AttName>
+			<Institution>University of Rochester, Rochester, NY, USA</Institution>
+		</Header>
+		<Header title="Investigator">
+			<AttName>Tom Mariani, PhD</AttName>
+			<Institution>University of Rochester, Rochester, NY, USA</Institution>
+		</Header>
+		<Header title="Funding Source for Respiratory Pathogens Research Center">
+			<AttName>HHSN272201200005C</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Respiratory Pathogens Research Center (RPRC)" url="https://www.urmc.rochester.edu/respiratory-pathogens-research-center.aspx"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB-NPU" longName="Health/Medical/Biomedical (IRB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIAID</DacName>
+      <DacFullName>NIAID DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001248.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>6</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001248.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001248.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical (IRB, NPU)</ConsentName>
+        <ConsentAbbrev>HMB-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

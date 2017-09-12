@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000781.v1.p1" parentStudy="phs000781.v1.p1" createDate="2014-07-29" modDate="2017-06-09">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Elizabeth Goldmuntz, MD</td><td>The Children&#39;s Hospital of Philadelphia, Philadelphia, PA , USA</td></tr>
+		<tr><td>Funding Sources</td><td>R01HL74094</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Sources</td><td>UL1RR024134</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Children&#39;s Hospital of Philadelphia: GWAS of Left-Sided Cardiac Defects</StudyNameEntrez>
+	<StudyNameReportPage>Children&#39;s Hospital of Philadelphia: GWAS of Left-Sided Cardiac Defects</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Parent-Offspring Trios</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>This is a family-based genome-wide association study of congenital left-sided cardiac lesions (LSLs). Cases with LSLs and their parents were recruited from the Cardiac Center at The Children&#39;s Hospital of Philadelphia between 1997 and 2010. The discovery dataset included 405 LSL case-parent triads. DNA was extracted from blood or saliva samples from these subjects and genotyping was conducted using the Illumina Infinium II HumanHap550K array (V3). This study was conducted with approval from the Institutional Review Board for the Protection of Human Subjects of The Children&#39;s Hospital of Philadelphia and all research subjects provided either written informed consent or, when appropriate, assent. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Living cases were recruited from the Cardiac Center at The Children&#39;s Hospital of Philadelphia, based on the presence of a congenital left-sided cardiac lesion (hypoplastic left heart syndrome, aortic valve stenosis, coarctation of the aorta, mitral valve anomalies and bicuspid aortic valve). Diagnosis was confirmed based on medical records, including echocardiography, cardiac MRI, cardiac catheterization and/or operative notes. We excluded cases with select variants of hypoplastic left heart syndrome (mal-aligned atrioventricular canal defects and double outlet right ventricle with mitral valve atresia). We also excluded cases with recognized or suspected genetic syndromes. The biological mother and father were recruited when available. No additional exclusion criteria were implemented.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="21987465"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19777601"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25138779"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Heart Defects, Congenital"/>
+		<Disease vocab_source="MESH" vocab_term="Hypoplastic Left Heart Syndrome"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Elizabeth Goldmuntz, MD</AttName>
+			<Institution>The Children&#39;s Hospital of Philadelphia, Philadelphia, PA , USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>R01HL74094</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>UL1RR024134</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>no</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="100" shortName="Analysis" longName="Analysis only"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

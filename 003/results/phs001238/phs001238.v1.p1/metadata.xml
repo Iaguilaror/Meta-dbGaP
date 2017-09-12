@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001238.v1.p1" parentStudy="phs001238.v1.p1" createDate="2016-11-03" modDate="2017-06-15">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Sharon Kardia, PhD</td><td>University of Michigan, Ann Arbor, MI, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Eric Boerwinkle, PhD</td><td>University of Texas Health Science Center, Houston, TX, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Stephen T. Turner, MD</td><td>Mayo Clinic, Rochester, MN, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Thomas H. Mosley, Jr, PhD</td><td>University of Mississippi Medical Center, Jackson, MS, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Patricia A. Peyser, PhD</td><td>University of Michigan, Ann Arbor, MI, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genetic Epidemiology Network of Arteriopathy (GENOA)</StudyNameEntrez>
+	<StudyNameReportPage>Genetic Epidemiology Network of Arteriopathy (GENOA)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Sibling Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Genetic Epidemiology Network of Arteriopathy (GENOA) is one of four networks in the NHLBI Family-Blood Pressure Program (FBPP). GENOA&#39;s long-term objective is to elucidate the genetics of target organ complications of hypertension, including both atherosclerotic and arteriolosclerotic complications involving the heart, brain, kidneys, and peripheral arteries. The longitudinal GENOA Study recruited European-American and African-American sibships with at least 2 individuals with clinically diagnosed essential hypertension before age 60 years. All other members of the sibship were invited to participate regardless of their hypertension status. Participants were diagnosed with hypertension if they had either 1) a previous clinical diagnosis of hypertension by a physician with current anti-hypertensive treatment, or 2) an average systolic blood pressure &#8805; 140 mm Hg or diastolic blood pressure &#8805; 90 mm Hg based on the second and third readings at the time of their clinic visit.</p> <p>The Family Blood Pressure Program (FBPP), GENOA&#39;s parent program, is an unprecedented collaboration to identify genes influencing blood pressure (BP) levels, hypertension, and its target-organ damage. This program has conducted over 21,000 physical examinations, assembled a shared database of several hundred BP and hypertension-related phenotypic measurements, completed genome-wide linkage analyses for BP, hypertension, and hypertension associated risk factors and complications, and published over 130 manuscripts on program findings. The FBPP emerged from what was initially funded as four independent networks of investigators (HyperGEN, GenNet, SAPPHIRe and GENOA) competing to identify genetic determinants of hypertension in multiple ethnic groups. Realizing the greater likelihood of success through collaboration, the investigators created a single confederation with program-wide and network-specific goals.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>At least two siblings in each sibship needed to have essential hypertension diagnosed prior to age 60 years of age, defined as: 1) average of the last 2 out of 3 systolic BP readings &#8805; 140mmHg, or 2) an average of the last 2 out of 3 diastolic BP readings &#8805; 90 mmHg, or 3) previous diagnosis of hypertension and antihypertensive medication prescribed by a physician to be taken daily during the last month.</p> <p>The definition of essential hypertension excluded those with diagnosis of hypertension &#8805; 60 yrs of age, or secondary causes of hypertension including but not limited to prior knowledge of renal parenchymal disease or serum creatinine &#8805; 2.5 mg/dL, renal vascular disease, primary aldosteronism, pheochromocytoma, coarctation of aorta, hypertension associated with current use of oral contraceptive agents, prescription or non-prescription drugs, or active alcohol abuse.</p> <p>Exclusion criteria for all participants included secondary hypertension, alcoholism or drug abuse, pregnancy, breast feeding, and type I diabetes mellitus (juvenile onset, insulin dependent) or active malignancy.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="11799070"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15121494"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19597086"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19351393"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11884284"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18482449"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17550751"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16775034"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18442832"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Hypertension"/>
+		<Disease vocab_source="MESH" vocab_term="Aging"/>
+		<Disease vocab_source="MESH" vocab_term="Arterial Pressure"/>
+		<Disease vocab_source="MESH" vocab_term="Arteriosclerosis"/>
+		<Disease vocab_source="MESH" vocab_term="Atherosclerosis"/>
+		<Disease vocab_source="MESH" vocab_term="Biomarkers"/>
+		<Disease vocab_source="MESH" vocab_term="Blood Pressure"/>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Cholesterol"/>
+		<Disease vocab_source="MESH" vocab_term="Cholesterol, HDL"/>
+		<Disease vocab_source="MESH" vocab_term="Cholesterol, LDL"/>
+		<Disease vocab_source="MESH" vocab_term="Coronary Artery Disease"/>
+		<Disease vocab_source="MESH" vocab_term="Diabetes Mellitus"/>
+		<Disease vocab_source="MESH" vocab_term="Echocardiography"/>
+		<Disease vocab_source="MESH" vocab_term="Endophenotypes"/>
+		<Disease vocab_source="MESH" vocab_term="Hyperglycemia"/>
+		<Disease vocab_source="MESH" vocab_term="Hyperinsulinism"/>
+		<Disease vocab_source="MESH" vocab_term="Hypertrophy, Left Ventricular"/>
+		<Disease vocab_source="MESH" vocab_term="Inflammation"/>
+		<Disease vocab_source="MESH" vocab_term="Kidney Failure, Chronic"/>
+		<Disease vocab_source="MESH" vocab_term="Leukoaraiosis"/>
+		<Disease vocab_source="MESH" vocab_term="Lipids"/>
+		<Disease vocab_source="MESH" vocab_term="Obesity"/>
+		<Disease vocab_source="MESH" vocab_term="Obesity, Abdominal"/>
+		<Disease vocab_source="MESH" vocab_term="Peripheral Arterial Disease"/>
+		<Disease vocab_source="MESH" vocab_term="Renal Insufficiency, Chronic"/>
+		<Disease vocab_source="MESH" vocab_term="Triglycerides"/>
+		<Disease vocab_source="MESH" vocab_term="Vascular Calcification"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Sharon Kardia, PhD</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Eric Boerwinkle, PhD</AttName>
+			<Institution>University of Texas Health Science Center, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Stephen T. Turner, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Thomas H. Mosley, Jr, PhD</AttName>
+			<Institution>University of Mississippi Medical Center, Jackson, MS, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Patricia A. Peyser, PhD</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Jennifer A. Smith, PhD</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Lawrence F. Bielak, DDS, MPH</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="FBPP" url="http://www.biostat.wustl.edu/fbpp/FBPP.shtml"/>
+		<Url name="STAMPEED" url="https://dsgweb.wustl.edu/stampeed"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>During the first exam (Phase 1; 1996-2000), 1,583 European-Americans from Rochester, MN and 1,854 African-Americans from Jackson, MS were examined. Between 2000 and 2004 (Phase 2), 1,241 participants of the European-American Cohort and 1,482 participants of the African-American cohort returned for a second examination. The second examination of the European-American cohort included computed tomography scans for coronary artery calcification while the second examination of the African-American cohort included an echocardiogram. During this time period, an MRI of the brain was obtained through the Genetics of Microangiopathic Brian Injury (GMBI) Study. Between 2007 and 2009, an examination that focused on measures of renal disease (CKD Study) was conducted on 625 participants of the European-American cohort and 611 participants of the African-American cohort. Between 2009 and 2011, an examination that included computed tomography scans for coronary artery calcification (CAC Study) was conducted on 752 participants of the African-American Cohort.</p> <p> <b>Name of grant</b>: Genetic Mechanisms of Arteriosclerosis in Hypertensive Sibships<br/> <b>Agency number</b>: NIH, NHLBI, R01 HL119443<br/> <b>PI</b>: Sharon LR Kardia, PhD<br/> <b>Dates</b>: 2014-2018<br/> <b>Specific aims</b>: To use existing exome variant data plus 1000 Genomes data and transcriptomic profiling to identify and study functional variations in the genome in GENOA European-American and African-American sibships.<br/> <b>Cohort</b>: European-Americans, African-Americans </p> <p> <b>Name of grant</b>: Predictors of Coronary Artery Calcification in an African-American Cohort (CAC Study)<br/> <b>Agency number</b>: NIH, NHLBI, R01 HL085571<br/> <b>PI</b>: Patricia A Peyser, PhD<br/> <b>Dates</b>: 2007-2011<br/> <b>Specific aims</b>: Assess coronary artery calcification quantity in African-American siblings from the GENOA Field Center in Jackson, MS and localize genes influencing coronary artery calcification quantity.<br/> <b>Cohort</b>: African-Americans </p> <p> <b>Name of grant</b>: Genomic Predictors of Arteriosclerosis in Hypertensives<br/> <b>Agency number</b>: NIH, NHLBI, R01 HL087660<br/> <b>PI</b>: Sharon LR Kardia, PhD<br/> <b>Dates</b>: 2007-2010<br/> <b>Specific aims</b>: Conduct genome-wide association study of phenotypic measures of arteriosclerosis and investigate the role of context dependent genetic effects on the distribution of target organ disease.<br/> <b>Cohort</b>: European-Americans, African-Americans </p> <p> <b>Name of grant</b>: Genetics of Chronic Kidney Disease (CKD Study)<br/> <b>Agency number</b>: NIH, NIDDK, R01 DK073537<br/> <b>PI</b>: Stephen T Turner, MD<br/> <b>Dates</b>: 2006-2010<br/> <b>Specific aims</b>: Identify genetic predictors of chronic kidney disease in previously well-characterized European-American and African-American sibships with 2 or more hypertensive members.<br/> <b>Cohort</b>: European-Americans, African-Americans </p> <p> <b>Name of grant</b>: Genetics of Microangiopathic Brian Injury (GMBI)<br/> <b>Agency number</b>: NIH, NINDS, R01 NS041558<br/> <b>PI</b>: Stephen T Turner, MD<br/> <b>Dates</b>: 2001-2005 and 2009-2010<br/> <b>Specific aims</b>: Identify genes contributing to ischemic damage to the subcortical white matter of the brain, referred to as leukoaraiosis.<br/> <b>Cohort</b>: European-Americans, African-Americans </p> <p> <b>Name of grant</b>: NHLBI Family Blood Pressure Program (Phase 2)<br/> <b>Agency number</b>: NIH, NHLBI, U10 HL054464<br/> <b>PI</b>: Stephen T Turner, MD<br/> <b>Dates</b>: 2000-2004<br/> <b>Specific aims</b>: To identify genes influencing blood pressure levels, hypertension and its target-organ damage.<br/> <b>Cohort</b>: European-Americans, African-Americans </p> <p> <b>Name of grant</b>: Genetic Determinants of High BP in Three Racial Groups (Phase 1)<br/> <b>Agency number</b>: NIH, NHLBI, U10 HL054464<br/> <b>PI</b>: Stephen T Turner, MD<br/> <b>Dates</b>: 1995-1999<br/> <b>Specific aims</b>: To identify genes influencing blood pressure levels, hypertension and its target-organ damage.<br/> <b>Cohort</b>: European-Americans, African-Americans </p> <p> <b>Name of grant</b>: Genetic Determinants of High BP in Three Racial Groups (Phase 1)<br/> <b>Agency number</b>: NIH, NHLBI, U10 HL054457<br/> <b>PI</b>: Charles Sing, PhD (1995-1999); Sharon LR Kardia PhD (2000-2004)<br/> <b>Dates</b>: 1995-2004<br/> <b>Specific aims</b>: To identify genes influencing blood pressure levels, hypertension and its target-organ damage.<br/> <b>Cohort</b>: European-Americans, African-Americans </p> <p> <b>Name of grant</b>: Genetic Determinants of High BP in Three Racial Groups (1995-2004) / The Family Blood Pressure Program (GENOA Network) (2005-2007) (Phase 1 and Phase 2)<br/> <b>Agency number</b>: NIH, NHLBI, U10 HL054481<br/> <b>PI</b>: Eric Boerwinkle, PhD<br/> <b>Dates</b>: 1995-2007<br/> <b>Specific aims</b>: To identify genes influencing blood pressure levels, hypertension and its target-organ damage.<br/> <b>Cohort</b>: European-Americans, African-Americans </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="DS-ASC-RF-NPU" longName="Disease-Specific (Arteriosclerosis and its Risk Factors, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001238.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001238.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001238.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Arteriosclerosis and its Risk Factors, NPU)</ConsentName>
+        <ConsentAbbrev>DS-ASC-RF-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Arteriosclerosis and its Risk Factors.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006976.1" type="protocol" createDate="2016-12-27" modDate="2016-12-27" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006976.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001238.v1.p1&amp;phd=6976">
+      <OrigName>HealthHistoryREADME.docx</OrigName>
+      <DisplayName>GENOA Health History README.</DisplayName>
+      <Description>GENOA Health History README.</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd006976.1" sectionId="phd006976">
+      <phvList>
+        <phvRef variableId="6038"/>
+        <phvRef variableId="6043"/>
+        <phvRef variableId="6050"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006976.1" sectionId="pr1">
+      <phvList>
+        <phvRef variableId="277418"/>
+        <phvRef variableId="277592"/>
+        <phvRef variableId="277867"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006976.1" sectionId="pr2">
+      <phvList>
+        <phvRef variableId="277419"/>
+        <phvRef variableId="277593"/>
+        <phvRef variableId="277868"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006976.1" sectionId="pr3">
+      <phvList>
+        <phvRef variableId="277420"/>
+        <phvRef variableId="277594"/>
+        <phvRef variableId="277869"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001257.v2.p1" parentStudy="phs001257.v2.p1" createDate="2017-03-15" modDate="2017-03-15">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Andy Futreal, PhD</td><td>UT MD Anderson Cancer Center, Houston, TX, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Jennifer Wargo, MD</td><td>UT MD Anderson Cancer Center, Houston, TX, USA</td></tr>
+		<tr><td>Funding Source</td><td>5U54CA163125-04</td><td>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genetic Analysis of Tumor Samples</StudyNameEntrez>
+	<StudyNameReportPage>Loss of IFN-gamma Signaling in Tumor Cells Associates with Primary Resistance to Anti-CTLA-4 Therapy</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Antibody blockade of the inhibitory CTLA-4 pathway has led to clinical benefit in a subset of patients with metastatic melanoma. Anti-CTLA-4 enhances T cell responses, including production of IFN-&#947;, which is a critical cytokine for host immune responses. However, the role of IFN-&#947; signaling in tumor cells in the setting of anti-CTLA-4 therapy remains unknown. Here we demonstrate that, based upon exome sequencing data, patients identified as non-responders to anti-CTLA-4 (ipilimumab) harbor a much higher genomic defects in the IFN-&#947; pathway genes than melanoma patients who had clinical response to ipilimumab therapy.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27667683"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Melanoma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Andy Futreal, PhD</AttName>
+			<Institution>UT MD Anderson Cancer Center, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Jennifer Wargo, MD</AttName>
+			<Institution>UT MD Anderson Cancer Center, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>5U54CA163125-04</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-M-PUB-NPU" longName="Disease-Specific (Melanoma, PUB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001257.v2.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001257.v2.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001257.v2.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Melanoma, PUB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-M-PUB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Melanoma.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

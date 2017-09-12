@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000935.v1.p1" parentStudy="phs000935.v1.p1" createDate="2015-06-16" modDate="2016-11-21">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Nancy Spinner, PhD</td><td>Children&#39;s Hospital of Philadelphia, Philadelphia, PA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Ian Krantz, MD</td><td>Children&#39;s Hospital of Philadelphia, Philadelphia, PA, USA</td></tr>
+		<tr><td>Funding Source</td><td>UO1HG006546</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Applying Genomic Sequencing in Pediatrics (PediSeq)</StudyNameEntrez>
+	<StudyNameReportPage>The CHOP Pediatric Genetic Sequencing (PediSeq) Project : Applying Genomic Sequencing in Pediatrics</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cross-Sectional</StudyType>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The purpose of this research study is to learn more about newer types of genetic testing called whole exome sequencing and whole genome sequencing. Current genetic testing usually examines one gene or a few genes at a time. Exome and genome sequencing allow us to test most of a person&#39;s genes at one time with a single test. This testing might identify the reason for a person&#39;s unexplained condition or diagnosis.</p> <p>We hope this study will help us identify the best methods for: <ul> <li>Educating patients and families about exome and genome sequencing</li> <li>Analyzing exome and genome sequencing data to identify results relevant to patients</li> <li>Giving results to families in a clear, appropriate, and informative manner</li> </ul> </p> <p>The current data only includes WES for 159 samples. The WGS samples for 20 samples will be uploaded in the near future.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion Criteria of the study:</b> <ol> <li>Male or female patients seen at CHOP with a suspected genetic condition or their family members.</li> <li>Parental/guardian permission (informed consent) and if appropriate, child assent.</li> </ol> </p> <p>Due to the complexity of the study and surveys/interviews, all individuals providing consent (parents and adult participants) will need to be able to read and understand English or sign language in order to complete the consent process and the study surveys/interviews. All individuals providing assent will need to be capable of understanding English or sign language. (Individuals not providing assent would include children under the age of 7 years or individuals with cognitive impairment.)</p> <p><b>Exclusion criteria for the study:</b> <ol> <li>Subjects who are unable to provide a DNA source.</li> <li>Parents/guardians or subjects who, in the opinion of the Investigator, may be non-compliant with study schedules or procedures.</li> </ol> </p> <p>Subjects that do not meet all of the enrollment criteria may not be enrolled. Any violations of these criteria must be reported in accordance with IRB Policies and Procedures.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Genetic Testing"/>
+		<Disease vocab_source="MESH" vocab_term="Bilateral Sensorineural Hearing Loss"/>
+		<Disease vocab_source="MESH" vocab_term="Sudden Cardiac Arrest"/>
+		<Disease vocab_source="MESH" vocab_term="Intellectual disability"/>
+		<Disease vocab_source="MESH" vocab_term="Autism"/>
+		<Disease vocab_source="MESH" vocab_term="Mitochondrial Respiratory Chain Deficiencies"/>
+		<Disease vocab_source="MESH" vocab_term="Blood Platelet Disorders"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Nancy Spinner, PhD</AttName>
+			<Institution>Children&#39;s Hospital of Philadelphia, Philadelphia, PA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Ian Krantz, MD</AttName>
+			<Institution>Children&#39;s Hospital of Philadelphia, Philadelphia, PA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>UO1HG006546</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="The CHOP PediSeq Project" url="http://pediseq.research.chop.edu"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000935.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000935.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000935.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

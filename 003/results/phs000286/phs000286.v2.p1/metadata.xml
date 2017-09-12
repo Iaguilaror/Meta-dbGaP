@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000286.v2.p1" parentStudy="phs000286.v2.p1" createDate="2011-09-20" modDate="2011-09-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>CARe Project Officers</td><td>George Papanicolaou, PhD</td><td>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</td></tr>
+		<tr><td>CARe Project Officers</td><td>Dina Paltoo, PhD</td><td>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</td></tr>
+		<tr><td>Candidate Gene Association Resource (CARe) - Broad Institute</td><td>HHSN268200625226C (ADB No. N01-HC-65226)</td><td>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe)</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI Jackson Heart Study Candidate Gene Association Resource (CARe)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Jackson Heart Study (JHS) is a large, community-based, observational study whose participants were recruited from 	urban and rural areas of the three counties (Hinds, Madison and Rankin) that make up the Jackson, Mississippi, metropolitan 	statistical area (MSA).  Participants were enrolled from each of 4 recruitment pools: random, 17%; volunteer, 30%; 	currently enrolled in the Atherosclerosis Risk in Communities (ARIC) Study, 22% and secondary family members, 31%. 	Recruitment was limited to non-institutionalized adult African Americans 35-84 years old, except in the family cohort 	where those 21 to 34 years of age were eligible. The final cohort of 5,301 participants includes 6.59% of all African 	American Jackson MSA residents aged 35-84 (N-76,426, US Census 2000). Major components of each exam include medical 	history, physical examination, blood/urine analytes and interview questions on areas such as: physical activity; 	stress, coping and spirituality; racism and discrimination; socioeconomic position; and access to health care. 	At 12-month intervals after the baseline clinic visit (Exam 1), participants are contacted by telephone to: 	update information; confirm vital statistics; document interim medical events, hospitalizations, and functional 	status; and obtain additional sociocultural information. Questions about medical events, symptoms of cardiovascular 	disease and functional status are repeated annually. Ongoing cohort surveillance includes abstraction of medical 	records and death certificates for relevant International Classification of Diseases (ICD) codes and adjudication 	of nonfatal events and deaths.</p> 	<p><b>NHLBI Candidate-gene Association Resource.</b> The NHLBI initiated the Candidate gene Association Resource (CARe) to create a shared genotype/phenotype resource for analyses of the association of genotypes with phenotypes relevant to the mission of the NHLBI. The resource comprises nine cohort studies funded by the NHLBI including: Atherosclerosis Risk in Communities (ARIC), Cardiovascular Health Study (CHS), Cleveland Family Study (CFS), Coronary Artery Risk Development in Young Adults (CARDIA), Framingham Heart Study (FHS), Jackson Heart Study (JHS), Multi-Ethnic Study of Atherosclerosis (MESA), and the Sleep Heart Health Study (SHHS). A database of genotype and phenotype data was created that includes records for approximately 41,000 study participants with approximately 50,000 SNPs from more than 2,000 selected candidate genes. In addition, a genome wide association study using a 1,000K SNP Chip was conducted on approximately 8,900 African American participants drawn from five CARe cohorts: ARIC, CARDIA, CFS, JHS, and MESA. Data from individual cohorts is available to approved investigators through dbGaP.</p> 	<p><b>Some relevant CARe publications</b><br/> 	CARe Study: PMID <a href="http://www.ncbi.nlm.nih.gov/pubmed/20400780" target="_blank">20400780</a><br/> 	CVD Chip Design: PMID <a href="http://www.ncbi.nlm.nih.gov/pubmed/18974833" target="_blank">18974833</a> 	</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Recruitment was limited to non-institutionalized adult African Americans 35-84 years old, except in the family cohort where 	those 21 to 34 years of age were eligible.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="20400780"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18974833"/>
+		</Publication>
+	</Publications>
+	<Attributions>
+		<Header title="CARe Project Officers">
+			<AttName>George Papanicolaou, PhD</AttName>
+			<Institution>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="CARe Project Officers">
+			<AttName>Dina Paltoo, PhD</AttName>
+			<Institution>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Candidate Gene Association Resource (CARe) - Broad Institute">
+			<AttName>HHSN268200625226C (ADB No. N01-HC-65226)</AttName>
+			<Institution>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Jackson Heart Study" url="http://jhs.jsums.edu/jhsinfo/Default.aspx"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects."/>
+		<ConsentGroup groupNum="1" shortName="NCU" longName="Non-Commercial Use"/>
+		<ConsentGroup groupNum="2" shortName="FNC" longName="Focused Diseases for Non-Commercial Use"/>
+		<ConsentGroup groupNum="3" shortName="GRU" longName="General Research Use"/>
+		<ConsentGroup groupNum="4" shortName="FDO" longName="Focused Disease Only"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>nhlbigeneticdata@nhlbi.nih.gov</DacEmail>
+      <DacPhone></DacPhone>
+      <DacFax>(301) 480-1455</DacFax>
+      <DacUrl>http://grants.nih.gov/grants/gwas</DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000286.v2.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+               http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000286.v2.p1
+           </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000286.v2.p1" FileName="JHS_cohort_centric_DUC_final_Dec_15_2011.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Non-Commercial Use</ConsentName>
+        <ConsentAbbrev>NCU</ConsentAbbrev>
+        <UseLimitation>The informed consent document signed by JHS participants in this group allows use of these data for non-commercial applications only. Direct use of these data by private companies to develop diagnostics or therapeutics is NOT allowed under the current consent; full or expedited IRB approval is required for data access.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Focused Diseases for Non-Commercial Use</ConsentName>
+        <ConsentAbbrev>FNC</ConsentAbbrev>
+        <UseLimitation>The informed consent document signed by JHS participants in this group allows use of these data for the study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only. Use of these data to study other diseases (e.g. cancer, schizophrenia) is NOT allowed under the current consent. Consent is further restricted to use of these data for non-commercial applications only. Direct use of these data by private companies to develop diagnostics or therapeutics is NOT allowed under the current consent; full or expedited IRB approval is required for data access.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>The informed consent document signed by JHS participants in this group allows use of these data by investigators employed by non-profit and for-profit organizations. These data may be used by private companies in the development of diagnostics and therapeutics under the current consent; full or expedited IRB approval is required for data access.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Focused Disease Only</ConsentName>
+        <ConsentAbbrev>FDO</ConsentAbbrev>
+        <UseLimitation>The informed consent document signed by JHS participants in this group allows use of these data for the study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only. Use of these data to study other diseases (e.g. cancer, schizophrenia) is NOT allowed under the current consent; full or expedited IRB approval is required for data access.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd003135.1" type="protocol" createDate="2010-06-30" modDate="2011-09-27" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003135.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000286.v2.p1&amp;phd=3135">
+      <OrigName>CAReCont.rtf</OrigName>
+      <DisplayName>Contents of CARe SAS Analysis Dataset</DisplayName>
+      <Description>Contents of CARe SAS Analysis Dataset</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003136.1" type="protocol" createDate="2010-06-30" modDate="2011-09-27" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003136.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000286.v2.p1&amp;phd=3136">
+      <OrigName>visit1_analysis.pdf</OrigName>
+      <DisplayName>Jackson Heart Study Analysis Manual</DisplayName>
+      <Description>Jackson Heart Study Analysis Manual</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

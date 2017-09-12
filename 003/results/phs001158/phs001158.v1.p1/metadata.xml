@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001158.v1.p1" parentStudy="phs001158.v1.p1" createDate="2016-06-21" modDate="2017-07-20">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Theodore J. Price</td><td>Brain and Behavioral Sciences, The University of Texas at Dallas, Richardson, TX, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01NS065926</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Human Dorsal Root Ganglion PolyA RNA Seq Dataset</StudyNameEntrez>
+	<StudyNameReportPage>Human Dorsal Root Ganglion PolyA RNA Seq Dataset</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>PolyA+ RNA sequencing was performed on human DRGs and were contrasted to a panel of relevant human and mouse RNA-seq studies (integrating, among other sources, datasets from ENCODE and GTex) in order to identify tissue-specific gene expression and alternative splicing in DRG, and contrasting the human and mouse DRG transcriptomes. Relevant sets of DRG-specific genes and splice variants were identified in human and mouse in a high-throughput way, creating a roadmap for future studies for deeper analysis of these transcripts from a molecular biological and pharmacological (in the context of chronic pain) perspective. Additionally, human DRG transcriptomes from donors suffering from chronic pain were contrasted with donors with no history of chronic pain.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion</b> criteria: No explicit inclusion criteria, except that all subjects were organ donors.</p> <p><b>Exclusion</b> criteria: All subjects needed to be adult humans, with intact DRGs at the time of post-mortem extraction. </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Journal authors="Torck A, Kim J, Zhang M, Dussor G, Price T, Ray P" title="RNA-seq based transcriptome profiling of human and mouse dorsal root ganglia provides insights into potential new pain targets" journal="The Journal of Pain, Apr 2016, Vol 17, Issue 4, Supplement, S44"/>
+		</Publication>
+		<Publication>
+			<Journal authors="Lam T, Torck A, Dussor G, Price T, Ray P" title="A public resource to explore and compare the human and mouse dorsal root ganglion (DRG) transcriptome" journal="The Journal of Pain, Apr 2016, Vol 17, Issue 4, Supplement, S49"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Chronic Pain"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Theodore J. Price</AttName>
+			<Institution>Brain and Behavioral Sciences, The University of Texas at Dallas, Richardson, TX, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01NS065926</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="UT Dallas - Pain Neurobiology Research Group" url="http://www.utdallas.edu/bbs/painneurosciencelab/DRGtranscriptome/search.php?go"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>This study is part of a broader set of studies performed at the Pain Neurobiology Research Group at The University of Texas at Dallas, characterizing the "sensory transcriptome". We integrated high throughput transcriptome-profiling assay data for multiple species, across multiple sensory cell types and tissues, and across healthy and pain states to help characterize the role of specific transcripts or transcript sets in sensory neuronal function, disease and as drug targets.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NINDS</DacName>
+      <DacFullName>National Institute of Neurological Disorders and Stroke</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001158.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001158.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001158.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

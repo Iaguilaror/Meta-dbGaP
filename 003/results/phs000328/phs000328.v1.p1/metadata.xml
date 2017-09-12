@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000328.v1.p1" parentStudy="phs000328.v1.p1" createDate="2010-11-22" modDate="2011-03-22">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Riccardo Dalla-Favera</td><td>Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University, New York, NY, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Laura Pasqualucci</td><td>Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University, New York, USA</td></tr>
+		<tr><td>Funding Source</td><td>PO1-CA-092625</td><td>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>RO1 CA-37295</td><td>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genome-wide Analysis of Lymphoma</StudyNameEntrez>
+	<StudyNameReportPage>High density copy number analysis and whole exome sequencing of diffuse large B-cell lymphoma</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Tumor vs. Matched-Normal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Diffuse Large B-cell Lymphoma (DLBCL) represents the most common form of B-cell non-Hodgkin Lymphoma (B-NHL), accounting for ~30% 	of the de-novo diagnoses and also arising as a frequent clinical evolution of Follicular Lymphoma (FL). The molecular pathogenesis 	of DLBCL is associated with multiple genetic lesions that in part distinctly segregate with individual phenotypic subtypes, suggesting 	the involvement of distinct oncogenic pathways. However, the lesions identified so far likely represent only a fraction of those 	necessary for malignant transformation. In order to characterize the entire set of structural alterations present in the DLBCL 	genome, we have integrated next generation whole exome sequencing analysis of 7 DLBCL cases and genome-wide high-density SNP 	array analysis of 72 DLBCL cases. We report here that FL and DLBCL harbor frequent structural alterations inactivating CREBBP, 	and more rarely, EP300, two highly related histone and non-histone acetyltransferases (HATs) that act as transcriptional 	co-activators in multiple signaling pathways. Overall, ~37% of DLBCL and 36% of FL cases display genomic deletions and/or 	somatic point mutations that remove or inactivate the HAT coding domain of these two genes. These lesions commonly affect a 	single allele, suggesting that reduction in HAT dosage is important for lymphomagenesis. We demonstrate specific defects in 	the acetylation-mediated inactivation of the BCL6 onco-protein and activation of the p53 tumor suppressor. These results 	identify CREBBP/EP300 mutations as a major pathogenetic mechanism shared by common forms of B-NHL, and have direct 	implications for the use of drugs targeting acetylation/deacetylation mechanisms.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p> 		<ol> 			<li>Previously untreated, de novo diagnoses of Diffuse Large B-cell Lymphoma.</li> 			<li>For the whole exome sequencing study, matched tumor and normal genomic DNA.</li> 		</ol> 	</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="19412164"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21390126"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21156281"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Lymphoma, Large B-Cell, Diffuse"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Riccardo Dalla-Favera</AttName>
+			<Institution>Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Laura Pasqualucci</AttName>
+			<Institution>Institute for Cancer Genetics, Herbert Irving Comprehensive Cancer Center, Columbia University, New York, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>PO1-CA-092625</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>RO1 CA-37295</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="CRM" longName="Cancer Research and Methods"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>eNCI DAC</DacName>
+      <DacFullName>Extramural NCI Data Access Committee</DacFullName>
+      <DacEmail>ncidac@mail.nih.gov</DacEmail>
+      <DacPhone></DacPhone>
+      <DacFax>301-435-5477</DacFax>
+      <DacUrl>http://grants.nih.gov/grants/gwas</DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000328.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+               http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000328.v1.p1
+            </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000328.v1.p1" FileName="Data_Use_Certification-Genome-wideAnalysis_of_Lymphoma-11.25.10.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Cancer Research and Methods</ConsentName>
+        <ConsentAbbrev>CRM</ConsentAbbrev>
+        <UseLimitation>Use of the dataset is limited to scientific research relevant to the etiology, prevention, treatment and late complications of treatment of cancer, including applications proposing analytical methods, software or other research tool development. Investigators must state in the Data Access Request their intention to publish or otherwise broadly share any finding from his/her study with the scientific community.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

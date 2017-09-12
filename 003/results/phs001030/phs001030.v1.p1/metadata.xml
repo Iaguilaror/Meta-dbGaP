@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001030.v1.p1" parentStudy="phs001030.v1.p1" createDate="2015-11-09" modDate="2015-11-09">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Robert Couch, MD</td><td>Baylor College of Medicine, Houston, Texas, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>John W. Belmont, MD, PhD</td><td>Children&#39;s Nutrition Research Center, Baylor College of Medicine, Houston, Texas, USA</td></tr>
+		<tr><td>Funding Source</td><td>NO1-AI-030039</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Viral Respiratory Pathogens Genetics</StudyNameEntrez>
+	<StudyNameReportPage>Viral Respiratory Pathogens Genetics</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The overall purpose of this study is to investigate the host genetic factors in response to influenza virus infection, with the focus on influenza vaccination in the first substudy "Adult Influenza Vaccine Genetics" and with the focus on influenza natural infection and other acute respiratory infections (ARIs) in the second substudy "Acute Viral Respiratory Infection Genetics". In the first substudy, healthy adults were enrolled in 2008 (male cohort) and 2010 (female cohort) and immunized with seasonal influenza vaccine. In the second substudy, healthy adults were invited to enroll to be followed for acute respiratory illness through two consecutive influenza seasons 2009-2010 and 2010-2011. Peripheral blood genomic DNA samples were collected from all the subjects, and time-series RNA and serum samples were obtained pre- and post- immunization/infection. Genotyping was carried out on peripheral blood genomic DNA samples using Illumina HumanOmniExpress-12 v1 arrays. Peripheral blood RNA samples obtained at each visit were analyzed using Illumina Human HT-12 (for all the samples) and HiSeq 2000 (for 130 samples in the "Acute Viral Respiratory Infection Genetics" study). Serum specimens were tested using hemagglutination-inhibition (HAI) antibody assay for Influenza H1N1, H3N2, and Influenza B strains.</p> <p>A detailed description of each substudy is provided under their own pages below and via the grouping tool in the right-hand box: <ul> <li><a href="./study.cgi?study_id=phs000635">phs000635</a> Adult Influenza Vaccine Genetics</li> <li><a href="./study.cgi?study_id=phs001031">phs001031</a> Acute Viral Respiratory Infection Genetics</li> </ul> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion Criteria:</b></p> <p>For both "Adult Influenza Vaccine Genetics" and "Acute Viral Respiratory Infection Genetics": <ol> <li>Adults age 18 to 49 at Texas A&amp;M University and in the community.</li> <li>In good health, as determined by vital signs (heart rate, blood pressure, oral temperature), medical history and a targeted physical examination based on medical history.</li> <li>Able to understand and comply with planned study procedures.</li> <li>Provides informed consent prior to any study procedures and is available for all study visits.</li> <li>Women of childbearing potential (not surgically sterile or postmenopausal for &#8805;1 year) must agree to practice adequate contraception (i.e., barrier method, abstinence, intrauterine device, and/or a licensed hormonal method) for the study period.</li> <li>For "Acute Viral Respiratory Infection Genetics" only: Able to report to the study site within 48 hours of onset with a moderate or severe ARI (with fever or that causes them to miss school, work, or social activities) during the surveillance period.</li> </ol> </p> <p><b>Exclusion Criteria:</b></p> <p>For both "Adult Influenza Vaccine Genetics" and "Acute Viral Respiratory Infection Genetics": <ol> <li>Is undergoing immunosuppression as a result of an underlying illness or treatment.</li> <li>Has an active neoplastic disease or a history of any hematologic malignancy.</li> <li>Is using oral or parenteral steroids or other immunosuppressive or cytotoxic drugs.</li> <li>Has a history of receiving immunoglobulin or other blood product within the 3 months prior to enrollment in this study.</li> <li>Has a diagnosis of schizophrenia, bipolar disease or other major psychiatric diagnosis.</li> <li>Has received any other licensed vaccines within 2 weeks (for inactivated vaccines) or 4 weeks (for live vaccines) prior to enrollment in this study.</li> <li>Has an acute or chronic medical condition that, in the opinion of the investigator would interfere with the evaluation of responses (this includes, but is not limited to: known chronic liver disease, significant renal disease, unstable or progressive neurological disorders, diabetes mellitus, and transplant recipients).</li> <li>Has an acute illness, including an oral temperature greater than 100.4&#176;F, within 1 week prior to vaccination.</li> <li>Received an experimental agent (vaccine, drug, biologic, device, blood product, or medication) within 1 month prior to enrollment in the study.</li> <li>Is planning to enroll in another clinical trial at any time during the study period.</li> <li>Has known active human immunodeficiency virus, hepatitis B or hepatitis C infection.</li> <li>Has a history of alcohol or drug abuse in the last 5 years.</li> <li>Has a history of Guillain-Barre syndrome.</li> <li>Has any condition that would, in the opinion of the site investigator, place the subject at an unacceptable risk of injury or render the subject unable to meet the requirements of the protocol.</li> <li>Is pregnant, has not practiced acceptable prophylaxis for the past three months and will not do so for the next three months, or anticipates becoming pregnant for the duration of the study.</li> <li>Is a known relative of a previously enrolled study subject.</li> <li>Positive urine pregnancy test, or breast feeding.</li> <li>For "Adult Influenza Vaccine Genetics" only: Has received an influenza vaccine in the past three years.</li> <li>For "Adult Influenza Vaccine Genetics" only: Has a known allergy to eggs, chicken protein or other components of the vaccine.</li> <li>For "Adult Influenza Vaccine Genetics" only: Has a history of severe reactions following immunization with contemporary influenza virus vaccines.</li> <li>For "Adult Influenza Vaccine Genetics" only: Is of non-European heritage.</li> </ol> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="22075792"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23307936"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="26070066"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21357945"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23878721"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Influenza, Human"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Robert Couch, MD</AttName>
+			<Institution>Baylor College of Medicine, Houston, Texas, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>John W. Belmont, MD, PhD</AttName>
+			<Institution>Children&#39;s Nutrition Research Center, Baylor College of Medicine, Houston, Texas, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>NO1-AI-030039</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB" longName="General Research Use (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIAID</DacName>
+      <DacFullName>NIAID DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001030.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001030.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001030.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

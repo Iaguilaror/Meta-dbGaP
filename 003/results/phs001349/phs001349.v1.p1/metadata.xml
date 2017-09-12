@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001349.v1.p1" parentStudy="phs001349.v1.p1" createDate="2017-04-06" modDate="2017-08-09">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Katherine Nathanson, MD</td><td>Department of Medicine, Division of Translational Medicine and Human Genetics, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Peter Kanetsky, PhD, MPH</td><td>Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Stephen Schwartz, PhD</td><td>Fred Hutchinson Cancer Research Center, Seattle, Washington, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>D. Timothy Bishop, PhD</td><td>Section of Epidemiology and Biostatistics, Leeds Institute of Cancer and Pathology, University of Leeds, Leeds, UK</td></tr>
+		<tr><td>Principal Investigators</td><td>Katherine McGlynn, PhD</td><td>Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Meta-Analysis of Five Genome-Wide Association Studies of TGCT</StudyNameEntrez>
+	<StudyNameReportPage>Meta-analysis of five genome-wide association studies identifies multiple new loci associated with testicular germ cell tumor</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The international TEsticular CAncer Consortium (TECAC) combined information from five GWAS (3,558 TGCT cases and 13,970 controls) to identify novel susceptibility loci. Using observed and imputed data, we conducted a fixed effects meta-analysis, including the first analysis of the X chromosome. Eight new loci mapping to 2q14.2, 3q26.2, 4q35.2, 7q36.3, 10q26.13, 15q21.3, 15q22.31, and Xq28 achieved genome-wide significance (<i>P&lt;5x10<sup>-8</sup></i>). Most loci harbor biologically plausible candidate genes. We also refined previously reported associations at 9p24.3 and 19p12 by identifying one and three additional independent SNPs, respectively. In aggregate, the 39 independent markers identified to date explain 37% of father-to-son risk, 8% of which can be attributed to the 12 new signals reported here. Our new findings substantially increase the number of known TGCT susceptibility alleles, move the field closer to a comprehensive understanding of the underlying genetic architecture of TGCT, and provide further clues into the biological etiology of TGCT.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Testicular Germ Cell Tumor"/>
+		<Disease vocab_source="MESH" vocab_term="Genetic Loci"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Katherine Nathanson, MD</AttName>
+			<Institution>Department of Medicine, Division of Translational Medicine and Human Genetics, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Peter Kanetsky, PhD, MPH</AttName>
+			<Institution>Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Stephen Schwartz, PhD</AttName>
+			<Institution>Fred Hutchinson Cancer Research Center, Seattle, Washington, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>D. Timothy Bishop, PhD</AttName>
+			<Institution>Section of Epidemiology and Biostatistics, Leeds Institute of Cancer and Pathology, University of Leeds, Leeds, UK</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Katherine McGlynn, PhD</AttName>
+			<Institution>Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Mark Greene, MD</AttName>
+			<Institution>Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Department of Health and Human Services, Bethesda, Maryland, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Fredrik Wiklund, PhD</AttName>
+			<Institution>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Ewa Rajpert-De Meyts, MD, DMSc</AttName>
+			<Institution>Department of Growth and Reproduction, Copenhagen University Hospital (Rigshospitalet), Copenhagen, Denmark</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Clare Turnbull, MD, PhD, MA, MSc, MRCP</AttName>
+			<Institution>Division of Genetics and Epidemiology, Institute of Cancer Research, London, UK</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01-CA16947</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01-CA114478</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Intramural Research program of the National Cancer Institute</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Abramson Cancer Center at the University of Pennsylvania</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>no</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="100" shortName="Analysis" longName="Analysis only"/>
+	</ConsentGroups>
+</Configuration>
+
+  <Documents>
+    <Document phd="phd007230.1" type="protocol" createDate="2017-05-09" modDate="2017-08-09" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007230.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001349.v1.p1&amp;phd=7230">
+      <OrigName>Penn_dbGAP_summary_data_for_uploadvars.docx</OrigName>
+      <DisplayName>Penn dbGAP Summary Data for Uploadvars</DisplayName>
+      <Description>Penn dbGAP Summary Data for Uploadvars</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+<Analyses>
+	<Analysis pha="4542" genomeBuild="38" snpBuild="150" analysisType="">
+		<Description>The international TEsticular CAncer Consortium (TECAC) combined five published genome-wide association studies of testicular germ cell tumors (TGCT; 3,558 cases and 13,970 controls) to identify novel susceptibility loci. We conducted a fixed effects meta-analysis, including the first analysis of the X chromosome. Eight new loci mapping to 2q14.2, 3q26.2, 4q35.2, 7q36.3, 10q26.13, 15q21.3, 15q22.31, and Xq28 achieved genome-wide significance (P &#60; 5x10-8). Most loci harbor biologically plausible candidate genes. We refined previously reported associations at 9p24.3 and 19p12 by identifying one and three additional independent SNPs, respectively. In aggregate, the 39 independent markers identified to date explain 37% of father-to-son risk, 8% of which can be attributed to the 12 new signals reported here. Our findings substantially increase the number of known TGCT susceptibility alleles, move the field closer to a comprehensive understanding of the underlying genetic architecture of TGCT, and provide further clues into the etiology of TGCT.</Description>
+		<Method>Binary-meta-analysis</Method>
+		<GtyPlatform probeNum="85126316" snpBatchId="1061891">
+			<Vendor>dbSNP</Vendor>
+			<VendorURL>1000 Genome Phase3_V1</VendorURL>
+			<Platform>1000G</Platform>
+		</GtyPlatform>
+		<Comment></Comment>
+	</Analysis>
+</Analyses>
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001025.v1.p1" parentStudy="phs001025.v1.p1" createDate="2015-11-02" modDate="2017-01-03">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Study leadership</td><td>Marta E. Alarcon-Riquelme</td><td>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA, Centro de Genomica e Investigaciones Oncologicas.GENYO, Granada, 18016, Spain.</td></tr>
+		<tr><td>Study leadership</td><td>Chaim O. Jacob</td><td>The Lupus Genetics Group, Department of Medicine, University of Southern California, Los Angeles, CA, USA</td></tr>
+		<tr><td>Clinical Groups and Patient Recruitment</td><td>Bernardo A. Pons-Estel (coordinator)</td><td>The Lupus Genetics Group, Department of Medicine, University of Southern California, Los Angeles, CA, USA</td></tr>
+		<tr><td>Clinical Groups and Patient Recruitment</td><td>Eduardo Acevedo-Vazquez</td><td>Hospital Nacional Guillermo Almenara Irigoyen, Lima 41, Peru</td></tr>
+		<tr><td>Clinical Groups and Patient Recruitment</td><td>Jorge Mariano Cucho</td><td>Hospital Nacional Guillermo Almenara Irigoyen, Lima 41, Peru</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Hispanic Lupus GWAS_HISPSLEI Study</StudyNameEntrez>
+	<StudyNameReportPage>GWAS in an Amerindian Ancestry Population Reveals Novel Systemic Lupus Erythematosus Risk Loci and the Role of European Admixture</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The study comprises SLE patients recruited from specialist rheumatology clinics from the United States, Mexico, Argentina, Chile and Peru. Two strategies were used to enrich samples for Native American ancestry: a. previously genotyped Hispanic and Latin American and US Native American individuals were selected according to their ancestry based on 253 ancestry informative markers as part of the Lupus Large Association 2 Study. The approximate 35% of the samples were primarily of European and Native American admixture was selected; b. the recruitment of patients took place primarily in countries with little African admixture. All samples were genotyped on the HumanOmni1-Quad BeadChip using manifest H at the Oklahoma Medical Research Foundation. The Illumina clustering algorithm with GenomeStudio v2011.1 was used. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p> Inclusion: informed consent, fulfill ACR 1982 criteria for classification of SLE Controls matched by age and gender and site of recruitment </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="20848568"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20881011"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22886787"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="26636962"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="26606652"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Lupus Erythematosus, Systemic"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Study leadership">
+			<AttName>Marta E. Alarcon-Riquelme</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA, Centro de Genomica e Investigaciones Oncologicas.GENYO, Granada, 18016, Spain.</Institution>
+		</Header>
+		<Header title="Study leadership">
+			<AttName>Chaim O. Jacob</AttName>
+			<Institution>The Lupus Genetics Group, Department of Medicine, University of Southern California, Los Angeles, CA, USA</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Bernardo A. Pons-Estel (coordinator)</AttName>
+			<Institution>The Lupus Genetics Group, Department of Medicine, University of Southern California, Los Angeles, CA, USA</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Eduardo Acevedo-Vazquez</AttName>
+			<Institution>Hospital Nacional Guillermo Almenara Irigoyen, Lima 41, Peru</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Jorge Mariano Cucho</AttName>
+			<Institution>Hospital Nacional Guillermo Almenara Irigoyen, Lima 41, Peru</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Ignacio Garcia-De la Torre</AttName>
+			<Institution>Hospital General de Occidente, Zapopan, 45170, Jalisco, Mexico</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Mario H. Cardiel</AttName>
+			<Institution>Centro de Investigacion Clinica de Morelia, Morelia, 58070, Michoacan, Mexico</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Pedro Miranda</AttName>
+			<Institution>Centro de Estudios Reumatologicos, Santiago de Chile, Chile</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Luis Catoggio</AttName>
+			<Institution>Hospital Italiano de Buenos Aires, 1181, Buenos Aires, Argentina</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Marco Maradiaga-Cecena</AttName>
+			<Institution>Hospital General de Culiacan, Sinaloa, 80220, Mexico</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Jorge Esquivel-Valerio</AttName>
+			<Institution>Hospital Universitario &quot;Dr. Jose Eleuterio Gonzalez&quot; Universidad Autonoma de Nuevo Leon, 64020, Monterrey, Mexico</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Jose F. Moctezuma</AttName>
+			<Institution>Hospital General de Mexico, Mexico D.F., Mexico</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Mercedes A. Garcia</AttName>
+			<Institution>H.I.G.A. General San Martin, La Plata, 1900, Argentina</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Guillermo Berbotto</AttName>
+			<Institution>Hospital Eva Peron, S2152EDD, Granadero Baigorria, Argentina</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Alejandra Babini</AttName>
+			<Institution>Hospital Italiano de Cordoba, Cordoba, Argentina</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Hugo Scherbarth</AttName>
+			<Institution>H.I.G.A. Oscar E. Alende, Mar del Plata, 7600, Argentina</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Sergio Toloza</AttName>
+			<Institution>Hospital Interzonal San Juan Bautista, Catamarca, 4700, Argentina</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Vicente Baca</AttName>
+			<Institution>Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, 06720, Mexico</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Lorena Orozco</AttName>
+			<Institution>Instituto Nacional de Medicina Genomica, Mexico City, 14610, Mexico</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Teresa Tusie-Luna</AttName>
+			<Institution>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran, Mexico D.F., Mexico, and Instituto de Investigaciones Biomedicas de la Universidad Nacional 			Autonoma de Mexico, Mexico City, Mexico</Institution>
+		</Header>
+		<Header title="Clinical Groups and Patient Recruitment">
+			<AttName>Judith A. James</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA</Institution>
+		</Header>
+		<Header title="Genotyping group">
+			<AttName>Jennifer A. Kelly</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA</Institution>
+		</Header>
+		<Header title="Genotyping group">
+			<AttName>Adam Adler</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA</Institution>
+		</Header>
+		<Header title="Genotyping group">
+			<AttName>John B. Harley</AttName>
+			<Institution>Children&#39;s Hospital, Cincinnati, OH, USA</Institution>
+		</Header>
+		<Header title="Genotyping group">
+			<AttName>Ken Kaufman</AttName>
+			<Institution>Children&#39;s Hospital, Cincinnati, OH, USA</Institution>
+		</Header>
+		<Header title="Analysis group">
+			<AttName>Carl D. Langefeld</AttName>
+			<Institution>Center for Public Health Genomics, Wake Forest School of Medicine, Winston-Salem, 27157, NC, USA</Institution>
+		</Header>
+		<Header title="Analysis group">
+			<AttName>Julie T. Ziegler</AttName>
+			<Institution>Center for Public Health Genomics, Wake Forest School of Medicine, Winston-Salem, 27157, NC, USA</Institution>
+		</Header>
+		<Header title="Analysis group">
+			<AttName>Timothy D. Howard</AttName>
+			<Institution>Center for Public Health Genomics, Wake Forest School of Medicine, Winston-Salem, 27157, NC, USA</Institution>
+		</Header>
+		<Header title="Analysis group">
+			<AttName>Mary E. Comeau</AttName>
+			<Institution>Center for Public Health Genomics, Wake Forest School of Medicine, Winston-Salem, 27157, NC, USA</Institution>
+		</Header>
+		<Header title="Analysis group">
+			<AttName>Hannah C. Ainsworth</AttName>
+			<Institution>Center for Public Health Genomics, Wake Forest School of Medicine, Winston-Salem, 27157, NC, USA</Institution>
+		</Header>
+		<Header title="Analysis group">
+			<AttName>Elena Sanchez-Rodriguez</AttName>
+			<Institution>Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Analysis group">
+			<AttName>Julio Molineros</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA</Institution>
+		</Header>
+		<Header title="Analysis group">
+			<AttName>Raphael Zidovetzki</AttName>
+			<Institution>The Lupus Genetics Group, Department of Medicine, University of Southern California, Los Angeles, CA, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>John B. Harley</AttName>
+			<Institution>Children&#39;s Hospital, Cincinnati, OH, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Timothy Vyse</AttName>
+			<Institution>King&#39;s College, London, United Kingdom</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Marta E. Alarcon-Riquelme</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Patrick Gaffney</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Swapan K. Nath</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Kathy L. Sivils</AttName>
+			<Institution>Oklahoma Medical Research Foundation, Oklahoma City, 73104, OK, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Lindsey A. Criswell</AttName>
+			<Institution>University of California San Francisco, San Francisco, CA; 13 University of California Los Angeles, LA, CA, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Betty P. Tsao</AttName>
+			<Institution>University of California Los Angeles, LA, CA, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Robert Kimberly</AttName>
+			<Institution>University of Alabama at Birmingham AL, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Chaim O. Jacob</AttName>
+			<Institution>The Lupus Genetics Group, Department of Medicine, University of Southern California, Los Angeles, CA, USA</Institution>
+		</Header>
+		<Header title="The SLEGEN Consortium">
+			<AttName>Carl D. Langefeld</AttName>
+			<Institution>Center for Public Health Genomics, Wake Forest School of Medicine, Winston-Salem, 27157, NC, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="SLEGEN" url="https://slegen.phs.wakehealth.edu/public/index.cfm"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>The sample collection has been ongoing since 1999 for the samples originating in Latin America and with the later joining of groups within the SLEGEN Consortium. With the formation of the SLEGEN Consortium, the group was able to obtain funding for a P01 (2010-2013) and an RC1 (2010-2011) to perform genome-wide association scan in patients with lupus of Hispanic (Project #3), African and Asian ancestry. Using data from the LLAS2 study, samples were selected with the aim of enriching for Native American ancestry.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-SLE-NPU-MDS-RD" longName="Disease-Specific (Systemic lupus erythematosus, NPU, MDS, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIAMS</DacName>
+      <DacFullName>NIAMS</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001025.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001025.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001025.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Systemic lupus erythematosus, NPU, MDS, RD)</ConsentName>
+        <ConsentAbbrev>DS-SLE-NPU-MDS-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Systemic lupus erythematosus and related disorders.
+Use of the data is limited to not-for-profit organizations.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Disorders related to SLE include other autoimmune diseases, such as rheumatoid arthritis, systemic sclerosis, Sjogren''s syndrome, type 1 diabetes, multiple sclerosis, and psoriasis. Data may also be used in study of recognized co-morbidities of SLE, such as cardiovascular disease and cancer.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+<Analyses>
+	<Analysis pha="4495" genomeBuild="38" snpBuild="146" analysisType="">
+		<Description>This study is a case-control GWAS comprised of 1393 SLE cases and 886 controls.  All samples were genotyped on the HumanOmni1-Quad BeadChip using manifest H at the Oklahoma Medical Research Foundation. The Illumina clustering algorithm with GenomeStudio v2011.1 was used.  SLE was the trait of interest (2=SLE Case, 1=Control), and we adjusted for two principal components.</Description>
+		<Method>categorical analysis</Method>
+		<GtyPlatform probeNum="1041413" snpBatchId="1056553">
+			<Vendor>Illumina</Vendor>
+			<VendorURL>HumanOmni1-Quad_v1-0_H.csv</VendorURL>
+			<Platform>HumanOmni1-Quad_v1-0</Platform>
+		</GtyPlatform>
+		<Comment></Comment>
+	</Analysis>
+</Analyses>
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

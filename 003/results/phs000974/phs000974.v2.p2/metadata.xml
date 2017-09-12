@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000974.v2.p2" parentStudy="phs000974.v2.p2" createDate="2017-05-03" modDate="2017-05-04">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Vasan Ramachandran</td><td>Department of Medicine, Boston University School of Medicine, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>L. Adrienne Cupples</td><td>Department of Biostatistics, Boston University School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Martin G. Larson</td><td>Framingham Heart Study, Boston University, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Nancy Heard-Costa</td><td>Framingham Heart Study, Boston University, Boston, MA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: Whole Genome Sequencing and Related Phenotypes in the Framingham Heart Study</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: Genomic Activities such as Whole Genome Sequencing and Related Phenotypes in the Framingham Heart Study</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Framingham Heart Study (FHS) is a prospective cohort study of 3 generations of subjects who have been followed up to 65 years to evaluate risk factors for cardiovascular disease. Its large sample of ~15,000 men and women who have been extensively phenotyped with repeated examinations make it ideal for the study of genetic associations with cardiovascular disease risk factors and outcomes. DNA samples have been collected and immortalized since the mid-1990s and are available on ~8000 study participants in 1037 families. These samples have been used for collection of GWAS array data and exome chip data in nearly all with DNA samples, and for targeted sequencing, deep exome sequencing and light coverage whole genome sequencing in limited numbers. Additionally, mRNA and miRNA expression data, DNA methylation data, metabolomics and other &#39;omics data are available on a sizable portion of study participants. This project will focus on deep whole genome sequencing (mean 30X coverage) in ~4100 subjects and imputed to all with GWAS array data to more fully understand the genetic contributions to cardiovascular, lung, blood and sleep disorders.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>The inclusion criteria for selection of participants for the FHS study were full informed consent and sufficient DNA for sequencing. For WGS and related projects, we focused on selecting individuals informative in families for sequencing, using ExomePicks.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="5921755"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="1208363"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17372189"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903291"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903301"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903304"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903308"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903307"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903306"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903305"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903303"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903302"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903300"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903299"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903298"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903297"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903296"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903295"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903294"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903293"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17903292"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17848626"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Atherosclerosis"/>
+		<Disease vocab_source="MESH" vocab_term="Atrial Fibrillation"/>
+		<Disease vocab_source="MESH" vocab_term="Death, Sudden, Cardiac"/>
+		<Disease vocab_source="MESH" vocab_term="Diabetes Mellitus, Type 2"/>
+		<Disease vocab_source="MESH" vocab_term="Heart Failure"/>
+		<Disease vocab_source="MESH" vocab_term="Blood Pressure"/>
+		<Disease vocab_source="MESH" vocab_term="Hypertension"/>
+		<Disease vocab_source="MESH" vocab_term="Body Mass Index"/>
+		<Disease vocab_source="MESH" vocab_term="Adiposity"/>
+		<Disease vocab_source="MESH" vocab_term="Lipids"/>
+		<Disease vocab_source="MESH" vocab_term="Pulmonary Disease, Chronic Obstructive"/>
+		<Disease vocab_source="MESH" vocab_term="Renal Insufficiency, Chronic"/>
+		<Disease vocab_source="MESH" vocab_term="Stroke"/>
+		<Disease vocab_source="MESH" vocab_term="Osteoporosis"/>
+		<Disease vocab_source="MESH" vocab_term="Risk Factors"/>
+		<Disease vocab_source="MESH" vocab_term="Biological Markers"/>
+		<Disease vocab_source="MESH" vocab_term="Biomarkers, Pharmacological"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Vasan Ramachandran</AttName>
+			<Institution>Department of Medicine, Boston University School of Medicine, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>L. Adrienne Cupples</AttName>
+			<Institution>Department of Biostatistics, Boston University School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Martin G. Larson</AttName>
+			<Institution>Framingham Heart Study, Boston University, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Nancy Heard-Costa</AttName>
+			<Institution>Framingham Heart Study, Boston University, Boston, MA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Framingham Heart Study" url="http://www.framinghamheartstudy.org/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>The Framingham Heart Study is a prospective longitudinal investigation of the development of atherosclerosis and its clinical sequelae. Study participants were recruited at three time periods. The study was initiated in 1948-50 with the recruitment of 5209 individuals ages 28-62 (including some spouse pairs, parent-offspring pairs and siblings) for the purpose of investigating the multiple factors involved in the development of cardiovascular disease. This group, known as the Original Cohort, has been examined every two years with a total of thirty-two examinations to date. In 1971-1975, offspring of the Original Cohort and the offspring spouses were recruited to examine among other goals the familial components of cardiovascular disease and its risk factors. In 2002-2005, the third generation (children of the Offspring and grandchildren of the Original Cohort) was recruited. The Offspring Cohort totaled 5124 and the Third Generation totaled 4095 at recruitment and have been examined every 4 to 8 years. The Offspring Cohort now has 9 examinations completed and the Third Generation has 2 examinations completed. Additionally, there are two minority cohorts totally ~900 study participants that have been followed since the mid-1990s.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB-MDS" longName="Health/Medical/Biomedical (IRB, MDS)"/>
+		<ConsentGroup groupNum="2" shortName="HMB-IRB-NPU-MDS" longName="Health/Medical/Biomedical (IRB, NPU, MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000974.v2.p2_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000974.v2.p2
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000974.v2.p2" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical (IRB, MDS)</ConsentName>
+        <ConsentAbbrev>HMB-IRB-MDS</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Use of the Framingham data deposited in dbGaP is restricted to research on: genotype-phenotype associations; molecular phenotype (e.g., gene expression; microRNA)-phenotype associations; and proteomics/metabolomics-phenotype associations. All other phenotype-only analyses are prohibited (note: investigators may request data for such phenotype-only analyses through NHLBI''s BioLINCC). Additionally, the Framingham data may not be used to: 
+&amp;#x2022; Investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; or explore issues such as non-maternity or non-paternity. 
+&amp;#x2022; Investigate topics that could be considered as stigmatizing an individual or group. 
+&amp;#x2022; Assess outcomes that are not related to health or disease conditions (note: methodological research that will serve as a prelude to health or disease research is permitted). 
+Data users are responsible for ensuring that all uses of the data are consistent with federal, state, and local laws and any relevant institutional policies, and that the data are always maintained in a secured fashion. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). It is anticipated that, at least in some cases, the FHS data will be updated with additional information and will be so identified by an appropriate version number.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Health/Medical/Biomedical (IRB, NPU, MDS)</ConsentName>
+        <ConsentAbbrev>HMB-IRB-NPU-MDS</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Use of the Framingham data deposited in dbGaP is restricted to research on: genotype-phenotype associations; molecular phenotype (e.g., gene expression; microRNA)-phenotype associations; and proteomics/metabolomics-phenotype associations. All other phenotype-only analyses are prohibited (note: investigators may request data for such phenotype-only analyses through NHLBI''s BioLINCC). Additionally, the Framingham data may not be used to: 
+&amp;#x2022; Investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; or explore issues such as non-maternity or non-paternity. 
+&amp;#x2022; Investigate topics that could be considered as stigmatizing an individual or group. 
+&amp;#x2022; Assess outcomes that are not related to health or disease conditions (note: methodological research that will serve as a prelude to health or disease research is permitted). 
+Data users are responsible for ensuring that all uses of the data are consistent with federal, state, and local laws and any relevant institutional policies, and that the data are always maintained in a secured fashion. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). It is anticipated that, at least in some cases, the FHS data will be updated with additional information and will be so identified by an appropriate version number.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only
+There are two consent groups for this study: HMB-IRB-MDS and HMB-IRB-NPU-MDS
+For HMB-IRB-MDS:
+Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Use of the Framingham data deposited in dbGaP is restricted to research on: genotype-phenotype associations; molecular phenotype (e.g., gene expression; microRNA)-phenotype associations; and proteomics/metabolomics-phenotype associations. All other phenotype-only analyses are prohibited (note: investigators may request data for such phenotype-only analyses through NHLBI''s BioLINCC). Additionally, the Framingham data may not be used to: 
+&amp;#x2022; Investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; or explore issues such as non-maternity or non-paternity. 
+&amp;#x2022; Investigate topics that could be considered as stigmatizing an individual or group. 
+&amp;#x2022; Assess outcomes that are not related to health or disease conditions (note: methodological research that will serve as a prelude to health or disease research is permitted). 
+Data users are responsible for ensuring that all uses of the data are consistent with federal, state, and local laws and any relevant institutional policies, and that the data are always maintained in a secured fashion. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). It is anticipated that, at least in some cases, the FHS data will be updated with additional information and will be so identified by an appropriate version number. 
+For HMB-IRB-NPU-MDS
+Use of this data is limited to health/medical/biomedical purposes, d</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006969.2" type="protocol" createDate="2017-04-03" modDate="2017-05-04">
+      <OrigName>TOPMed_for_dbGaP_April2016_v5_final.docx</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

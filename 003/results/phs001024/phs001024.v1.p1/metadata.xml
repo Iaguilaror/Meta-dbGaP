@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001024.v1.p1" parentStudy="phs001024.v1.p1" createDate="2015-10-30" modDate="2016-10-11">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Patrick Ellinor, MD, PhD</td><td>Massachusetts General Hospital, Boston, MA, USA</td></tr>
+		<tr><td>Funding Source</td><td>3R01HL092577-06S1</td><td>National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: Partners HealthCare Biobank</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: Partners HealthCare Biobank</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Atrial Fibrillation Genetics Consortium (AFGen) was organized to identify common and rare genetic variation associated with atrial fibrillation risk. In the current study, we have performed whole genome sequencing in cases with early-onset atrial fibrillation. Samples in this study were enrolled as a part of the Partners HealthCare Biobank. Cases with early-onset atrial fibrillation were identified from the Biobank (defined as atrial fibrillation onset prior to 61 years and in the absence of structural heart disease). </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Cases with atrial fibrillation onset prior to 61 years of age and in the absence of structural heart disease.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Atrial Fibrillation"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Patrick Ellinor, MD, PhD</AttName>
+			<Institution>Massachusetts General Hospital, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>3R01HL092577-06S1</AttName>
+			<Institution>National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB" longName="Health/Medical/Biomedical"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001024.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001024.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001024.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only
+            There is one consent group for this study: HMB
+            Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006969.1" type="protocol" createDate="2016-10-05" modDate="2016-10-11" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001024.v1.p1&amp;phd=6969">
+      <OrigName>TOPMed_document.txt</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

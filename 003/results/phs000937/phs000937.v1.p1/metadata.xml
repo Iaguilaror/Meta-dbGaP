@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000937.v1.p1" parentStudy="phs000937.v1.p1" createDate="2015-06-16" modDate="2015-06-16">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Arul M. Chinnaiyan</td><td>University of Michigan, MI, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>The Landscape of Antisense Gene Expression in Human Cancers</StudyNameEntrez>
+	<StudyNameReportPage>The Landscape of Antisense Gene Expression in Human Cancers</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>High throughput RNA Sequencing has revealed that the human genome is widely transcribed. However, the extent of natural antisense transcription, the molecular mechanisms by which natural antisense transcripts (NATs) might affect their cognate sense genes, and the role of NATs in cancer are less well understood. Here, we use strand-specific paired-end RNA sequencing (ssRNASeq) on a cohort of 376 cancer patients covering 9 tissue types to comprehensively characterize the landscape of antisense expression. Our results reveal that greater than 60% of annotated transcripts have measureable antisense expression and the expression of sense and antisense transcript pairs is in general positively correlated. Furthermore, by studying the expression of sense/antisense pairs across tissues we identify lineage-specific, ubiquitous and cancer-specific antisense loci. Our results raise the possibility that NATs participate in the regulation of well-known tumor suppressors and oncogenes. Finally, this study provides a catalogue of cancer related genes with significant antisense transcription (oncoNAT). This resource will allow researchers to investigate the molecular mechanisms of sense/antisense regulation and further advance our understanding of their role in cancer.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Breast Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Adenocarcinoma of lung"/>
+		<Disease vocab_source="MESH" vocab_term="Lung Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Prostatic Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Ovarian Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Pancreatic Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Meningioma"/>
+		<Disease vocab_source="MESH" vocab_term="Cholangiocarcinoma"/>
+		<Disease vocab_source="MESH" vocab_term="Carcinoma, Non-Small-Cell Lung"/>
+		<Disease vocab_source="MESH" vocab_term="Carcinoma, Merkel Cell"/>
+		<Disease vocab_source="MESH" vocab_term="Sarcoma"/>
+		<Disease vocab_source="MESH" vocab_term="Osteosarcoma"/>
+		<Disease vocab_source="MESH" vocab_term="Adrenocortical Carcinoma"/>
+		<Disease vocab_source="MESH" vocab_term="Hodgkin Disease"/>
+		<Disease vocab_source="MESH" vocab_term="Rhabdomyosarcoma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Arul M. Chinnaiyan</AttName>
+			<Institution>University of Michigan, MI, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-CA-NPU-MDS" longName="Disease-Specific (Cancer, NPU, MDS)"/>
+		<ConsentGroup groupNum="2" shortName="DS-LC-MDS" longName="Disease-Specific (Lung Cancer, MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000937.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000937.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000937.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Cancer, NPU, MDS)</ConsentName>
+        <ConsentAbbrev>DS-CA-NPU-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Use of the data is limited to not-for-profit organizations.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Lung Cancer, MDS)</ConsentName>
+        <ConsentAbbrev>DS-LC-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Lung Cancer.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000586.v1.p1" parentStudy="phs000586.v1.p1" createDate="2013-01-24" modDate="2013-05-21">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Angela M. Christiano, PhD</td><td>Columbia University, NY, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01AR056016-02</td><td>National Institutes of Health (NIAMS), Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genome Wide Association Studies in Alopecia Areata</StudyNameEntrez>
+	<StudyNameReportPage>Genome Wide Association Studies in Alopecia Areata</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>1054 unrelated alopecia areata patients were genotyped with the Illumina HumanHap550v3.0 genotyping chip. Allele frequencies were compared to publically available data from three population cohorts of controls.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>All cases were ascertained through the National Alopecia Areata Registry and self-reported European ancestry. Only unrelated cases were included in the study.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="20596022"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Alopecia Areata"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Angela M. Christiano, PhD</AttName>
+			<Institution>Columbia University, NY, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01AR056016-02</AttName>
+			<Institution>National Institutes of Health (NIAMS), Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-AA-MDS-RD" longName="Disease-Specific (Alopecia areata, MDS, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIAMS</DacName>
+      <DacFullName>NIAMS</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000586.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000586.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000586.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Alopecia areata, MDS, RD)</ConsentName>
+        <ConsentAbbrev>DS-AA-MDS-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Alopecia areata and related disorders.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+This dataset may be used for the study of alopecia areata and other autoimmune conditions associated with alopecia areata, including autoimmune thyroid disease, type 1 diabetes, vitiligo, rheumatoid arthritis, and celiac disease. Other appropriate use of data could include methodological development, study of fundamental biological processes that are known or suspected to underlie autoimmune diseases, and construction of analytic tools for end users.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

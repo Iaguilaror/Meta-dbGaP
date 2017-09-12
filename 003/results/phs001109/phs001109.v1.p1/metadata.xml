@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001109.v1.p1" parentStudy="phs001109.v1.p1" createDate="2016-04-15" modDate="2016-08-25">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Mary Jeanne Kreek, MD</td><td>The Rockefeller University, New York, NY, USA</td></tr>
+		<tr><td>Funding Source</td><td>P60-05130, R01-12848, and UL1-RR024143</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Addictions: Genotypes and Genetic Correlates</StudyNameEntrez>
+	<StudyNameReportPage>Addictions: Genotypes, Polymorphisms, and Function/Human Genetic Correlates of Addictive Diseases</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Drug addiction continues to be a major medical and social problem. It is estimated that one million or more persons in the United States are currently addicted to heroin or prescription opioids, with millions more worldwide. Cocaine addiction and alcohol dependence are frequent comorbid conditions in persons with heroin/opioid dependence in addition to being major primary addictions. Many studies over the past thirty years have shown that these drugs disrupt physiologic systems, and that these disruptions may contribute to drug addiction and alcohol dependence and to relapse to drug or alcohol abuse following withdrawal and abstinence. Clinical observations suggest that individuals differ in their response to heroin, cocaine, and alcohol; however, little is known about specific underlying hereditary genetic factors which might influence individual susceptibility to the addictive properties of these substances. Studies also suggest that both common and distinct heritable factors account for the genetic variance in the susceptibility to the separate addictive diseases. We hypothesize that there is a heritable as well as environmental basis for the acquisition and persistence of, and relapse to, specific addictive diseases. Using samples from individuals without and with opioid and other specific drug dependence diagnoses and psychiatric comorbidities, genetic analyses will be used to determine association and linkage. All study subjects will be extensively characterized with respect to the addictive diseases, medical history, family medical addictive disease history; psychiatric comorbidity, and psychological profile, as well as ethnic/cultural background. A better understanding of the consequences of genetic contributions with respect to protection from, or susceptibility to, heroin/opioid addiction and related codependencies and comorbid conditions, could have enormous importance in both prevention and treatment of this problem.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="18518925"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19500151"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18923396"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23244743"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25521358"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24845178"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24766650"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25875614"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Substance-Related Disorders"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Mary Jeanne Kreek, MD</AttName>
+			<Institution>The Rockefeller University, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>P60-05130, R01-12848, and UL1-RR024143</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>The Smokescreen&#174; Genotyping Array by BioRealm&#174; was created with support of a NIDA SBIR contract. The chip consists of an Affymetrix backbone with over 800,000 SNPs. The chip covers 98% of common genetic variation in 1000 nominated addiction genes. The chip contains 296,000 markers from African, East Asian, and European populations giving 66% coverage for people of African Ancestry, 82% for people of East Asian Ancestry, and 91% for people of European ancestry. In addition, 20,000 markers from expert nominations for genes posited to be associated with substance abuse and comorbid disorders are also included on the chip. In addition, included in the array are more than 11,000 markers in the nicotine acetylcholine receptor gene clusters and nicotine metabolizing genes. There are greater than 16,000 markers for related comorbidities and diseases. </p> <p>The samples will be released separately by contributing investigators, with ultimately a total of approximately 50,000 targeted. </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-ADX-IRB-NPU" longName="Disease-Specific (Addictive Disorders, IRB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIDA</DacName>
+      <DacFullName>NIDA</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001109.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001109.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001109.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Addictive Disorders, IRB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-ADX-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Addictive Disorders.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation></UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006837.1" type="protocol" createDate="2016-04-21" modDate="2016-04-21" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006837.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001109.v1.p1&amp;phd=6837">
+      <OrigName>Smokescreen_NIDA_Axiom_Project_SummaryApril2016.docx</OrigName>
+      <DisplayName>SmokeScreen NIDA Axiom Project</DisplayName>
+      <Description>SmokeScreen NIDA Axiom Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

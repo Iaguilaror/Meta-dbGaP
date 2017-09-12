@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001012.v1.p1" parentStudy="phs001012.v1.p1" createDate="2015-10-27" modDate="2015-10-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Donald W. Bowden</td><td>Wake Forest School of Medicine, Winston-Salem, NC, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>J. Jeffrey Carr</td><td>Wake Forest School of Medicine, Winston-Salem, NC, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Barry I. Freedman</td><td>Wake Forest School of Medicine, Winston-Salem, NC, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Carl D. Langefeld</td><td>Wake Forest School of Medicine, Winston-Salem, NC, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01 HL92301</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>The Diabetes Heart Study (DHS)</StudyNameEntrez>
+	<StudyNameReportPage>The Diabetes Heart Study (DHS)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cross-Sectional</StudyType>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Diabetes Heart Study is a family based study enriched for type 2 diabetes (T2D). The cohort included 1220 self-reported European Americans from 475 families (Bowden et al 2010 Review of Diabetic Studies 7:188-201: <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=21409311">PMID: 21409311</a>; Bowden et al 2008 Annals of Human Genetics 72:598-601 <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=18460048">PMID: 18460048</a>) and included siblings concordant for T2D; where possible unaffected siblings were also recruited. The cohort was recruited between 1998 and 2006. Participants were extensively phenotyped for measures of subclinical CVD and other known CVD risk factors. Primary outcomes were quantified burden of vascular calcified plaque in the coronary artery, carotid artery and abdominal aorta all determined from non-contrast computed tomography scans. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion:</b> Siblings concordant for T2D developing after the age of 35 years and treated with insulin and/or oral agents and confirmed by measurement of blood glucose and glycosylated hemoglobin at recruitment.</p> <p><b>Exclusion:</b> Historical evidence of ketoacidosis.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Vascular Calcification"/>
+		<Disease vocab_source="MESH" vocab_term="Diabetes Mellitus"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Donald W. Bowden</AttName>
+			<Institution>Wake Forest School of Medicine, Winston-Salem, NC, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>J. Jeffrey Carr</AttName>
+			<Institution>Wake Forest School of Medicine, Winston-Salem, NC, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Barry I. Freedman</AttName>
+			<Institution>Wake Forest School of Medicine, Winston-Salem, NC, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Carl D. Langefeld</AttName>
+			<Institution>Wake Forest School of Medicine, Winston-Salem, NC, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01 HL92301</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p><ul> <li>1998-2006: Recruitment and Participant Visits</li> <li>2011: Genotyping for Genome-wide Association Study</li> </ul> </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="DS-DRC-IRB" longName="Disease-Specific (Diabetes and Related Complications, IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001012.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001012.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001012.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Diabetes and Related Complications, IRB)</ConsentName>
+        <ConsentAbbrev>DS-DRC-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Diabetes and Related Complications.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to genetic studies of the specified disease and related conditions, such as diabetes complications, cardiovascular disease, kidney disease, etc., and asthma, cancer, and heart disease.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+<Analyses>
+	<Analysis pha="4246" genomeBuild="38" snpBuild="141" analysisType="">
+		<Description>The Diabetes Heart Study is a family based study enriched for type 2 diabetes (T2D). The genomewide association data included 1177 self-reported European Americans from 468 families.</Description>
+		<Method>Quantitative trait analysis</Method>
+		<GtyPlatform probeNum="934940" snpBatchId="52074">
+			<Vendor>Affy</Vendor>
+			<VendorURL>http://www.ncbi.nlm.nih.gov/SNP/snp_viewBatch.cgi?sbid=52074</VendorURL>
+			<Platform>Affy1M</Platform>
+		</GtyPlatform>
+		<Comment></Comment>
+	</Analysis>
+</Analyses>
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000332.v1.p1" parentStudy="phs000332.v1.p1" createDate="2010-12-08" modDate="2014-02-18">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Xiaobin Wang</td><td>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Barry Zuckerman</td><td>Department of Pediatrics, Boston Medical Center, Boston University School of Medicine, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Linda Heffner</td><td>Department of Pediatrics, Boston Medical Center, Boston University School of Medicine, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Xin Liu</td><td>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Hui-Ju Tsai</td><td>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>GWAS of Preterm Birth</StudyNameEntrez>
+	<StudyNameReportPage>Genome-Wide Association Study of Preterm Birth</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Preterm birth (PTB, born before 37 weeks of gestation) accounts for 12.5% of all births in the U.S. It is a leading cause of neonatal mortality and post-natal morbidity. The highest rate of PTB occurs among the black population (17.8%). Available literature and our research findings strongly suggest that genetic factors play an important role in PTB. Supported by a grant from the NICHD, the goal of this project is to conduct a genome-wide association (GWA) study and apply advanced statistical methods to identify susceptibility loci of PTB. We will genotype 1,000 black mothers who delivered preterm births (cases) and 1,000 age-matched black mothers who delivered term births (controls) at the Boston Medical Center (BMC), using the Illumina HumanOmni 2.5 array. Subsequently, we will perform replication analysis of the SNPs using independent, multi-ethnic samples from the BMC. We also will genotype the significant single-nucleotide polymorphisms (SNPs) in babies born to the study mothers, and examine if the fetal gene interacts with the maternal gene to affect the risk of PTB.</p> <p>PUBLIC HEALTH REVELANCE: We anticipate that this study will lead to the identification of novel genetic loci of PTB. Such findings not only will provide important insights into mechanisms leading to PTB, but also may help identify women at high-risk of PTB, which in turn, may lead to the development of early and targeted interventions that can prevent PTB or mitigate the severity and consequences of PTB.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Criteria for cases</b> <ol type="A"> <li><b>Inclusion:</b> All mothers who delivered preterm babies (&lt;37 weeks of gestation, regardless of birthweight) at Boston Medical Center (BMC) were eligible as cases for the study.</li> <li><b>Exclusion:</b> We excluded pregnancies as a result of <i>in vitro</i> fertilization or multiple gestation, and fetuses with chromosomal abnormalities or major birth defects. Additional exclusion criteria include mothers with congenital or acquired uterus lesions or with a known history of incompetent cervix, and preterm births due to maternal trauma (e.g., car accident).</li> </ol> </p> <p><b>Criteria for controls</b></p> <p>Those mothers who delivered term (&gt;38.5 weeks of gestation) normal birthweight (&gt;2,500 grams) babies at BMC and matched with case mothers on race, age (&#177; 5 years) and parity were eligible as controls for this GWAS.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="11779261"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14976157"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16642433"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16681991"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17437198"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18320229"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19020903"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19403498"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19446788"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19529994"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20308216"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Infant, Premature"/>
+		<Disease vocab_source="MESH" vocab_term="Infant, Low Birth Weight"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Xiaobin Wang</AttName>
+			<Institution>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Barry Zuckerman</AttName>
+			<Institution>Department of Pediatrics, Boston Medical Center, Boston University School of Medicine, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Linda Heffner</AttName>
+			<Institution>Department of Pediatrics, Boston Medical Center, Boston University School of Medicine, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Xin Liu</AttName>
+			<Institution>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Hui-Ju Tsai</AttName>
+			<Institution>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Xiumei Hong</AttName>
+			<Institution>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</Institution>
+		</Header>
+		<Header title="Project Coordinator">
+			<AttName>Colleen Pearson</AttName>
+			<Institution>Department of Pediatrics, Boston Medical Center, Boston University School of Medicine, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Project Coordinator">
+			<AttName>Deanna Caruso</AttName>
+			<Institution>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</Institution>
+		</Header>
+		<Header title="Senior Research Associate">
+			<AttName>Katherin Ortiz</AttName>
+			<Institution>Department of Pediatrics, Boston Medical Center, Boston University School of Medicine, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Lab Manager">
+			<AttName>Guoying Wang</AttName>
+			<Institution>Mary Ann and J. Milburn Smith Child Health Research Program, Children&#39;s Memorial Hospital/Children&#39;s Memorial Research Center; Department of Pediatrics, Northwestern University Feinberg School of Medicine, Chicago, IL, USA</Institution>
+		</Header>
+		<Header title="Genotyping Institute">
+			<AttName>CIDR</AttName>
+			<Institution>Johns Hopkins University Center for Inherited Disease Research, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source for CIDR Genotyping">
+			<AttName>HHSN268200782096C. NIH contract &quot;High throughput genotyping for studying the genetic contributions to human disease&quot;</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source for CIDR Genotyping">
+			<AttName>HHSN268201100011I. NIH contract &quot;High throughput genotyping for studying the genetic contributions to human disease&quot;</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>The parent study was also in part supported by the Department of Pediatrics, Boston Medical Center, the March of Dimes Birth Defects Foundation (20-FY98-0701, 20-FY02-56 and #21-FY07-605); and the National Institutes of Environmental Health Sciences (R21 ES011666).</p> <p>We are indebted to many individuals who have contributed to the parent study and/or this GWA study, including Howard Bauchner, Jerry Klein, Phillip Stubblefield, Milton Kotelchuck, Michael Corwin, Paul Wise, Michael Kramer, Gary Kaufman, John Kasznica, Sandra Cerda, Daniel Weeks, Yunxian Yu, Shanchun Zhang, Fengxiu Ouyang, Lingling Fu, Maria Kroll, Monica Cintron, Xin Xu, Xiping Xu, Tim Niu, Ke Hao, Lin Wang, Xin Chen, Scott Venners, Lester Arguelles, Karen Mestan, Nana Matoba, Jessica L Schanta, Marie Jean, Max Paillaint, Kathleen Delmas, Emault Louis, Alison Little, Yohanna Mendez, Munish Gupta, Joel Sawadi, Claire Joseph, Anthony Bonzagni, Stephanie Apollon, Laurie Natale, Peters Otlans, Patricia Francisco, Jhenane Joseph, Jared Berkowitz, Maggie Francis, Rachel Sajous, Ang Li, Schubert Bijous, Maria Eguez, Weili Chang, Ivan Villon, Roberto Beltran, Kimberlee Bulger, Nahomy Calixte, Ivette Martinez, Winnie Mei, Kristin McPhillips, Mathis Bauchner, Ann Ramsey, Douglas Rockwell. We thank the nursing staff of Labor and Delivery at the Boston Medical Center for their assistance in data collection.</p> <p>We are grateful for the generous help and support of all of the Boston Medical Center participating mothers.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="DS-PTB" longName="Disease-Specific (Preterm Birth)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NICHD</DacName>
+      <DacFullName>NICHD-DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl>http://grants.nih.gov/grants/gwas</DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000332.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000332.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000332.v1.p1" FileName="CIDR_Preterm_Birth_Boston_Cohort_DUC-Wang_02-15-2012-FINAL.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Preterm Birth)</ConsentName>
+        <ConsentAbbrev>DS-PTB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Preterm Birth.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

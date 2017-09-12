@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000235.v3.p1" parentStudy="phs000235.v3.p1" createDate="2011-07-20" modDate="2011-07-29">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator (NHL)</td><td>Marco A. Marra, PhD</td><td>British Columbia Cancer Agency Genome Sciences Centre, Vancouver, BC, Canada</td></tr>
+		<tr><td>Principal Investigator (Medulloblastoma)</td><td>Victor Velculescu, MD, PhD</td><td>Ludwig Center for Cancer Genetics and Therapeutics and Howard Hughes Medical Institute, The Johns Hopkins University Sidney Kimmel Cancer Center, Baltimore, MD, USA</td></tr>
+		<tr><td>Co-Investigators (NHL)</td><td>Martin Hirst, PhD</td><td>British Columbia Cancer Agency Genome Sciences Centre, Vancouver, BC, Canada</td></tr>
+		<tr><td>Co-Investigators (NHL)</td><td>Steven Jones, PhD</td><td>British Columbia Cancer Agency Genome Sciences Centre, Vancouver, BC, Canada</td></tr>
+		<tr><td>Co-Investigators (NHL)</td><td>Randy D. Gascoyne, MD</td><td>British Columbia Cancer Agency, Vancouver, BC, Canada</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NCI Cancer Genome Characterization Initiative (CGCI)</StudyNameEntrez>
+	<StudyNameReportPage>National Cancer Institute Cancer Genome Characterization Initiative (CGCI)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Tumor vs. Matched-Normal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Office of Cancer Genomics at the National Cancer Institute is sponsoring a series of studies as part of the Cancer Genome 	Characterization Initiative (CGCI) to assess novel emerging sequencing technologies in cancer.  The CGCI program includes 	comprehensive characterization of the genetic aberrations found in different pediatric and/or adult tumors.</p> 	<p>CGCI is currently characterizing Non-Hodgkin lymphomas (including diffuse large B-cell lymphoma (DLBCL) and follicular lymphoma (FL))    and medulloblastoma (MB), with additional cancers to be 	characterized in the future.  All data from these projects will be released into publicly accessible databases, with 	a majority of data in an open-access tier.  A subset of data will be available only through a controlled-access tier 	due to patient privacy concerns.</p> 	<p>Project Descriptions by Disease are as follows: 		<ul> 			<li><b>Non-Hodgkin Lymphoma (NHL)</b> - In combination, the lymphoid cancers (non-Hodgkin lymphoma, Hodgkin lymphoma,        myeloma and chronic lymphocytic leukemia), constitute the fourth most common malignancy in both men and women in        North America. Lymphomas typically have characteristic abnormal chromosomes, including translocations, indicating        the relevance of mutations to how NHLs develop and behave. This project uses detailed analysis on a specific        well-characterized set of tumors to provide a candidate list of genomic changes specific to and common across lymphoma        types. The resulting data set will facilitate studies of clinical behavior, response to treatment, patient outcome and        survival, and target pathways for therapeutic agents.<br/><br/> 			CGCI investigators are probing genomic alterations more deeply than has been previously possible by using state-of-the-art        RNA sequencing (mRNA-seq) and whole genome shotgun sequencing (WGS) coupled with leading edge bioinformatics, data management        and analysis approaches. Specifically, 2nd-generation sequencing technologies are used to survey NHL for somatic mutations,        chromosomal alterations and expression levels. Fresh-frozen biopsy material and constitutional DNA is assembled from        uniformly staged, treated and followed NHL patients in British Columbia, Canada. To date the project has sequenced        tumor DNA and/or RNA from 117 NHL tumor samples and 10 cell lines. This includes the genomes or exomes of 1 Follicular Lymphoma (FL)        and 13 diffuse large B-cell lymphoma (DLBCL) cases, all with matched constitutional DNA sequenced to comparable depths,        RNA-sequencing (mRNA-seq) of 92 DLBCL, 12 FL and 8 B-cell NHL cases with other histologies and 10 DLBCL-derived cell lines.         The DLBCL cases and cell-lines are from the two major subtypes of DLBCL: germinal center B-cell (GCB) and        activated B-cell (ABC). 			</li><br/> 			<li><b>Medulloblastoma (MB)</b> - Medulloblastoma is the most common malignant brain tumor found in children.  In 			order to identify the genetic alterations in MB, copy number alterations were sought using high-density 			microarrays and sequenced all known protein-coding genes and miRNA genes using Sanger sequencing in a set of 22 pediatric 			MB samples and one matched normal blood sample.  All tumor samples were obtained at the time of original surgery (pre-treatment) 			except for one sample, which was obtained at the time of MB recurrence.<br/><br/> 			Protein-encoding transcripts to be targeted for sequencing were derived from transcripts present in the Ensembl (file date 8/27/2008), 			RefSeq (file date 1/18/2009), and CCDS (file date 2/02/2009) databases and downloaded from the UCSC Genome Bioinformatics site. 			The protein encoding transcripts were supplemented with microRNA transcripts downloaded from the Sanger miRBase Sequence Database 			(Release 13.0) in order to yield a combined set of transcripts representing 24,893 genes (24,178 protein encoding and 715 microRNA). 			The regions of interest (ROIs) targeted for sequencing comprised the entire transcribed portion of the microRNA exons and the 			protein encoding portion plus 4 bases of flanking sequence for the protein encoding exons.  Illumina Infinium II Whole Genome 			Genotyping Assay employing the BeadChip platform was used to analyze the same set of tumor samples at 1,199,187 (1M-Duo) 			SNP loci in order to detect copy number alterations in the same set of tumors. 			</li> 		</ul> 	</p> 	<p>The projects currently involved in CGCI will provide various data to include whole genomic, transcriptomic and mutational analyses 	of the tumor types being studied.  This page will be amended as additional projects and characterization platforms are added to 	the CGCI portfolio.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>All adult specimens and all clinical and laboratory data gathered for this project meet the strict set of 	<a href="http://tcga.cancer.gov/components/hcbcr_process.asp#app5" target="_blank">criteria established by The Cancer Genome Atlas (TCGA)</a>. 	In particular, the following specific criteria will be met.</p> 	<p> 		<ol> 			<li>Focus on primary untreated tumors that were snap frozen upon tissue resection.</li> 			<li>All samples are collected and utilized following strict human subjects protection guidelines, informed consent 			and IRB reviewed protocols.</li> 			<li>Whenever possible, clinical data are gathered prospectively and stored in continuously updated electronic format 			using a standard relational database (MS Access) employing caDSR compliant terminology and from which the data can 			be easily exported.</li> 		</ol> 	</p> 	<p>Additional information on specimen inclusion and exclusion criteria for the specific tumor types investigated as part of 	CGCI can be found on the 	<a href="http://cgap.nci.nih.gov/cgci.html" target="_blank">CGCI website and within referenced publications for this initiative</a>.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="20081860"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21190999"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21163964"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21796119"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Lymphoma, Large B-Cell, Diffuse"/>
+		<Disease vocab_source="MESH" vocab_term="Lymphoma, Follicular"/>
+		<Disease vocab_source="MESH" vocab_term="Lymphoma, Non-Hodgkin"/>
+		<Disease vocab_source="MESH" vocab_term="Lymphomas, Histiocytic"/>
+		<Disease vocab_source="MESH" vocab_term="Medulloblastoma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator (NHL)">
+			<AttName>Marco A. Marra, PhD</AttName>
+			<Institution>British Columbia Cancer Agency Genome Sciences Centre, Vancouver, BC, Canada</Institution>
+		</Header>
+		<Header title="Co-Investigators (NHL)">
+			<AttName>Martin Hirst, PhD</AttName>
+			<Institution>British Columbia Cancer Agency Genome Sciences Centre, Vancouver, BC, Canada</Institution>
+		</Header>
+		<Header title="Co-Investigators (NHL)">
+			<AttName>Steven Jones, PhD</AttName>
+			<Institution>British Columbia Cancer Agency Genome Sciences Centre, Vancouver, BC, Canada</Institution>
+		</Header>
+		<Header title="Co-Investigators (NHL)">
+			<AttName>Randy D. Gascoyne, MD</AttName>
+			<Institution>British Columbia Cancer Agency, Vancouver, BC, Canada</Institution>
+		</Header>
+		<Header title="Co-Investigators (NHL)">
+			<AttName>Joseph M. Connors, MD</AttName>
+			<Institution>British Columbia Cancer Agency, Vancouver, BC, Canada</Institution>
+		</Header>
+		<Header title="Funding Source (NHL)">
+			<AttName>N01-C0-12400</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source (NHL)">
+			<AttName>NIH 1U01CA114778 &quot;Molecular Signatures to Improve Diagnosis and Outcome in Lymphoma&quot;</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source (NHL)">
+			<AttName>Grant #019001, Biology of Cancer: Insights from Genomic Analyses of Lymphoid Neoplasms</AttName>
+			<Institution>Terry Fox Foundation, Chilliwack, BC</Institution>
+		</Header>
+		<Header title="Funding Source (NHL)">
+			<AttName>Genome Canada/Genome BC Grant Competition III: High Resolution Analysis of Follicular Lymphoma Genomes</AttName>
+			<Institution>Genome Canada/Genome BC</Institution>
+		</Header>
+		<Header title="Principal Investigator (Medulloblastoma)">
+			<AttName>Victor Velculescu, MD, PhD</AttName>
+			<Institution>Ludwig Center for Cancer Genetics and Therapeutics and Howard Hughes Medical Institute, The Johns Hopkins University Sidney Kimmel Cancer Center, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators (Medulloblastoma)">
+			<AttName>D. William Parsons, MD, PhD</AttName>
+			<Institution>Texas Children&#39;s Cancer Center and Departments of Pediatrics and Molecular and Human Genetics, Baylor College of Medicine, Houston, Texas</Institution>
+		</Header>
+		<Header title="Funding Source (Medulloblastoma)">
+			<AttName>N01-C0-12400</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="The Cancer Genome Characterization Initiative" url="http://cgap.nci.nih.gov/cgci.html"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>Cancer is a genetic disease.  Alterations at the DNA level drive the cellular changes that are hallmarks of cancer including 	aberrant cell division and survival. Historically, genetic causes of cancer were studied by analysis of one or a few genes at 	a time. More recently however, novel high-throughput technologies have provided unprecedented capabilities to examine the cancer 	genome. These technologies allow systematic characterization of genetic and epigenetic alterations, allowing investigators to 	identify the underlying genetic changes found in cancer. The CGCI incorporates multiple approaches for genomic characterization 	including exome sequencing and transcriptome analysis using next generation sequencing. To encourage collaboration and leverage 	the collective knowledge and innovation of the entire cancer research community, all data collected will be publicly available 	through databases supported by the National Institutes of Health and National Cancer Institute.</p> 	<p>For DLBCL, sample acquisition, library construction and sequencing of all 92 cases for transcriptome analysis began July 1, 2008 	and is now complete. Validation of candidate mutations is on-going. The first 30 DLBCL WTSS data were uploaded to the SRA 	on December 15, 2010 (these datasets were included in the referenced Nature Genetics publication). WGSS for a subset of these 	cases (40 in total) is currently in progress as part of an evaluation of the most recent advances in sequencing technologies.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="CRM" longName="Cancer Research and Methods"/>
+		<ConsentGroup groupNum="2" shortName="PC" longName="Pediatric Cancer"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>eNCI DAC</DacName>
+      <DacFullName>Extramural NCI Data Access Committee</DacFullName>
+      <DacEmail>ncidac@mail.nih.gov</DacEmail>
+      <DacPhone></DacPhone>
+      <DacFax>301-435-5477</DacFax>
+      <DacUrl>http://grants.nih.gov/grants/gwas</DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000235.v3.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+               http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000235.v3.p1
+            </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000235.v3.p1" FileName="DUC_CGCIv3_Datasets_Revised_7.25.2011.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Cancer Research and Methods</ConsentName>
+        <ConsentAbbrev>CRM</ConsentAbbrev>
+        <UseLimitation>Data can be used for research relevant to the biology, causes, treatment and late complications of treatment of cancers, including applications proposing analytical methods, software, or other research tool development.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Pediatric Cancer</ConsentName>
+        <ConsentAbbrev>PC</ConsentAbbrev>
+        <UseLimitation>These data may be used for research relevant to the biology, causes, treatment and late complications of pediatric cancers. Access to protected medulloblastoma data will be granted solely for those research projects that can only be conducted using pediatric data (i.e., the research objectives cannot be accomplished using data from adults) and that focus on the development of more effective treatments, diagnostic tests, or prognostic markers for childhood cancers. Applications proposing methods, software, or other tool development would not be considered acceptable uses of the data.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

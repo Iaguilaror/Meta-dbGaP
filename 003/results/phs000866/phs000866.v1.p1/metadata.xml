@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000866.v1.p1" parentStudy="phs000866.v1.p1" createDate="2015-02-04" modDate="2015-03-23">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Jared Roach</td><td>Institute for Systems Biology</td></tr>
+		<tr><td>Principal Investigator</td><td>John Kelsoe</td><td>University of California, San Diego, CA, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>Francis McMahon</td><td>National Institute of Mental Health, National Institute of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>University of Luxembourg - Institute for Systems Biology Program</td><td>University of Luxembourg, Institute for Systems Biology, EU</td></tr>
+		<tr><td>Funding Source</td><td>National Institute of General Medical Sciences Center for Systems Biology P50 GM076547</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Family Genomics of Bipolar Disorder</StudyNameEntrez>
+	<StudyNameReportPage>Family Genomics of Bipolar Disorder</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Family</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>This study examined the segregation of variants with phenotype in pedigrees harboring bipolar disorder.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>We chose a subset of individuals within each pedigree so as to maximize power under the most likely inheritance mode, as follows: (i) We sequenced a single affected individual and a single unaffected individual from pedigrees with a suggestive per-pedigree linkage peak and predicted dominant inheritance. (ii) We sequenced a parent-child trio or quartet from pedigrees with a single, suggestive per-pedigree linkage peak and either dominant or recessive inheritance. In pedigrees for which polygenic inheritance was more likely, we sequenced either (iii) a subset of affected individuals and 0-1 unaffected individuals or (iv) all available individuals.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="21769101"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19488044"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25730879"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Bipolar Disorder"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Jared Roach</AttName>
+			<Institution>Institute for Systems Biology</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>John Kelsoe</AttName>
+			<Institution>University of California, San Diego, CA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>Francis McMahon</AttName>
+			<Institution>National Institute of Mental Health, National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>University of Luxembourg - Institute for Systems Biology Program</AttName>
+			<Institution>University of Luxembourg, Institute for Systems Biology, EU</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>National Institute of General Medical Sciences Center for Systems Biology P50 GM076547</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>National Institute of Mental Health (NIMH) R01 MH094483</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Intramural Research Program of the NIMH</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Gordon and Betty Moore Foundation Fellow of the Life Sciences Research Foundation</AttName>
+			<Institution>Life Sciences Research Foundation</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Data and biomaterials were collected as part of eleven projects (Study 40) that participated in the NIMH Bipolar Disorder Genetics Initiative 			(MH59545, MH059534, MH59533, MH59553, MH60068, MH059548, MH59535, MH59567, MH059556, and 1Z01MH002810-01), which was also supported by the NIH 			grants P50CA89392 from the National Cancer Institute and 5K02DA021237 from the National Institute of Drug Abuse</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Biomaterials and phenotypic data were obtained for control subjects from the NIMH Schizophrenia Genetics Initiative (NIMH-GI), 			which were collected by the &quot;Molecular Genetics of Schizophrenia II&quot; (MGS-2) collaboration</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Institute for Systems Biology Family Genomics Group" url="http://familygenomics.systemsbiology.net/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>The bipolar disorder pedigrees sequenced in this study were drawn from a set of 972 multiply affected pedigrees collected by the NIMH Genetics Initiative and by sites at the University of California, San Diego, the University of California, San Francisco, and the University of Chicago. This sample has been described in</p> <p>Badner JA, et al. (2012) Genome-wide linkage analysis of 972 bipolar pedigrees using single-nucleotide polymorphisms. Mol Psychiatry 17(8):818-826.</p> <p>DNA derived from whole blood or from lymphoblastoid cell lines was obtained from the Rutgers University Cell and DNA Repository and from the Corriell Institute. We selected pedigrees and individuals for sequencing by considering family structure, per-pedigree LOD scores at 4,500 genome-wide SNPs, and the polygenic risk score in each pedigree&#39;s proband:</p> <p>Smith EN, et al. (2009) Genome-wide association study of bipolar disorder in European American and African American individuals. Mol Psychiatry 14(8):755-763.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-PD-RSC-RD" longName="Disease-Specific (Psychiatric Disorders and Related Somatic Conditions, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIMH</DacName>
+      <DacFullName>NIMH</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000866.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000866.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000866.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Psychiatric Disorders and Related Somatic Conditions, RD)</ConsentName>
+        <ConsentAbbrev>DS-PD-RSC-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Psychiatric Disorders and Related Somatic Conditions and related disorders.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

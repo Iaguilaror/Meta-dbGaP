@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000572.v3.p2" parentStudy="phs000572.v3.p2" createDate="2014-04-08" modDate="2014-10-28">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Richard A. Gibbs, PhD</td><td>Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Eric S. Lander, PhD</td><td>Broad Institute, Boston, MA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Richard K. Wilson, PhD</td><td>The Genome Institute, Washington University, St. Louis, MO, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Gerard D. Schellenberg, PhD</td><td>Alzheimer&#39;s Disease Genetics Consortium (ADGC), University of Pennsylvania, Philadelphia, PA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Sudha Seshadri, MD</td><td>Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium (CHARGE), Boston University, Boston, MA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Alzheimer&#39;s Disease Sequencing Project (ADSP)</StudyNameEntrez>
+	<StudyNameReportPage>Alzheimer&#39;s Disease Sequencing Project (ADSP)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+		<StudyType>Family</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The overarching goals of the ADSP are to: (1) identify new genomic variants contributing to increased risk of developing AD, (2) identify new genomic variants contributing to protection against developing AD, and (3) provide insight as to why individuals with known risk factor variants escape from developing AD. Such a study of human genomic variation and its relationship to health and disease requires examination of a large number of study participants and needs to capture information about common and rare variants (both single nucleotide and copy number). Using existing samples from NIH funded and other studies, the NHGRI LSSC will produce the DNA sequence data and generate variant calls that will be made available to the scientific community through NIH-approved data repositories. Statistical analysis of the sequence data is anticipated to identify new genetic risk and protective factors. Both fundamental scientific discovery and leading edge analytic approaches will be needed to achieve the research goals. The ADSP will conduct and facilitate analysis of sequence data to extend previous discoveries that may ultimately result in new directions for AD therapeutics.</p> <p>The specific aims of the ADSP are to: (1) identify protective genomic variants in older adults at risk for AD, (2) identify new risk variants among AD cases, and (3) examine these factors in multi-ethnic populations as applicable in order to identify new pathways for disease prevention.</p> <p>The second data release of the Alzheimer&#39;s Disease Sequencing Project (ADSP) included the whole-genome sequencing data of 168 individuals, in addition to data of 410 individuals released in December 2013. The entire dataset contained whole-genome sequencing data of 584 samples from 111 families, plus pedigree data of &#62; 4000 subjects.</p> <p>This <b>third data release</b> of the ADSP includes whole-exome sequencing data in addition to whole-genome sequencing data from the two previous releases. The entire dataset now contains whole-genome sequencing data of 596 samples from 578 subjects in 111 families, plus pedigree data of &#62; 4000 subjects, and whole-exome sequence data of 10959 samples from 10939 subjects. The <a href="https://www.niagads.org/adsp/portal/">ADSP data portal</a> provides a customized interface for users to quickly identify and retrieve files by covariates, phenotypes, and data properties such as sequencing facility or coverage. For more information about the ADSP study and the data portal, please visit <a href="https://www.niagads.org/adsp/">https://www.niagads.org/adsp/</a>. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>The samples for the ADSP have been selected from well-characterized cohorts of individuals characterized for AD diagnosis as well as having known AD genetic risk factors. Investigators in the ADSP will obtain from the NIH approved data repositories: (1) quality control checked and &#39;cleaned&#39; sequence data. &#39;Quality control checked and cleaned&#39; means a set of routine checks have been performed for sample information, phenotype, and GWAS data to ensure the sequence data are of high quality and are ready for downstream genetic analysis and that likely sources of false-positives have been ruled out, and that samples that are outliers which may skew project-level analyses have been identified; (2) information on the composition of the study cohorts (e.g. case-control, family based, and epidemiology cohorts); (3) descriptions of the study cohorts included in the study; and (4) accompanying phenotypic information such as age at disease onset, self-reported race/ethnicity, gender, diagnostic status, and cognitive measures. The ADSP will determine what additional information, if any, is needed by its members to facilitate the project.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="19734902"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19734903"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20460622"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21460840"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21460841"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Alzheimer Disease"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Richard A. Gibbs, PhD</AttName>
+			<Institution>Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Eric S. Lander, PhD</AttName>
+			<Institution>Broad Institute, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Richard K. Wilson, PhD</AttName>
+			<Institution>The Genome Institute, Washington University, St. Louis, MO, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Gerard D. Schellenberg, PhD</AttName>
+			<Institution>Alzheimer&#39;s Disease Genetics Consortium (ADGC), University of Pennsylvania, Philadelphia, PA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Sudha Seshadri, MD</AttName>
+			<Institution>Cohorts for Heart and Aging Research in Genomic Epidemiology Consortium (CHARGE), Boston University, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U24 AG041689</AttName>
+			<Institution>The National Institute on Aging Genetics of Alzheimer&#39;s Disease Data Storage Site, National Institute on Aging, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01 AG032984</AttName>
+			<Institution>Alzheimer&#39;s Disease Genetics Consortium, University of Pennsylvania, Philadelphia, PA, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>R01 AG033193</AttName>
+			<Institution>Cohorts for Heart and Aging Research in Genomic Epidemiology, Boston University, Boston, MA, USA.</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U24 AG021886</AttName>
+			<Institution>National Cell Repository for Alzheimer&#39;s Disease, Indiana University, Bloomington, IN, USA</Institution>
+		</Header>
+		<Header title="Funding Sources for Sequencing">
+			<AttName>U54HG003079</AttName>
+			<Institution>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources for Sequencing">
+			<AttName>U54HG003273</AttName>
+			<Institution>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources for Sequencing">
+			<AttName>U54HG003076</AttName>
+			<Institution>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>On February 7, 2012, a new Presidential Initiative was announced to fight Alzheimer&#39;s Disease (AD). As part of this effort, the National Human Genome Research Institute (NHGRI) was asked by the Director of the National Institutes of Health (NIH) to use $25M already committed to its Large-Scale Sequencing Centers (LSSC) for genomic studies in AD. The NIH director asked the National Institute on Aging (NIA) and the NHGRI to work together to develop and execute a large scale sequencing project to analyze the genomes of a large number of well characterized individuals in order to identify a broad range of AD risk and protective gene variants, with the ultimate goal of facilitating the identification of new pathways for therapeutic approaches and prevention. The analysis will also provide insight as to why individuals with known risk factor genes escape from developing AD. The project, developed jointly by NIA and NHGRI, is called the Alzheimer&#39;s Disease Sequencing Project (ADSP).</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB" longName="Health/Medical/Biomedical (IRB)"/>
+		<ConsentGroup groupNum="2" shortName="HMB-IRB-NPU" longName="Health/Medical/Biomedical (IRB, NPU)"/>
+		<ConsentGroup groupNum="3" shortName="DS-ALZ-IRB" longName="Disease-Specific (Alzheimer Disease, IRB)"/>
+		<ConsentGroup groupNum="4" shortName="DS-ALZ-IRB-NPU" longName="Disease-Specific (Alzheimer Disease, IRB, NPU)"/>
+		<ConsentGroup groupNum="5" shortName="DS-ND-IRB" longName="Disease-Specific (Neurodegenerative Disease, IRB)"/>
+		<ConsentGroup groupNum="6" shortName="DS-ND-IRB-NPU" longName="Disease-Specific (Neurodegenerative Disease, IRB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIA</DacName>
+      <DacFullName>NIA</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000572.v3.p2_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000572.v3.p2
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000572.v3.p2" FileName="ADSP_DUC_fnl_11_20_13.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical (IRB)</ConsentName>
+        <ConsentAbbrev>HMB-IRB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Health/Medical/Biomedical (IRB, NPU)</ConsentName>
+        <ConsentAbbrev>HMB-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Disease-Specific (Alzheimer Disease, IRB)</ConsentName>
+        <ConsentAbbrev>DS-ALZ-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Alzheimer Disease.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Disease-Specific (Alzheimer Disease, IRB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-ALZ-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Alzheimer Disease.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="5">
+        <ConsentName>Disease-Specific (Neurodegenerative Disease, IRB)</ConsentName>
+        <ConsentAbbrev>DS-ND-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Neurodegenerative Disease.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="6">
+        <ConsentName>Disease-Specific (Neurodegenerative Disease, IRB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-ND-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Neurodegenerative Disease.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use by ADSP study investigators only.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

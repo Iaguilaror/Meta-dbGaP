@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001263.v1.p1" parentStudy="phs001263.v1.p1" createDate="2016-12-29" modDate="2017-03-08">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>David J. Hunter, MBBS, MPH, ScD</td><td>Harvard T.H. Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Peter Kraft, PhD</td><td>Harvard T.H. Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Sara Lindstr&#246;m, PhD</td><td>Harvard T.H. Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Douglas F. Easton, PhD</td><td>University of Cambridge, Cambridge, United Kingdom</td></tr>
+		<tr><td>Funding Source</td><td>U19CA148065</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>DRIVE Breast Cancer GWAS Meta-Analysis</StudyNameEntrez>
+	<StudyNameReportPage>Discovery, Biology, and Risk of Inherited Variants in Breast Cancer (DRIVE) - Genome-Wide Association Study Meta-Analysis</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Discovery, Biology, and Risk of Inherited Variants in Breast Cancer (DRIVE) was one of five projects funded in 2010 as part of the NCI&#39;s Genetic Associations and Mechanisms in Oncology (GAME-ON) initiative (<a href="http://epi.grants.cancer.gov/gameon/">http://epi.grants.cancer.gov/gameon/</a>). GAME-ON&#39;s overall goal was to foster an intra-disciplinary and collaborative approach to the translation of promising research leads deriving from the initial wave of cancer GWAS. Specific goals included replication of previous GWAS findings and identification of new susceptibility loci through meta analyses of existing GWAS data and fine mapping of identified loci to better pinpoint causal variants; and identify germline variants that are associated with risk of multiple cancers. The other four funded GAME-ON projects were: the ColoRectal TransdisciplinaryStudy (CORECT), Elucidating Loci Involved in Prostate Cancer Susceptibility (ELLIPSE), Follow-up of Ovarian Cancer Genetic Association and Interaction Study (FOCI), and Transdisciplinary Research in Cancer of the Lung (TRICL).</p> <p>To identify additional cancer risk loci, improve the precision of fine-mapping, and facilitate cross-cancer analyses, DRIVE investigators performed a meta-analysis of eleven genome-wide association studies of breast cancer: The Australian Breast Cancer Family Study (ABCFS), the British Breast Cancer Study (BBCS), the Breast and Prostate Cancer Cohort Consortium (BPC3), the Breast Cancer Family Registries (BCFR), the Dutch Familial Bilateral Breast Cancer Study (DFBBCS), German Consortium for Hereditary Breast and Ovarian Cancer (GC-HBOC), the Helsinki breast cancer family Study (HEBCS), the Mammary Carcinoma Risk factor Investigation (MARIE), the Singapore and Sweden Breast Cancer Study (SASBAC), the Triple Negative Breast Cancer Study (TNBC), and the UK2 GWAS. These studies comprised a total of 16,062 cases and 46,157 controls. Imputation to the 1,000 Genomes Project Phase 1 v3 ALL reference panel was performed by study, and summary statistics from each study were combined using fixed-effect meta analysis. </p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27197191"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22267197"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23535729"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22976474"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23535733"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Breast Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>David J. Hunter, MBBS, MPH, ScD</AttName>
+			<Institution>Harvard T.H. Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Peter Kraft, PhD</AttName>
+			<Institution>Harvard T.H. Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Sara Lindstr&#246;m, PhD</AttName>
+			<Institution>Harvard T.H. Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Douglas F. Easton, PhD</AttName>
+			<Institution>University of Cambridge, Cambridge, United Kingdom</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U19CA148065</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>no</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="GAME-ON" url="http://gameon.dfci.harvard.edu"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-BRCA-MDS" longName="Disease-Specific (Breast Cancer, MDS)"/>
+		<ConsentGroup groupNum="100" shortName="Analysis" longName="Analysis only"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001263.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001263.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001263.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Breast Cancer, MDS)</ConsentName>
+        <ConsentAbbrev>DS-BRCA-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Breast Cancer.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006977.1" type="questionnaire" createDate="2016-12-29" modDate="2016-12-29">
+      <OrigName>dbGaP_Association_Analysis_DRIVE_MetaDD.xlsx</OrigName>
+      <DisplayName>Association Analysis DRIVE MetaDD</DisplayName>
+      <Description>Association Analysis DRIVE MetaDD</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+  </Documents>
+
+
+<Analyses>
+	<Analysis pha="4499" genomeBuild="38" snpBuild="144" analysisType="">
+		<Description>To identify additional cancer risk loci, improve the precision of fine-mapping, and facilitate cross-cancer analyses, DRIVE investigators performed a meta-analysis of eleven genome-wide association studies of breast cancer: The Australian Breast Cancer Family Study (ABCFS), the British Breast Cancer Study (BBCS), the Breast and Prostate Cancer Cohort Consortium (BPC3), the Breast Cancer Family Registries (BCFR), the Dutch Familial Bilateral Breast Cancer Study (DFBBCS), German Consortium for Hereditary Breast and Ovarian Cancer (GC-HBOC), the Helsinki breast cancer family Study (HEBCS), the Mammary Carcinoma Risk factor Investigation (MARIE), the Singapore and Sweden Breast Cancer Study (SASBAC), the Triple Negative Breast Cancer Study (TNBC), and the UK2 GWAS. These studies comprised a total of 16,062 cases and 46,157 controls. Imputation to the 1,000 Genomes Project Phase 1 v3 ALL reference panel was performed by study, and summary statistics from each study were combined using fixed-effect meta analysis. Additional details can be found at http://gameon.dfci.harvard.edu and in Fehringer G et al. (2016) Cancer Research.</Description>
+		<Method>binary trait analysis</Method>
+		<GtyPlatform probeNum="4353931" snpBatchId="1057169">
+			<Vendor>Illumina</Vendor>
+			<VendorURL>HumanOmni5-4v1_BL</VendorURL>
+			<Platform>HumanOmni5-4v1_B</Platform>
+		</GtyPlatform>
+		<Comment></Comment>
+	</Analysis>
+	<Analysis pha="4500" genomeBuild="38" snpBuild="144" analysisType="">
+		<Description>To identify additional cancer risk loci, improve the precision of fine-mapping, and facilitate cross-cancer analyses, DRIVE investigators performed a meta-analysis of eleven genome-wide association studies of breast cancer: The Australian Breast Cancer Family Study (ABCFS), the British Breast Cancer Study (BBCS), the Breast and Prostate Cancer Cohort Consortium (BPC3), the Breast Cancer Family Registries (BCFR), the Dutch Familial Bilateral Breast Cancer Study (DFBBCS), German Consortium for Hereditary Breast and Ovarian Cancer (GC-HBOC), the Helsinki breast cancer family Study (HEBCS), the Mammary Carcinoma Risk factor Investigation (MARIE), the Singapore and Sweden Breast Cancer Study (SASBAC), the Triple Negative Breast Cancer Study (TNBC), and the UK2 GWAS. These studies comprised a total of 16,062 cases and 46,157 controls. Imputation to the 1,000 Genomes Project Phase 1 v3 ALL reference panel was performed by study, and summary statistics from each study were combined using fixed-effect meta analysis. Additional details can be found at http://gameon.dfci.harvard.edu and in Fehringer G et al. (2016) Cancer Research.</Description>
+		<Method>binary trait analysis</Method>
+		<GtyPlatform probeNum="4353931" snpBatchId="1057169">
+			<Vendor>Illumina</Vendor>
+			<VendorURL>HumanOmni5-4v1_BL</VendorURL>
+			<Platform>HumanOmni5-4v1_B</Platform>
+		</GtyPlatform>
+		<Comment></Comment>
+	</Analysis>
+</Analyses>
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

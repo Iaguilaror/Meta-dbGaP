@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001271.v1.p1" parentStudy="phs001271.v1.p1" createDate="2017-01-23" modDate="2017-01-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Ghislaine Sc&#233;lo, PhD</td><td>International Agency for Research on Cancer (IARC), Lyon, France</td></tr>
+		<tr><td>Co-Investigators</td><td>Paul Brennan, PhD</td><td>International Agency for Research on Cancer (IARC), Lyon, France</td></tr>
+		<tr><td>Co-Investigators</td><td>James D McKay, PhD</td><td>International Agency for Research on Cancer (IARC), Lyon, France</td></tr>
+		<tr><td>Co-Investigators</td><td>Mark Lathrop, PhD</td><td>McGill University and Genome Quebec Innovation Centre, Montreal, Quebec, Canada</td></tr>
+		<tr><td>Co-Investigators</td><td>Heiner Boeing, PhD</td><td>German Institute of Human Nutrition (DIfE) Potsdam-Rehbr&#252;cke, Nuthetal, Germany</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Pooled Genome-Wide Analysis of Kidney Cancer Risk (KIDRISK)</StudyNameEntrez>
+	<StudyNameReportPage>Pooled Genome-Wide Analysis of Kidney Cancer Risk (KIDRISK)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+		<StudyType>Case-Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Incidence rates of renal cell carcinoma (RCC) are rising and the latest estimates show that it accounts for over 300,000 cases and 120,000 deaths worldwide each year. Mechanisms underlying RCC occurrence are not fully understood and a large part of the disease heritability remains unexplained. The study aimed at augmenting the size of available RCC genome-wide association studies to increase the statistical power to detect genetic variants associated with the disease. The study includes genome-wide genotyping data from RCC cases (n=2,781) and controls (n=2,526) recruited in Western Europe, Central and Eastern Europe, and Australia.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Cases with ICD code C64.9<br/> Controls were cancer free subjects<br/> Unrelated subjects with more than 70% Caucasian ancestry were kept in final dataset.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Carcinoma, Renal Cell"/>
+		<Disease vocab_source="MESH" vocab_term="Kidney Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Ghislaine Sc&#233;lo, PhD</AttName>
+			<Institution>International Agency for Research on Cancer (IARC), Lyon, France</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Paul Brennan, PhD</AttName>
+			<Institution>International Agency for Research on Cancer (IARC), Lyon, France</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>James D McKay, PhD</AttName>
+			<Institution>International Agency for Research on Cancer (IARC), Lyon, France</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Mark Lathrop, PhD</AttName>
+			<Institution>McGill University and Genome Quebec Innovation Centre, Montreal, Quebec, Canada</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Heiner Boeing, PhD</AttName>
+			<Institution>German Institute of Human Nutrition (DIfE) Potsdam-Rehbr&#252;cke, Nuthetal, Germany</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Lenka Foretova, MD, PhD</AttName>
+			<Institution>Masaryk Memorial Cancer Institute, Brno, Czech Republic</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Ivana Holcatova, MD, PhD</AttName>
+			<Institution>Charles University, Prague, Czech Republic</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Olivier Cussenot, MD, PhD</AttName>
+			<Institution>CeRePP, Tenon Hospital, Paris, France</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Vladimir Janout, MD, PhD</AttName>
+			<Institution>Palacky University, Olomouc, Czech Republic</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>B&#246;rje Ljungberg, MD, PhD</AttName>
+			<Institution>Ume&#229; University, Ume&#229;, Sweden</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Dana Mates, MD, PhD</AttName>
+			<Institution>National Institute of Public Health, Bucharest, Romania</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Gianluca Severi, PhD</AttName>
+			<Institution>Cancer Council Victoria, Melbourne, Australia</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Alicja Wolk, PhD</AttName>
+			<Institution>Karolinska Institutet, Stockholm, Sweden</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>David Zaridze, MD, PhD</AttName>
+			<Institution>Russian N.N. Blokhin Cancer Research Centre, Moscow, Russian Federation</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Jean-Francois Deleuze, PhD</AttName>
+			<Institution>Centre National de Genotypage, Institut de Genomique, Commissariat &#224; l&#39;Energie Atomique et aux Energies Alternatives, Evry, France</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Gordana Basta-Jovanovic, MD</AttName>
+			<Institution>University of Belgrade, Belgrade, Serbia</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01CA155309</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>The genotyping was centrally performed at the Centre National de Genotypage (Evry, France) from April 2013 to July 2014.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-PUB-NPU-MDS" longName="Health/Medical/Biomedical (PUB, NPU, MDS)"/>
+		<ConsentGroup groupNum="2" shortName="DS-CA-NPU-GSO" longName="Disease-Specific (Cancer, NPU, GSO)"/>
+		<ConsentGroup groupNum="3" shortName="DS-RCC-MDS" longName="Disease-Specific (Kidney Cancer, MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001271.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001271.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001271.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical (PUB, NPU, MDS)</ConsentName>
+        <ConsentAbbrev>HMB-PUB-NPU-MDS</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Cancer, NPU, GSO)</ConsentName>
+        <ConsentAbbrev>DS-CA-NPU-GSO</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Use of the data is limited to not-for-profit organizations.
+Use of the data is limited to genetic studies only.
+Data is available for cancer research relating to population structure (including research that may have applications or implications for the understanding of ancestral history, because of the information it may provide about allele frequencies in different populations). 
+Data is NOT available for genetic research on non-cancer and/or non-disease traits (e.g., intelligence, behavioral traits). 
+Data is NOT available for general methods development research,</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Disease-Specific (Kidney Cancer, MDS)</ConsentName>
+        <ConsentAbbrev>DS-RCC-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Kidney Cancer.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

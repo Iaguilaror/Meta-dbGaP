@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000224.v1.p1" parentStudy="phs000224.v1.p1" createDate="2009-11-04" modDate="2011-04-11">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Richard A. Spritz, MD</td><td>University of Colorado Denver, Aurora, CO, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01AR056292</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>VitGene Generalized Vitiligo Genetics Study</StudyNameEntrez>
+	<StudyNameReportPage>VitGene Generalized Vitiligo Genetics Study</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+		<StudyType>Parent-Offspring Trios</StudyType>
+		<StudyType>Multiplex Families</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Generalized vitiligo is an autoimmune disease in which melanocyte loss results in patchy depigmentation of 	skin and hair. For this GWAS of generalized vitiligo, 579,146 SNPs were genotyped in 1514 generalized vitiligo 	cases of European-derived white (CEU) ancestry versus data from 2813 "public" CEU controls.  49 strongly 	associated SNPs from the first phase of the GWAS were then tested in two replication studies, one comparing 	677 independent cases and 1106 CEU controls, and the other a family-based analysis of 204 CEU simplex 	generalized vitiligo trios and 310 CEU multiplex families. Overall, significant association of generalized 	vitiligo was detected for SNPs in several genes previously associated with other autoimmune diseases, including 	MHC class I (P = 9.05 x 10<sup>-23</sup>) and class II (P = 4.50 x 10<sup>-34</sup>) loci, PTPN22 (P = 1.31 x 10<sup>-7</sup>), 	LPP (P = 1.01 x 10<sup>-11</sup>), IL2RA (P = 2.78 x 10<sup>-9</sup>), UBASH3A (P = 1.26 x 10<sup>-9</sup>), and 	C1QTNF6 (P = 2.21 x 10<sup>-16</sup>). Association was also detected for SNPs in two novel immune-related loci, 	RERE (P = 7.07 x 10<sup>-15</sup>), GZMB (P = 3.44 x 10<sup>-8</sup>), and in a locus that may mediate melanocyte 	target cell specificity, TYR (P = 1.60 x 10<sup>-18</sup>) encoding tyrosinase. These findings thus demonstrate 	association between generalized vitiligo and multiple genes, some associated with other autoimmune diseases and 	others that may mediate target-cell specificity, and suggest a possible inverse relationship between susceptibility 	to vitiligo versus melanoma.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p> 		<b>Cases:</b> 		<ul> 			<li>Inclusion: CEU: must meet strict clinical diagnostic criteria for generalized vitiligo</li> 			<li>Exclusion: CEU: must not have any form of congenital hypopigmentation, segmental vitiligo, any questionable 				diagnosis</li> 		</ul> 		<b>Controls:</b> 		<ul> 			<li>Inclusion: CEU</li> 			<li>Exclusion: Vitiligo or any hypopigmentation disorder, any known relative with vitiligo</li> 		</ul> 		<b>Trios:</b> 		<ul> 			<li>Case plus parents (affected or not affected)</li> 		</ul> 		<b>Multiplex families:</b> 		<ul> 			<li>Case plus at least one other affected relative (not parent), plus as many connecting relatives as possible</li> 		</ul> 	</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Vitiligo"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Richard A. Spritz, MD</AttName>
+			<Institution>University of Colorado Denver, Aurora, CO, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01AR056292</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="VTO" longName="Vitiligo Only"/>
+		<ConsentGroup groupNum="2" shortName="VAD" longName="Vitiligo and other Autoimmune Disorders"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>JARDE</DacName>
+      <DacFullName>Joint NIAMS-NIDCR Data Access Committee</DacFullName>
+      <DacEmail>jardedac@mail.nih.gov</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl>http://grants.nih.gov/grants/gwas</DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000224.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+               http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000224.v1.p1
+            </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000224.v1.p1" FileName="Spritz_DUC_rev042110_NIAMS.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Vitiligo Only</ConsentName>
+        <ConsentAbbrev>VTO</ConsentAbbrev>
+        <UseLimitation>This dataset may be used for studies of vitiligo only.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Vitiligo and other Autoimmune Disorders</ConsentName>
+        <ConsentAbbrev>VAD</ConsentAbbrev>
+        <UseLimitation>This dataset may be used for studies of vitiligo and other autoimmune disorders.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd003474.1" type="consent-form" createDate="2011-03-29" modDate="2011-04-11" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003474.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000224.v1.p1&amp;phd=3474">
+      <OrigName>vitiligoConsents.pdf</OrigName>
+      <DisplayName>Vitiligo Consents</DisplayName>
+      <Description>Vitiligo Consents</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

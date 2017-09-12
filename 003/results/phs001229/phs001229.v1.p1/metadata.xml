@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001229.v1.p1" parentStudy="phs001229.v1.p1" createDate="2016-10-17" modDate="2017-07-19">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Todd Fehniger, MD, PhD</td><td>Washington University School of Medicine, St Louis, MO, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Nancy L. Bartlett, MD</td><td>Washington University School of Medicine, St Louis, MO, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Sequencing Follicular Lymphoma</StudyNameEntrez>
+	<StudyNameReportPage>Sequencing Follicular Lymphoma</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Tumor vs. Matched-Normal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>We performed exome sequencing of tumor (lymph node) and normal (skin) frozen tissue pairs from 24 patients in a discovery cohort with untreated follicular lymphoma (FL), relapsed FL, or transformed FL/iNHL (indolent non-Hodgkin lymphoma). From 24 patients, 28 tumor samples were exome sequenced including 1 patient with both untreated and relapse samples and 3 patients with samples derived from both bulk lymph node and following flow-sorting to purify light chain-restricted CD19+ lymphoma cells. We developed a custom capture assay (NimbleGen) that targets 7.05 MB corresponding to the exons and splice sites of 1716 genes (WUSM-LP). The custom capture genes included somatic nucleotide variants (SNVs) identified in our exome discovery cohort (898 genes) or SNVs previously published to be recurrently mutated in B cell NHL (818 genes). This custom capture reagent was used to sequence additional FFPE samples (and corresponding normal tissue, when available) from patients with follicular lymphoma. This approach was used to identify recurrently mutated genes in pathways in FL.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>For exome sequenced samples, all patients provided written informed consent for the use of their samples in sequencing as part of the Washington University School of Medicine (WUSM) Lymphoma Banking Program. All patients with adequate excisional biopsy tissue available from 2008-2013 were included. Non-malignant samples were also collected (skin punch biopsies). Pathology review was performed on frozen lymph node samples to confirm the diagnosis and estimate tumor cell content. Frozen sections (tumor and skin) were cut and used for genomic DNA isolation. For cases there were flow sorted, CD19+ and light chain restricted B cells were purified (&gt;98% pure) using a Reflection instrument. For additional capture sequencing, a cohort of FL patients was identified from those evaluated at WUSM/Siteman Cancer Center from 2001-2013. Patients were included if FFPE blocks from an excisional biopsy and clinical information regarding initial treatment and follow-up were available. All FFPE tissue was reviewed to confirm the pathology diagnosis and marked for block punches in confirmed tumor-containing areas.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="28064239"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Lymphoma, Follicular"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Todd Fehniger, MD, PhD</AttName>
+			<Institution>Washington University School of Medicine, St Louis, MO, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Nancy L. Bartlett, MD</AttName>
+			<Institution>Washington University School of Medicine, St Louis, MO, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-LYM" longName="Disease-Specific (Lymphoma)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

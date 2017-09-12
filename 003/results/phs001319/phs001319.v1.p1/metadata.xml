@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001319.v1.p1" parentStudy="phs001319.v1.p1" createDate="2017-03-01" modDate="2017-03-30">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Melissa L. Bondy, PhD</td><td>Baylor College of Medicine, Houston, TX, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01CA139020</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Glioma International Case Control Study (GICC)</StudyNameEntrez>
+	<StudyNameReportPage>Glioma International Case Control Study (GICC)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The main goals of the GICC Study were: 1) to identify novel genetic risk variants for glioma, as well as validate variants implicated by previous genome-wide association studies of glioma; and 2) to explore biologically relevant gene-gene and gene-environment interactions in glioma susceptibility. The GICC Study includes participants from the following centers: Brigham and Women&#39;s Hospital (Boston, Massachusetts), Case Western Reserve University (Cleveland, Ohio), Columbia University (New York, New York), the Danish Cancer Society Research Centre (Copenhagen, Denmark), Duke University (Durham, North Carolina), the University of Texas MD Anderson Cancer Center (Houston, Texas), Memorial Sloan Kettering Cancer Center (New York, New York), the Mayo Clinic (Rochester, Minnesota), NorthShore HealthSystem (Chicago, Illinois), Umea University (Umea, Sweden), the University of California, San Francisco (San Francisco, California), the University of Southern California (Los Angeles, California), and the Institute of Cancer Research (London, United Kingdom).</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion Criteria:</p> <p>Case recruitment took place between 2010 and 2013. Eligibility criteria for cases were as follows: <ul> <li>Diagnosis of histologically confirmed, supratentorial, intracranial glioma (World Health Organization (WHO) grades II-IV): fibrillary astrocytoma (International Classification of Diseases, Ninth Revision, code 9420/3), protoplasmic astrocytoma (code 9410/3), gemistocytic astrocytoma (code 9411/3), oligodendroglioma (code 9450/3), oligoastrocytoma (code 9382/3), anaplastic astrocytoma (code 9401/3), anaplastic oligodendroglioma (code 9451/3), anaplastic oligoastrocytoma (code 9382/3), or glioblastoma (code 9440/3)</li> <li>Age 18-80 years at diagnosis</li> <li>Ability to speak the local language</li> </ul> </p> <p>Cases were recruited within 1 year of diagnosis and consented to participation at their clinic visits. Blood/saliva samples and interviews were obtained or scheduled at that time. Reprinted from Amirian et al, Am J Epidemiol. 2016 Jan 15; 183(2): 85-91 </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26656478"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="28346443"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Glioma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Melissa L. Bondy, PhD</AttName>
+			<Institution>Baylor College of Medicine, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01CA139020</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+		<ConsentGroup groupNum="2" shortName="DS-BT" longName="Disease-Specific (Brain Tumors)"/>
+		<ConsentGroup groupNum="3" shortName="DS-GL-PUB" longName="Disease-Specific (Glioma, PUB)"/>
+		<ConsentGroup groupNum="4" shortName="DS-GL" longName="Disease-Specific (Glioma)"/>
+		<ConsentGroup groupNum="5" shortName="GRU-COL" longName="General Research Use (COL)"/>
+		<ConsentGroup groupNum="6" shortName="DS-CA" longName="Disease-Specific (Cancer)"/>
+		<ConsentGroup groupNum="7" shortName="DS-GLRC" longName="Disease-Specific (Glioma and Related Conditions)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001319.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001319.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001319.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Brain Tumors)</ConsentName>
+        <ConsentAbbrev>DS-BT</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Brain Tumors.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Disease-Specific (Glioma, PUB)</ConsentName>
+        <ConsentAbbrev>DS-GL-PUB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Glioma.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Disease-Specific (Glioma)</ConsentName>
+        <ConsentAbbrev>DS-GL</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Glioma.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="5">
+        <ConsentName>General Research Use (COL)</ConsentName>
+        <ConsentAbbrev>GRU-COL</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide a letter of collaboration with the primary study investigator(s).
+The letter of collaboration for this study is a collaborator agreement from the Danish Gliogene study. A blank copy can be found at the end of the study&amp;#x2019;s Data Use Certification Agreement (see dbGaP study page). Requestor must provide this signed form documenting Danish Gliogene study approval. Approval can be obtained by contacting Christoffer Johansen at christof@cancer.dk.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="6">
+        <ConsentName>Disease-Specific (Cancer)</ConsentName>
+        <ConsentAbbrev>DS-CA</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="7">
+        <ConsentName>Disease-Specific (Glioma and Related Conditions)</ConsentName>
+        <ConsentAbbrev>DS-GLRC</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Glioma and Related Conditions.
+General methods development research is NOT permitted.
+"Related conditions" are defined as conditions with evidence of genetic relationships to glioma and other malignancies.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

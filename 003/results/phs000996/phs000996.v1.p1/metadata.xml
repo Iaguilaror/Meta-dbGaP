@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000996.v1.p1" parentStudy="phs000996.v1.p1" createDate="2015-10-01" modDate="2017-02-13">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Zhaoxi Wang, PhD, MD</td><td>Harvard T.H. Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Corresponding Investigator</td><td>David C. Christiani, PhD</td><td>Harvard T.H. Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Funding Sources</td><td>R01-ES007821</td><td>National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Sources</td><td>R01-ES014930</td><td>National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Sources</td><td>R01-ES013744</td><td>National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Gene-Environment Interaction Effects in Neurodevelopment</StudyNameEntrez>
+	<StudyNameReportPage>Genome-Wide Environment Interaction Study on Neurodevelopment in Children from Mexico and Bangladesh</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Cognitive development is known to be highly heritable, but various genome wide association studies (GWAS) have failed to find common single nucleotide polymorphisms (SNPs) which can explain a large proportion of the variance in cognitive ability. We hypothesized that an interaction between genes and exposure to potentially toxic metals may account for some proportion of this missing heritability. </p> <p>We genotyped 749 infants in Mexico and 636 infants in Bangladesh. Criteria for inclusion into the study are given below. We then performed a Genome Wide Environmental Interaction Study (GWEIS) with neurodevelopment outcomes. There were 552,487 SNPs in common between the two cohorts. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>In the Mexico cohort, a total of 1054 pregnant women initially consented to be enrolled in the study. Of this sample, we excluded subjects for high levels of relatedness, high levels of missingness, and outlying principal components. In all, 749 infants were genotyped and passed quality control. </p> <p>In the Bangladesh cohort, a total of 1458 pregnant women initially consented to be enrolled in the study. These women were at least 18 years old and planned to deliver under Dhaka Community Hospital Trust supervision. We again excluded subjects for high levels of relatedness, high levels of missingness, and outlying principal components. In all, 636 infants were genotyped and passed quality control.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Journal authors="Wang Z, Christiani DC, Claus-Henn B, Wang C, Wei Y, Su L, Sun R, Chen H, Wagner P, Lu Q, Lin X." title="Genome-Wide Gene by Heavy Metal Exposure Interaction Analysis for Neurodevelopment. Environmental Health." journal="Revision submitted"/>
+		</Publication>
+	</Publications>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Zhaoxi Wang, PhD, MD</AttName>
+			<Institution>Harvard T.H. Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Corresponding Investigator">
+			<AttName>David C. Christiani, PhD</AttName>
+			<Institution>Harvard T.H. Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>R01-ES007821</AttName>
+			<Institution>National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>R01-ES014930</AttName>
+			<Institution>National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>R01-ES013744</AttName>
+			<Institution>National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>P30-ES0002</AttName>
+			<Institution>National Institute of Environmental Health Sciences, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>FP-91690001</AttName>
+			<Institution>United States Environmental Protection Agency, Washington, D.C. USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIEHS</DacName>
+      <DacFullName>NIEHS</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000996.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000996.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000996.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

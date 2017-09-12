@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001320.v1.p1" parentStudy="phs001320.v1.p1" createDate="2017-03-02" modDate="2017-05-15">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Mary E. Norton</td><td>University of California, San Francisco, San Francisco, CA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Julie C. Baker</td><td>Stanford University School of Medicine, Stanford, CA, USA</td></tr>
+		<tr><td>Investigators</td><td>Roberta L. Hannibal</td><td>Stanford University School of Medicine, Stanford, CA, USA</td></tr>
+		<tr><td>Investigators</td><td>Margarida Cardoso Moreira</td><td>Heidelberg University, Heidelberg, Germany</td></tr>
+		<tr><td>Investigators</td><td>Shilpa P. Chetty</td><td>University of California, San Francisco, San Francisco, CA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Investigating Human Placentation and Pregnancy Using First Trimester Chorionic Villi</StudyNameEntrez>
+	<StudyNameReportPage>Investigating Human Placentation and Pregnancy Using First Trimester Chorionic Villi</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Prospective</StudyType>
+		<StudyType>Observational</StudyType>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Chorionic villus sampling (CVS) is routinely used for prenatal diagnosis of cytogenetic disorders, but also possesses great potential for studying placentation. To better understand villi biology, human placentation, and how these relate to pregnancy outcomes, we examined the morphology and transcriptomes of villi obtained via CVS from 10-14 weeks of pregnancy and correlated these with pregnancy attributes and clinical outcomes.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion Criteria: Pregnant women undergoing CVS from March 2012 to March 2013 at Lucile Packard Children&#39;s Hospital.</p> <p>Exclusion Criteria: Women who did not consent to this study; women with CV samples that were not scored for morphology, women with CV samples which did not have clinical information linked to the CV samples.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Pre-eclampsia"/>
+		<Disease vocab_source="MESH" vocab_term="Hypertension, Pregnancy-Induced"/>
+		<Disease vocab_source="MESH" vocab_term="Diabetes, Gestational"/>
+		<Disease vocab_source="MESH" vocab_term="Premature Birth"/>
+		<Disease vocab_source="MESH" vocab_term="Anemia"/>
+		<Disease vocab_source="MESH" vocab_term="Trisomy"/>
+		<Disease vocab_source="MESH" vocab_term="Abnormalities"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Investigators">
+			<AttName>Roberta L. Hannibal</AttName>
+			<Institution>Stanford University School of Medicine, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Investigators">
+			<AttName>Margarida Cardoso Moreira</AttName>
+			<Institution>Heidelberg University, Heidelberg, Germany</Institution>
+		</Header>
+		<Header title="Investigators">
+			<AttName>Shilpa P. Chetty</AttName>
+			<Institution>University of California, San Francisco, San Francisco, CA, USA</Institution>
+		</Header>
+		<Header title="Investigators">
+			<AttName>Joanne Lau</AttName>
+			<Institution>Stanford University School of Medicine, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Investigators">
+			<AttName>Zhongxia Qi</AttName>
+			<Institution>University of California, San Francisco, San Francisco, CA, USA</Institution>
+		</Header>
+		<Header title="Investigators">
+			<AttName>Athena M. Cherry</AttName>
+			<Institution>Stanford University School of Medicine, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Investigators">
+			<AttName>Jingwei Yu</AttName>
+			<Institution>University of California, San Francisco, San Francisco, CA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Mary E. Norton</AttName>
+			<Institution>University of California, San Francisco, San Francisco, CA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Julie C. Baker</AttName>
+			<Institution>Stanford University School of Medicine, Stanford, CA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-PUB-COL" longName="General Research Use (IRB, PUB, COL)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NICHD</DacName>
+      <DacFullName>NICHD-DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001320.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001320.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001320.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB, PUB, COL)</ConsentName>
+        <ConsentAbbrev>GRU-IRB-PUB-COL</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Requestor must provide a letter of collaboration with the primary study investigator(s).</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd007224.1" type="consent-form" createDate="2017-04-21" modDate="2017-04-21">
+      <OrigName>CVS_GeneExpression_ICF.doc</OrigName>
+      <DisplayName>CVS Gene Expression ICF</DisplayName>
+      <Description>CVS Gene Expression ICF</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd007224.1" sectionId="sec1.1">
+      <phvList>
+        <phvRef variableId="290039"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000215.v1.p1" parentStudy="phs000215.v1.p1" createDate="2009-09-04" modDate="2010-06-28">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Luigi Ferrucci, MD PhD</td><td>National Institute on Aging, National Institutes of Health, Baltimore, MD, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>Stefania Bandinelli, MD</td><td>Azienda Sanitaria Firenze (ASF), Florence, Italy</td></tr>
+		<tr><td>Funding Source</td><td>Intramural Research Program of the NIH, National Institute on Aging</td><td>National Institute on Aging, National Institutes of Health, Baltimore, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genome-Wide Association Analysis of Serum Iron in the InCHIANTI and BLSA</StudyNameEntrez>
+	<StudyNameReportPage>Genome-Wide Association Analysis of Serum Iron in the InCHIANTI and BLSA</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Population</StudyType>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The aim of this study was to identify gene(s) associated with serum iron concentrations. This dataset contains the results  	from a meta-analysis of 1919 subjects from the InCHIANTI and Baltimore Longitudinal Study of Aging (BLSA). Both studies are  	population based prospective studies that evaluate the contributors of normal aging.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>This analysis was conducted in subjects of European ancestry with genetic data and serum iron measurement.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="19880490"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19303062"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11129752"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18464913"/>
+		</Publication>
+		<Publication>
+			<Journal authors="Shock NW, Greulich RC, Andres R, Arenberg D, Costa, Jr., PT,  Lakatta EG, Tobin JD" title="Normal Human Aging: The Baltimore Longitudinal Study of Aging" journal="http://www.grc.nia.nih.gov/blsahistory/blsa_1984/index.htm, NIH Publication No. 84-2450, November 1984, Washington, D.C., Government Printing Office"/>
+		</Publication>
+	</Publications>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Luigi Ferrucci, MD PhD</AttName>
+			<Institution>National Institute on Aging, National Institutes of Health, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>Stefania Bandinelli, MD</AttName>
+			<Institution>Azienda Sanitaria Firenze (ASF), Florence, Italy</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Intramural Research Program of the NIH, National Institute on Aging</AttName>
+			<Institution>National Institute on Aging, National Institutes of Health, Baltimore, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="InCHIANTI" url="http://inchiantistudy.net/"/>
+		<Url name="BLSA" url="http://www.grc.nia.nih.gov/branches/blsa/blsa.htm"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="100" shortName="Summary" longName="Summary Data Only"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>JAAMH</DacName>
+      <DacFullName>Joint Addiction, Aging, and Mental Health DAC</DacFullName>
+      <DacEmail>JAAMHDAC@mail.nih.gov </DacEmail>
+      <DacPhone></DacPhone>
+      <DacFax>301-594-6043</DacFax>
+      <DacUrl>http://grants.nih.gov/grants/gwas/</DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000215.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+               The Requester agrees to acknowledge the NIH GWAS Data Repository, the Contributing Investigator(s) who contributed the phenotype data and DNA samples from his/her original study, and the primary funding organization that supported the contributing study in all oral and written presentations, disclosures, and publications resulting from any analyses of the data. The Requester further agrees that the acknowledgment shall include the dbGaP accession number to the specific version of the dataset(s) analyzed.
+               A sample statement for the acknowledgment of the &#x201C;BLSA and InCHIANTI GWAS Iron Level Study&#x201D; dataset(s) follows: Funding support for the &#x201C;BLSA and InCHIANTI GWAS Iron Level Study&#x201D; was provided through the Intramural Research Program, NIA. Assistance with phenotype harmonization and genotype cleaning, as well as with general study coordination, was provided by InChianti and BLSA.
+            </para>
+        <para>
+               The Requester agrees to acknowledge the NIH GWAS Data Repository, the Contributing Investigator(s) who contributed the phenotype data and DNA samples from his/her original study, and the primary funding organization that supported the contributing study in all oral and written presentations, disclosures, and publications resulting from any analyses of the data. The Requester further agrees that the acknowledgment shall include the dbGaP accession number to the specific version of the dataset(s) analyzed.
+               A sample statement for the acknowledgment of the &#x201C;BLSA and InCHIANTI GWAS Iron Level Study&#x201D; dataset(s) follows: Funding support for the &#x201C;BLSA and InCHIANTI GWAS Iron Level Study&#x201D; was provided through the Intramural Research Program, NIA. Assistance with phenotype harmonization and genotype cleaning, as well as with general study coordination, was provided by InChianti and BLSA.
+            </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certification" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000215.v1.p1" FileName="BLSA_and_InCHIANTI_GWAS_Iron_Level_Study_DUC.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Summary level data available for use.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+<Analyses>
+	<Analysis pha="2876" genomeBuild="36.3" snpBuild="129" analysisType="">
+		<Description> To investigate genetic variants that affect iron concentrations in persons not affected by overt genetic disorders of iron metabolism, a genome-wide association study was conducted in participants of European descent from the InCHIANTI Study (N=1206) and the Baltimore Longitudinal Study of Aging (BLSA, N=713).  Genome-wide data from each study was filtered if they deviated from Hardy Weinberg Equilibrium (P &#60;0.0001), had low call rate (&#60;99%) or low minor allele frequency (MAF &#60; 1%). The resulting 475,322 autosomal SNPs that passed quality control were used for association analysis.</Description>
+		<Method>genome-wide association between genotype and Serum Iron concentrations 
+</Method>
+		<GtyPlatform probeNum="555352" snpBatchId="38431">
+			<Vendor>Illumina</Vendor>
+			<VendorURL>550v1 only</VendorURL>
+			<Platform>HumanHap550v1</Platform>
+		</GtyPlatform>
+		<Comment></Comment>
+	</Analysis>
+</Analyses>
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

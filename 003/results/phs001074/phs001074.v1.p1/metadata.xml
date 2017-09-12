@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001074.v1.p1" parentStudy="phs001074.v1.p1" createDate="2016-02-22" modDate="2016-03-31">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Lewis C. Becker, MD</td><td>Johns Hopkins University School of Medicine, Baltimore, MD, USA</td></tr>
+		<tr><td>Co-Principal Investigator</td><td>Linzhao Cheng, PhD</td><td>Johns Hopkins University School of Medicine, Baltimore, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>5U01 HL107446</td><td>National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>GeneSTAR NextGen Functional Genomics of Platelet Aggregation</StudyNameEntrez>
+	<StudyNameReportPage>GeneSTAR (Genetic Study of Atherosclerosis Risk) NextGen Consortium: Functional Genomics of Platelet Aggregation Using iPS and Derived Megakaryocytes</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal Cohort</StudyType>
+		<StudyType>Family</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The causal mechanisms of common diseases and their therapies have been only marginally illuminated by genetic variants identified in genome wide association studies (GWAS) utilizing single nucleotide polymorphism (SNPs). Platelet activation pathways reflecting hemostasis and thrombosis are the underlying substrate for many cardiovascular diseases and related acute events. To overcome GWAS limitations, genomic studies are needed that integrate molecular surrogates for platelet-related phenotypes assayed in cell-based models derived from individuals of known genotypes and phenotypes. In our GWAS study of native platelet aggregation phenotypes and aggregation in response to low dose aspirin in 2200 subjects (GeneSTAR, Genetic Study of Aspirin Responsiveness), important genome wide "signals" (p&lt;5x10-8) associated with native platelet aggregation and important "signals" associated with platelet responsiveness to aspirin were identified and replicated. Although we are currently performing functional genomics studies to elucidate our most promising findings in known genes (PEAR1, MET, PIKC3G), most "signals" occurred in intergenic regions or in introns. Mechanistic interpretation is limited by uncertainty as to which gene(s) are up- or down-regulated in the presence of most SNP modifications. In this 3 phase proposal, we will (1) create pluripotent stem cells (iPS) from peripheral blood mononuclear cells, and then differentiate these stem cells into megakaryocytes (2) develop an efficient strategy to produce iPS and megakaryocytes using a novel pooling method, and (3) produce iPS and megakaryocytes from 250 subjects in GeneSTAR (European Americans and African Americans), selected based on specific hypotheses derived from GWAS signals in native and post aspirin platelet function; characterize genetic mRNA transcripts using a comprehensive Affymetrix array; measure protein expression for transcripts of interest using mass spectrometry; examine mRNA and protein expression patterns for each GWAS signal to determine the functional pathway(s) involved in native platelet phenotypes; and examine the functional genomics of variations in responsiveness to aspirin using our prior genotyped and phenotyped population. Precise information about the exact functional processes in megakaryocytes and platelets may lead to innovative and tailored approaches to risk assessment and novel therapeutic targets to prevent first and recurrent cardiovascular and related thrombotic events.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Subjects were included if they were members of the original GeneSTAR Study population and were over 21 years of age. Subjects were excluded if they developed diabetes, cardiovascular disease, and any new known bleeding disorder, AIDS, advanced cancer, cancer under treatment or autoimmune diseases. Women who were pregnant when first recruited with consent will be deferred until 6 months after delivery, so they were not excluded, but did not give a blood sample during their pregnancy. Subjects with certain conditions that might be influenced by taking a 100cc volume of blood have already been pre-screened in GeneSTAR and were not eligible if they had blood dyscrasias, anemia, bleeding disorder or any contraindications to phlebotomy.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="25713465"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24996165"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24105986"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24002691"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24361925"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23758278"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22099018"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24528313"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24688980"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24132657"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24511466"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24012365"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23973800"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23921522"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23858432"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23812546"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23704978"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23940756"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23080273"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22385660"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22225458"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23038411"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22423221"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21905170"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21988995"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21791418"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Platelet Aggregation"/>
+		<Disease vocab_source="MESH" vocab_term="Blood Physiological Phenomena"/>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Physiological Phenomena"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Lewis C. Becker, MD</AttName>
+			<Institution>Johns Hopkins University School of Medicine, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Co-Principal Investigator">
+			<AttName>Linzhao Cheng, PhD</AttName>
+			<Institution>Johns Hopkins University School of Medicine, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>5U01 HL107446</AttName>
+			<Institution>National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="GeneSTAR Research Center, Genetic Studies of Atherosclerosis Risk" url="http://www.genestarstudy.com/default.html"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p><b>Phases 1-2:</b> During Phases 1 and 2 the Cheng lab optimized production of iPS from PBMCs and differentiation of Mks from the reprogrammed iPS and developed high throughput efficient methods for both. The key features of iPS production, leading to a 10 fold increase in efficiency with reduced costs, included (1) the use of episomal vectors for reprogramming, (2) selection and sorting of cells expressing TRA-1-60 by MACS (&gt;5000 cells) with expansion of 2 pools of cells, replacing hand picking and expansion of individual clones, (3) use of E8 culture medium and replacement of mouse embryonic feeder cells with matrigel or vitronectin for expansion. The key features of improved Mk differentiation included (1) the use of feeder cell free and serum free culture conditions, (2) no need for a period of hypoxia during differentiation, and (3) use of FDA approved human compatible preparations, including Romiplostium (a thrombopoietin analogue), Oprelvekin (recombinant IL-11), and Plasbumin (human albumin, replacing bovine albumin). This technique robustly generates &gt;4M Mks from 2M iPS in 20 days, a saving of about 10 days compared to the standard method. This improved method for Mk differentiation has been submitted for publication.</p> <p>We genotyped the original PBMCs, the reprogrammed iPS and the derived Mks from 6 subjects (total of 24 samples) using the HumanOmniExpressExome-8v1 genotyping array (946,674 SNPs). There was a very low rate of discordance between pairs of samples from the same subject (0.0001%-0.01%), far below the genotyping error rate of 0.37% and most likely due to genotyping error. In the 6 subjects, only 0-8 discordant genotypes were passed from the original PBMCs to the transformed iPS to the derived Mks. Even if these &#39;transmitted&#39; discordant genotypes reflect a true mutation in the iPS line and not a genotyping error, we estimate this &#39;mutation rate&#39; to be only 0-0.0008% or ~1 in 10-6 , which is within the normal expected somatic mutation rate. Thus, the process of iPS reprogramming and Mk differentiation does not produce significant genetic mutations, and the genotype of the derived Mks remains faithful to the original genotype of the subject.</p> <p>Phase 3: <b>Comparison of mRNA transcripts in iPS and Mks:</b> Originally we proposed to measure mRNA transcripts in derived Mks using microarrays. However, with the fall in prices and proven superiority of whole transcriptome RNA sequencing (RNAseq) for detecting all transcripts and splice isoforms, we have decided to use RNAseq to analyze gene expression related to differences in target genotypes associated with differences in platelet aggregation. RNA is extracted from derived Mk cell pellets, after which cDNA is prepared for polyadenylated mRNA. Sequencing is then performed using an Illumina HS2500 instrument with 100 base paired-end reads, with about 100 million independent reads per sample. The short read output files are aligned to the reference genome using the Bowtie/TopHat software pipeline. Full-length transcript reads are assembled and quantified using Cufflinks. Differential gene expression is determined using Cuffmerge, a &#39;meta-assembler&#39;, which merges transfrags together parsimoniously. To calculate differential gene expression and to test the statistical significance of each observed change in expression between iPS and Mk cells, we used the program Cuffdiff.</p> <p>To identify genes that are differentially regulated in iPS cells and megakaryocytes and pathways that are turned on or off during the process of iPS cell differentiation to Mks, we measured differential gene expression in at least two colonies each from iPS and megakaryocyte cell lines from 6 GeneSTAR participants (total of 24 samples). Expression values were calculated for each sample based on the number of fragments per kilobase of exon per million fragments mapped (FPKM) (&lt;0.3 FPKM is considered to be not expressed). Both cell types shared 12,713 genes while 1,701 genes were expressed in only iPS cells and 1,587 genes were expressed only in Mks. The most highly expressed genes in iPS were almost all ribosomal proteins, while Mks had high expression of hematopoietic and platelet genes, such as GP9.</p> <p>Pathway analysis found that genes involved in developmental biology, cell-cell communication, cell-cell junction organization, and axon guidance pathways were up-regulated in iPS cells as compared to megakaryocytes. On the other hand, genes involved in hemostasis, platelet activation, signaling, and aggregation, immune system, cytokine signaling, and interferon gamma signaling pathways were up-regulated in megakaryocytes. These results demonstrate a fundamental biological shift in gene expression patterns accompanying the transformation of iPS into Mks. The Mks express greater levels of platelet and immune function genes, while the iPS express more ribosomal protein genes.</p> <p><b>Comparison of Gene Expression by Genotypes and Phenotypes</b></p> <p>One of the major goals of this study is to better understand the mechanisms by which genetic variants identified in GWAS studies are associated with platelet aggregation. Since most of the genetic loci identified to date are intronic or intergenic, our approach is to examine differential gene expression in derived Mks by genotype for the highest priority variants to obtain clues as to which genes and pathways the variants control, both as cis and trans effects.</p> <p>Current genes of interest include (1) PEAR1 (platelet endothelial aggregation receptor, activated by platelet-platelet contact, rs12041331 in intron 1 is robustly associated with platelet aggregation to multiple agonists in both whites and African Americans, G allele is associated with higher expression of platelet PEAR1 protein), (2) MET (an oncogene which also is a platelet membrane receptor, agonist is HGF contained in platelet granules, activation reduces thrombin mediated aggregation, rs10243024 in intron 2 is associated with aggregation to collagen in whole blood), (3) PIK3CG (phosphatidylinositol bisphosphate 3-kinase, modulator of E-cadherin mediated cell-cell adhesion, known to be involved in platelet signaling, rs342275 is associated with platelet aggregation to epinephrine), and (4) MRVI1 (endoplasmic reticulum protein, interacts with inositol triphosphate receptor and cGMP-dependent protein kinase, rs4909945 is associated with aggregation to ADP).</p> <p>We measured differential gene expression in Mks by PEAR1 rs12041331 genotype in the first 42 subjects. We required a &gt;2 fold difference on a log2 scale at an FDR of 10%. The GG genotype is characterized by greater platelet aggregation; interestingly, a number of neutrophil granule genes were overexpressed with this genotype, including azurocidin, myeloperoxidase, elastase, and lactoferrin. The reason for this is unknown, but one possibility is delayed maturation of the Mks, with a less differentiated phenotype. The AA genotype was associated with overexpression of several HLA immune function genes. There was a trend for the GA and GG genotypes to express more PEAR1 transcripts than the AA genotype, consistent with a dominant G allele model, but the results were not statistically significant. There was no evidence for alternatively spliced isoforms. We have previously shown that rs12041331 has a higher MAF and possibly a stronger effect on platelet aggregation in African Americans. We therefore also examined differential gene expression by race, and found only a few genes (including ESPN, which codes an actin binding protein, affecting cell movement, and SLC4A1, coding for an anion exchange protein expressed in erythrocyte cell membranes) that were differentially expressed by genotype in both races. We will further explore this racial overlap in gene expression with a larger sample size.</p> <p>Gene Ontology pathway analysis demonstrated that with the GG genotype, genes in cell adhesion, biologic adhesion, extracellular matrix organization, extracellular structure organization and collagen fibril organization pathways were upregulated, while genes in antigen processing presentation, innate immune response, and cellular responses to interferon gamma and cytokines were down regulated relative to the AA genotype. Similar results were obtained with the Kyoto Encyclopedia of Genes and Genomics (KEGG Pathway mapping).</p> <p>Gene expression analyses are ongoing.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="2" shortName="DS-CVD-IRB-NPU-RD" longName="Disease-Specific (Cardiovascular Disease, IRB, NPU, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001074.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001074.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001074.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Cardiovascular Disease, IRB, NPU, RD)</ConsentName>
+        <ConsentAbbrev>DS-CVD-IRB-NPU-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cardiovascular Disease and related disorders.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.
+Data of all types may be used only for studies of cardiovascular and specific cardiovascular related diseases. Data may not be used for the generation of any for profit commercial venture.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd005543.1" type="protocol" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>cbc_chemistrylab.pdf</OrigName>
+      <DisplayName>CBC Chemistry Lab</DisplayName>
+      <Description>CBC Chemistry Lab</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005544.1" type="protocol" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>GeneSTARAnthropometricsprotocols.doc</OrigName>
+      <DisplayName>ANTHROPOMETRICS PROTOCOL, HEIGHT AND WEIGHT MEASUREMENT</DisplayName>
+      <Description>ANTHROPOMETRICS PROTOCOL, HEIGHT AND WEIGHT MEASUREMENT</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005545.1" type="protocol" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>GeneSTARBloodPressureProtocol.doc</OrigName>
+      <DisplayName>Blood Pressure Measurement Protocol</DisplayName>
+      <Description>Blood Pressure Measurement Protocol</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005546.1" type="protocol" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>GeneSTARExomeChipQCReport.docx</OrigName>
+      <DisplayName>RS&amp;amp;G Exome Chip: GeneSTAR QC Report</DisplayName>
+      <Description>RS&amp;amp;G Exome Chip: GeneSTAR QC Report</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005547.1" type="protocol" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>GeneSTARGWASChipQCReport.docx</OrigName>
+      <DisplayName>Genotyping Project Release Summary</DisplayName>
+      <Description>Genotyping Project Release Summary</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005548.1" type="questionnaire" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>GeneSTARNextGenDocumentation.docx</OrigName>
+      <DisplayName>GeneSTAR NextGen Visit</DisplayName>
+      <Description>GeneSTAR NextGen Visit</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005549.1" type="questionnaire" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>GeneSTARVisit1Documentation.docx</OrigName>
+      <DisplayName>GeneSTAR Visit 1 Questionnaires and Data Entry Form</DisplayName>
+      <Description>GeneSTAR Visit 1 Questionnaires and Data Entry Form</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005550.1" type="questionnaire" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>GeneSTARVisit2Documentation.docx</OrigName>
+      <DisplayName>GeneSTAR Visit 2 Data Entry Form and Documentation</DisplayName>
+      <Description>GeneSTAR Visit 2 Data Entry Form and Documentation</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005551.1" type="protocol" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>Plateletprotocols.docx</OrigName>
+      <DisplayName>Platelet Assay Protocol</DisplayName>
+      <Description>Platelet Assay Protocol</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd005552.1" type="protocol" createDate="2016-03-29" modDate="2016-03-31">
+      <OrigName>UrineCollectionProtocol.doc</OrigName>
+      <DisplayName>Urine Collection Protocol for TBX2</DisplayName>
+      <Description>Urine Collection Protocol for TBX2</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd005543.1" sectionId="tr1">
+      <phvList>
+        <phvRef variableId="259624"/>
+        <phvRef variableId="259625"/>
+        <phvRef variableId="259626"/>
+        <phvRef variableId="259627"/>
+        <phvRef variableId="259628"/>
+        <phvRef variableId="259629"/>
+        <phvRef variableId="259630"/>
+        <phvRef variableId="259631"/>
+        <phvRef variableId="259632"/>
+        <phvRef variableId="259633"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr10">
+      <phvList>
+        <phvRef variableId="259637"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr11">
+      <phvList>
+        <phvRef variableId="259639"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr12">
+      <phvList>
+        <phvRef variableId="259644"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr13">
+      <phvList>
+        <phvRef variableId="259634"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr2">
+      <phvList>
+        <phvRef variableId="259643"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr3">
+      <phvList>
+        <phvRef variableId="259636"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr4">
+      <phvList>
+        <phvRef variableId="259638"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr5">
+      <phvList>
+        <phvRef variableId="259640"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr6">
+      <phvList>
+        <phvRef variableId="259641"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr7">
+      <phvList>
+        <phvRef variableId="259645"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr8">
+      <phvList>
+        <phvRef variableId="259642"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005543.1" sectionId="tr9">
+      <phvList>
+        <phvRef variableId="259635"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005544.1" sectionId="phd005544">
+      <phvList>
+        <phvRef variableId="259622"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005545.1" sectionId="phd005545">
+      <phvList>
+        <phvRef variableId="259613"/>
+        <phvRef variableId="259614"/>
+        <phvRef variableId="259615"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005546.1" sectionId="li1">
+      <phvList>
+        <phvRef variableId="259603"/>
+        <phvRef variableId="259609"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005546.1" sectionId="li2">
+      <phvList>
+        <phvRef variableId="259599"/>
+        <phvRef variableId="259600"/>
+        <phvRef variableId="259601"/>
+        <phvRef variableId="259602"/>
+        <phvRef variableId="259603"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005547.1" sectionId="td1">
+      <phvList>
+        <phvRef variableId="259603"/>
+        <phvRef variableId="259609"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005548.1" sectionId="V2">
+      <phvList>
+        <phvRef variableId="259612"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005548.1" sectionId="p1">
+      <phvList>
+        <phvRef variableId="259608"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="V12">
+      <phvList>
+        <phvRef variableId="259646"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="V2">
+      <phvList>
+        <phvRef variableId="259609"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="V3">
+      <phvList>
+        <phvRef variableId="259610"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="V4">
+      <phvList>
+        <phvRef variableId="259608"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="p1">
+      <phvList>
+        <phvRef variableId="259614"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="p2">
+      <phvList>
+        <phvRef variableId="259615"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="p3">
+      <phvList>
+        <phvRef variableId="259613"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="p4">
+      <phvList>
+        <phvRef variableId="259616"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="p5">
+      <phvList>
+        <phvRef variableId="259613"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="p6">
+      <phvList>
+        <phvRef variableId="259616"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="p7">
+      <phvList>
+        <phvRef variableId="259623"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="p8">
+      <phvList>
+        <phvRef variableId="259617"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="sec1a">
+      <phvList>
+        <phvRef variableId="259622"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="td1">
+      <phvList>
+        <phvRef variableId="259618"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="td2">
+      <phvList>
+        <phvRef variableId="259620"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="td3">
+      <phvList>
+        <phvRef variableId="259621"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005549.1" sectionId="td4">
+      <phvList>
+        <phvRef variableId="259619"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="V8">
+      <phvList>
+        <phvRef variableId="259623"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="p1">
+      <phvList>
+        <phvRef variableId="259608"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="p2">
+      <phvList>
+        <phvRef variableId="259622"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="p5">
+      <phvList>
+        <phvRef variableId="259616"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="p6">
+      <phvList>
+        <phvRef variableId="259617"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="p7">
+      <phvList>
+        <phvRef variableId="259618"/>
+        <phvRef variableId="259619"/>
+        <phvRef variableId="259620"/>
+        <phvRef variableId="259621"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="p8">
+      <phvList>
+        <phvRef variableId="259621"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="pr1">
+      <phvList>
+        <phvRef variableId="259614"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="pr2">
+      <phvList>
+        <phvRef variableId="259615"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="pr3">
+      <phvList>
+        <phvRef variableId="259613"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="pr4">
+      <phvList>
+        <phvRef variableId="259614"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="pr5">
+      <phvList>
+        <phvRef variableId="259615"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="td1">
+      <phvList>
+        <phvRef variableId="259618"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="td2">
+      <phvList>
+        <phvRef variableId="259619"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005550.1" sectionId="td3">
+      <phvList>
+        <phvRef variableId="259620"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005551.1" sectionId="phd005551">
+      <phvList>
+        <phvRef variableId="259624"/>
+        <phvRef variableId="259625"/>
+        <phvRef variableId="259626"/>
+        <phvRef variableId="259627"/>
+        <phvRef variableId="259628"/>
+        <phvRef variableId="259629"/>
+        <phvRef variableId="259630"/>
+        <phvRef variableId="259631"/>
+        <phvRef variableId="259632"/>
+        <phvRef variableId="259633"/>
+        <phvRef variableId="259634"/>
+        <phvRef variableId="259635"/>
+        <phvRef variableId="259636"/>
+        <phvRef variableId="259637"/>
+        <phvRef variableId="259638"/>
+        <phvRef variableId="259639"/>
+        <phvRef variableId="259640"/>
+        <phvRef variableId="259641"/>
+        <phvRef variableId="259642"/>
+        <phvRef variableId="259643"/>
+        <phvRef variableId="259644"/>
+        <phvRef variableId="259645"/>
+        <phvRef variableId="259647"/>
+        <phvRef variableId="259648"/>
+        <phvRef variableId="259649"/>
+        <phvRef variableId="259650"/>
+        <phvRef variableId="259651"/>
+        <phvRef variableId="259652"/>
+        <phvRef variableId="259653"/>
+        <phvRef variableId="259654"/>
+        <phvRef variableId="259655"/>
+        <phvRef variableId="259656"/>
+        <phvRef variableId="259657"/>
+        <phvRef variableId="259658"/>
+        <phvRef variableId="259659"/>
+        <phvRef variableId="259660"/>
+        <phvRef variableId="259661"/>
+        <phvRef variableId="259662"/>
+        <phvRef variableId="259663"/>
+        <phvRef variableId="259664"/>
+        <phvRef variableId="259665"/>
+        <phvRef variableId="259666"/>
+        <phvRef variableId="259667"/>
+        <phvRef variableId="259668"/>
+        <phvRef variableId="259669"/>
+        <phvRef variableId="259670"/>
+        <phvRef variableId="259671"/>
+        <phvRef variableId="259672"/>
+        <phvRef variableId="259673"/>
+        <phvRef variableId="259674"/>
+        <phvRef variableId="259675"/>
+        <phvRef variableId="259676"/>
+        <phvRef variableId="259677"/>
+        <phvRef variableId="259678"/>
+        <phvRef variableId="259679"/>
+        <phvRef variableId="259680"/>
+        <phvRef variableId="259681"/>
+        <phvRef variableId="259682"/>
+        <phvRef variableId="259683"/>
+        <phvRef variableId="259684"/>
+        <phvRef variableId="259685"/>
+        <phvRef variableId="259686"/>
+        <phvRef variableId="259687"/>
+        <phvRef variableId="259688"/>
+        <phvRef variableId="259689"/>
+        <phvRef variableId="259690"/>
+        <phvRef variableId="259691"/>
+        <phvRef variableId="259692"/>
+        <phvRef variableId="259693"/>
+        <phvRef variableId="259694"/>
+        <phvRef variableId="259695"/>
+        <phvRef variableId="259696"/>
+        <phvRef variableId="259697"/>
+        <phvRef variableId="259698"/>
+        <phvRef variableId="259699"/>
+        <phvRef variableId="259700"/>
+        <phvRef variableId="259701"/>
+        <phvRef variableId="259702"/>
+        <phvRef variableId="259703"/>
+        <phvRef variableId="259704"/>
+        <phvRef variableId="259705"/>
+        <phvRef variableId="259706"/>
+        <phvRef variableId="259707"/>
+        <phvRef variableId="259708"/>
+        <phvRef variableId="259709"/>
+        <phvRef variableId="259710"/>
+        <phvRef variableId="259711"/>
+        <phvRef variableId="259712"/>
+        <phvRef variableId="259713"/>
+        <phvRef variableId="259714"/>
+        <phvRef variableId="259715"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005551.1" sectionId="sec1h">
+      <phvList>
+        <phvRef variableId="259647"/>
+        <phvRef variableId="259648"/>
+        <phvRef variableId="259649"/>
+        <phvRef variableId="259650"/>
+        <phvRef variableId="259651"/>
+        <phvRef variableId="259652"/>
+        <phvRef variableId="259653"/>
+        <phvRef variableId="259654"/>
+        <phvRef variableId="259655"/>
+        <phvRef variableId="259656"/>
+        <phvRef variableId="259657"/>
+        <phvRef variableId="259658"/>
+        <phvRef variableId="259659"/>
+        <phvRef variableId="259660"/>
+        <phvRef variableId="259661"/>
+        <phvRef variableId="259662"/>
+        <phvRef variableId="259663"/>
+        <phvRef variableId="259664"/>
+        <phvRef variableId="259665"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005551.1" sectionId="sec1j1">
+      <phvList>
+        <phvRef variableId="259647"/>
+        <phvRef variableId="259648"/>
+        <phvRef variableId="259649"/>
+        <phvRef variableId="259650"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005551.1" sectionId="sec1j2">
+      <phvList>
+        <phvRef variableId="259653"/>
+        <phvRef variableId="259654"/>
+        <phvRef variableId="259658"/>
+        <phvRef variableId="259659"/>
+        <phvRef variableId="259663"/>
+        <phvRef variableId="259664"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005551.1" sectionId="sec1j3">
+      <phvList>
+        <phvRef variableId="259652"/>
+        <phvRef variableId="259655"/>
+        <phvRef variableId="259656"/>
+        <phvRef variableId="259657"/>
+        <phvRef variableId="259660"/>
+        <phvRef variableId="259661"/>
+        <phvRef variableId="259662"/>
+        <phvRef variableId="259665"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005551.1" sectionId="sec1k">
+      <phvList>
+        <phvRef variableId="259666"/>
+        <phvRef variableId="259667"/>
+        <phvRef variableId="259668"/>
+        <phvRef variableId="259669"/>
+        <phvRef variableId="259670"/>
+        <phvRef variableId="259671"/>
+        <phvRef variableId="259672"/>
+        <phvRef variableId="259673"/>
+        <phvRef variableId="259674"/>
+        <phvRef variableId="259675"/>
+        <phvRef variableId="259676"/>
+        <phvRef variableId="259677"/>
+        <phvRef variableId="259678"/>
+        <phvRef variableId="259679"/>
+        <phvRef variableId="259680"/>
+        <phvRef variableId="259681"/>
+        <phvRef variableId="259682"/>
+        <phvRef variableId="259683"/>
+        <phvRef variableId="259684"/>
+        <phvRef variableId="259685"/>
+        <phvRef variableId="259686"/>
+        <phvRef variableId="259687"/>
+        <phvRef variableId="259688"/>
+        <phvRef variableId="259689"/>
+        <phvRef variableId="259690"/>
+        <phvRef variableId="259691"/>
+        <phvRef variableId="259692"/>
+        <phvRef variableId="259693"/>
+        <phvRef variableId="259694"/>
+        <phvRef variableId="259695"/>
+        <phvRef variableId="259696"/>
+        <phvRef variableId="259697"/>
+        <phvRef variableId="259698"/>
+        <phvRef variableId="259699"/>
+        <phvRef variableId="259700"/>
+        <phvRef variableId="259701"/>
+        <phvRef variableId="259702"/>
+        <phvRef variableId="259703"/>
+        <phvRef variableId="259704"/>
+        <phvRef variableId="259705"/>
+        <phvRef variableId="259706"/>
+        <phvRef variableId="259707"/>
+        <phvRef variableId="259708"/>
+        <phvRef variableId="259709"/>
+        <phvRef variableId="259710"/>
+        <phvRef variableId="259711"/>
+        <phvRef variableId="259712"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005551.1" sectionId="sec1n">
+      <phvList>
+        <phvRef variableId="259651"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005551.1" sectionId="sec1p">
+      <phvList>
+        <phvRef variableId="259713"/>
+        <phvRef variableId="259714"/>
+        <phvRef variableId="259715"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd005552.1" sectionId="phd005552">
+      <phvList>
+        <phvRef variableId="259716"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

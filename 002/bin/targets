@@ -1,0 +1,7 @@
+#!/bin/bash
+
+source ../config.mk
+
+cat data/sample_indexes.txt \
+| sed -e "s#$BASE_URL/#results/#" \
+-e "s#\$#index.html#"

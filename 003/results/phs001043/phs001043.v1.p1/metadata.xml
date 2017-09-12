@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001043.v1.p1" parentStudy="phs001043.v1.p1" createDate="2015-12-15" modDate="2017-02-24">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>James N. Ingle, M.D.</td><td>Mayo Clinic, Rochester, MN, USA</td></tr>
+		<tr><td>Funding Source</td><td>U19 GM61388</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>GWAS of Breast Events with Adjuvant Aromatase Inhibitors</StudyNameEntrez>
+	<StudyNameReportPage>A Genome-Wide Association Study in Patients Experiencing Breast Events While Receiving Adjuvant Aromatase Inhibitors for Early Breast Cancer on NCIC CTG Trial MA.27</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p><u>Source of patients</u>:The source of the patients for this genome-wide case-control study was MA.27, which was conducted as a multi-cooperative group effort under the auspices of the NCI Breast Cancer Intergroup of North America. The NCIC Clinical Trials Group (CTG) serves as the coordinating group, with participation by the NCI-sponsored North Central Cancer Treatment Group, Eastern Cooperative Oncology Group (ECOG), Southwest Oncology Group, and Cancer and Leukemia Group B (CALGB). MA.27 involved postmenopausal women with histologically confirmed and completely resected invasive breast cancer with surgical margins clear of invasive carcinoma in the following TMN categories (AJCC Version 6): pT1, pT2, pT3; pNx, pN0, pN1, pN2, pN3 (only when the sole basis is presence of 10 or more involved axillary nodes); MO. The primary tumor must have been estrogen receptor (ER) and/or progesterone receptor positive. Patients were stratified by lymph node status at diagnosis, prior adjuvant chemotherapy, and trastuzumab use and were randomized to 5 years of adjuvant therapy with anastrozole or exemestane. The trial was activated on May 26, 2003, and reached its accrual objectives on July 31, 2008, after the randomization of 6827 North American patients, with the majority (79%) providing DNA and consent for genetic testing. Non-North American patients were also entered by the International Breast Cancer Study Group but they did not contribute DNA. From 2003 to December 21, 2004, patients also underwent a second randomization to celecoxib 400 mg twice daily or placebo but, after the entry of 1,622 patients, this treatment was discontinued because of reports of increased cardiovascular risk associated with celecoxib. The final results of this study have been published, see Goss et al., 2013 (<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=23358971">23358971</a>). The patients in this analysis came from three cohorts: Cohort 1 consisted of 870 patients genotyped on the Illumina Human610-Quad BeadChip studied in a GWAS with the phenotype of musculoskeletal adverse event, see Ingle et al., 2010 (<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=20876420">20876420</a>), Cohort 2 consisted of 882 patients genotyped on the Illumina OmniExpress platform studied in a GWAS with the phenotype of fragility fractures, see Liu et al., 2014 (<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=25148458">25148458</a>), and the remaining 2913 patients were genotyped with the Illumina OmniExpressExome platform. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><u>Inclusion criteria for parent clinical trial</u>: The trial from which the patients in this case-control study were identified was MA.27. Inclusion criteria included postmenopausal women with histologically confirmed and completely resected invasive breast cancer with surgical margins clear of invasive carcinoma in the following TMN categories (AJCC Version 6): pT1, pT2, pT3; pNx, pN0, pN1, pN2, pN3 (only when the sole basis is presence of 10 or more involved axillary nodes); MO. The primary tumor must have been ER and/or progesterone receptor positive.</p> <p><u>Case Definition Breast Cancer Events</u>: The primary outcome evaluated was Breast Cancer Free Interval (BCFI), defined as the time from randomization to the first local-regional breast cancer recurrence (including ipsilateral ductal carcinoma in situ [DCIS]), distant breast cancer recurrence, contralateral breast cancer (invasive or DCIS) or death with or from breast cancer without prior recurrence date. Follow-up was censored at non-breast cancer death, or longest follow-up without recurrence. <i>Cases</i> were defined as those patients who experienced a BCFI event and <i>controls</i> were those patients who did not experience such an event.</p> <p><u>Selection of Controls</u>: All patients who were treated on protocol and who had genotyping performed were utilized as controls. These patients came from 3 cohorts: Cohort 1: patients genotyped.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27758888"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23358971"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20876420"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25148458"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Neoplasm"/>
+		<Disease vocab_source="MESH" vocab_term="Breast Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Neoplasm Metastasis"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>James N. Ingle, M.D.</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U19 GM61388</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p><ul> <li>November 21, 2012: Protocol formally approved by the North American Breast Cancer Group (NABCG) Correlative Sciences Committee of the National Cancer Institute.</li> </ul></p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-CA" longName="Disease-Specific (Cancer)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIGMS</DacName>
+      <DacFullName>National Institute of General Medical Sciences DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001043.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>6</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001043.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001043.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Cancer)</ConsentName>
+        <ConsentAbbrev>DS-CA</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Data may be used only for genetic studies to learn about, prevent or treat cancer.  Investigators must state in their DAR their intention to publish or otherwise broadly share any finding from their study with the scientific community.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

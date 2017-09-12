@@ -1,0 +1,11 @@
+#!/bin/bash
+
+source ../config.mk
+
+find -L data/ \
+-type f \
+-name "*.html" \
+| xargs cat \
+| grep "/$" \
+| sed -e "s#$BASE_URL//#results/#" \
+-e "s#\$#metadata.xml#"

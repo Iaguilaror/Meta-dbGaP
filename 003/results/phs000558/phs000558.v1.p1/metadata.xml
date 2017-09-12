@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000558.v1.p1" parentStudy="phs000558.v1.p1" createDate="2012-10-12" modDate="2017-03-29">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Theresa Gaasterland, PhD</td><td>University of California, San Diego, USA</td></tr>
+		<tr><td>Funding Source</td><td>RC2EY020678</td><td>National Eye Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Glaucoma Exome Sequencing</StudyNameEntrez>
+	<StudyNameReportPage>National Eye Institute Glaucoma Human Genetics Collaboration (NEIGHBOR) Consortium Glaucoma Genome-Wide Association Study: Whole Exome Resequencing in Glaucoma</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>This is a study of primary open angle glaucoma (POAG) conducted through exome sequencing of cases and comparison of variant frequencies with general population frequencies available in dbGAP and controlled for sequencing platform artifact to minimize false positives.</p> <p>POAG is an intraocular pressure (IOP) related progressive optic neuropathy that ultimately leads to blindness. This study builds upon the efforts of an on-going collaborative consortium that studied 2,170 POAG cases and 2,347 controls with a unified definition of POAG (the NEIGHBOR consortium: <b>NEI G</b>laucoma <b>H</b>uman genetic colla<b>BOR</b>ation). The case definition for NEIGHBOR was harmonized with an additional 976 cases and 1140 controls from the NHGRI supported GENEVA (gene-environment) study of glaucoma (GLAUGEN) (NIH/NHGRI U01HG004728, Pasquale PI).</p> <p>In NEIGHBOR, cases and controls were recruited from ophthalmology clinics and were examined by ophthalmologists. For cases, the clinical exam included intraocular pressure measurements, optic nerve assessment and visual field evaluation. Controls had no family history of glaucoma, normal intraocular pressure and normal optic nerves. Cases and controls were also drawn from two clinical trial populations: Advanced Glaucoma Intervention Study (AGIS, NEI U10EY006827, D. Gaasterland PI) and Collaborative Initial Glaucoma Treatment Study (CIGTS, NEI U10 EY009149, P. Lichter PI).</p> <p>The Glaucoma Exome Sequencing study has one Principal Investigator: Theresa Gaasterland (UCSD) and two Co-Investigators: Robert Weinreb, MD, and Kang Zhang, MD, PhD, all of whom are part of the NEIGHBOR, subsequently NEIGHBORHOOD, consortium, which in turn has two Co-Principal Investigators: J. Wiggs (Harvard, MEEI), and M. Hauser (Duke). NEIGHBOR collaborators who contributed samples and/or expertise to the Glaucoma Exome Sequencing study included the following: Harvard Medical School (Massachusetts Eye and Ear Infirmary) (J. Wiggs, L. Pasquale); Duke University Medical Center (M. Hauser, E. Hauser, R. Allingham, S. Schmidt); University of Michigan (J. Richards, S. Moroi, P. Lichter); University of Miami (M. Pericak-Vance, R. Lee, D. Budenz); Vanderbilt University (J. Haines); University of California San Diego (K. Zhang, R. Weinreb; T. Gaasterland); University of Pittsburgh (J. Schuman, G. Wollenstein); University of West Virginia (A. Realini, J. Charlton, S. Zareparsi); Johns Hopkins University (D. Friedman); Stanford University (D. Vollrath, K. Singh), Eye Doctors of Washington (D. Gaasterland), Marshfield Clinic (Cathy McCarty). Hemin Chin serves as the NEI Staff Collaborator. This national collaborative study is supported by multiple NIH grants: NEI R01 EY015543 (Allingham); NEI U10 EY006827 (D. Gaasterland); NHLBI R01 HL073389 (E. Hauser); NEI R01 EY13315 (M. Hauser); NEI U10 EY009149 (Lichter); NEI R01 EY015473 (Pasquale); NEI U10 EY012118 (Pericak-Vance); NEI R03 EY015682 (Realini); NEI R01 EY011671 (Richards); NEI R01 EY09580 (Richards); NEI R01 EY013178 (Schuman); NEI R01 EY015872 (Wiggs); NEI R01 EY009847 (Wiggs); NEI R01 EY010886 (Wiggs); NEI R01 EY144428 (Zhang); NEI R01 EY144448 (Zhang); NEI R01 EY18660 (Zhang).</p> <p>Funding support for genotyping through exome sequencing, which was performed at the University of California, San Diego, was provided by the National Eye Institute (RC2 EY020678-01).</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>285 case samples from the NEIGHBOR study were subjected to genome-wide exome capture and sequencing at UCSD. Patient phenotypes were reviewed for whole exome sequencing inclusion criteria. Sequencing and data analysis was performed at UCSD. Only samples from NEIGHBOR cases were sequenced. Case samples were selected for sequencing so that the final set of sequenced samples would reflect the distribution of inclusion parameters across the full NEIGHBOR GWAS study.</p> <p>Unrelated individuals were selected as cases or controls for the overall NEIGHBOR study (thus the subject ID is used as family ID in the data deposition materials). All subjects consented to sharing their samples. NEIGHBOR cases and controls were each examined by a trained ophthalmologist. All cases and controls were at least 30 years old and all were European-derived Caucasians.</p> <p>Cases had either reproducible visual field loss in at least one eye in a nerve fiber layer distribution on two independent reliable visual fields, or a vertical cup to disc ratio (CDR) of at least 0.8 in the one eye. For automated visual fields, a reliable visual field was defined by fixation loss &#60;/= 33%, false positive rate &#60;/= 20% and false negative rate &#60;/= 20%. Intraocular pressure was noted for all cases, but was not part of the case definition. Exclusion criteria for cases included: myopia of -8D or greater, clinical findings suggestive of secondary glaucomas (pigment dispersion, exfoliation and anterior segment dysgenesis) and narrow filtration angles.</p> <p>Controls in the NEIGHBOR study did not have a family history of glaucoma, had intraocular pressures less than 21 mmHg, had vertical cup to disc ratios of less than 0.7 and CDR asymmetry of less than 0.2. Controls also did not have any evidence of secondary glaucomas or narrow filtration angles. No NEIGHBOR control samples were subjected to exome sequencing.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="22570617"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22828004"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22661486"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21873608"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22561516"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20091798"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Glaucoma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Theresa Gaasterland, PhD</AttName>
+			<Institution>University of California, San Diego, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>RC2EY020678</AttName>
+			<Institution>National Eye Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>NEIGHBOR was initiated in 2008 with Drs. Janey Wiggs and Michael Hauser as co-Principle Investigators. Throughout 2009 individuals were enrolled in the study and clinical data and DNA samples were sent to either the Massachusetts Eye and Ear Infirmary (MEEI) coordinating site directed by Dr. Wiggs or to Dr. Hauser&#39;s laboratory at Duke University. In NEIGHBOR, individuals were enrolled at 9 different sites: University of Pittsburgh Medical Center, Johns Hopkins University, West Virginia University, University of Miami, Stanford University, University of California at San Diego, University of Michigan, Marshfield Clinic, and Duke University Medical Center. Cases and controls were also included from two NEI supported clinical trial populations, Advanced Glaucoma Intervention Study (AGIS, NEI U10EY006827, D. Gaasterland PI) and Collaborative Initial Glaucoma Treatment Study (CIGTS, NEI U10 EY009149, P. Lichter PI). DNA samples for individuals previously enrolled in these studies were archived at the University of Michigan. Samples from the University of Pittsburgh, Johns Hopkins, West Virginia, University of Miami, Stanford University and the University of California at San Diego were collected at the MEEI coordinating center, while samples from Duke, and the University of Michigan (including the CIGTS and AGIS samples) were collected at the Duke coordinating center. At all sites the same case and control criteria was used. Cases met the affected criteria for primary open angle glaucoma, defined by reliable visual field loss and optic nerve defects. Controls had normal optic nerves and did not have a family history of glaucoma.</p> <p>The NEIGHBOR study case and control definitions are harmonized with the definitions used for the NHGRI supported GENEVA (gene-environment) study of glaucoma (GLAUGEN) (NIH/NHGRI U01HG004728, Pasquale PI), representing an additional 976 cases and 1140 controls.</p> <p>285 case samples from the NEIGHBOR study were subjected at UCSD to successful genome-wide exome capture and sequencing. Sequencing and data analysis was performed at UCSD.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB" longName="General Research Use (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NEI</DacName>
+      <DacFullName>National Eye Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000558.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>6</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000558.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000558.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

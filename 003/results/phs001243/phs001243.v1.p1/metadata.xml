@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001243.v1.p1" parentStudy="phs001243.v1.p1" createDate="2016-11-10" modDate="2016-11-10">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>San Ming Wang, MD</td><td>University of Nebraska Medical Center, NE, USA</td></tr>
+		<tr><td>Funding Source</td><td>R21 CA180008</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genetic Basis of Breast Cancer Resistance in BRCA1 Mutation Carrier</StudyNameEntrez>
+	<StudyNameReportPage>Genetic Basis of Breast Cancer Resistance in BRCA1 Mutation Carrier</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Our study addressed a specific question in NCI RFA-CA-12-022: "What underlying causal events - e.g., genetic, epigenetic, biologic, behavioral, or environmental - allow certain individuals to survive beyond the expected limits of otherwise highly lethal cancers?". A germline mutation in BRCA1 (BRCA1+) is the most penetrant genetic predisposition for breast cancer. Nevertheless, a portion of BRCA1+ carriers does not develop breast cancer in their lifetime, suggesting that the genetic predisposition can be antagonized by resistant factors. BRCA1+ was inherited from an ancestor of the carrier family thousand years ago. We hypothesize that evolution could select certain genetic components to suppress oncogenesis caused by the predisposition. We compared germline variants in all genes in 27 pairs of breast cancer-unaffected and -affected BRCA1+ carriers, each pair inherited the same BRCA1+. We identified 12 deleterious variants enriched in breast cancer-unaffected carriers, all are common variants. A variant rs3735400 is located in ANLN, a cytokinesis-essential gene. Overexpression of variant-containing ANLN and suppressed expression of endogenous ANLN decrease ANLN nuclear localization and delay cell growth. Our findings suggest that common variants can be selected to resist oncogenesis imposed by BRCA1+.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Breast Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Genes, BRCA1"/>
+		<Disease vocab_source="MESH" vocab_term="Germ-Line Mutation"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>San Ming Wang, MD</AttName>
+			<Institution>University of Nebraska Medical Center, NE, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R21 CA180008</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-PUB" longName="General Research Use (PUB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001243.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>6</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001243.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001243.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (PUB)</ConsentName>
+        <ConsentAbbrev>GRU-PUB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor agrees to make results of studies using the data available to the larger scientific community.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

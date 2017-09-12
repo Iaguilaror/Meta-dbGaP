@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001176.v1.p1" parentStudy="phs001176.v1.p1" createDate="2016-07-25" modDate="2016-10-13">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Francesca Luca, PhD</td><td>Wayne State University, Detroit, MI, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Roger Pique-Regi, PhD</td><td>Wayne State University, Detroit, MI, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>Xiaoquan Wen, PhD</td><td>University of Michigan, Ann Arbor, MI, USA</td></tr>
+		<tr><td>Funding Sources</td><td>R01GM109215</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Sources</td><td>14SDG20450118</td><td>American Heart Association, Dallas, TX, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>GxE and Complex Traits</StudyNameEntrez>
+	<StudyNameReportPage>Gene-Environment Interactions (GxE) and Complex Traits</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Reference Set</StudyType>
+		<StudyType>Genotype/Expression</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Functional variants associated with complex traits tend to fall in non-coding regions and affect regulatory mechanisms that are not yet well characterized. Furthermore, it is generally difficult to determine in which tissues and conditions they may have a functional impact. This is because the effect of a genetic variant on a molecular pathway, and ultimately on the individual&#39;s phenotype, may be modulated by "environmental" factors. We denominate such variants "gene-expression environment-specific quantitative trait nucleotides" GxE-QTNs. Achieving a better understanding of the mechanisms underlying GxE is a critical step in understanding the link between genotype and complex phenotype. It is also crucial to develop computationally efficient and statistically sound methods capable to integrate tissue/condition-specific functional genomics data to predict and validate when a sequence variant is functional. In this study we developed novel experimental and computational approaches to screen, analyze and functionally characterize genetic variants for complex traits modulated by environmental exposures. To identify and characterize genes with GxE, we analyzed allele specific gene expression in a panel of five relevant tissues (e.g. the vascular endothelium for cardiovascular diseases) under 50 controlled environmental conditions (e.g. glucocorticoids treatment, as a proxy for stress exposure). These data should be useful to develop computational tools that integrate different sources of evidence including data collected by ENCODE, RoadMap Epigenome and GTEx projects to functionally annotate GWAS variants. The experimental and computational tools developed by this project have widespread applicability, for example, can be used to tackle the functional basis of complex traits in other environmental contexts (e.g. other types of stress and hormonal levels) and genetic backgrounds. This resource represents the first comprehensive catalog of genetic variants that interact with environmental exposure in determining human complex traits.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion criteria: </p> <p>We hope to collect 300 samples of human umbilical cords delivered from healthy mothers and from women with chronic hypertension, preeclampsia, diabetes, preterm labor and fetal growth restriction, that are not being used for diagnostic purposes. These will represent biological material otherwise routinely discarded. We plan to collect an equal number of samples of human umbilical cords delivered by self-reported African American and Caucasian women. The father will also be required to belong to the same ethnic groups for the sample to be included. Collected samples will also be from an equal number of delivered male and female healthy newborns. This will allow to analyze a sufficient number of homogeneous samples in terms of gender and ancestry, therefore resulting in greater statistical power in the genetic analyses.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Journal authors="Gregory A Moyerbrailean, Allison L Richards, Daniel Kurtz, Cynthia A Kalita, Gordon O Davis, Chris T Harvey, Adnan Alazizi, Donovan Watza, Yoram Sorokin, Nancy Hauff, Xiang Zhou, Xiaoquan Wen, Roger Pique-Regi, and Francesca Luca." title="High-throughput allele-specific expression across 250 environmental conditions." journal="Genome Research. In Press. doi:10.1101/gr.209759.116"/>
+		</Publication>
+	</Publications>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Francesca Luca, PhD</AttName>
+			<Institution>Wayne State University, Detroit, MI, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Roger Pique-Regi, PhD</AttName>
+			<Institution>Wayne State University, Detroit, MI, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Xiaoquan Wen, PhD</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>R01GM109215</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>14SDG20450118</AttName>
+			<Institution>American Heart Association, Dallas, TX, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="GxE Browser" url="http://genome.grid.wayne.edu/gxebrowser/"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIGMS</DacName>
+      <DacFullName>National Institute of General Medical Sciences DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001176.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001176.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001176.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

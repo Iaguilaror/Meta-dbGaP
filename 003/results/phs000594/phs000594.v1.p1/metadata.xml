@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000594.v1.p1" parentStudy="phs000594.v1.p1" createDate="2013-02-01" modDate="2017-06-16">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Thomas P. Loughran, Jr., MD</td><td>Penn State Cancer Institute Penn State College of Medicine Hershey, PA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>A Phase 2 Study of Tipifarnib in Large Granular Lymphocyte (LGL) Leukemia</StudyNameEntrez>
+	<StudyNameReportPage>A Phase 2 Study of Tipifarnib in Large Granular Lymphocyte (LGL) Leukemia</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Interventional</StudyType>
+		<StudyType>Clinical Trial</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>LGL leukemia can be divided into three subsets including the following: &#945;&#946; or &#947;&#948;T-LGL and NK-LGL leukemia. All three subtypes will be enrolled using a two-stage design. The primary endpoint of the study is assessment of overall clinical response. Correlative laboratory studies will be performed aimed at determining the mechanism of response to treatment. Thirteen participants will be accrued in the first stage at a dose of 300 mg BID administered intermittently every other week (i.e., 7 days on and 7 days off). If there are two or more responders, the protocol will be extended to a second stage of the study and accrual will be extended to 25 evaluable participants. Allowing for 10% rate of ineligibility due to unexpected events and dropout, we will accrue 14 patients in the first stage and 27 patients in total. Participants that withdraw from the study for reason unrelated to toxicity, will be replaced. There are two potential stopping rules for toxicity.</p> <p>If 3 or more participants out of the 13 enrolled in the first stage experiences grade IV neurotoxicity, the study will be stopped due to excessive toxicity. Dose reductions have been incorporated for hematologic toxicity. Treatment of T and NK LGL leukemia with immunosuppressive agents such as low-dose methotrexate generally require from four to six months for a clinical response and sometimes much longer. Therefore, in participants who show clinical improvement with less than grade three toxicity, tipifarnib treatment will be continued for as many as four additional months (12 months total). After the first 8 months, response will be assessed. The protocol treatment will be discontinued in participants with progression of disease. A long-term follow up will be performed for five years in patients that receive a complete clinical response. The long-term follow up will consist of vital signs, weight, CBCs, serum chemistries, and physical examination at six month intervals.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><u>Inclusion Criteria:</u></p> <p> <ul> <li>Diagnosis of &#945;&#946; or &#947;&#948; T- LGL or NK-LGL leukemia associated with at least one of the following clinical manifestations:</li> <li>Severe neutropenia less than 500 neutrophils/mm<sup>3</sup></li> <li>Neutropenia associated with recurrent infections, which includes one severe infection requiring hospitalization or two or more infections requiring antibiotic therapy</li> <li>Symptomatic anemia with significant fatigue with performance higher than ECOG status I; dyspnea on exertion, but can walk one flight of stairs without stopping (&#60; grade 1 respiratory symptoms); cardiac symptoms including worsening of angina or new onset of chest pain</li> <li>Transfusion-dependent anemia</li> <li>Prior Therapy</li> <li>Any prior therapy will be allowed. Discontinuation of Methotrexate (MTX), Cytoxan (Cy), or cyclosporine for one month prior to initiation of study treatment. Treatment with growth factors are allowed but must be discontinued at least 48 hours prior to initiation of study drug</li> <li>Participants must be &#8805; 18 years of age</li> <li>Life expectancy of greater than 2 years</li> <li>ECOG Performance Status: 0 to 2 (Karnofsky)</li> <li>Participants must have normal renal and hepatic function as defined below:</li> <li>total bilirubin &#8804; 2.0 (* patients with a history of Gilbert&#39;s Syndrome can be included in the study even if bilirubin value is 2.0 mg/dl) mg/dl</li> <li>AST(SGOT)/ALT(SGPT) &#8804; 2.5 X institutional upper limit of normal</li> <li>creatinine &#8804; 2.0 mg/dl</li> <li>Specific eligibility criteria for participants with T-LGL leukemia</li> <li>In participants with alpha beta T LGL, phenotypic studies from peripheral blood showing CD3<sup>+</sup>, CD57<sup>+</sup> cells greater than 300 cells/mm<sup>3</sup> or CD8<sup>+</sup> cells greater than 650 cells/mm<sup>3</sup>. These studies need to be obtained within eight weeks prior to registration</li> <li>In participants with the gamma delta form of T-LGL leukemia, phenotypic studies from peripheral blood showing &#947;&#948;<sup>+</sup> T cells greater than 300/mm<sup>3</sup> or greater than 20% &#947;&#948;<sup>+</sup> T LGL in the bone marrow</li> <li>Evidence for clonal T-cell receptor gene rearrangement. This could be based on positive flow cytometric analysis, TCR-gamma chain PCR, TCR-V&#946; PCR or by Southern blot analysis. Confirmation analysis will be performed by TCR-Vbeta analysis at the Tampa General Hospital Laboratory of Esoteric Testing. These studies need to be obtained within one year prior to registration.</li> <li>Specific eligibility criteria for participants with NK-LGL leukemia</li> <li>Phenotypic studies from peripheral blood showing CD56<sup>+</sup> or CD16<sup>+</sup> NK cells greater than 750/mm<sup>3</sup>. These studies need to be obtained within eight weeks prior to registration</li> <li>Ability to understand and the willingness to sign a written informed consent document</li> </ul></p> <p><u>Exclusion Criteria:</u></p> <p> <ul> <li>No previous or concurrent malignancies are allowed, except inactive non-melanoma skin cancer, in situ carcinoma of the cervix, or other cancer if the participant has been disease free for &#62; 5 years</li> <li>No serious medical illness, other than that treated by the study, which would limit survival to &#60; 2 years</li> <li>Participants may not be receiving any other investigational agents</li> <li>Participants may not have been treated with tipifarnib previously or with other inhibitors of MAPK signaling intermediates</li> <li>History of allergic reactions attributed to compounds of similar chemical or biologic composition to tipifarnib. Tipifarnib is contraindicated in individuals with allergies to imidazoles such as clotrimazole, ketoconazole, miconazole, econazaole, fenticonazole, isoconazole, sulconazole, tioconazole, or terconazole. Information regarding possible drug allergies should be obtained from both patient questionnaires and past-medical records</li> <li>Uncontrolled concurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements</li> <li>Women who are pregnant</li> <li>Women who are breastfeeding</li> <li>Women of childbearing potential who will not agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation.</li> <li>Men who will not agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation.</li> <li>Patients with immune deficiency are at increased risk of lethal infections when treated with marrow-suppressive therapy. HIV-positive patients receiving anti-retroviral therapy are excluded from the study because of possible pharmacokinetic interactions with tipifarnib, but HIV-positive patients receiving no retroviral therapy may be included in the study</li> <li>Patients with psychiatric illness/social situations that would limit compliance with study requirements and that would prevent informed decisions regarding entry into the study are excluded from study participation</li> <li>Patients with &#947;&#948; T LGL that are positive for iso-chromosome 7, as determined by FISH analysis</li> </ul> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="15607357"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14978699"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12149230"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="3966754"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Leukemia, Large Granular Lymphocytic"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Thomas P. Loughran, Jr., MD</AttName>
+			<Institution>Penn State Cancer Institute Penn State College of Medicine Hershey, PA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Response to Tipifarnib in Individuals With Large Granular Lymphocyte Leukemia" url="http://clinicaltrials.gov/ct2/show/NCT00331591?term=NCT00331591"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>Study Disease (LGL Leukemia)</p> <p>Large granular lymphocytes (LGL) normally comprise 10 to 15 percent of peripheral blood mononuclear cells (PBMC).<sup>1</sup> LGL can be divided into two major lineages: CD3<sup>-</sup> and CD3<sup>+</sup>. CD3<sup>-</sup> LGLs are natural killer (NK) cells that do not express the CD3/T cell receptor (TCR) complex or rearrange TCR genes. CD3<sup>+</sup> LGL are T cells that express the CD3/TCR complex and rearrange TCR genes.<sup>2</sup> LGL leukemia is a disease characterized by increased numbers of circulating LGL (lymphocytosis) that can either be CD3<sup>-</sup> or CD3<sup>+</sup> LGL, which are designated NK-and T-cell LGL leukemia, respectively.<sup>3,4</sup> The T-cell type of LGL leukemia can be divided into two subsets depending on the type of T-cell receptor expression (1) alpha beta or (2) gamma delta. These diseases may follow a chronic or acute clinical course. This study will focus on treatment for patients with chronic NK- or T-LGL leukemia who have lymphocytosis and myelosuppression, which is characterized by neutropenia or anemia. Both neutropenia and anemia are associated with increased numbers of clonal T cells or increased numbers of NK cells in the bone marrow and spleen of these patients. In addition to anemia and neutropenia, rheumatoid arthritis is commonly observed in patients with T-LGL leukemia. Immunosuppressive drug therapy with low-dose methotrexate, cyclosporine, and cyclophosphamide have clinical efficacy due to the ability of these drugs to reduce the number of leukemic T cells or NK cells in the peripheral blood and bone marrow.</p> <p>Because LGL leukemia is a relatively rare disease, the use of immunosuppressive drugs has been based on empirical data. Standard therapy is yet to be established and some patients do not respond to any of these drugs. Our goals are 1) to understand the mechanism(s) mediating lymphocytosis in these patients and 2) to understand how the LGL cause neutropenia and anemia. Increased numbers of LGL in the peripheral blood could be explained either by stimulation of proliferation or by inhibition of apoptosis. Circulating leukemic LGL is in the G0 phase of the cell cycle. Therefore, we hypothesize that dysregulated apoptosis controls survival. Apoptosis (programmed cell death) is thought to be a major regulator of the immune system, both in the thymus and in the periphery. Deletion of antigen-activated peripheral T cells and activated NK cells occurs through apoptosis, mediated by the Fas pathway. Fas is a cell surface protein of the tumor necrosis receptor family that is responsible for the elimination of activated NK and T cells. We hypothesize that drug therapy that induces apoptosis in the leukemic T cells and NK cells or sensitizes these cells to endogenous elimination through the Fas apoptotic pathway may provide effective drug therapy for LGL leukemia</p> <p>Standard therapy for both NK and T-LGL leukemia remains undefined. Treatment indications for LGL leukemia are severe neutropenia or anemia. We have shown that oral low dose methotrexate (MTX) is efficacious in treatment of neutropenia associated with T-LGL leukemia. However, response to MTX is slow requiring several months for the neutrophil count to increase above 500/mm<sup>3</sup>. Moreover, complete clinical remissions may not be achieved until after one year of MTX therapy or longer. Oral cyclophosphosphamide (Cy) has been the primary drug used for treatment of severe transfusion-dependent anemia associated with T-LGL leukemia. Beneficial clinical effects are seen despite this treatment having no apparent effect on the abnormal LGL clone. Normal hematocrits are maintained after cessation of Cy. These results contrast the effects seen with MTX, in which clinical remissions are often associated with the disappearance of the clone, detected by Southern blot assay. We have found that MTX targets a population of proliferating activated LGL. Most LGL in the peripheral blood are no longer actively proliferating. This data could explain the prolonged time required for a clinical response. We found that Ras inhibitors induced apoptosis when added <i>in vitro</i> to leukemic cells from the peripheral blood and also blocked the proliferation of cycling cells. Therefore, a quicker clinical response would be anticipated than seen with MTX therapy. Correlative laboratory studies will determine if molecular complete responses are associated with minimal residual disease and whether <i>in vitro</i> drug sensitivity correlates with elimination of the leukemic cells. There are no prospective clinical trials to assess the efficacy of drug therapy for NK-LGL leukemia.</p> <p>There is no animal model for LGL leukemia. Data in animal models of other lymphoproliferative diseases may provide insight into the pathogenesis of LGL leukemia. A lymphoproliferative disease that occurs in MLR-<i>lpr/lpr</i> and <i>gld/gld</i> mice can be explained by defects in apoptotic pathways. In one allele of lpr there is defective expression of Fas antigen due to retroviral insertion into the second intron of the Fas antigen gene. In the other allele <i>(lprcg)</i>, Fas antigen is expressed, but in a non-functional form due to a point mutation in the signal transducing domain. In <i>gld/gld</i> mice there is a point mutation in the Fas ligand gene, causing an inability of Fas ligand to bind to its receptor. Both MLR-<i>lpr/lpr</i> and <i>gld/gld</i> mice develop an autoimmune disease characterized by hypergammaglobulinemia, rheumatoid factor, circulating immune complexes, and expansions of CD4/CD8<sup>-</sup> double-negative T cells. These autoimmune features are similar to those observed in LGL leukemia. Moreover, <i>lpr/lpr</i> and <i>gld/gld</i> cells have many biologic properties characteristic of leukemic LGL which include 1) decreased or absent IL-2 production, 2) CD8<sup>+</sup> origin, 3) expression of activation markers, and 4) rapid triggering of cytotoxic activity by anti-/CD3 Mab. We hypothesize that leukemic LGL accumulate in the peripheral blood due to a failure in normal lymphocyte regulatory pathways.</p> <p>2.2 Study Agent</p> <p>Tipifarnib is a methyl-quinolinone with a molecular formula of C<sub>27</sub>H<sub>22</sub>C<sub>l2</sub>N<sub>4O</sub>. Tipifarnib is a potent and selective nonpeptidomimetic inhibitor of farnesyl tranferase protein (FTP) both <i>in vitro</i> and <i>in vivo</i>. Tipifarnib is supplied by the DCTD, NCI as 100 mg (white, in boxes of 126 tablets each) circular film-coated tablets. Tablets should be stored at room temperature (15-25<sup>0</sup>C, 59-77<sup>0</sup>F). Tablets should be protected from moisture. Tablets are stable for at least 36 months at room temperature (15-25<sup>0</sup>C, 59-77<sup>0</sup>F).</p> <p>Farnesyltransferase is the enzyme that catalyses the transfer of a 15-carbon isoprenyl farnesyl moiety to the carboxy terminus of proteins containing the peptide target sequence "CAAX, often referred to as a CAAX-box". A related enzyme, geranylgeranyl transferase type I (GGT-1) catalyzes the addition of a 20-carbon geranylgeranyl group to CAAX-containing proteins. The "X" residue determines the specificity of these two enzymes. Prenylation catalyzed by geranylgeranyltransferase type 1 is not sensitive to inhibition by tipifarnib. The mechanism of action is cell type dependent and includes angiogenesis inhibition, induction of apoptosis, and antiproliferative effects.</p> <p>2.3 Rationale</p> <p>To better understand the mechanism of lymphocytosis and resistance to apoptosis, we identified specific anti-apoptotic signaling pathways that were constitutively activated in the leukemic LGL. Blocking these anti-apoptotic pathways could lead to specific elimination of the leukemic LGLs. MAPK/ERK proteins are members of a family of dual specificity kinases that regulate growth and differentiation in response to growth factors.<sup>5,6</sup> The signaling pathway that is commonly invoked upon growth factor receptor activation involves the recruitment of Grb-2/SOS to the receptor that leads to the association of Ras.<sup>7,8</sup> Ras is a small farneslyated GTPase that becomes recruited to the plasma membrane and leads to the activation of Raf and ERK kinase 1 (MEK-1), which subsequently phosphorylates the TEY motif of ERK1 and ERK2.<sup>9</sup> From previous studies in the laboratory, we found that NK and T cells in patients with LGL leukemia express an activated Ras/ERK survival pathway. Our data also showed that this pathway protects from Fas apoptosis. Inhibition of both Ras and MEK led to increased apoptosis of patient leukemic LGL cells and increased sensitivity to Fas-mediated apoptosis. We hypothesize that targeted disruption of Ras with tipifarnib in NK- and T-leukemic LGLs may be a useful new treatment for anemia, neutropenia and arthritis associated with this disease. Tipfarnib may represent a novel approach for targeted drug therapy for the treatment of LGL leukemia.</p> <p>Eight patients with LGL leukemia were to be treated previously with four cycles of therapy at a dose of 300 mg twice daily for 21 days out of a 28- day intermittent cycle. Patient entry criteria and monitoring followed the same rules described in the current protocol with bone marrow biopsies were performed on all patients prior to therapy and then repeated only when worsening cytopenias occurred. As defined in the current protocol, growth factor support with G-CSF was allowed during the 7 days off when the ANC was &#60; 500 cells/&#181;l. Five males and two female participants had T-LGL leukemia received tipifarnib and one female patient had NK-LGL leukemia. Four of the T-LGL leukemia patients failed to complete the study due to toxicity. Three patients were removed from study due to grade 3-4 bone marrow toxicity and/or infections requiring hospitalization and a tipifarnib-unrelated death occurred in one patient. Therefore, three patients completed four cycles and were evaluated for response with a dose reduction for bone marrow toxicity required in one of these evaluable patients. Leukemic LGL cells from the three evaluable patients displayed a dose-dependent increase in apoptosis <i>in vitro</i> and treatment was associated with reduced ALCs in two cases. None of the patients met the pre-determined criteria for response. However, one patient, shown to be growth factor unresponsive prior to therapy, had an unsustained increase in ANC from 0 at baseline to 8,620 cells/&#181;l while receiving G-CSF on week 16. Furthermore, the number of bone marrow colonies increased in this patient after therapy. All bone marrow biopsies, required in five cases, showed improved erythroid or myeloid differentiation. The NK-LGL leukemia patient also had cinical evidence of Primary Pulmonary Hypertension (PPH), transfusion-dependent anemia, and anemia. Pulmonary artery pressure decreased and erythroid differentiation improved after tipifarnib but this patient failed to meet the pre-determined response criteria. Improvements in bone marrow differentiation suggests that tipifarnib may prove beneficial for the treatment of LGL leukemia if a safe dose and schedule is established and the treatment prolonged to allow more time for bone marrow recovery. Therefore, the current protocol has been modified to a 300 mg po BID alternate week dosing schedule for eight months based on reports of two phase I clinical trials performed in patients with Acute Myelogenous Leukemia (AML) and Myelodysplastic Syndrome using alternate week administration; trials performed because the farnesyltransferase enzyme was shown to be suppressed for one week after administration.<sup>1a, 1b</sup> Patients treated in the original cohort of the 5402 trial are eligible for the current modified dosing schedule after a new informed consent is obtained. The results of the first cohort will not be combined with data collected using the new dosing schedule.</p> <p>In relapsed and refractory AML patients, dose levels examined for safety included 400, 600, 800, 1200, 1400, and 1600 mg twice daily and 30 patients were accrued. All dose levels were reached with no dose limiting toxicity observed in this cohort of patients with 3 CRs and 1 PR achieved. In AML patients, a greater than two-fold increase in tipifarnib dose was tolerated using this alternate week dosing schedule compared to a 21-day schedule.<sup>1b</sup></p> <p>An alternate week dosing schedule was also well tolerated in patients with MDS. In a phase I trial, the dose was escalated by 100 mg twice daily until grade 2 non-hematologic toxicity was observed. Sixty-three pts were treated (median age 68 years; range, 35-84 years) and all patients were evaluable for toxicity. The MTD was 1200 mg/day and the regimen was generally well tolerated; the most common toxicity being myelosuppression, which occurred in 60% of the patients. Twenty percent of patients reported no side effects. Nonhematologic toxicities (all grades) included fatigue (20%), skin rash (9%), diarrhea (16%), increase in SGPT (14%), increase in bilirubin (11%), and nausea (11%). Dose-limiting toxicities occurred at tipifarnib doses 1,300 mg/day to 1,500 mg/day including ataxia (n=1), insomnia (n=1), fatigue (n=1), nausea (n=1), and neutropenic fever (n=2) <sup>1a</sup></p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-PUB" longName="General Research Use (IRB, PUB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <Documents>
+    <Document phd="phd006924.1" type="protocol" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>41BMF5402ProtocolVersion30Oct07.doc</OrigName>
+      <DisplayName>BMF 5402 Protocol</DisplayName>
+      <Description>BMF 5402 Protocol</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006925.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFConclusionofStudyParticipation_9-Jul-2007.doc</OrigName>
+      <DisplayName>Conclusion of Study Participation Form with CDUS Reporting requirements</DisplayName>
+      <Description>Conclusion of Study Participation Form with CDUS Reporting requirements</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006926.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFDemographics_11-May-2007.doc</OrigName>
+      <DisplayName>Demographics Form</DisplayName>
+      <Description>Demographics Form</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006927.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFDifferential_11-May-2007.doc</OrigName>
+      <DisplayName>Bone Marrow Biopsy/Aspiration Differential Form</DisplayName>
+      <Description>Bone Marrow Biopsy/Aspiration Differential Form</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006928.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFEfficacyImprovement18-Feb-2008.pdf</OrigName>
+      <DisplayName>Efficacy Improvement and Dosing Delay Form</DisplayName>
+      <Description>Efficacy Improvement and Dosing Delay Form</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006929.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFEKG8-Mar-2006.doc</OrigName>
+      <DisplayName>12-Lead EKG</DisplayName>
+      <Description>12-Lead EKG</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006930.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFEligibilityForm11-May-2007.doc</OrigName>
+      <DisplayName>Eligibility Checklist Form</DisplayName>
+      <Description>Eligibility Checklist Form</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006931.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFEligibilityForm17-Mar-2008.doc</OrigName>
+      <DisplayName>Eligibility Checklist</DisplayName>
+      <Description>Eligibility Checklist</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006932.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFEnrollmentMedicalIllness_4Dec2006.doc</OrigName>
+      <DisplayName>Enrollment Medical Illness Form</DisplayName>
+      <Description>Enrollment Medical Illness Form</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006933.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFGeneralLaboratory_07-Dec-2007.doc</OrigName>
+      <DisplayName>LABORATORY (CBC, Differential, Chemistry, Coagulation, Misc.)</DisplayName>
+      <Description>LABORATORY (CBC, Differential, Chemistry, Coagulation, Misc.)</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006934.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFHLA-only_8-Mar-2006.doc</OrigName>
+      <DisplayName>ENROLLMENT DIAGNOSIS LABORATORY FORM</DisplayName>
+      <Description>ENROLLMENT DIAGNOSIS LABORATORY FORM</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006935.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFMedicalHistory_26-Apr-2007.doc</OrigName>
+      <DisplayName>Medical History Form 4-27-07</DisplayName>
+      <Description>Medical History Form 4-27-07</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006936.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFOnline_StudyDrugLog14-Mar-2007.doc</OrigName>
+      <DisplayName>Patient Study Drug Log</DisplayName>
+      <Description>Patient Study Drug Log</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006937.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFPastMedicalHistory_11May2007.doc</OrigName>
+      <DisplayName>Medical History Form 5-11-07</DisplayName>
+      <Description>Medical History Form 5-11-07</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006938.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFPhysicalExamForm_11-May-2007.doc</OrigName>
+      <DisplayName>Physical Examination Form</DisplayName>
+      <Description>Physical Examination Form</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+    <Document phd="phd006939.1" type="questionnaire" createDate="2016-07-06" modDate="2017-06-15">
+      <OrigName>5402BMFTransfusionRecord_7-Mar-2008.doc</OrigName>
+      <DisplayName>Transfusion Record form</DisplayName>
+      <Description>Transfusion Record form</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd006925.1" sectionId="phd006925">
+      <phvList>
+        <phvRef variableId="298830"/>
+        <phvRef variableId="298831"/>
+        <phvRef variableId="298832"/>
+        <phvRef variableId="298833"/>
+        <phvRef variableId="298834"/>
+        <phvRef variableId="298835"/>
+        <phvRef variableId="298836"/>
+        <phvRef variableId="298837"/>
+        <phvRef variableId="298838"/>
+        <phvRef variableId="298839"/>
+        <phvRef variableId="298840"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006926.1" sectionId="phd006926">
+      <phvList>
+        <phvRef variableId="300205"/>
+        <phvRef variableId="300206"/>
+        <phvRef variableId="300207"/>
+        <phvRef variableId="300208"/>
+        <phvRef variableId="300209"/>
+        <phvRef variableId="300210"/>
+        <phvRef variableId="300211"/>
+        <phvRef variableId="300221"/>
+        <phvRef variableId="300225"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006927.1" sectionId="phd006927">
+      <phvList>
+        <phvRef variableId="298806"/>
+        <phvRef variableId="298807"/>
+        <phvRef variableId="298808"/>
+        <phvRef variableId="298809"/>
+        <phvRef variableId="298810"/>
+        <phvRef variableId="298811"/>
+        <phvRef variableId="298812"/>
+        <phvRef variableId="298813"/>
+        <phvRef variableId="298814"/>
+        <phvRef variableId="298815"/>
+        <phvRef variableId="298816"/>
+        <phvRef variableId="298817"/>
+        <phvRef variableId="298818"/>
+        <phvRef variableId="298819"/>
+        <phvRef variableId="298820"/>
+        <phvRef variableId="298821"/>
+        <phvRef variableId="298822"/>
+        <phvRef variableId="298823"/>
+        <phvRef variableId="298824"/>
+        <phvRef variableId="298825"/>
+        <phvRef variableId="298826"/>
+        <phvRef variableId="298827"/>
+        <phvRef variableId="298828"/>
+        <phvRef variableId="298829"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006928.1" sectionId="phd006928">
+      <phvList>
+        <phvRef variableId="300475"/>
+        <phvRef variableId="300476"/>
+        <phvRef variableId="300477"/>
+        <phvRef variableId="300479"/>
+        <phvRef variableId="300480"/>
+        <phvRef variableId="300484"/>
+        <phvRef variableId="300487"/>
+        <phvRef variableId="300496"/>
+        <phvRef variableId="300497"/>
+        <phvRef variableId="300500"/>
+        <phvRef variableId="300501"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006929.1" sectionId="phd006929">
+      <phvList>
+        <phvRef variableId="298754"/>
+        <phvRef variableId="298755"/>
+        <phvRef variableId="298756"/>
+        <phvRef variableId="298757"/>
+        <phvRef variableId="298758"/>
+        <phvRef variableId="298759"/>
+        <phvRef variableId="298761"/>
+        <phvRef variableId="298763"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006930.1" sectionId="phd006930">
+      <phvList>
+        <phvRef variableId="300599"/>
+        <phvRef variableId="300600"/>
+        <phvRef variableId="300601"/>
+        <phvRef variableId="300603"/>
+        <phvRef variableId="300606"/>
+        <phvRef variableId="300607"/>
+        <phvRef variableId="300608"/>
+        <phvRef variableId="300609"/>
+        <phvRef variableId="300610"/>
+        <phvRef variableId="300611"/>
+        <phvRef variableId="300612"/>
+        <phvRef variableId="300613"/>
+        <phvRef variableId="300614"/>
+        <phvRef variableId="300615"/>
+        <phvRef variableId="300618"/>
+        <phvRef variableId="300619"/>
+        <phvRef variableId="300621"/>
+        <phvRef variableId="300623"/>
+        <phvRef variableId="300624"/>
+        <phvRef variableId="300625"/>
+        <phvRef variableId="300626"/>
+        <phvRef variableId="300629"/>
+        <phvRef variableId="300630"/>
+        <phvRef variableId="300631"/>
+        <phvRef variableId="300632"/>
+        <phvRef variableId="300633"/>
+        <phvRef variableId="300634"/>
+        <phvRef variableId="300639"/>
+        <phvRef variableId="300651"/>
+        <phvRef variableId="300655"/>
+        <phvRef variableId="300659"/>
+        <phvRef variableId="300660"/>
+        <phvRef variableId="300664"/>
+        <phvRef variableId="300677"/>
+        <phvRef variableId="300679"/>
+        <phvRef variableId="300681"/>
+        <phvRef variableId="300682"/>
+        <phvRef variableId="300683"/>
+        <phvRef variableId="300684"/>
+        <phvRef variableId="300685"/>
+        <phvRef variableId="300686"/>
+        <phvRef variableId="300687"/>
+        <phvRef variableId="300688"/>
+        <phvRef variableId="300689"/>
+        <phvRef variableId="300690"/>
+        <phvRef variableId="300691"/>
+        <phvRef variableId="300701"/>
+        <phvRef variableId="300702"/>
+        <phvRef variableId="300703"/>
+        <phvRef variableId="300704"/>
+        <phvRef variableId="300705"/>
+        <phvRef variableId="300706"/>
+        <phvRef variableId="300707"/>
+        <phvRef variableId="300708"/>
+        <phvRef variableId="300709"/>
+        <phvRef variableId="300710"/>
+        <phvRef variableId="300711"/>
+        <phvRef variableId="300721"/>
+        <phvRef variableId="300730"/>
+        <phvRef variableId="300735"/>
+        <phvRef variableId="300742"/>
+        <phvRef variableId="300743"/>
+        <phvRef variableId="300744"/>
+        <phvRef variableId="300745"/>
+        <phvRef variableId="300746"/>
+        <phvRef variableId="300747"/>
+        <phvRef variableId="300748"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006931.1" sectionId="phd006931">
+      <phvList>
+        <phvRef variableId="300504"/>
+        <phvRef variableId="300505"/>
+        <phvRef variableId="300506"/>
+        <phvRef variableId="300507"/>
+        <phvRef variableId="300508"/>
+        <phvRef variableId="300509"/>
+        <phvRef variableId="300510"/>
+        <phvRef variableId="300511"/>
+        <phvRef variableId="300512"/>
+        <phvRef variableId="300513"/>
+        <phvRef variableId="300514"/>
+        <phvRef variableId="300515"/>
+        <phvRef variableId="300516"/>
+        <phvRef variableId="300517"/>
+        <phvRef variableId="300518"/>
+        <phvRef variableId="300519"/>
+        <phvRef variableId="300520"/>
+        <phvRef variableId="300521"/>
+        <phvRef variableId="300522"/>
+        <phvRef variableId="300523"/>
+        <phvRef variableId="300524"/>
+        <phvRef variableId="300525"/>
+        <phvRef variableId="300526"/>
+        <phvRef variableId="300527"/>
+        <phvRef variableId="300528"/>
+        <phvRef variableId="300529"/>
+        <phvRef variableId="300530"/>
+        <phvRef variableId="300531"/>
+        <phvRef variableId="300532"/>
+        <phvRef variableId="300533"/>
+        <phvRef variableId="300534"/>
+        <phvRef variableId="300535"/>
+        <phvRef variableId="300536"/>
+        <phvRef variableId="300537"/>
+        <phvRef variableId="300538"/>
+        <phvRef variableId="300539"/>
+        <phvRef variableId="300540"/>
+        <phvRef variableId="300541"/>
+        <phvRef variableId="300542"/>
+        <phvRef variableId="300543"/>
+        <phvRef variableId="300544"/>
+        <phvRef variableId="300545"/>
+        <phvRef variableId="300546"/>
+        <phvRef variableId="300547"/>
+        <phvRef variableId="300550"/>
+        <phvRef variableId="300552"/>
+        <phvRef variableId="300553"/>
+        <phvRef variableId="300555"/>
+        <phvRef variableId="300556"/>
+        <phvRef variableId="300557"/>
+        <phvRef variableId="300558"/>
+        <phvRef variableId="300559"/>
+        <phvRef variableId="300563"/>
+        <phvRef variableId="300569"/>
+        <phvRef variableId="300571"/>
+        <phvRef variableId="300572"/>
+        <phvRef variableId="300573"/>
+        <phvRef variableId="300583"/>
+        <phvRef variableId="300584"/>
+        <phvRef variableId="300585"/>
+        <phvRef variableId="300586"/>
+        <phvRef variableId="300587"/>
+        <phvRef variableId="300588"/>
+        <phvRef variableId="300589"/>
+        <phvRef variableId="300590"/>
+        <phvRef variableId="300592"/>
+        <phvRef variableId="300593"/>
+        <phvRef variableId="300594"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006932.1" sectionId="phd006932">
+      <phvList>
+        <phvRef variableId="300599"/>
+        <phvRef variableId="300600"/>
+        <phvRef variableId="300601"/>
+        <phvRef variableId="300603"/>
+        <phvRef variableId="300606"/>
+        <phvRef variableId="300607"/>
+        <phvRef variableId="300608"/>
+        <phvRef variableId="300609"/>
+        <phvRef variableId="300610"/>
+        <phvRef variableId="300611"/>
+        <phvRef variableId="300612"/>
+        <phvRef variableId="300613"/>
+        <phvRef variableId="300614"/>
+        <phvRef variableId="300615"/>
+        <phvRef variableId="300618"/>
+        <phvRef variableId="300619"/>
+        <phvRef variableId="300621"/>
+        <phvRef variableId="300623"/>
+        <phvRef variableId="300624"/>
+        <phvRef variableId="300625"/>
+        <phvRef variableId="300626"/>
+        <phvRef variableId="300629"/>
+        <phvRef variableId="300630"/>
+        <phvRef variableId="300631"/>
+        <phvRef variableId="300632"/>
+        <phvRef variableId="300633"/>
+        <phvRef variableId="300634"/>
+        <phvRef variableId="300639"/>
+        <phvRef variableId="300651"/>
+        <phvRef variableId="300655"/>
+        <phvRef variableId="300659"/>
+        <phvRef variableId="300660"/>
+        <phvRef variableId="300664"/>
+        <phvRef variableId="300677"/>
+        <phvRef variableId="300679"/>
+        <phvRef variableId="300681"/>
+        <phvRef variableId="300682"/>
+        <phvRef variableId="300683"/>
+        <phvRef variableId="300684"/>
+        <phvRef variableId="300685"/>
+        <phvRef variableId="300686"/>
+        <phvRef variableId="300687"/>
+        <phvRef variableId="300688"/>
+        <phvRef variableId="300689"/>
+        <phvRef variableId="300690"/>
+        <phvRef variableId="300691"/>
+        <phvRef variableId="300701"/>
+        <phvRef variableId="300702"/>
+        <phvRef variableId="300703"/>
+        <phvRef variableId="300704"/>
+        <phvRef variableId="300705"/>
+        <phvRef variableId="300706"/>
+        <phvRef variableId="300707"/>
+        <phvRef variableId="300708"/>
+        <phvRef variableId="300709"/>
+        <phvRef variableId="300710"/>
+        <phvRef variableId="300711"/>
+        <phvRef variableId="300721"/>
+        <phvRef variableId="300730"/>
+        <phvRef variableId="300735"/>
+        <phvRef variableId="300742"/>
+        <phvRef variableId="300743"/>
+        <phvRef variableId="300744"/>
+        <phvRef variableId="300745"/>
+        <phvRef variableId="300746"/>
+        <phvRef variableId="300747"/>
+        <phvRef variableId="300748"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006933.1" sectionId="phd006933">
+      <phvList>
+        <phvRef variableId="300755"/>
+        <phvRef variableId="300756"/>
+        <phvRef variableId="300757"/>
+        <phvRef variableId="300758"/>
+        <phvRef variableId="300759"/>
+        <phvRef variableId="300760"/>
+        <phvRef variableId="300761"/>
+        <phvRef variableId="300762"/>
+        <phvRef variableId="300763"/>
+        <phvRef variableId="300764"/>
+        <phvRef variableId="300765"/>
+        <phvRef variableId="300766"/>
+        <phvRef variableId="300767"/>
+        <phvRef variableId="300768"/>
+        <phvRef variableId="300769"/>
+        <phvRef variableId="300770"/>
+        <phvRef variableId="300771"/>
+        <phvRef variableId="300772"/>
+        <phvRef variableId="300773"/>
+        <phvRef variableId="300775"/>
+        <phvRef variableId="300776"/>
+        <phvRef variableId="300777"/>
+        <phvRef variableId="300778"/>
+        <phvRef variableId="300779"/>
+        <phvRef variableId="300780"/>
+        <phvRef variableId="300781"/>
+        <phvRef variableId="300782"/>
+        <phvRef variableId="300783"/>
+        <phvRef variableId="300784"/>
+        <phvRef variableId="300785"/>
+        <phvRef variableId="300786"/>
+        <phvRef variableId="300787"/>
+        <phvRef variableId="300788"/>
+        <phvRef variableId="300789"/>
+        <phvRef variableId="300790"/>
+        <phvRef variableId="300791"/>
+        <phvRef variableId="300792"/>
+        <phvRef variableId="300793"/>
+        <phvRef variableId="300794"/>
+        <phvRef variableId="300795"/>
+        <phvRef variableId="300796"/>
+        <phvRef variableId="300797"/>
+        <phvRef variableId="300798"/>
+        <phvRef variableId="300799"/>
+        <phvRef variableId="300800"/>
+        <phvRef variableId="300801"/>
+        <phvRef variableId="300802"/>
+        <phvRef variableId="300803"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006934.1" sectionId="phd006934">
+      <phvList>
+        <phvRef variableId="300804"/>
+        <phvRef variableId="300805"/>
+        <phvRef variableId="300806"/>
+        <phvRef variableId="300807"/>
+        <phvRef variableId="300808"/>
+        <phvRef variableId="300809"/>
+        <phvRef variableId="300810"/>
+        <phvRef variableId="300811"/>
+        <phvRef variableId="300812"/>
+        <phvRef variableId="300813"/>
+        <phvRef variableId="300814"/>
+        <phvRef variableId="300815"/>
+        <phvRef variableId="300825"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006935.1" sectionId="phd006935">
+      <phvList>
+        <phvRef variableId="300826"/>
+        <phvRef variableId="300827"/>
+        <phvRef variableId="300828"/>
+        <phvRef variableId="300829"/>
+        <phvRef variableId="300830"/>
+        <phvRef variableId="300831"/>
+        <phvRef variableId="300832"/>
+        <phvRef variableId="300834"/>
+        <phvRef variableId="300835"/>
+        <phvRef variableId="300836"/>
+        <phvRef variableId="300837"/>
+        <phvRef variableId="300839"/>
+        <phvRef variableId="300840"/>
+        <phvRef variableId="300841"/>
+        <phvRef variableId="300842"/>
+        <phvRef variableId="300843"/>
+        <phvRef variableId="300845"/>
+        <phvRef variableId="300847"/>
+        <phvRef variableId="300848"/>
+        <phvRef variableId="300849"/>
+        <phvRef variableId="300850"/>
+        <phvRef variableId="300851"/>
+        <phvRef variableId="300852"/>
+        <phvRef variableId="300853"/>
+        <phvRef variableId="300854"/>
+        <phvRef variableId="300855"/>
+        <phvRef variableId="300856"/>
+        <phvRef variableId="300857"/>
+        <phvRef variableId="300858"/>
+        <phvRef variableId="300859"/>
+        <phvRef variableId="300861"/>
+        <phvRef variableId="300862"/>
+        <phvRef variableId="300863"/>
+        <phvRef variableId="300864"/>
+        <phvRef variableId="300865"/>
+        <phvRef variableId="300866"/>
+        <phvRef variableId="300867"/>
+        <phvRef variableId="300868"/>
+        <phvRef variableId="300871"/>
+        <phvRef variableId="300872"/>
+        <phvRef variableId="300873"/>
+        <phvRef variableId="300874"/>
+        <phvRef variableId="300875"/>
+        <phvRef variableId="300876"/>
+        <phvRef variableId="300877"/>
+        <phvRef variableId="300879"/>
+        <phvRef variableId="300880"/>
+        <phvRef variableId="300881"/>
+        <phvRef variableId="300883"/>
+        <phvRef variableId="300884"/>
+        <phvRef variableId="300885"/>
+        <phvRef variableId="300886"/>
+        <phvRef variableId="300887"/>
+        <phvRef variableId="300888"/>
+        <phvRef variableId="300889"/>
+        <phvRef variableId="300904"/>
+        <phvRef variableId="300905"/>
+        <phvRef variableId="300906"/>
+        <phvRef variableId="300907"/>
+        <phvRef variableId="300908"/>
+        <phvRef variableId="300910"/>
+        <phvRef variableId="300911"/>
+        <phvRef variableId="300915"/>
+        <phvRef variableId="300916"/>
+        <phvRef variableId="300918"/>
+        <phvRef variableId="300923"/>
+        <phvRef variableId="300924"/>
+        <phvRef variableId="300925"/>
+        <phvRef variableId="300928"/>
+        <phvRef variableId="300936"/>
+        <phvRef variableId="300970"/>
+        <phvRef variableId="300971"/>
+        <phvRef variableId="300972"/>
+        <phvRef variableId="300973"/>
+        <phvRef variableId="300974"/>
+        <phvRef variableId="300975"/>
+        <phvRef variableId="300976"/>
+        <phvRef variableId="300981"/>
+        <phvRef variableId="300986"/>
+        <phvRef variableId="300987"/>
+        <phvRef variableId="300988"/>
+        <phvRef variableId="300994"/>
+        <phvRef variableId="300995"/>
+        <phvRef variableId="300996"/>
+        <phvRef variableId="301002"/>
+        <phvRef variableId="301003"/>
+        <phvRef variableId="301007"/>
+        <phvRef variableId="301008"/>
+        <phvRef variableId="301012"/>
+        <phvRef variableId="301013"/>
+        <phvRef variableId="301014"/>
+        <phvRef variableId="301023"/>
+        <phvRef variableId="301024"/>
+        <phvRef variableId="301025"/>
+        <phvRef variableId="301034"/>
+        <phvRef variableId="301041"/>
+        <phvRef variableId="301048"/>
+        <phvRef variableId="301049"/>
+        <phvRef variableId="301050"/>
+        <phvRef variableId="301051"/>
+        <phvRef variableId="301052"/>
+        <phvRef variableId="301055"/>
+        <phvRef variableId="301056"/>
+        <phvRef variableId="301057"/>
+        <phvRef variableId="301058"/>
+        <phvRef variableId="301059"/>
+        <phvRef variableId="301062"/>
+        <phvRef variableId="301063"/>
+        <phvRef variableId="301064"/>
+        <phvRef variableId="301069"/>
+        <phvRef variableId="301070"/>
+        <phvRef variableId="301071"/>
+        <phvRef variableId="301080"/>
+        <phvRef variableId="301081"/>
+        <phvRef variableId="301082"/>
+        <phvRef variableId="301083"/>
+        <phvRef variableId="301107"/>
+        <phvRef variableId="301108"/>
+        <phvRef variableId="301109"/>
+        <phvRef variableId="301110"/>
+        <phvRef variableId="301134"/>
+        <phvRef variableId="301135"/>
+        <phvRef variableId="301136"/>
+        <phvRef variableId="301137"/>
+        <phvRef variableId="301138"/>
+        <phvRef variableId="301139"/>
+        <phvRef variableId="301141"/>
+        <phvRef variableId="301142"/>
+        <phvRef variableId="301143"/>
+        <phvRef variableId="301151"/>
+        <phvRef variableId="301152"/>
+        <phvRef variableId="301153"/>
+        <phvRef variableId="301154"/>
+        <phvRef variableId="301155"/>
+        <phvRef variableId="301156"/>
+        <phvRef variableId="301158"/>
+        <phvRef variableId="301159"/>
+        <phvRef variableId="301160"/>
+        <phvRef variableId="301168"/>
+        <phvRef variableId="301169"/>
+        <phvRef variableId="301170"/>
+        <phvRef variableId="301171"/>
+        <phvRef variableId="301172"/>
+        <phvRef variableId="301187"/>
+        <phvRef variableId="301188"/>
+        <phvRef variableId="301189"/>
+        <phvRef variableId="301190"/>
+        <phvRef variableId="301191"/>
+        <phvRef variableId="301206"/>
+        <phvRef variableId="301210"/>
+        <phvRef variableId="301214"/>
+        <phvRef variableId="301217"/>
+        <phvRef variableId="301219"/>
+        <phvRef variableId="301220"/>
+        <phvRef variableId="301221"/>
+        <phvRef variableId="301223"/>
+        <phvRef variableId="301226"/>
+        <phvRef variableId="301229"/>
+        <phvRef variableId="301230"/>
+        <phvRef variableId="301246"/>
+        <phvRef variableId="301247"/>
+        <phvRef variableId="301254"/>
+        <phvRef variableId="301274"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006936.1" sectionId="phd006936">
+      <phvList>
+        <phvRef variableId="300265"/>
+        <phvRef variableId="300266"/>
+        <phvRef variableId="300267"/>
+        <phvRef variableId="300271"/>
+        <phvRef variableId="300272"/>
+        <phvRef variableId="300273"/>
+        <phvRef variableId="300274"/>
+        <phvRef variableId="300293"/>
+        <phvRef variableId="300294"/>
+        <phvRef variableId="300295"/>
+        <phvRef variableId="300296"/>
+        <phvRef variableId="300297"/>
+        <phvRef variableId="300314"/>
+        <phvRef variableId="300315"/>
+        <phvRef variableId="300316"/>
+        <phvRef variableId="300317"/>
+        <phvRef variableId="300318"/>
+        <phvRef variableId="300319"/>
+        <phvRef variableId="300320"/>
+        <phvRef variableId="300321"/>
+        <phvRef variableId="300322"/>
+        <phvRef variableId="300323"/>
+        <phvRef variableId="300324"/>
+        <phvRef variableId="300325"/>
+        <phvRef variableId="300326"/>
+        <phvRef variableId="300327"/>
+        <phvRef variableId="300328"/>
+        <phvRef variableId="300329"/>
+        <phvRef variableId="300337"/>
+        <phvRef variableId="300338"/>
+        <phvRef variableId="300339"/>
+        <phvRef variableId="300340"/>
+        <phvRef variableId="300341"/>
+        <phvRef variableId="300342"/>
+        <phvRef variableId="300343"/>
+        <phvRef variableId="300360"/>
+        <phvRef variableId="300361"/>
+        <phvRef variableId="300362"/>
+        <phvRef variableId="300363"/>
+        <phvRef variableId="300364"/>
+        <phvRef variableId="300365"/>
+        <phvRef variableId="300366"/>
+        <phvRef variableId="300383"/>
+        <phvRef variableId="300384"/>
+        <phvRef variableId="300385"/>
+        <phvRef variableId="300386"/>
+        <phvRef variableId="300387"/>
+        <phvRef variableId="300388"/>
+        <phvRef variableId="300389"/>
+        <phvRef variableId="300406"/>
+        <phvRef variableId="300407"/>
+        <phvRef variableId="300408"/>
+        <phvRef variableId="300409"/>
+        <phvRef variableId="300410"/>
+        <phvRef variableId="300411"/>
+        <phvRef variableId="300412"/>
+        <phvRef variableId="300429"/>
+        <phvRef variableId="300430"/>
+        <phvRef variableId="300431"/>
+        <phvRef variableId="300432"/>
+        <phvRef variableId="300433"/>
+        <phvRef variableId="300434"/>
+        <phvRef variableId="300435"/>
+        <phvRef variableId="300436"/>
+        <phvRef variableId="300437"/>
+        <phvRef variableId="300438"/>
+        <phvRef variableId="300439"/>
+        <phvRef variableId="300440"/>
+        <phvRef variableId="300441"/>
+        <phvRef variableId="300442"/>
+        <phvRef variableId="300443"/>
+        <phvRef variableId="300444"/>
+        <phvRef variableId="300452"/>
+        <phvRef variableId="300453"/>
+        <phvRef variableId="300454"/>
+        <phvRef variableId="300455"/>
+        <phvRef variableId="300456"/>
+        <phvRef variableId="300457"/>
+        <phvRef variableId="300458"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006937.1" sectionId="phd006937">
+      <phvList>
+        <phvRef variableId="300826"/>
+        <phvRef variableId="300827"/>
+        <phvRef variableId="300828"/>
+        <phvRef variableId="300829"/>
+        <phvRef variableId="300830"/>
+        <phvRef variableId="300831"/>
+        <phvRef variableId="300832"/>
+        <phvRef variableId="300834"/>
+        <phvRef variableId="300835"/>
+        <phvRef variableId="300836"/>
+        <phvRef variableId="300837"/>
+        <phvRef variableId="300839"/>
+        <phvRef variableId="300840"/>
+        <phvRef variableId="300841"/>
+        <phvRef variableId="300842"/>
+        <phvRef variableId="300843"/>
+        <phvRef variableId="300845"/>
+        <phvRef variableId="300847"/>
+        <phvRef variableId="300848"/>
+        <phvRef variableId="300849"/>
+        <phvRef variableId="300850"/>
+        <phvRef variableId="300851"/>
+        <phvRef variableId="300852"/>
+        <phvRef variableId="300853"/>
+        <phvRef variableId="300854"/>
+        <phvRef variableId="300855"/>
+        <phvRef variableId="300856"/>
+        <phvRef variableId="300857"/>
+        <phvRef variableId="300858"/>
+        <phvRef variableId="300859"/>
+        <phvRef variableId="300861"/>
+        <phvRef variableId="300862"/>
+        <phvRef variableId="300863"/>
+        <phvRef variableId="300864"/>
+        <phvRef variableId="300865"/>
+        <phvRef variableId="300866"/>
+        <phvRef variableId="300867"/>
+        <phvRef variableId="300868"/>
+        <phvRef variableId="300871"/>
+        <phvRef variableId="300872"/>
+        <phvRef variableId="300873"/>
+        <phvRef variableId="300874"/>
+        <phvRef variableId="300875"/>
+        <phvRef variableId="300876"/>
+        <phvRef variableId="300877"/>
+        <phvRef variableId="300879"/>
+        <phvRef variableId="300880"/>
+        <phvRef variableId="300881"/>
+        <phvRef variableId="300883"/>
+        <phvRef variableId="300884"/>
+        <phvRef variableId="300885"/>
+        <phvRef variableId="300886"/>
+        <phvRef variableId="300887"/>
+        <phvRef variableId="300888"/>
+        <phvRef variableId="300889"/>
+        <phvRef variableId="300904"/>
+        <phvRef variableId="300905"/>
+        <phvRef variableId="300906"/>
+        <phvRef variableId="300907"/>
+        <phvRef variableId="300908"/>
+        <phvRef variableId="300910"/>
+        <phvRef variableId="300911"/>
+        <phvRef variableId="300915"/>
+        <phvRef variableId="300916"/>
+        <phvRef variableId="300918"/>
+        <phvRef variableId="300923"/>
+        <phvRef variableId="300924"/>
+        <phvRef variableId="300925"/>
+        <phvRef variableId="300928"/>
+        <phvRef variableId="300936"/>
+        <phvRef variableId="300970"/>
+        <phvRef variableId="300971"/>
+        <phvRef variableId="300972"/>
+        <phvRef variableId="300973"/>
+        <phvRef variableId="300974"/>
+        <phvRef variableId="300975"/>
+        <phvRef variableId="300976"/>
+        <phvRef variableId="300981"/>
+        <phvRef variableId="300986"/>
+        <phvRef variableId="300987"/>
+        <phvRef variableId="300988"/>
+        <phvRef variableId="300994"/>
+        <phvRef variableId="300995"/>
+        <phvRef variableId="300996"/>
+        <phvRef variableId="301002"/>
+        <phvRef variableId="301003"/>
+        <phvRef variableId="301007"/>
+        <phvRef variableId="301008"/>
+        <phvRef variableId="301012"/>
+        <phvRef variableId="301013"/>
+        <phvRef variableId="301014"/>
+        <phvRef variableId="301023"/>
+        <phvRef variableId="301024"/>
+        <phvRef variableId="301025"/>
+        <phvRef variableId="301034"/>
+        <phvRef variableId="301041"/>
+        <phvRef variableId="301048"/>
+        <phvRef variableId="301049"/>
+        <phvRef variableId="301050"/>
+        <phvRef variableId="301051"/>
+        <phvRef variableId="301052"/>
+        <phvRef variableId="301055"/>
+        <phvRef variableId="301056"/>
+        <phvRef variableId="301057"/>
+        <phvRef variableId="301058"/>
+        <phvRef variableId="301059"/>
+        <phvRef variableId="301062"/>
+        <phvRef variableId="301063"/>
+        <phvRef variableId="301064"/>
+        <phvRef variableId="301069"/>
+        <phvRef variableId="301070"/>
+        <phvRef variableId="301071"/>
+        <phvRef variableId="301080"/>
+        <phvRef variableId="301081"/>
+        <phvRef variableId="301082"/>
+        <phvRef variableId="301083"/>
+        <phvRef variableId="301107"/>
+        <phvRef variableId="301108"/>
+        <phvRef variableId="301109"/>
+        <phvRef variableId="301110"/>
+        <phvRef variableId="301134"/>
+        <phvRef variableId="301135"/>
+        <phvRef variableId="301136"/>
+        <phvRef variableId="301137"/>
+        <phvRef variableId="301138"/>
+        <phvRef variableId="301139"/>
+        <phvRef variableId="301141"/>
+        <phvRef variableId="301142"/>
+        <phvRef variableId="301143"/>
+        <phvRef variableId="301151"/>
+        <phvRef variableId="301152"/>
+        <phvRef variableId="301153"/>
+        <phvRef variableId="301154"/>
+        <phvRef variableId="301155"/>
+        <phvRef variableId="301156"/>
+        <phvRef variableId="301158"/>
+        <phvRef variableId="301159"/>
+        <phvRef variableId="301160"/>
+        <phvRef variableId="301168"/>
+        <phvRef variableId="301169"/>
+        <phvRef variableId="301170"/>
+        <phvRef variableId="301171"/>
+        <phvRef variableId="301172"/>
+        <phvRef variableId="301187"/>
+        <phvRef variableId="301188"/>
+        <phvRef variableId="301189"/>
+        <phvRef variableId="301190"/>
+        <phvRef variableId="301191"/>
+        <phvRef variableId="301206"/>
+        <phvRef variableId="301210"/>
+        <phvRef variableId="301214"/>
+        <phvRef variableId="301217"/>
+        <phvRef variableId="301219"/>
+        <phvRef variableId="301220"/>
+        <phvRef variableId="301221"/>
+        <phvRef variableId="301223"/>
+        <phvRef variableId="301226"/>
+        <phvRef variableId="301229"/>
+        <phvRef variableId="301230"/>
+        <phvRef variableId="301246"/>
+        <phvRef variableId="301247"/>
+        <phvRef variableId="301254"/>
+        <phvRef variableId="301274"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd006938.1" sectionId="phd006938">
+      <phvList>
+        <phvRef variableId="301317"/>
+        <phvRef variableId="301318"/>
+        <phvRef variableId="301319"/>
+        <phvRef variableId="301326"/>
+        <phvRef variableId="301327"/>
+        <phvRef variableId="301328"/>
+        <phvRef variableId="301329"/>
+        <phvRef variableId="301330"/>
+        <phvRef variableId="301331"/>
+        <phvRef variableId="301332"/>
+        <phvRef variableId="301333"/>
+        <phvRef variableId="301334"/>
+        <phvRef variableId="301335"/>
+        <phvRef variableId="301336"/>
+        <phvRef variableId="301337"/>
+        <phvRef variableId="301338"/>
+        <phvRef variableId="301339"/>
+        <phvRef variableId="301340"/>
+        <phvRef variableId="301341"/>
+        <phvRef variableId="301342"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

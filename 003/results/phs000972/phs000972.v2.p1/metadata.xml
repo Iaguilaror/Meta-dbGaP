@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000972.v2.p1" parentStudy="phs000972.v2.p1" createDate="2017-03-29" modDate="2017-04-05">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Stephen T. McGarvey, PhD, MPH</td><td>Brown University, Providence, RI, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Ranjan Deka</td><td>University of Cincinnati, Cincinnati, OH, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Daniel E. Weeks</td><td>University of Pittsburgh, Pittsburgh, PA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Nicola L. Hawley</td><td>Yale University, New Haven, CT, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Ryan L. Minster</td><td>University of Pittsburgh, Pittsburgh, PA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: Genome-wide Association Study of Adiposity in Samoans</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: Genome-wide Association Study of Adiposity in Samoans</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cross-Sectional</StudyType>
+		<StudyType>Population</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The individuals sequenced here represent a small subset of the parent study (described below) and were carefully selected for the purpose of creating a Samoan-specific reference panel for imputation back into the parent study. The INFOSTIP algorithm of Gusev et. al. (2012) (PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/22135348" target="_blank">22135348</a>) was used to optimally choose the individuals for sequencing.</p> <p>The research goal of the parent study (dbGaP ID <a href="./study.cgi?study_id=phs000914">phs000914</a>) is to identify genetic variation that increases susceptibility to obesity and cardiometabolic phenotypes among adult Samoans using genome-wide association (GWAS) methods. DNA from peripheral blood and phenotypic information were collected from 3,119 adult Samoans, 23 to 70 years of age. The participants reside throughout the independent nation of Samoa, which is experiencing economic development and the nutrition transition. Genotyping was performed with the Affymetrix Genome-Wide Human SNP 6.0 Array using a panel of approximately 900,000 SNPs. Anthropometric, fasting blood biomarkers and detailed dietary, physical activity, health and socio-demographic variables were collected. We are replicating the GWAS findings in an independent sample of 2,500 Samoans from earlier studies. After replication of genomic regions and informative SNPs in those regions, we will determine sequences of the important genes, and determine the specific genetic variants in the sequenced genes that are associated with adiposity and related cardiometabolic conditions. We will also identify gene by environment interactions, focusing on dietary intake patterns and nutrients.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Participants were eligible for inclusion if they self-reported having four Samoan grandparents, if they were 23-70 years of age, not pregnant, able to complete questionnaires and anthropometric measures, and able and willing to complete the interview portions of the study in Samoan. For more detail, please see the following publication, which describes the origin of the dataset: Hawley NL, Minster RL, Weeks DE, Viali S, Reupena MS, Sun G, Cheng H, Deka R, McGarvey ST. Prevalence of Adiposity and Associated Cardiometabolic Risk Factors in the Samoan Genome-Wide Association Study. Am J Human Biol 2014. 26: 491-501. DOI: 10.1002/jhb.22553. PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/24799123" target="_blank">24799123</a>. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292846/" target="_blank">PMC4292846</a>.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="24799123"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="27455349"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Obesity"/>
+		<Disease vocab_source="MESH" vocab_term="Adiposity"/>
+		<Disease vocab_source="MESH" vocab_term="Lipids"/>
+		<Disease vocab_source="MESH" vocab_term="Blood Pressure"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Stephen T. McGarvey, PhD, MPH</AttName>
+			<Institution>Brown University, Providence, RI, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Ranjan Deka</AttName>
+			<Institution>University of Cincinnati, Cincinnati, OH, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Daniel E. Weeks</AttName>
+			<Institution>University of Pittsburgh, Pittsburgh, PA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Nicola L. Hawley</AttName>
+			<Institution>Yale University, New Haven, CT, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Ryan L. Minster</AttName>
+			<Institution>University of Pittsburgh, Pittsburgh, PA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01-HL093093</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>Samoans have been studied for &gt;40 years with a focus on the increase in, and levels of, BMI, obesity, and associated cardiometabolic conditions due to economic modernization. Earlier studies focused on these broad environmental influences but the current team of investigators began genetic epidemiology studies of Samoan cardiometabolic conditions ~20 years ago. The current GWAS combined the best approach for detecting genetic variants across the genome with a study population experiencing the risk exposures of the nutrition transition.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-PUB-COL-NPU-GSO" longName="General Research Use (IRB, PUB, COL, NPU, GSO)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000972.v2.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000972.v2.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000972.v2.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB, PUB, COL, NPU, GSO)</ConsentName>
+        <ConsentAbbrev>GRU-IRB-PUB-COL-NPU-GSO</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Requestor must provide a letter of collaboration with the primary study investigator(s).
+Use of the data is limited to not-for-profit organizations.
+Use of the data is limited to genetic studies only.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only
+There is one consent group in this study: GRU-IRB-PUB-COL-NPU-GSO
+Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Requestor must provide a letter of collaboration with the primary study investigator(s).
+Use of the data is limited to not-for-profit organizations.
+Use of the data is limited to genetic studies only.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006969.2" type="protocol" createDate="2017-04-03" modDate="2017-04-05" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.2" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000972.v2.p1&amp;phd=6969">
+      <OrigName>TOPMed_for_dbGaP_April2016_v5_final.docx</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

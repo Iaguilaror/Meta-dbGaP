@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000341.v1.p1" parentStudy="phs000341.v1.p1" createDate="2011-02-21" modDate="2012-05-03">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Charles Mullighan, MBBS(Hons), MSc, MD</td><td>Dept. of Pathology, St. Jude Children&#39;s Research Hospital, Memphis, TN, USA</td></tr>
+		<tr><td>Funding Source</td><td>NCI RC4CA156329 &quot;Identifying the spectrum of genetic alterations in high risk acute leukemia&quot;</td><td>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genome-Wide Analysis of Hypodiploid ALL</StudyNameEntrez>
+	<StudyNameReportPage>Genome-Wide Analysis of Hypodiploid Acute Lymphoblastic Leukemia</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+		<StudyType>Tumor vs. Matched-Normal</StudyType>
+		<StudyType>Xenograft</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Hypodiploid acute lymphoblastic leukemia (ALL) is an aggressive form of leukemia characterized by multiple whole chromosomal losses and very poor outcome. Here we report an integrative genomic analysis that identifies multiple subtypes of hypodiploid ALL characterized by variation in the degree of aneuploidy, distinct submicroscopic deletions and sequence mutations and gene expression profile. Near haploid ALL cases (24-31 chromosomes) have a high frequency of alterations of genes regulating Ras pathway and cytokine receptor signaling (66.2%; <i>NF1</i>, <i>NRAS</i>, <i>KRAS</i>, <i>PTPN11</i>, <i>FLT3</i>, and <i>PAG1</i>), <i>IKZF3</i> (encoding the lymphoid transcription factor AIOLOS), and a histone gene cluster at 6p22. Low hypodiploid cases (32-39 chromosomes) are enriched for <i>IKZF2</i> (HELIOS) and <i>RB1</i> alterations, but have a low frequency of Ras/signaling alterations. A striking finding was exclusivity of Ras/signaling and <i>IKZF2/3</i> alterations, and biochemical evidence of Ras pathway activation in both near haploid and low hypodiploid ALL. Together, these findings provide critical new insights into the genetic basis of hypodiploid ALL, and indicate that therapeutic targeting of the Ras pathway should be pursued in this disease.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Primary pediatric hypodiploid acute lymphoblastic leukemia cases with material available for genome-wide profiling.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Journal authors="Holmfeldt L, Zhang J, Payne-Turner D, Heatley S, Ma J, Pei D, Cheng C, Devidas M, Carroll JC, Heerema NA, Chen S-C, Andersson A, Gastier-Foster JM, Linda S, Chen I-M, Neale G, Ashmun R, Morris J, Raimondi SC, Pui C-H, Loh ML, Hunger S, Mullighan CG" title="Genome-wide analysis of hypodiploid acute lymphoblastic leukemia" journal="Nature Genetics. Submitted"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Precursor Cell Lymphoblastic Leukemia-Lymphoma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Charles Mullighan, MBBS(Hons), MSc, MD</AttName>
+			<Institution>Dept. of Pathology, St. Jude Children&#39;s Research Hospital, Memphis, TN, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>NCI RC4CA156329 &quot;Identifying the spectrum of genetic alterations in high risk acute leukemia&quot;</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>SNP 6.0 profiling of DNA copy number alterations was performed on primary human tumors.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000341.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000341.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000341.v1.p1" FileName="DUC-GWA_of_Genetic_Alterations_in_Hypodiploid_ALL-Revised_2.4.11.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data set is limited to research purposes only.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

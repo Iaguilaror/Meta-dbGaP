@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000964.v2.p1" parentStudy="phs000964.v2.p1" createDate="2017-03-31" modDate="2017-04-12">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Adolfo Correa, MD, MPH, PhD</td><td>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</td></tr>
+		<tr><td>Other Investigators</td><td>James Wilson, MD</td><td>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</td></tr>
+		<tr><td>Other Investigators</td><td>Solomon Musani, PhD</td><td>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</td></tr>
+		<tr><td>Other Investigators</td><td>Leslie Lange, PhD</td><td>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</td></tr>
+		<tr><td>Manager</td><td>Pramod Anugu</td><td>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: The Jackson Heart Study</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: The Jackson Heart Study</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Since there is a greater prevalence of cardiovascular disease among African Americans, the purpose of the Jackson Heart Study (JHS) is to explore the reasons for this disparity and to uncover new approaches to reduce it. The JHS is a large, community-based, observational study whose 5306 participants were recruited from among the non-institutionalized African-American adults from urban and rural areas of the three counties (Hinds, Madison, and Rankin) that make up the Jackson, MS, metropolitan statistical area (MSA). Jackson is the capital of Mississippi, the state with the largest percentage (36.3%) of African Americans in the United States.</p> <p>The JHS design included participants from the Jackson ARIC study who had originally been recruited through random selection from a drivers&#39; license registry. Approximately six months before the JHS was to begin, an amendment to the federal Driver&#39;s Privacy Protection Act was passed that changed the level of consent for public release of personal information from driver&#39;s license lists from an &#34;opt out&#34; to an &#34;opt in&#34; basis. The Mississippi Highway Patrol was no longer able to release a complete listing of all persons with driver&#39;s licenses or state identification cards, which prevented its use in the JHS. New JHS participants were chosen randomly from the Accudata America commercial listing, which provides householder name, address, zip code, phone number (if available), age group in decades, and family components. The Accudata list was deemed to provide the most complete count of households for individuals aged 55 years and older in the Jackson MSA. A structured volunteer sample was also included in which demographic cells for recruitment were designed to mirror the eligible population. Enrollment was opened to volunteers who met census-derived age, sex, and socioeconomic status (SES) eligibility criteria for the Jackson MSA.</p> <p>In addition, a family component was included in the JHS. The sampling frame for the family study was a participant in any one of the ARlC, random, or volunteer samples whose family size met eligibility requirements. Eligibility included having at least two full siblings and four first degree relatives (parents, siblings, children over the age of 21) who lived in the Jackson MSA and who were willing to participate in the study. No upper age limit was placed on the family sample. Known contact information was obtained during the baseline clinic examination from the index family member with a verbal pedigree format to identify name(s), age(s), address (es), and telephone number(s). Recruitment was limited to persons 35-84 years old except in the family cohort, where those 21 years old and above were eligible. Only persons who otherwise met study criteria but were deemed to be physically or mentally incompetent by trained recruiters were excluded from study eligibility.<sup>1</sup> </p> <p>1 Wyatt SB, Diekelmann N, Henderson F, Andrew ME, Billingsley G, Felder SH et al. A community-driven model of research participation: the Jackson Heart Study Participant Recruitment and Retention Study. Ethn Dis 2003; 13(4):438-455.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="25561047"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25224454"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20570916"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19148283"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21283670"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25920552"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25779970"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25393378"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25065297"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24462370"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24332150"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21325150"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19180233"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19148283"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18805107"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25477429"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25575548"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25487149"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24379297"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22958901"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25065069"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24575123"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22438884"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25745061"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25411155"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23156839"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23156838"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23156834"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22186255"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19808499"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="18179887"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16317983"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Hypertension"/>
+		<Disease vocab_source="MESH" vocab_term="Diabetes Mellitus"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Adolfo Correa, MD, MPH, PhD</AttName>
+			<Institution>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</Institution>
+		</Header>
+		<Header title="Other Investigators">
+			<AttName>James Wilson, MD</AttName>
+			<Institution>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</Institution>
+		</Header>
+		<Header title="Other Investigators">
+			<AttName>Solomon Musani, PhD</AttName>
+			<Institution>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</Institution>
+		</Header>
+		<Header title="Other Investigators">
+			<AttName>Leslie Lange, PhD</AttName>
+			<Institution>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</Institution>
+		</Header>
+		<Header title="Manager">
+			<AttName>Pramod Anugu</AttName>
+			<Institution>Jackson Heart Study, University of Mississippi Medical Center, Jackson, MS USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB-NPU" longName="Health/Medical/Biomedical (IRB, NPU)"/>
+		<ConsentGroup groupNum="2" shortName="DS-FDO-IRB-NPU" longName="Disease-Specific (Focused Disease Only, IRB, NPU)"/>
+		<ConsentGroup groupNum="3" shortName="HMB-IRB" longName="Health/Medical/Biomedical (IRB)"/>
+		<ConsentGroup groupNum="4" shortName="DS-FDO-IRB" longName="Disease-Specific (Focused Disease Only, IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000964.v2.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000964.v2.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000964.v2.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical (IRB, NPU)</ConsentName>
+        <ConsentAbbrev>HMB-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.
+Jackson Heart Study (JHS) data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in Jackson Heart Study.
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).
+There are four consent groups for JHS: 1) Health/Medical/Biomedical; 2) Non-profit Health/Medical/Biomedical; 3) Focus Diseases only, limiting analysis to the study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only; and 4) Non-profit Focus Diseases only.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Focused Disease Only, IRB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-FDO-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Focused Disease Only.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.
+Jackson Heart Study (JHS) data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in Jackson Heart Study.
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).
+There are four consent groups for JHS: 1) Health/Medical/Biomedical; 2) Non-profit Health/Medical/Biomedical; 3) Focus Diseases only, limiting analysis to the study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only; and 4) Non-profit Focus Diseases only.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Health/Medical/Biomedical (IRB)</ConsentName>
+        <ConsentAbbrev>HMB-IRB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Jackson Heart Study (JHS) data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in Jackson Heart Study.
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).
+There are four consent groups for JHS: 1) Health/Medical/Biomedical; 2) Non-profit Health/Medical/Biomedical; 3) Focus Diseases only, limiting analysis to the study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only; and 4) Non-profit Focus Diseases only.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Disease-Specific (Focused Disease Only, IRB)</ConsentName>
+        <ConsentAbbrev>DS-FDO-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Focused Disease Only.
+Requestor must provide documentation of local IRB approval.
+Jackson Heart Study (JHS) data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in Jackson Heart Study.
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).
+There are four consent groups for JHS: 1) Health/Medical/Biomedical; 2) Non-profit Health/Medical/Biomedical; 3) Focus Diseases only, limiting analysis to the study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only; and 4) Non-profit Focus Diseases only.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only
+There are four consent groups for this study: HMB-IRB, HMB-IRB-NPU, DS-FDO-IRB, DS-FDO-IRB-NPU.
+I. For HMB-IRB 
+Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Jackson Heart Study (JHS) data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in Jackson Heart Study.
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).
+There are four consent groups for JHS: 1) Health/Medical/Biomedical; 2) Non-profit Health/Medical/Biomedical; 3) Focus Diseases only, limiting analysis to the study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only; and 4) Non-profit Focus Diseases only.
+II. For HMB-IRB-NPU 
+Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.
+Jackson Heart Study (JHS) data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variable</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006969.2" type="protocol" createDate="2017-04-03" modDate="2017-04-05" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.2" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000964.v2.p1&amp;phd=6969">
+      <OrigName>TOPMed_for_dbGaP_April2016_v5_final.docx</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

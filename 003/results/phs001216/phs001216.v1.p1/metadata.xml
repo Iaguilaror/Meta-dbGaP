@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001216.v1.p1" parentStudy="phs001216.v1.p1" createDate="2016-09-19" modDate="2016-09-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Juan C. Celedon, MD, DrPH</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01 HL117191; R01 HL079966</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>A Genome-Wide Association Study for Post-bronchodilator Lung Function in Children with Asthma</StudyNameEntrez>
+	<StudyNameReportPage>A Genome-Wide Association Study for Post-bronchodilator Lung Function in Children with Asthma</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>In this study, we conducted a genome-wide association study (GWAS) of post-bronchodilator (BD) FEV1 (forced expiratory volume in 1 second) and FEV1/FVC (forced vital capacity) in Puerto Rican children with asthma. From September 2003 to June 2010, we recruited 618 Puerto Rican children with asthma, which was defined as physician diagnosed asthma and at least one episode of wheezing in the previous year. The recruited children include 267 from public schools in Hartford, Connecticut and 351 from randomly selected households in San Juan, Puerto Rico.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion criteria included age between 6 and 14 years and having four Puerto Rican grandparents. Exclusion criteria included non-asthma respiratory diseases, and either current smoker or &#8805;5 pack-years of smoking.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26325155"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Asthma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Juan C. Celedon, MD, DrPH</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01 HL117191; R01 HL079966</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-ASTHMA-IRB-PUB-NPU-MDS-GSO-RD" longName="Disease-Specific (Asthma, IRB, PUB, NPU, MDS, GSO, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001216.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001216.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001216.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Asthma, IRB, PUB, NPU, MDS, GSO, RD)</ConsentName>
+        <ConsentAbbrev>DS-ASTHMA-IRB-PUB-NPU-MDS-GSO-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Asthma and related disorders.
+Requestor must provide documentation of local IRB approval.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Use of the data is limited to genetic studies only.
+Use of the data must be related to Asthma and related condition of post-bronchodilator lung function.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

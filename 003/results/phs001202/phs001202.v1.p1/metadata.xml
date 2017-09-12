@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001202.v1.p1" parentStudy="phs001202.v1.p1" createDate="2016-08-30" modDate="2017-06-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Paul Brennan, PhD</td><td>International Agency for Research on Cancer (IARC), Lyon, France</td></tr>
+		<tr><td>Principal Investigators</td><td>James D McKay, PhD</td><td>International Agency for Research on Cancer (IARC), Lyon, France</td></tr>
+		<tr><td>Principal Investigators</td><td>Brenda Diergaarde, PhD</td><td>Department of Epidemiology, Graduate School of Public Health, University of Pittsburgh, and University of Pittsburgh Cancer Institute, Pittsburgh, PA, USA.</td></tr>
+		<tr><td>Principal Investigators</td><td>Andrew F Olshan, PhD</td><td>Department of Epidemiology, Gillings School of Global Public Health, University of North Carolina, and UNC Lineberger Comprehensive Cancer Center,      Chapel Hill, NC, USA.</td></tr>
+		<tr><td>Principal Investigators</td><td>Geoffrey Liu, MD</td><td>Princess Margaret Cancer Centre, Toronto, Canada</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>OncoArray: Oral and Pharynx Cancer</StudyNameEntrez>
+	<StudyNameReportPage>OncoArray: Oral and Pharynx Cancer</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Genetic factors play an important role in susceptibility to head and neck cancer and could also explain differences in response to treatment and outcome. The goal of this project is to investigate genetic variation involved in oral and oropharyngeal cancer susceptibility by performing the largest GWAS on these diseases, using a novel genotyping tool specifically designed for cancer studies by the OncoArray Network. This project encompasses data from approximately 6000 oral and pharynx cancer cases and 4000 controls derived from 12 epidemiological studies most of case-control design. The genotyping was centralized at the Center for Inherited Disease Research (CIDR), and the epidemiological data harmonization and analysis were completed at the International Agency for Research on Cancer (IARC). This study was supported by National Institute of Dental and Craniofacial Research (NIDCR) with direct funding to CIDR.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Cancer cases comprised the following ICD codes: oral cavity (C02.0-C02.9, C03.0-C03.9, C04.0-C04.9, C05.0-C06.9), oropharynx (C01.9, C02.4, C09.0-C10.9), hypopharynx (C13.0-C13.9), overlapping (C14 and combination of other sites), and 25 oral or pharyngeal cases with unknown ICD code (other). <br/> Controls: cancer-free controls. </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27749845"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Head and Neck Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Mouth Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Pharyngeal Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Oropharyngeal Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Hypopharyngeal Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Paul Brennan, PhD</AttName>
+			<Institution>International Agency for Research on Cancer (IARC), Lyon, France</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>James D McKay, PhD</AttName>
+			<Institution>International Agency for Research on Cancer (IARC), Lyon, France</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Brenda Diergaarde, PhD</AttName>
+			<Institution>Department of Epidemiology, Graduate School of Public Health, University of Pittsburgh, and University of Pittsburgh Cancer Institute, Pittsburgh, PA, USA.</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Andrew F Olshan, PhD</AttName>
+			<Institution>Department of Epidemiology, Gillings School of Global Public Health, University of North Carolina, and UNC Lineberger Comprehensive Cancer Center,      Chapel Hill, NC, USA.</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Geoffrey Liu, MD</AttName>
+			<Institution>Princess Margaret Cancer Centre, Toronto, Canada</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Victor W&#252;nsch-Filho, PhD</AttName>
+			<Institution>Faculdade de Sa&#250;de P&#250;blica, Universidade de S&#227;o Paulo, S&#227;o Paulo, SP, Brazil</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Andrew R Ness, PhD</AttName>
+			<Institution>National Institute for Health Research (NIHR) Biomedical Research Unit in Nutrition, Diet and Lifestyle at the University Hospitals Bristol     NHS Foundation Trust and the University of Bristol and School of Oral and Dental Sciences, University of Bristol, Bristol, UK</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Martin Lacko, MD, PhD</AttName>
+			<Institution>Department of Otorhinolaryngology, Head and Neck Surgery, Maastricht University Medical Center, Maastricht, Netherlands</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Stefania Boccia, PhD</AttName>
+			<Institution>Section of Hygiene, Institute of Public Health, Universita Cattolica del Sacro Cuore, Fondazione Policlinico &#39;Agostino Gemelli&#39;, Rome, Italy</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>HHSN268201200008I, NIH contract &quot;High throughput genotyping for studying the genetic contributions to human disease&quot;</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>X01HG007780</AttName>
+			<Institution>Genotyping performed at the Center for Inherited Disease Research (CIDR), National Institute of Dental and Craniofacial Research,      National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Pittsburgh HNC study P50 CA097190 and P30 CA047904</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>CHANCE Study R01-CA90731</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>GENCAPO 04/12054-9 and 10/51168-0</AttName>
+			<Institution>FAPESP S&#227;o Paulo, SP, Brazil</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Toronto study 020214 and U19 CA148127</AttName>
+			<Institution>The Canadian Cancer Society Research Institute, Toronto, Ontario, Canada, and National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>HN5000 study RP-PG-0707-10034</AttName>
+			<Institution>National Institute for Health Research (NIHR), UK</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Rome Study IG2011 10491 and IG2013 14220</AttName>
+			<Institution>AIRC and Fondazione Veronesi, Italy</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>ARCAGE study QLK1-2001-00182 and CPDA057222</AttName>
+			<Institution>European Commission&#39;s 5th Framework Program, and FIRMS, Region Piemonte, and Padova University</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>IARC LA Study INCO-DC IC18-CT97-0222 and 01/01768-2</AttName>
+			<Institution>European Commission Fondo para la Investigacion Cientifica y Tecnologica, Argentina, and       Funda&#231;&#227;o de Amparo &#224; Pesquisa do Estado de S&#227;o Paulo, Brazil</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>IARC CE Study IC15-CT98-0332, CA92039 and WCRF99A28</AttName>
+			<Institution>INCO-COPERNICUS Program, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA, and       World Cancer Research Fund International, Lodon</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>IARC ORC Study, FIS 97/0024, FIS 97/0662, and BAE 01/5013</AttName>
+			<Institution>Europe against Cancer, UICC Yamagiwa-Yoshida, National Cancer Institute of Canada, AIRC, and PAHO/WHO</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>EPIC Study</AttName>
+			<Institution>European Commission (DG SANCO), IARC</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>This submission contains data genotyped at CIDR as part of the oral and oropharyngeal OncoArray study. Genotypes calls were made at Dartmouth College with common protocols for OncoArray Network projects. Epidemiological studies that contributed samples are listed in Table 1. Controls from Toronto and EPIC studies are shared with the Lung OncoArray Study that are not part of this dataset. These will be uploaded with the lung OncoArray.<br/> <h3>Table 1</h3> <table style="width:100%" border="1"> <tr> <th>Study Name</th> <th>Principal Investigator</th> <th>Study Design</th> <th>Reference</th> </tr> <tr> <td>Carolina Head and Neck Cancer Epidemiology (Chance)</td> <td>Andrew F Olshan</td> <td>Population-based case-control</td> <td><a href="PMID:20049634">PMID:20049634</a></td> </tr> <tr> <td>Gencapo</td> <td>Eloiza H. Tajara</td> <td>Multicenter Hospital-based case-control</td> <td><a href="PMID:24474236">PMID:24474236</a></td> </tr> <tr> <td>Alcohol-Related Cancers and Genetic susceptibility in Europe (Arcage)</td> <td>Paul Brennan</td> <td>Multicenter Hospital-based case-control</td> <td><a href="PMID:18830131">PMID:18830131</a></td> </tr> <tr> <td>IARC Central Europe</td> <td>Paul Brennan</td> <td>Multicenter Hospital-based case-control</td> <td><a href="PMID:16614111">PMID:16614111</a></td> </tr> <tr> <td>European Prospective Investigation into Cancer and Nutrition (EPIC)</td> <td>Paul Brennan</td> <td>Multicenter cohort study</td> <td><a href="PMID:12639222">PMID:12639222</a></td> </tr> <tr> <td>IARC Latin America</td> <td>Paul Brennan</td> <td>Multicenter Hospital-based case-control</td> <td><a href="PMID:21607590">PMID:21607590</a></td> </tr> <tr> <td>IARC oral cancer (ORC)</td> <td>Silvia Franceschi</td> <td>Multicenter Hospital-based case-control</td> <td><a href="PMID:14652239">PMID:14652239</a></td> </tr> <tr> <td>Maastricht</td> <td>Martin Lacko <br/> Wilbert Peters</td> <td>Hospital-based case-control</td> <td><a href="PMID:21351260">PMID:21351260</a></td> </tr> <tr> <td>University of Pittsburgh</td> <td>Brenda Diergaarde</td> <td>Hospital-based case-control</td> <td><a href="PMID:23619143">PMID:23619143</a></td> </tr> <tr> <td>Rome</td> <td>Stefania Boccia</td> <td>Hospital-based case-control</td> <td><a href="PMID:20861397">PMID:20861397</a></td> </tr> <tr> <td>Toronto</td> <td>Rayjean Hung <br/> Geoffrey Liu</td> <td>Hospital-based case-control</td> <td><a href="PMID:24519853">PMID:24519853</a></td> </tr> <tr> <td>Head and neck 5000 (HN5000)</td> <td>Andy Ness</td> <td>Multicenter HNC clinical cohort</td> <td><a href="PMID:25519023">PMID:25519023</a></td> </tr> </table> </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="HMB-PUB-MDS" longName="Health/Medical/Biomedical (PUB, MDS)"/>
+		<ConsentGroup groupNum="2" shortName="DS-CA-PUB-MDS" longName="Disease-Specific (Cancer, PUB, MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

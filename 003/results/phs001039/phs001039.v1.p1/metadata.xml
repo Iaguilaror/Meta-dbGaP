@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001039.v1.p1" parentStudy="phs001039.v1.p1" createDate="2015-12-03" modDate="2016-10-25">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Margaret M. DeAngelis, PhD</td><td>John A. Moran Eye Center, Department of Ophthalmology and Visual Sciences, University of Utah, School of Medicine, Salt Lake City, UT, USA</td></tr>
+		<tr><td>Principal Investigator (on NEI genotyping grant)</td><td>Gon&#231;alo Abecasis, D.Phil</td><td>Center for Statistical Genetics, Department of Biostatistics, University of Michigan, Ann Arbor, MI, USA</td></tr>
+		<tr><td>Genetic Statistician</td><td>Lars Fritsche, PhD</td><td>Center for Statistical Genetics, Department of Biostatistics, University of Michigan, Ann Arbor, MI, USA</td></tr>
+		<tr><td>Funding Source</td><td>CIDR Program contract number: HHSN268201200008I</td><td>National Eye Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Genotyping Center</td><td>Center for Inherited Disease Research (CIDR)</td><td>Johns Hopkins University, Baltimore, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>International AMD Genomics Consortium - Exome Chip Experiment</StudyNameEntrez>
+	<StudyNameReportPage>International Age-Related Macular Degeneration Genomics Consortium - Exome Chip Experiment</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Advanced age-related macular degeneration (AMD) is the leading cause of blindness in the elderly, with limited therapeutic options. To further our understanding of AMD genetics, we examined the contribution of common and rare genetic variation in the International AMD Genomics Consortium that included ~50,000 samples of 26 AMD case - control cohorts that were jointly genotyped. Analyzing 16,144 patients with late stage AMD and 17,832 controls, we identified 52 independently associated common and rare variants distributed across 34 loci. Besides these single variant signals, we also observed gene-based enrichment of very rare coding variants (frequency &#60; 0.1%) in cases that implicated causal roles for <i><a href="http://www.ncbi.nlm.nih.gov/gene/3075">CFH</a></i>, <i><a href="http://www.ncbi.nlm.nih.gov/gene/3426">CFI</a></i> and <i><a href="http://www.ncbi.nlm.nih.gov/gene/7078">TIMP3</a></i> in three of the known AMD risk loci. Our results support the hypothesis that rare coding variants can pinpoint causal genes within known genetic loci and illustrate that applying the approach systematically to detect new loci requires extremely large sample sizes.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion criteria</b>:</p> <p>Cases: Avanced AMD cases with GA and/or CNV in at least one eye and age at first diagnosis &#62;= 50 years, intermediate AMD cases with pigmentary changes in the RPE or more than five macular drusen greater than 63&#956;m and age at first diagnosis &#62;= 50 years.</p> <p>Controls: Without known advanced or intermediate AMD.</p> <p>Recruitment and ascertainment strategies varied by study.</p> <p><b>Exclusion criteria</b> (cases and controls):</p> <ul> <li>Duplicated and related individuals (kinship coefficient &#934; &#62;= 0.0884, i.e. 3<sup>rd</sup> degree relatives or closer)</li> <li>Subjects with discrepancies between reported gender and sex chromosomal information or with atypical sex chromosome configurations</li> <li>Subjects with genotyping call rates &#60; 98.5%</li> </ul>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26691988"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24773320"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23455636"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Macular Degeneration"/>
+		<Disease vocab_source="MESH" vocab_term="Geographic Atrophy"/>
+		<Disease vocab_source="MESH" vocab_term="Wet Macular Degeneration"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Margaret M. DeAngelis, PhD</AttName>
+			<Institution>John A. Moran Eye Center, Department of Ophthalmology and Visual Sciences, University of Utah, School of Medicine, Salt Lake City, UT, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator (on NEI genotyping grant)">
+			<AttName>Gon&#231;alo Abecasis, D.Phil</AttName>
+			<Institution>Center for Statistical Genetics, Department of Biostatistics, University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Genetic Statistician">
+			<AttName>Lars Fritsche, PhD</AttName>
+			<Institution>Center for Statistical Genetics, Department of Biostatistics, University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>CIDR Program contract number: HHSN268201200008I</AttName>
+			<Institution>National Eye Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Genotyping Center">
+			<AttName>Center for Inherited Disease Research (CIDR)</AttName>
+			<Institution>Johns Hopkins University, Baltimore, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="IAMDGC" url="http://eaglep.case.edu/iamdgc_web/"/>
+		<Url name="Center for Statistical Genetics" url="http://csg.sph.umich.edu/abecasis/public/amd2015/"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+		<ConsentGroup groupNum="2" shortName="DS-AMD" longName="Disease-Specific (Age-Related Macular Degeneration)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NEI</DacName>
+      <DacFullName>National Eye Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001039.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>6</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001039.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001039.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Age-Related Macular Degeneration)</ConsentName>
+        <ConsentAbbrev>DS-AMD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Age-Related Macular Degeneration.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

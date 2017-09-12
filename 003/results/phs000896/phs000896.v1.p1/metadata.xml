@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000896.v1.p1" parentStudy="phs000896.v1.p1" createDate="2015-04-02" modDate="2017-01-10">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Patricia L. Hibberd</td><td>Division of Global Health, Massachusetts General Hospital for Children, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>Claire M. Fraser</td><td>Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>3U01AT002952</td><td>National Center for Complementary and Alternative Medicine, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>3K24AT003683</td><td>National Center for Complementary and Alternative Medicine, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Functional Dynamics of the Elderly Gut Microbiome During Probiotic Consumption</StudyNameEntrez>
+	<StudyNameReportPage>Functional Dynamics of the Elderly Gut Microbiome During Probiotic Consumption</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>A mechanistic understanding of the health benefits conferred by consumption of probiotic bacteria has been limited by our knowledge of the resident gut microbiota and its interaction with the host. We used fecal samples from a study of twelve healthy individuals aged 65-80 to characterize the structure and functional dynamics of the gut microbiota associated with consumption of the single-organism probiotic, Lactobacillus rhamnosus GG ATCC 53103 (LGG). Samples were collected prior to probiotic consumption (day 0), on day 28 immediately after consuming 10^10 CFU of LGG twice daily for 28 days and day 56, one month after stopping LGG consumption. Our integrative approach incorporated bacterial 16S rRNA gene sequencing, whole-community expression profiling using RNA-seq, and metagenomic sequencing. We highlight the value of combinatorial &#39;omics methods and concomitant high-resolution informatics to probe the role that probiotics may play on the structure and function of the resident microbiota.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>See also <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113456" target="_blank">doi:10.1371/journal.pone.0113456.t001</a> <table border="1" style="width:100%"> <tr> <th>Inclusion Criteria</th> <th>Exclusion Criteria</th> </tr> <tr><td>1. Adult male and female age 65--80 years</td><td>1. Resident of a nursing home or rehabilitation center</td></tr> <tr><td>2. Has a primary care physician</td><td>2. Hospitalization, major surgery or endoscopy within the last 3 months or scheduled hospital admission within 3 months of enrollment</td></tr> <tr><td>3. In the past two years:</td><td>3. Consumption of any probiotic or yogurt that has the "live and active cultures" seal during the 28 days before the baseline visit and unwillingness to forgo these products during the 56 day study period</td></tr> <tr><td>a. Is community-dwelling</td><td>4. Received oral or parenteral antibiotics during the 28 days before the baseline visit</td></tr> <tr><td>b. Has had a routine physical examination</td><td>5. Current or planned oral or parenteral immunosuppressive therapy, chemotherapy or radiotherapy</td></tr> <tr><td>c. Has no new chronic conditions diagnosed</td><td>6. Allergy to probiotics, Lactobacillus, all antibiotics that could be used to treat Lactobacillus infection, microcrystaline cellulose or gelatin</td></tr> <tr><td>4. Has received and is up to date on the following:</td><td>7. Diarrhea, constipation or vomiting during the 28 days before the baseline visit</td></tr> <tr><td>a. Pneumococcal vaccination</td><td>8. Serious gastrointestinal illness including chronic liver disease, gastrointestinal surgery, cancer, inflammatory bowel disease, pancreatitis or motility disorder in the last 2 years</td></tr> <tr><td>b. Mammography (women only)</td><td>9. History of drug or alcohol abuse in the previous 12 months</td></tr> <tr><td>c. Screening colonoscopy</td><td>10. History of structural heart disease, endocarditis, valve replacement, Stage IV congestive heart failure, peripheral vascular disease, stroke, chronic obstructive pulmonary disease, asthma, collagen, vascular or autoimmune disease, end stage renal disease, diabetes, thyroid disease or active tuberculosis</td></tr> <tr><td>5. Willing and able to comply with the protocol and participate for the planned duration of the study</td><td>11. Presence of an indwelling catheter, implanted hardware/prosthetic device or feeding tube</td></tr> <tr><td>6. Completes the informed consent process</td><td>12. Any Grade 2 or higher abnormal vital sign or physical examination finding (FDA Toxicity Grading Scale)</td></tr> <tr><td></td><td>13. Positive HIV antibody, hepatitis B surface antigen or hepatitis C antibody</td></tr> <tr><td></td><td>14. Positive urine toxicology or positive breathalyzer</td></tr> <tr><td></td><td>15. Any Grade 2 or higher abnormal screening laboratory test (FDA Toxicity Grading Scale)</td></tr> <tr><td></td><td>16. Enrolled in another study</td></tr> </table> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="25438151"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Human Microbiome"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Patricia L. Hibberd</AttName>
+			<Institution>Division of Global Health, Massachusetts General Hospital for Children, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Claire M. Fraser</AttName>
+			<Institution>Institute for Genome Sciences, University of Maryland School of Medicine, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>3U01AT002952</AttName>
+			<Institution>National Center for Complementary and Alternative Medicine, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>3K24AT003683</AttName>
+			<Institution>National Center for Complementary and Alternative Medicine, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p><i>ClinicalTrials.gov</i> <a href="https://clinicaltrials.gov/ct2/show/NCT01274598" target="_blank">NCT 01274598</a></p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCCIH</DacName>
+      <DacFullName>NCCIH</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000896.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000896.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000896.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

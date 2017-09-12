@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001199.v1.p1" parentStudy="phs001199.v1.p1" createDate="2016-08-23" modDate="2017-06-28">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Xin Wei Wang, PhD</td><td>Laboratory of Human Carcinogenesis, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Mathuros Ruchirawat, PhD</td><td>Chulabhorn Research Institute, Bangkok, Thailand</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>TIGER-LC OncoVar Sequencing</StudyNameEntrez>
+	<StudyNameReportPage>TIGER-LC OncoVar Sequencing</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Intrahepatic cholangiocarcinoma (ICC) and hepatocellular carcinoma (HCC) are clinically disparate primary liver cancers with etiological and biological heterogeneity. We performed targeted sequencing of Thai ICC and HCC among the Thailand Initiative in Genomics and Expression Research for Liver Cancer (TIGER-LC) cohort using the OncoVar platform.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Incident cases residing in Thailand of pathologically confirmed primary liver cancer were recruited with diagnosis of ICC or HCC within one year of recruitment between the ages of 20 and 80yrs. Patients below 20yrs or above 80yrs were excluded.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="28648284"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Carcinoma, Hepatocellular"/>
+		<Disease vocab_source="MESH" vocab_term="Cholangiocarcinoma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Xin Wei Wang, PhD</AttName>
+			<Institution>Laboratory of Human Carcinogenesis, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Mathuros Ruchirawat, PhD</AttName>
+			<Institution>Chulabhorn Research Institute, Bangkok, Thailand</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>We established the Thailand Initiative in Genomics and Expression Research for Liver Cancer (TIGER-LC) consortium to create a comprehensive biorepository with biospecimens linked to etiologies and clinical features from 6,000 patients with liver cancer and high risk and healthy individuals who reside in Thailand to identify genomic and etiological factors that modify liver cancer risk, susceptibility and progression</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001199.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001199.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001199.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

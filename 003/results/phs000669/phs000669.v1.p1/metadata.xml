@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000669.v1.p1" parentStudy="phs000669.v1.p1" createDate="2013-09-30" modDate="2016-05-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Julie R. Palmer</td><td>Slone Epidemiology Center at Boston University, MA, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>Christine B. Ambrosone</td><td>Department of Cancer Prevention and Control, Roswell Park Cancer Institute, Buffalo, NY, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>Andrew F. Olshan</td><td>Department of Epidemiology and Lineberger Comprehensive Cancer Center, University of North Carolina Chapel Hill, NC, USA</td></tr>
+		<tr><td>Funding Source</td><td>P01 CA151135</td><td>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>AMBER Consortium</StudyNameEntrez>
+	<StudyNameReportPage>The African American Breast Cancer Epidemiology and Risk (AMBER) Consortium Study</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The AMBER Consortium Study was formed to pool interview data, questionnaire data, and biological samples from epidemiological studies of breast cancer in African-American women to discover the potential causes of early-onset and aggressive breast cancer in African-American women. AMBER is funded through a Program Project grant from the National Cancer Institute. Genetic data submitted to dbGaP come from participants in the Carolina Breast Cancer Study, Women&#39;s Circle of Health Study, and Black Women&#39;s Health Study. The P01 consists of four scientific projects; the aims include follow-up on previous GWAS findings for breast cancer susceptibility in AA women as well as investigation of SNPs in candidate genes in biologically plausible pathways. These SNPs were genotyped using DNA from 3130 African-American women with breast cancer and 3700 controls. Descriptions of the original studies that provided the data and samples for this collaborative study are given below.</p> <p> <ol> <li><u>The Carolina Breast Cancer Study (CBCS):</u> a North Carolina population-based case-control study of breast cancer, conducted in three phases. The current study phase, phase 3 (years 2008-2014), includes women residents in 44 counties. CBCS phases 1 and 2 were conducted in 24 counties. Breast cancer cases are identified using Rapid Case Ascertainment in cooperation with the NC Central Cancer Registry. Controls were identified for phases 1 and 2 only (1993-1996 and 1996-2001), using Division of Motor Vehicles lists for women under age 65 and Health Care Financing Administration lists for women 65 and older. Randomized recruitment was used to oversample AA women and women under age 50. In-depth interviews are conducted by study nurses in participants&#39; homes to obtain information on potential risk factors for breast cancer. DNA samples have been obtained from most participants. Overall response rates for Phases 1 and 2 were 74% for AA cases and 54% for AA controls. Phase 3, conducted in 44 counties from 2008-2014, includes cases only. The response rate for AA cases in Phase 3 was 70.5%.</li> <li><u>The Women&#39;s Circle of Health Study (WCHS):</u> a multi-site case-control study in New York City (NYC) and New Jersey (NJ) aimed at evaluating risk factors for early and aggressive breast cancer in women of AA and EA ancestry. Recruitment in NYC took place between January 2002 and December 2008 and involved hospital-based ascertainment of cases, while controls were identified through random digit dialing (RDD). Recruitment at the NJ site started in March 2006 and is ongoing. Phase I of the study ended in April 2012 and covered seven counties in NJ. WCHS2 includes two additional counties. Cases in NJ were identified from 2006 to 2012 by the NJ State Cancer Registry using rapid case ascertainment. Controls were initially recruited though RDD (2006 to 2010) and later through community-based efforts (2009-2012). In-person interviews ascertained data on established and suspected risk factors for breast cancer. DNA samples were obtained. Among eligible AA women, 75% in NY and 54% in NJ completed an interview and provided a biologic specimen.</li> <li><u>Black Women&#39;s Health Study (BWHS):</u> an ongoing prospective cohort study of health and illness among U.S. black women, with a focus on cancer. The study began in 1995 when 59,000 AA women 21-69 years of age from across the United States completed a 14-page postal health questionnaire. The median age at entry was 38, and participants were residents of 17 states in mainland U.S.: Northeast, 28%; South, 30%; Midwest, 23%; West, 19%. The baseline questionnaire elicited information on a wide range of variables, including demographic factors, use of medical care, family history of breast cancer, reproductive and medical history, cigarette and alcohol use, weight, height, waist and hip circumference, medication use, diet, and exercise. Biennial follow-up questionnaires ascertain new cases of breast cancer and other illnesses and update covariate information. Medical record and cancer registry data are sought for all participants who report a diagnosis of breast cancer. As of 2014, approximately 80% of the baseline cohort have completed follow-up. DNA samples were obtained from about 50% of participants. BWHS data for the AMBER consortium were prepared as a nested case-control study, with controls frequency-matched to cases on year of birth, geographic region, and most recent questionnaire completed prior to the end of the at-risk period. </li> </ol> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion</b></p> <p><b>Cases:</b></p> <p>African American<br/> Women<br/> Age 22 and older<br/> Confirmed invasive breast cancer or ductal carcinoma <i>in situ</i></p> <p><b>Controls:</b></p> <p>African American<br/> Women<br/> Age 22 and older<br/></p> <p><b>Exclusion (Cases and Controls)</b></p> <p>No previous history of cancer other than non-melanoma skin cancer.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26743380"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="26577839"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="26650177"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="26458823"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Breast Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Julie R. Palmer</AttName>
+			<Institution>Slone Epidemiology Center at Boston University, MA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>Christine B. Ambrosone</AttName>
+			<Institution>Department of Cancer Prevention and Control, Roswell Park Cancer Institute, Buffalo, NY, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>Andrew F. Olshan</AttName>
+			<Institution>Department of Epidemiology and Lineberger Comprehensive Cancer Center, University of North Carolina Chapel Hill, NC, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>P01 CA151135</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="AMBER Consortium" url="http://www.theamberproject.org/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p> <ul> <li>2012 Pooling of questionnaire data, phase 1</li> <li>2013 Genotyping, phase 1</li> </ul> </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="2" shortName="DS-BRCA-COL-MDS-GSO" longName="Disease-Specific (Breast Cancer, COL, MDS, GSO)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000669.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000669.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000669.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Breast Cancer, COL, MDS, GSO)</ConsentName>
+        <ConsentAbbrev>DS-BRCA-COL-MDS-GSO</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Breast Cancer.
+Requestor must provide a letter of collaboration with the primary study investigator(s).
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Use of the data is limited to genetic studies only.
+The letter of collaboration for this study is an "AMBER CONSORTIUM DATA REQUEST FOR COLLABORATIVE ANALYSIS" form from Roswell Park Cancer Institute. A blank copy can be found at the end of the study&amp;#x2019;s Data Use Certification Agreement (see dbGaP study page). Requestor must provide this signed form documenting approval. Approval can be obtained by contacting christine.ambrosone@roswellpark.org.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

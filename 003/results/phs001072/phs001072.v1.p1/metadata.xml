@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001072.v1.p1" parentStudy="phs001072.v1.p1" createDate="2016-02-12" modDate="2016-10-05">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Adolfo Ferrando, MD, PhD</td><td>Columbia University, New York, NY, USA</td></tr>
+		<tr><td>Funding Source</td><td>Translational Research Program (TRP) award</td><td>Leukemia and Lymphoma Society, White Plains, NY, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genomic Analysis of Relapsed Pediatric Acute Lymphoblastic Leukemia</StudyNameEntrez>
+	<StudyNameReportPage>Mechanisms of Therapy Driven Clonal Evolution in Oncogenic RAS Mutant Relapsed Acute Lymphoblastic Leukemia</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Although multi-agent combination chemotherapy is curative in a significant fraction of childhood acute lymphoblastic leukemia (ALL) patients, 20% of cases relapse and most die due to chemo-refractory disease. Here we used whole-exome and whole-genome sequencing to analyze the mutational landscape and pattern of clonal evolution at relapse in pediatric ALL cases. These analyses showed that ALL relapses originate from a common ancestral precursor clone of the diagnosis and relapsed populations and frequently harbor mutations implicated in chemotherapy resistance. RAS-MAPK pathway activating mutations in NRAS, KRAS and PTPN11 were present in 24/55 (44%) cases in our series. Notably, while some cases showed emergence of RAS mutant clones at relapse, in others, RAS mutant clones present at diagnosis were replaced by RAS wild type populations. Mechanistically, functional dissection of mouse and human wild type Kras and mutant Kras (Kras G12D) isogenic leukemia cells demonstrated induction of methotrexate resistance, but also improved response to vincristine, in mutant Kras- expressing lymphoblasts. These results identify chemotherapy driven selection as a central mechanism of leukemia clonal evolution and pave the road for the development of tailored personalized therapies for the treatment of relapsed ALL. </p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27655895"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Leukemia, Lymphoid"/>
+		<Disease vocab_source="MESH" vocab_term="Lymphoblastic Leukemia, Acute, T-Cell"/>
+		<Disease vocab_source="MESH" vocab_term="Precursor B-Cell Lymphoblastic Leukemia"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Adolfo Ferrando, MD, PhD</AttName>
+			<Institution>Columbia University, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Translational Research Program (TRP) award</AttName>
+			<Institution>Leukemia and Lymphoma Society, White Plains, NY, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-CA-PUB-MDS-GSO" longName="Disease-Specific (Cancer, PUB, MDS, GSO)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

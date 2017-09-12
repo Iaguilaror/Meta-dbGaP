@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001111.v1.p1" parentStudy="phs001111.v1.p1" createDate="2016-04-22" modDate="2016-09-15">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Timothy Yeatman, MD</td><td>Gibbs Cancer Center and Research Institute, SC, USA</td></tr>
+		<tr><td>Funding Source</td><td>U01CA157960</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>A Prognostic Role of APC in Colorectal Cancers</StudyNameEntrez>
+	<StudyNameReportPage>A Multi-Gene Mutation Classification of 468 Colorectal Cancers Reveals a Prognostic Role for APC</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Colorectal cancer (CRC) is a highly heterogeneous disease, for which prognosis has been relegated to clinic-pathologic staging for decades. There is a need to molecularly stratify subpopulations of CRC to better predict outcome and assign therapies. Here we report targeted exome sequencing of 1,321 cancer-related genes on 468 tumor specimens, which identified a subset of 17 genes that best classify CRC, with APC (Gene ID: 324) playing a central role in predicting overall survival. APC may assume 0, 1, or 2 truncating mutations, each with a striking differential impact on survival. Tumors lacking any APC mutation carry a worse prognosis than single APC mutation tumors, but tumors with two APC mutations and KRAS (Gene ID: 3845) and TP53 (Gene ID: 7157) mutations confer the poorest survival among all the subgroups examined. Our study demonstrates a substantial prognostic role for APC and suggests that sequencing of APC may have clinical utility in the routine staging and potential therapeutic assignment for CRC.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion criteria: patients with colorectal cancer specimen subjected to targeted gene sequencing.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26446941"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25974029"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="27302369"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Colorectal Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Timothy Yeatman, MD</AttName>
+			<Institution>Gibbs Cancer Center and Research Institute, SC, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01CA157960</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001111.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001111.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001111.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

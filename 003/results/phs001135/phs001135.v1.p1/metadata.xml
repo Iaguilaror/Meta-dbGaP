@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001135.v1.p1" parentStudy="phs001135.v1.p1" createDate="2016-06-02" modDate="2017-01-09">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Wade H. Berrettini, MD, PhD</td><td>University of Pennsylvania</td></tr>
+		<tr><td>Funding Source</td><td>U10 DA13043</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Starting Treatment with Agonist Replacement Therapies (START)</StudyNameEntrez>
+	<StudyNameReportPage>Starting Treatment with Agonist Replacement Therapies (START): A Randomized Trial of Methadone vs Buprenorphine/Naloxone for the Treatment of Opioid Dependence</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Starting Treatment with Agonist Replacement Therapy (START) study was a 24-week, open-label, randomized trial of methadone <i>versus</i> Suboxone (buprenorphine/naloxone) for the treatment of opioid dependence. Patients were over the age of 18 and met DSM-IV qualifications for opioid dependence. The primary goal of the study was to determine if either medicine was associated with liver toxicity issues in this vulnerable patient population. Liver enzymes were measured at four time points. Urinalysis for opioids, cocaine, cannabis, benzodiazepines, and methamphetamine were performed on a weekly basis. A flexible dosing scheme was used during which physicians could alter medication dose based on withdrawal symptoms and urinalysis results. Neither medication was found to be associated with liver enzyme levels.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Individuals were <i>included</i> if they met DSM-IV-TR criteria for opioid dependence and were at least 18 years of age. Individuals were <i>excluded</i> from the trial for any of the following reasons: cardiomyopathy, liver disease, acute psychosis, blood levels of alanine amino transferase or aspartate amino transferase greater than five times the maximum normal level, or poor venous access.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="22921476"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23612435"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23739025"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23961726"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24126707"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24751432"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25364994"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="26599131"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Opioid-Related Disorders"/>
+		<Disease vocab_source="MESH" vocab_term="Substance-Related Disorders"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Wade H. Berrettini, MD, PhD</AttName>
+			<Institution>University of Pennsylvania</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U10 DA13043</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>The Smokescreen&#174; Genotyping Array by BioRealm&#174; was created with support of a NIDA SBIR contract. The chip consists of an Affymetrix backbone with over 800,000 SNPs. The chip covers 98% of common genetic variation in 1000 nominated addiction genes. The chip contains 296,000 markers from African, East Asian, and European populations giving 66% coverage for people of African Ancestry, 82% for people of East Asian Ancestry, and 91 % for people of European ancestry. In addition, 20,000 markers from expert nominations for genes posited to be associated with substance abuse and co-morbid disorders are also included on the chip. In addition, included in the array are more than 11,000 markers in the nicotine acetylcholine receptor gene clusters and nicotine metabolizing genes. There are greater than 16,000 markers for related co-morbidities and diseases. The samples will be released separately by contributing investigators, with ultimately a total of approximately 50,000 targeted. </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="2" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIDA</DacName>
+      <DacFullName>NIDA</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001135.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001135.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001135.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+For Scientific Research Only</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd007084.1" type="protocol" createDate="2017-01-09" modDate="2017-01-09" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007084.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001135.v1.p1&amp;phd=7084">
+      <OrigName>Smokescreen_NIDA_Axiom_Project_SummaryApril2016.docx</OrigName>
+      <DisplayName>SmokeScreen NIDA Axiom Project</DisplayName>
+      <Description>SmokeScreen NIDA Axiom Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd007084.1" sectionId="sec1.1">
+      <phvList>
+        <phvRef variableId="273580"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

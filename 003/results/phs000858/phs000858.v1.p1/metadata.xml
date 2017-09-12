@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000858.v1.p1" parentStudy="phs000858.v1.p1" createDate="2015-01-14" modDate="2015-01-14">
+
+<Configuration>
+	<StudyNameEntrez>Whole Genome Sequencing and Haplotyping of Blastocyst Biopsies</StudyNameEntrez>
+	<StudyNameReportPage>Detection and phasing of single base de novo mutations in biopsies from human in vitro fertilized embryos by advanced whole-genome sequencing</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Parent-Offspring Trios</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Current methods available for pre-implantation genetic diagnosis (PGD) of <i>in vitro</i> fertilized (IVF) embryos do not detect <i>de novo</i>. Detection of these types of mutations requires whole genome sequencing (WGS). In this study advanced massively parallel WGS was performed on three 5-10 cell biopsies from two blastocyst-stage embryos. Overall, greater than 95% of each genome was called and experimentally derived haplotypes and barcoded read data were used to detect and phase up to 82% of <i>de novo</i> single base mutations with a false positive rate of ~1 error per Gb. These results suggest that phased WGS using barcoded DNA could be used in the future as part of the PGD process to maximize comprehensiveness in detecting disease causing mutations and reduce the incidence of genetic diseases.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Journal authors="Peters BA, Kermani BG, Alferov O, Agarwal MR, McElwain MA, Gulbahce N, Hayden DM, Tang YT, Zhang RY, Tearle R, Crain B, Prates R, Berkeley A, Munne S, and Drmanac R" title="Detection and phasing of single base de novo mutations in biopsies from human in vitro fertilized embryos by advanced whole-genome sequencing" journal="Genome Research, 2015. In Print."/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Fertilization in Vitro"/>
+		<Disease vocab_source="MESH" vocab_term="Mutation"/>
+	</Diseases>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="2" shortName="HMB-IRB" longName="Health/Medical/Biomedical (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000858.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000858.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000858.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Health/Medical/Biomedical (IRB)</ConsentName>
+        <ConsentAbbrev>HMB-IRB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

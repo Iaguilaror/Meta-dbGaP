@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001157.v1.p1" parentStudy="phs001157.v1.p1" createDate="2016-06-21" modDate="2017-04-11">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Pamela Herd, PhD</td><td>University of Wisconsin - Madison,  Madison, WI, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01AG041868       A Longitudinal Resource for Genetic Research in Behavioral and Health Sciences</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Wisconsin Longitudinal Study on Aging</StudyNameEntrez>
+	<StudyNameReportPage>Wisconsin Longitudinal Study on Aging</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal Cohort</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Wisconsin Longitudinal Study (WLS) is a long-term study of a random sample of men and women, who graduated from Wisconsin high schools in 1957, and their siblings. The WLS panel started out with a panel of 10,317 members from the class of 1957. Over time a second panel of 8,734 randomly selected siblings of the original graduate panel were recruited for the study. Of these combined panel members, 9,027 survived and contributed saliva for genetic analysis. Survey data were collected from the original respondents or their parents in 1957, 1964, 1975, 1992, 2004, and 2011, and from a selected sibling in 1977, 1994, 2005, and 2011. WLS data provide a detailed record of educational, social, psychological, economic, mental and physical health characteristics of a relatively homogeneous population that is almost entirely of Northern and Western European ancestry. Saliva was first collected in 2007-2008 by mail. Additional samples were collected in the course of home interviews that began in March 2010. </p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="24585852"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22761283"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21743056"/>
+		</Publication>
+	</Publications>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Pamela Herd, PhD</AttName>
+			<Institution>University of Wisconsin - Madison,  Madison, WI, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01AG041868       A Longitudinal Resource for Genetic Research in Behavioral and Health Sciences</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Wisconsin Longitudinal Study" url="http://www.ssc.wisc.edu/wlsresearch/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>The WLS cohort of men and women, born primarily in 1939, precedes by about a decade the bulk of the baby boom generation, which continues to tax social institutions and resources at each stage of life. The WLS is the first of the large longitudinal studies of American adolescents, and thus it provides the first large-scale opportunity to study the life course from late adolescence through the early 70s, in the context of a complete record of ability, aspiration, and achievement.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

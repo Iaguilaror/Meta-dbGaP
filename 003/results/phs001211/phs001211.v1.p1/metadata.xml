@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001211.v1.p1" parentStudy="phs001211.v1.p1" createDate="2016-09-12" modDate="2017-05-04">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Eric Boerwinkle, PhD</td><td>Human Genetics Center, University of Texas Health Science Center at Houston, Houston, TX, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>Patrick T. Ellinor, MD, PhD</td><td>Massachusetts General Hospital, Boston, MA, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01HL092577</td><td>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01HL092577S1</td><td>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: Trans-Omics for Precision Medicine Whole Genome Sequencing Project: ARIC</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: Trans-Omics for Precision Medicine (TOPMed) Whole Genome Sequencing Project: ARIC</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p> Participants from the Atherosclerosis Risk in Communities (ARIC) Study, a large population-based longitudinal cohort study, have been included in this Project and whole genome sequencing will be performed to contribute to analyses of early-onset atrial fibrillation and venous thromboembolism. Additional phenotype and genotype data are available for these individuals on dbGaP and can be accessed through the parent ARIC Cohort accession (phs000280.v3.p1). The National Heart, Lung and Blood Institute (NHLBI) Trans-Omics for Precision Medicine (TOPMed) program is designed to generate scientific resources to enhance understanding of fundamental biological processes that underlie heart, lung, blood and sleep disorders (HLBS). It is part of a broader Precision Medicine Initiative, which aims to provide disease treatments that are tailored to an individual&#39;s unique genes and environment. TOPMed will contribute to this initiative through the integration of whole genome sequencing (WGS) and other -omics (e.g., metabolic profiles, protein and RNA expression patterns) data with molecular, behavioral, imaging, environmental, and clinical data. In doing so this program seeks to uncover factors that increase or decrease the risk of disease, identify subtypes of disease, and develop more targeted and personalized treatments. The Whole Genome Sequencing (WGS) Project is part of NHLBI&#39;s TOPMed program and serves as an initial step for the larger initiative.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>The inclusion criteria for selection of ARIC study participants for the TOPMed Whole Genome Sequencing Project were full consent or consent for cardiovascular disease-specific research, sufficient DNA for sequencing, and unrestricted use of DNA. Inclusion and exclusion criteria for the individual phenotypes assessed in this study are described below:</p> <p>A. Venous Thromboembolism project (VTE)</p> <p>VTE includes both deep vein thrombosis (DVT) in which a blood clot forms in a vein deep in the body, and pulmonary embolism (PE) where a blood clot travels to the lungs and blocks blood flow. Two hundred ninety-nine (299) VTE cases and 3,638 members of the comparison group were chosen for sequencing from the ARIC study. The objectively diagnosed DVT and PE cases were confirmed by venous or pulmonary imaging, pathology examination of the thrombus removed at surgery, or by autopsy.</p> <p>B. Identification of Common Genetic Variants for Atrial Fibrillation and PR Interval - Atrial Fibrillation Genetics Consortium (AF Gen)</p> <p>Eighty-four (84) individuals with early-onset atrial fibrillation were selected for sequencing.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="2646917"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23650146"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25772935"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19597492"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22544366"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24239840"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Thromboembolism"/>
+		<Disease vocab_source="MESH" vocab_term="Venous Thromboembolism"/>
+		<Disease vocab_source="MESH" vocab_term="Arrhythmias, Cardiac"/>
+		<Disease vocab_source="MESH" vocab_term="Atrial Fibrillation"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Eric Boerwinkle, PhD</AttName>
+			<Institution>Human Genetics Center, University of Texas Health Science Center at Houston, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>Patrick T. Ellinor, MD, PhD</AttName>
+			<Institution>Massachusetts General Hospital, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01HL092577</AttName>
+			<Institution>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01HL092577S1</AttName>
+			<Institution>National Heart, Lung, and Blood Institute, NIH, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>The Atherosclerosis Risk in Communities (ARIC) Study is described below:</p> <p>The ARIC study is a prospective longitudinal investigation of the development of atherosclerosis and its clinical sequelae in which 15,792 individuals aged 45 to 64 years were enrolled at baseline. At the inception of the study in 1986-1989, the participants were selected by probability sampling from four communities in the United States: Forsyth County, North Carolina; Jackson, Mississippi (African-Americans only); the northwestern suburbs of Minneapolis, Minnesota; and Washington County, Maryland. Four examinations have been carried out at three-year intervals (exam 1, 1987-1989; exam 2, 1990-1992; exam 3, 1993-1995; exam 4, 1996-1998), and subjects are contacted annually to update their medical histories between examinations. A second component of the study involves community surveillance of morbidity and mortality by abstracting hospital records and death certificates and investigating deaths that take place outside of hospitals.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB" longName="Health/Medical/Biomedical (IRB)"/>
+		<ConsentGroup groupNum="2" shortName="DS-CVD-IRB" longName="Disease-Specific (Cardiovascular Disease, IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001211.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001211.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001211.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical (IRB)</ConsentName>
+        <ConsentAbbrev>HMB-IRB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the ARIC Study data deposited in dbGaP is restricted to research on associations between phenotypes and genotypes. ARIC data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity, non-paternity, and perceptions of racial/ethnic identity. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). Two consent groups are available for the ARIC Study: health/medical/biomedical research and cardiovascular disease research only. 
+This Data Use Certification will be reviewed and approved by the NHLBI Data Access Committee. The NHLBI will keep all Data Use Certifications, and all approved studies utilizing ARIC dbGaP data will be listed on the dbGaP website. Annual updates regarding publications, etc. will be provided by the NHLBI to the ARIC study when and if necessary.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Cardiovascular Disease, IRB)</ConsentName>
+        <ConsentAbbrev>DS-CVD-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cardiovascular Disease.
+Requestor must provide documentation of local IRB approval.
+Use of the ARIC Study data deposited in dbGaP is restricted to research on associations between phenotypes and genotypes. ARIC data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity, non-paternity, and perceptions of racial/ethnic identity. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). Two consent groups are available for the ARIC Study: health/medical/biomedical research and cardiovascular disease research only. 
+This Data Use Certification will be reviewed and approved by the NHLBI Data Access Committee. The NHLBI will keep all Data Use Certifications, and all approved studies utilizing ARIC dbGaP data will be listed on the dbGaP website. Annual updates regarding publications, etc. will be provided by the NHLBI to the ARIC study when and if necessary.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area (IRB)</ConsentName>
+        <ConsentAbbrev>EA-IRB</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only.  There are two consent groups for this study: HMB-IRB and DS-CVD-IRB
+1) for HMB-IRB:
+Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the ARIC Study data deposited in dbGaP is restricted to research on associations between phenotypes and genotypes. ARIC data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity, non-paternity, and perceptions of racial/ethnic identity. Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted). Two consent groups are available for the ARIC Study: health/medical/biomedical research and cardiovascular disease research only. 
+This Data Use Certification will be reviewed and approved by the NHLBI Data Access Committee. The NHLBI will keep all Data Use Certifications, and all approved studies utilizing ARIC dbGaP data will be listed on the dbGaP website. Annual updates regarding publications, etc. will be provided by the NHLBI to the ARIC study when and if necessary. 
+2) for DS-CVD-IRB:
+Use of the data must be related to Cardiovascular Disease.
+Requestor must provide documentation of local IRB approval.
+Use of the ARIC Study data deposited in dbGaP is restricted to research on associations between phenotypes and genotypes. ARIC data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006969.2" type="protocol" createDate="2017-04-03" modDate="2017-05-04" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.2" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001211.v1.p1&amp;phd=6969">
+      <OrigName>TOPMed_for_dbGaP_April2016_v5_final.docx</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

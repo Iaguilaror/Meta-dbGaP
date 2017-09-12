@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000852.v1.p1" parentStudy="phs000852.v1.p1" createDate="2015-01-05" modDate="2017-07-31">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>E. Jane Costello, PhD</td><td>Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine, Durham, NC, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>GEDI: A Developmental Model of Gene-Environment Interplay in SUDs</StudyNameEntrez>
+	<StudyNameReportPage>GEDI: A Developmental Model of Gene-Environment Interplay in SUDs: Combined Genotype Dataset from the &quot;Great Smoky Mountains Study&quot; and the &quot;Caring for Children in the Community Study&quot;.</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+		<StudyType>Family</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>1. Great Smoky Mountains Study (GSMS; Costello et al. 1996, 1997)</p> <p>Three cohorts of boys and girls, aged 9, 11, and 13 years at intake in 1993, were selected from a rural population of some 20,000 children using a household equal probability design. A two-phase procedure was used for White and African-American youth to increase power by oversampling children at risk for psychiatric and SUDs. Parents (usually mothers) of the first stage random population sample completed a questionnaire about their child&#39;s behavioral problems.</p> <p>Of 4,195 subjects selected, 95% (N=3,896) of parents completed the screen. All children scoring above a predetermined threshold (the top 25% of the total scores), plus a 10% random sample of the remaining 75%, were recruited for detailed interviews. Results can be back-weighted to population levels for analyses. Half of the sample consists of females, and 6% are African Americans, reflecting the population of the study area. The interviewed sample of white and African-American subjects was 1,070 (80% of those recruited). American Indian youth were oversampled (100%) because they are an understudied group known to be at high risk for stressful events, substance disorders, and mood disorders. Of 431 age-eligible children, 350 (81% boys, 49% girls) participated. Thus, the size of total GSMS sample is 1,070 + 350 = 1,420. Data collection is complete for ages 9-26, and age 30 interviews are in progress. By age 26 a total of 9,858 interviews had been completed; the average number of interviews per subject was seven, and by age 26, 97.3% completed two or more interviews.</p> <p>2. The Caring for Children in the Community Study (CCC; Angold et al., 2002)</p> <p>This representative study of psychiatric illness and service use in African-American and White youth took place in four rural counties in the southeastern USA. The two-stage sampling design and methods are similar to those used in the GSMS. Of 4,500 youth randomly selected from the 17,117 9- to 17-year-olds in the public school&#39;s database, 3,613 (80.0%) were successfully contacted and agreed to complete the behavioral screen. Of the 1,302 selected to participate in the study, 920 (70.7%) interviews were completed. Because CCC was also the only study in GEDI to contain more than a very few African-American participants, these were omitted from the multi-site analyses. </p> <p>Reprinted with permission from Cambridge University Press from Costello et al., 2013: <a href="http://www.ncbi.nlm.nih.gov/pubmed/23461817">PMID: 23461817</a></p> <p>References:</p> <p>Costello et al., 1996: <a href="http://www.ncbi.nlm.nih.gov/pubmed/8956679">PMID: 8956679</a></p> <p>Costello et al., 1997: <a href="http://www.ncbi.nlm.nih.gov/pubmed/9184514">PMID: 9184514</a></p> <p>Angold et al., 2002: <a href="http://www.ncbi.nlm.nih.gov/pubmed/12365876">PMID: 12365876</a></p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>In each of the samples, single nucleotide polymorphisms (SNPs) with missing rate &#62; 0.01, minor allele frequency (MAF) &#60; 0.05, or extreme deviation (p &#60; 1-6) from the Hardy-Weinberg equilibrium (HWE) were removed from further analysis. Subjects with missing rate &#62; 0.01 or unusual genome-wide homozygosity (|normalized homozygosity rate| &#62; 5) were excluded.</p> <p>Reprinted with permission from Cambridge University Press from Costello et al., 2013: <a href="http://www.ncbi.nlm.nih.gov/pubmed/23461817">PMID: 23461817</a>.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26081443"/>
+		</Publication>
+		<Publication>
+			<Journal authors="William Copeland, Nisha C. Gottfredson, Daniel E. Adkins, Adrian Angold,  Shaunna L. Clark, Alaattin Erkanli, Joseph L. McClay, Youfang Liu, Ashwin A. Patkar, Judy Silberg, Lindon Eaves, Martin Kennedy, David Fergusson, John Horwood, Patrick Sullivan, Hermine H. Maes, Edwin van den Oord, E. J. Costello" title="Stressful Life Events and Alcohol Use: A longitudinal GxE GWAS of Early Alcohol Use and Stressful Life Events" journal="In Review"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23461817"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20478880"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20345843"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20551161"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21090876"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20132418"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20970702"/>
+		</Publication>
+		<Publication>
+			<Journal authors="Costello EJ" title="Family Income Supplements and Development of Psychiatric and Substance Use Disorders Among an American Indian Population-Reply." journal="JAMA: The Journal of the American Medical Association, 304: 963."/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21334565"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21815892"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21557889"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22153225"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22047718"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22525957"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22716910"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23377638"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23461817"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23426798"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24707346"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23451804"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23644822"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23959952"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23711900"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23880493"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24099969"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24204349"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23919906"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24342383"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24781389"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24821813"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24745954"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Substance-Related Disorders"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>E. Jane Costello, PhD</AttName>
+			<Institution>Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine, Durham, NC, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="GSMS" url="https://devepi.duhs.duke.edu/gsms.html"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p><b>Table 1</b>: Great Smoky Mountains Study: Data collection by cohort and year.</p> <p> <table border="1"> <tr> <th>Cohort</th> <th>Age</th> <th>93</th> <th>94</th> <th>95</th> <th>96</th> <th>97</th> <th>98</th> <th>99</th> <th>00</th> <th>01</th> <th>02</th> <th>03</th> <th>04</th> <th>05</th> <th>06</th> <th>07</th> <th>08</th> <th>09</th> <th>10</th> </tr> <tr> <td>A (N=508)</td> <td>9</td> <td>A1</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td></td> <td>10</td> <td></td> <td>A2</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td>B (N=497)</td> <td>11</td> <td>B1</td> <td></td> <td>A3</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td></td> <td>12</td> <td></td> <td>B2</td> <td></td> <td>A4</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td>C (N=415)</td> <td>13</td> <td>C1</td> <td></td> <td>B3</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td></td> <td>14</td> <td></td> <td>C1</td> <td></td> <td>B4</td> <td></td> <td>A5</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td></td> <td>15</td> <td></td> <td></td> <td>C3</td> <td></td> <td>B5</td> <td></td> <td>A6</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td></td> <td>16</td> <td></td> <td></td> <td></td> <td>C4</td> <td></td> <td>B6</td> <td></td> <td>A7</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td></td> <td>19</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td>C5</td> <td></td> <td>B7</td> <td></td> <td>A8</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td></td> <td>21</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td>C6</td> <td></td> <td>B8</td> <td></td> <td>A9</td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr> <tr> <td></td> <td>26</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td>C7</td> <td>C7</td> <td>B9</td> <td>B9</td> <td>A10</td> </tr> <tr> <td>% comp</td> <td></td> <td>94</td> <td>91</td> <td>87</td> <td>78</td> <td>80</td> <td>81</td> <td>74</td> <td>81</td> <td>81</td> <td></td> <td>80</td> <td></td> <td>76</td> <td>80</td> <td>80</td> <td>84</td> <td>84</td> <td>80</td> </tr> </table> </p> <p>Assessment Schedule</p> <p>Annual assessments were completed with the child and the primary caregiver until age 16 and then with the participant again at ages 19, 21, 24-26, and 30. An average of 83% of possible interviews were completed overall (range: 75% to 94%). Before interviews, participants signed informed consent forms approved by the Duke University Medical Center Institutional Review Board. The assessment table is provided above. </p> <p> Publications (through 2014) </p> <p>The Great Smoky Mountains Study has been the subject of hundreds of publications and presentations by GSMS investigators. This page provides citations for all GSMS-related peer reviewed publications. All articles since 2008/9 can be linked to an online version at <a href="http://www.ncbi.nlm.nih.gov/pmc/">http://www.ncbi.nlm.nih.gov/pmc</a>.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-ADMH-IRB-GSO-RD" longName="Disease-Specific (Addiction and Mental Health, IRB, GSO, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIDA</DacName>
+      <DacFullName>NIDA</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000852.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000852.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000852.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Addiction and Mental Health, IRB, GSO, RD)</ConsentName>
+        <ConsentAbbrev>DS-ADMH-IRB-GSO-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Addiction and Mental Health and related disorders.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to genetic studies only.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

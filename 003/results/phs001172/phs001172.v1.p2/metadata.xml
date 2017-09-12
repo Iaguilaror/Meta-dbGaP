@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001172.v1.p2" parentStudy="phs001172.v1.p2" createDate="2016-07-20" modDate="2016-11-14">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Andrew Singleton, PhD</td><td>National Institute of Aging, National Institute of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Former Principal Investigator</td><td>John Hardy, PhD, FMedSci</td><td>National Institute of Aging, National Institute of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NINDS Parkinson&#39;s Disease</StudyNameEntrez>
+	<StudyNameReportPage>National Institute of Neurological Disorders and Stroke (NINDS) Parkinson&#39;s Disease</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>This study utilized the well characterized collection of North American Caucasians with Parkinson&#39;s disease, and neurologically normal controls from the sample population which are banked in the National Institute of Neurological Disorders and Stroke (NINDS Repository) collection. Two sub-studies are included, in sub-study &#22;NINDS-Genome-Wide Genotyping in Parkinson&#39;s Disease&#22;, genome-wide, single nucleotide polymorphism (SNP) genotyping of these publicly available samples was originally done in 267 Parkinson&#39;s disease patients and 270 controls, and this has been extended to include genome wide genotyping in 939 Parkinson&#39;s disease cases and 802 controls; in sub-study &#22;NINDS-Exome Sequencing in Parkinson&#39;s Disease&#22;, genome wide exome DNA sequencing was done in 618 Parkinson&#39;s disease samples deposited in Coriell NINDS repository. The DNA comes from a mixture of blood, and from cell lines (lymphoblast cell lines) derived from blood. The GWAS data and exome sequencing data was generated and provided by the laboratory of Neurogenetics lead by Dr. Andrew Singleton, NIA, and Dr. John Hardy, a former chief at NIA, NIH.</p> <p><b>The NINDS Parkinson&#39;s Disease Cohort study is utilized in the following dbGaP individual studies.</b> To view genotypes, whole exome sequencing, and derived variables collected in these individual studies, please click on the following individual studies below or in the "Sub-studies" box located on the right hand side of this top-level study page <a href="study.cgi?study_id=phs001172">phs001172</a> NINDS Parkinson&#39;s Disease Cohort study. <ul> <li><a href="study.cgi?study_id=phs000089">phs000089</a> PD GWAS</li> <li><a href="study.cgi?study_id=phs001103">phs001103</a> PD Exome</li> </ul> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>In order to be included in the Parkinson&#39;s disease collection, all cases are evaluated by a neurologist. Each participant is evaluated for Parkinson&#39;s disease, and meets either the Gelb criteria or the UK Brain Bank Criteria (both below). Disease onset is defined as the time when symptoms of the disease were first noted, including at least one of the following: resting tremor, rigidity, bradykinesia, gait disorder, and postural instability.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Parkinson Disease"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Andrew Singleton, PhD</AttName>
+			<Institution>National Institute of Aging, National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Former Principal Investigator">
+			<AttName>John Hardy, PhD, FMedSci</AttName>
+			<Institution>National Institute of Aging, National Institute of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="NINDS Parkinson&#39;s Disease Information Page" url="http://www.ninds.nih.gov/disorders/parkinsons_disease/parkinsons_disease.htm"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NINDS</DacName>
+      <DacFullName>National Institute of Neurological Disorders and Stroke</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001172.v1.p2_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001172.v1.p2
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001172.v1.p2" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

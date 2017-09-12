@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001253.v1.p1" parentStudy="phs001253.v1.p1" createDate="2016-11-22" modDate="2017-02-23">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>David W. Haas, MD</td><td>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Paul Leger, MD</td><td>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Sanika Chirwa, PhD</td><td>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Megan Turner, MS</td><td>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Danielle M. Richardson, MS</td><td>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Pharmacogenetics of Efavirenz Discontinuation for Reported CNS Symptoms</StudyNameEntrez>
+	<StudyNameReportPage>Pharmacogenetics of Efavirenz Discontinuation for Reported Central Nervous System Symptoms Appears to Differ by Race</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>This is an evaluation of genetic associations with efavirenz (EFV) discontinuation for central nervous system (CNS) symptoms within 12 months of treatment. Patients were treated at an HIV primary care clinic in Nashville TN from 1998 to 2012. Previously known SNPs in <a href="https://www.ncbi.nlm.nih.gov/gene/1555"><i>CYP2B6</i></a> and <a href="https://www.ncbi.nlm.nih.gov/gene/1548"><i>CYP2A6</i></a> were used to define metabolizer genotypes (extensive, intermediate, slow metabolizer). Over 500,000 SNPs from genome-wide genotyping were used to define MDS (Multidimensional Scaling) coordinates to account for population stratification. Patients were defined as <b>cases</b> if they discontinued EFV for CNS symptoms within 12 months, otherwise they were defined as <b>controls</b> if they did not stop treatment. </p> <p>Among 563 evaluable participants, the hazard ratio for EFV discontinuation for CNS symptoms was 4.9 (95% C.I. 1.9 TO 12.4, p=0.001) in slow metabolizers compared to extensive metabolizers. This association was very significant in Whites 6.5 (95% CI: 2.3 to 18.8; p = 0.001), but not in Blacks 2.6 (95% C.I. 0.5 to 14.1; p = 0.27). The reason for this difference by race is not clear and warrants further investigation. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p> <b>Inclusion Criteria</b> <ol> <li>HIV-infected patients</li> <li>ART na&#207;ve patients who Initiated EFV-containing ART regimens during clinical care at Vanderbilt Comprehensive Care Center in Nashville, TN from 1998 to 2012.</li> <li>Patients who had at least one follow-up visit after ART initiation visit.</li> <li>Patients who provided written informed consent for genetic testing through the CFAR Data and Specimen Repository.</li> <li>Patients who had genotype data in <i>CYP2B6</i>, <i>CYP2A6</i> and whole genome exome data. </li> </ol></p> <p> <b>Exclusion Criteria</b> <ol> <li>Initiated the EFV-containing regimen during participation in an ACTG clinical trial.</li> </ol></p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27509478"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21288825"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23080225"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20662624"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24729586"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Central Nervous System Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Dizziness"/>
+		<Disease vocab_source="MESH" vocab_term="Insomnia"/>
+		<Disease vocab_source="MESH" vocab_term="Hallucinations"/>
+		<Disease vocab_source="MESH" vocab_term="Headache"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>David W. Haas, MD</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Paul Leger, MD</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Sanika Chirwa, PhD</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Megan Turner, MS</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Danielle M. Richardson, MS</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Paxton Baker, MS</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Michael Leonard, BS</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Husamettin Erdem, MD</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Lana Olson, MS</AttName>
+			<Institution>Vanderbilt University School of Medicine, Nashville, Tennessee, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>P30 AI110527</AttName>
+			<Institution>National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01 AI077505</AttName>
+			<Institution>National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>UL1 000445</AttName>
+			<Institution>National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>This study started in 2012 and was completed in 2016 with the publication in "<i>Pharmacogenetics and Genomics</i>" of the paper "Pharmacogenetics of efavirenz discontinuation for reported central Nervous system symptoms appears to differ by race". Phenotype data was extracted from de-identified electronic medical record from the Vanderbilt Comprehensive Care Center in Nashville, TN. Treatment discontinuation events were reviewed separately by study investigators (Paul Leger and David Haas) and then were adjudicated to decide on causes of efavirenz discontinuation without knowledge of metabolizer status. Genome-wide exome genotype was obtained on stored DNA samples of patients who provided informed consent for genetic studies. Over 500,000 SNPs were generated using Illumina HumanCore Exome at Vanderbilt and were used to generate Multidimensional Scaling (MDS) coordinates to account for population stratification. Furthermore, genetic variations in <i>CYP2B6</i> and <i>CYP2A6</i> were genotyped using custom-designed MassARRAY iPlex Gold assay by Sequenom Inc. and TaqMan assay at the Vanderbilt Technologies for Advanced Genomics (VANTAGE). Three SNPs in <i>CYP2B6</i> (rs28399499, rs3745274, rs4803419) and 1 SNP in <i>CYP2A6</i> (rs28399433) were used to define metabolizer status according to previously published data from our group.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-HIV-IRB" longName="Disease-Specific (Human Immunodeficiency Virus, IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIAID</DacName>
+      <DacFullName>NIAID DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001253.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001253.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001253.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Human Immunodeficiency Virus, IRB)</ConsentName>
+        <ConsentAbbrev>DS-HIV-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Human Immunodeficiency Virus.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001110.v1.p1" parentStudy="phs001110.v1.p1" createDate="2016-04-18" modDate="2017-05-23">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Wendy Chung, MD, PhD</td><td>Columbia University Medical Center, New York, NY, USA</td></tr>
+		<tr><td>Co-Principal Investigator</td><td>Yufeng Shen, PhD</td><td>Columbia University Medical Center, New York, NY, USA</td></tr>
+		<tr><td>Funding Sources</td><td>X01 HL132366</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Sources</td><td>R01 HD057036</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Kids First: Pediatric Research Project on the Genomic Analysis of Congenital Diaphragmatic Hernia</StudyNameEntrez>
+	<StudyNameReportPage>Kids First: Pediatric Research Project on the Genomic Analysis of Congenital Diaphragmatic Hernia</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Parent-Offspring Trios</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Gabriella Miller Kids First Pediatric Research Program (<a href="https://www.commonfund.nih.gov/KidsFirst" target="_blank">Gabriella Miller Kids First Pediatric Research Program</a>) (Kids First) is a trans-NIH effort initiated in response to the <a href="https://www.govtrack.us/congress/bills/113/hr2019" target="_blank">2014 Gabriella Miller Kids First Research Act</a> and supported by the NIH Common Fund. This program focuses on gene discovery in pediatric cancers and structural birth defects and the development of the Gabriella Miller Kids First Pediatric Data Resource (Kids First Data Resource). Both, childhood cancers and structural birth defects are critical and costly conditions associated with substantial morbidity and mortality. Elucidating the underlying genetic etiology of these diseases has the potential to profoundly improve preventative measures, diagnostics, and therapeutic interventions.</p> <p>Clinical and genetic sequence data obtained through Kids First funding is available through dbGaP and will be accessible through the Kids First Data Resource. The Kids First Data Resource, being developed during fiscal year 2017, will catalog and curate genomic and phenotypic data from a wide range of childhood cancers and structural birth defects conditions and serve as a central portal where data and analysis tools will be readily accessible to promote comprehensive and cross-cutting research and collaboration.</p> <p>For the current study, probands with congenital diaphragmatic hernia/defects and both biological parents enrolled as part of the DHREAMS study.</p> <p><b>Studies of the Gabriella Miller Kids First Pediatric Research Program Available through dbGaP</b></p> <p> <table border="1"> <tr> <th><b>dbGaP Study Title</b></th> <th><b>PI(s)</b></th> <th><b>Primary Disease</b></th> <th><b>dbGaP Study Accession</b></th> </tr> <tr> <td>Kids First: Pediatric Research Project on the Genomic Analysis of Congenital Diaphragmatic Hernia</td> <td>CHUNG, WENDY K (contact); SHEN, YUFENG </td> <td>Congenital Diaphragmatic Hernia</td> <td><a href="study.cgi?study_id=phs001110">phs001110</a></td> </tr> <tr> <td>National Heart, Lung, and Blood Institute (NHLBI) Bench to Bassinet Program: The Gabriella Miller Kids First Pediatric Research Program of the Pediatric Cardiac Genetics Consortium (PCGC)</td> <td>SEIDMAN, CHRISTINE E.</td> <td>Congenital Heart Defects</td> <td><a href="study.cgi?study_id=phs001138">phs001138</a></td> </tr> <tr> <td>Kids First: Genomic Studies of Orofacial Cleft Birth Defects</td> <td>MARAZITA, MARY L (contact); FEINGOLD, ELEANOR </td> <td>Orofacial Cleft Birth Defects</td> <td><a href="study.cgi?study_id=phs001168">phs001168</a></td> </tr> <tr> <td>Kids First Pediatric Research Program in Cranial Dysinnervation Disorders </td> <td>ENGLE, ELIZABETH C.</td> <td>Cranial Dysinnervation Disorders</td> <td><a href="study.cgi?study_id=phs001247">phs001247</a></td> </tr> <tr> <td>Disorders/Differences of Sex Development (DSD) study performed at UCLA in collaboration with the DSD-Translational Research Network (DSD-TRN), with the support of the Gabriella Miller Kids First Pediatric Research Program.</td> <td>VILAIN, ERIC J.</td> <td>Disorders of Sex Development </td> <td><a href="study.cgi?study_id=phs001178">phs001178</a></td> </tr> <tr> <td>Kids First Pediatric Research Program in Susceptibility to Ewing Sarcoma Based on Germline Risk and Familial History of Cancer</td> <td>SCHIFFMAN, JOSHUA DAVID (contact); SPECTOR, LOGAN G. </td> <td>Ewing Sarcoma </td> <td><a href="study.cgi?study_id=phs001228">phs001228</a></td> </tr> <tr> <td>Kids First: An Integrated Clinical and Genomic Analysis of Treatment Failure in Pediatric Osteosarcoma</td> <td>ONEL, KENAN </td> <td>Pediatric Osteosarcoma</td> <td>phs000tbd</td> </tr> </table> </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Probands with congenital diaphragmatic hernia/defects and both biological parents enrolled as part of the DHREAMS study.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26034137"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24385578"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24094947"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23138528"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23375362"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="23054247"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Hernias, Diaphragmatic, Congenital"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Wendy Chung, MD, PhD</AttName>
+			<Institution>Columbia University Medical Center, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Co-Principal Investigator">
+			<AttName>Yufeng Shen, PhD</AttName>
+			<Institution>Columbia University Medical Center, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>X01 HL132366</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>R01 HD057036</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="DHREAMS" url="http://www.cdhgenetics.com/"/>
+		<Url name="Kids First" url="https://commonfund.nih.gov/kidsfirst/overview"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>All participants were enrolled through the DHREAMS study.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-CDH-COL-GSO-RD" longName="Disease-Specific (Congenital Diaphragmatic Hernia, COL, GSO, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NICHD</DacName>
+      <DacFullName>NICHD-DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001110.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001110.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001110.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Congenital Diaphragmatic Hernia, COL, GSO, RD)</ConsentName>
+        <ConsentAbbrev>DS-CDH-COL-GSO-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Congenital Diaphragmatic Hernia and related disorders.
+Requestor must provide a letter of collaboration with the primary study investigator(s).
+Use of the data is limited to genetic studies only.
+For the purposes of this project, related conditions refers to genetic syndromes that include congenital diaphragmatic hernia.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>For use by study investigators only</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001273.v1.p1" parentStudy="phs001273.v1.p1" createDate="2017-01-25" modDate="2017-04-18">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Christopher Amos, PhD</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>U19 CA148127</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Oncoarray Consortium - Lung Cancer Studies</StudyNameEntrez>
+	<StudyNameReportPage>Oncoarray Consortium - Lung Cancer Studies</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The study was conducted under the auspices of the Transdisciplinary Research In Cancer of the Lung (TRICL) Research Team, which is a part of the Genetic Associations and MEchanisms in ONcology (GAME-ON) consortium, and associated with the International Lung Cancer Consortium (ILCCO). </p> <p><b>Ethics</b> All participants provided written informed consent. All studies were reviewed and approved by institutional ethics review committees at the involved institutions.</p> <p><b>Sequencing data</b> are derived from four substudies. The substudies that contributed include Harvard, Liverpool, Toronto, and IARC. The IARC and Toronto studies are described above. A description of the Harvard and Liverpool studies is provided below. </p> <p><b>ATBC.</b> The Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study (ATBC) is a randomized primary prevention trial including 29,133 male smokers enrolled in Finland between 1985 and 1993. Participants ranged between ages of 50 to 69 at enrollment and were randomized in a factorial design to take either 50 milligrams of d-alpha tocopheryl acetate (Vitamin E), 20 mg of all-trans-beta-carotene, both or placebo. The study continued to monitor cancer incidence through 2012 and total mortality through December 2013 (see <a href="http://atbcstudy.cancer.gov">http://atbcstudy.cancer.gov</a>)</p> <p><b>CAPUA.</b> The CAncer de PUlmon en Asturias (CAPUA study) is a hospital-based case-control study conducted in Asturias, Spain by the University of Oviedo. Lung cancer cases were recruited in three main hospitals of Asturias, following an identical protocol from 2002 to 2012. Eligible cases were incident cases of histologically confirmed lung cancer between 30 and 85 years of age and residents in the geographical area of each participating hospital. Controls were selected from patients admitted to those hospitals with diagnoses unrelated to the exposures of interest and individually matched by ethnicity, gender, age (&#177; 5 years) and hospital. Epidemiologic data were collected personally through computer-assisted questionnaires by trained interviewers during the first hospital admission. Structured questionnaires collected information on sociodemographic characteristics, recent and prior tobacco use, environmental exposure (air pollution and passive smoking), diet, personal and family history of cancer, and occupational history from each participant. Peripheral blood samples (or mouthwash samples when they refused to donate blood) were collected from all participants. Coding of histology was based on 2001 WHO/IASLC. Genomic DNA was extracted based on standard protocol.</p> <p><b>The Canadian screening study.</b> It includes the nested case-control samples from 3 screening programs: <b>IELCAP-Toronto:</b> Ever smokers of more than 10 pack-years age 50 and above were eligible for the I-ELCAP screening program since 2003, and a total of 4782 individuals have been enrolled in the Greater Toronto Area. Participants were administered a LDCT scan along with a standard study questionnaire at baseline. Blood samples were systematically collected at baseline since 2006. Participants who had an abnormality in a CT scan were followed up every 1 to 2 years. The screening program was organized by the Princess Margaret Hospital. <b>PanCan:</b> Ever smokers between the ages of 50-75 with no previous history of invasive cancer are eligible to participate in the study. The study was carried out across Canada in Vancouver, Calgary, Hamilton, Toronto, Ottawa, Quebec, Halifax, and St. John&#39;s. A total of 2537 smokers have been screened from 2008 to 2011. All study participants completed a detailed questionnaire, spirometry, collection of blood specimens for biomarker measurement and LDCT at baseline. All participants are followed for a minimum of 3 years. On yearly follow up, an updated shorter questionnaire is administered, blood is collected and CT scans are performed. Blood samples are available from all 2537 individuals. <b>BCCA Screening Program:</b> From 1990 to 2007, 4274 smokers above 40 years old who had smoked 20 pack-years or more were enrolled at BCCA. Upon enrollment, subjects completed a questionnaire for their lifestyle and medical history. Baseline spirometry was conducted using a flow-sensitive spirometer in accordance with the American Thoracic Society recommendations. Since 2000, a LDCT was obtained in 2440 individuals. The participants were followed prospectively to determine whether they developed lung cancer. A total of 9759 individuals participated in the CT screening program in Canada from these 3 programs. The samples included in this project is based on a subset of nested lung cancer case-control pairs based on 1:2 ratio.</p> <p><b>CARET.</b> The Carotene and Retinol Efficacy Trial (CARET) was a randomized, double-blind, placebo-controlled trial of the cancer prevention efficacy and safety of a daily combination of 30 mg of beta-carotene and 25,000 IU of retinyl palmitate in 18,314 persons at high risk for lung cancer. CARET began in 1985, and the intervention was halted in January 1996, 21 months ahead of schedule, with the twin conclusions for definitive evidence of no benefit and substantial evidence of a harmful effect of the intervention on both lung cancer incidence and total mortality. CARET continued to follow and collect endpoints on their participants through 2005. Pathology reports and medical records were reviewed to confirm cancer endpoints, and death certificates obtained to capture cause of death. During the active intervention phase of CARET, serum, plasma, whole blood, and lung tissue specimens were collected on participants. These biospecimens make up the CARET Biorepository. For the OncoArray Project, CARET provided DNA extracted from whole blood of lung cancer cases and controls matched on age at baseline (&#177; 4 years), sex, race, baseline smoking status, history of occupational asbestos exposure (asbestos vs heavy smoker), and year of enrollment (2-year intervals).</p> <p><b>EPIC.</b> The European Prospective Investigation into Cancer and Nutrition (EPIC) study. The European Prospective Investigation into Cancer and Nutrition (EPIC) study is a multi-center cohort study involving 521,000 study participants from 10 European countries. The current study involved EPIC participants from 7 countries (Greece, Netherlands, UK, France, Germany, Spain, and Italy), including 1223 incident lung cancer cases and 1249 smoking matched controls.</p> <p><b>Kentucky Lung Cancer Research Initiative.</b> The Kentucky Lung Cancer Research Initiative is a study conducted by the Markey Cancer Center Cancer Center and the University of Kentucky using a population-based, case-control framework to study the extraordinarily high rates of lung cancer in Southeastern, Appalachian Kentucky. Cancer cases were recruited from the Kentucky Cancer Registry at the time of diagnosis and controls were recruited from a random digit dialing process from the same region. Study accrual began in January 5, 2012 and completed on September 5, 2014 and 520 subjects were recruited in a 4:1 ratio of controls: cases from Appalachian Kentucky. Of the 520 subjects recruited, 231 are included in the Oncoarray analysis, including all 93 cancer cases, and 123 controls. Newly diagnosed lung cancer cases and controls underwent blood, toenail (for trace element analysis), urine, buffy coat, water, soil, and radon collection, residence GPS mapping, as well as an extensive epidemiologic, occupational, and health history questionnaire. Clinical Trials.gov Identifier: NCT01648166. </p> <p><b>The Harvard Lung Cancer Study </b>(HLCS). HLCS is a case-control study based at Mass General Hospital (MGH) in Boston, Massachusetts from 1992 to 2004. Details of the study were described previously. Briefly, eligible cases included any person over the age of 18 years with a diagnosis of primary lung cancer that was further confirmed by an MGH lung pathologist. Controls were recruited from the friends or spouses of cancer patients or the friends or spouses of other surgery patients in the same hospital. Potential controls were excluded from participation if they had a diagnosis of any cancer (other than non-melanoma skin cancer). Interviewer-administered questionnaires, a modified version of the standardized American Thoracic Society respiratory questionnaire, collected information on demographics, medical history, family history of cancer, smoking history, and a detailed work history, including job titles and tasks. Genome-wide genotype data were first generated using Illumina Human 610-Quad BeadChips and then imputed by MACH against the 1000 Genome Project dataset (<a href="http://browser.1000genomes.org/index.html">http://browser.1000genomes.org/index.html</a>). The Institutional Review Board of MGH and the Human Subjects Committee of the Harvard School of Public Health approved the study.</p> <p><b>Israel study</b> (NICCC-LCA). The NICCC-LCA study is an ongoing case-control study of newly diagnosed lung cancer cases of any histology and population age/sex/ethnicity-matched &#34;healthy&#34; controls. All participants undergo face-to-face interviews, provide a venous blood sample (separated into DNA, Sera, lymphocytes) after signing an IRB-approved form. Histology reports, FFPE blocks and clinical follow-up are available for most cancer cases.</p> <p><b>The M.D. Anderson Cancer Center Study (MDACC study).</b> Lung cancer cases and frequency-matched controls were ascertained from a large ongoing case-control study at The University of Texas MD Anderson Cancer Center (UTMDACC) since 1991. Detailed study description was provided previously (Spitz et al 2007). In brief, cases were newly-diagnosed and histologically confirmed lung cancer patients recruited from UTMDACC. Controls were healthy individuals without a history of cancer (except for nonmelanoma skin cancer) and recruited from the Kelsey-Seybold Clinics, the largest private multispecialty physician group in the Houston metropolitan area. Controls were frequency-matched to cases on age (&#177;5 years), sex, and race/ethnicity. After providing written informed consent, each study participants completed an in-person interview by staff interviewers to collect information on demographics, smoking status, etc. Blood samples were also drawn from all the study participants. This study was approved by institutional review boards of UTMDACC and Kelsey-Seybold Clinics.</p> <p><b>The Malm&#246; Diet and Cancer Study (MDCS).</b> The Malm&#246; Diet and Cancer Study (MDCS) is a population-based prospective cohort study that between 1991 and 1996 recruited men and women aged 44 to 74 years of age living in Malm&#246;, Sweden. The main goal of the MDCS is to study the impact of diet on cancer incidence and mortality. It consists of a baseline examination including dietary assessment, a self-administered questionnaire, anthropometric measurements and collection of blood samples. A total of 165 incident lung cancer cases and 174 individually smoking-matched controls were available for this analysis.</p> <p><b>The Multiethnic Cohort (MEC).</b> The MEC Study includes 215,251 men and women aged 45-74 years at recruitment, primarily from five ethnic/racial groups - African Americans and Latinos mostly recruited from CA (mainly from Los Angeles County) and Japanese Americans, Native Hawaiians and whites (mostly recruited from HI). The cohort was assembled in 1993-1996 by mailing a self-administered questionnaire to persons identified primarily through driver&#39;s license files. The baseline questionnaire obtained information on demographics, anthropometry, smoking history, medical and reproductive histories, family history of cancer, diet and physical activity. Incident cancer cases are identified by regular linkage with the State of California Cancer Registry and the Hawaii Tumor Registry, both members of the SEER Program of the NCI. In 2001-2006, a prospective biorepository was assembled by collecting a pre-diagnostic blood specimen from 67,594 surviving MEC members. At the time of blood collection a short questionnaire was administered that included information on smoking during the previous 15 days. For this study, cases were all lung cancer cases incident to blood draw and diagnosed before December 2012. For each case, a control was selected among unaffected MEC participants who were alive at time of the case&#39;s diagnosis and matched on study site, sex, race/ethnicity, age (age at diagnosis for cases; age at blood collection for controls), and date of blood collection.</p> <p><b>The Mount-Sinai Hospital-Princess Margaret Study (MSH-PMH).</b> MSH-PMH was conducted in the greater Toronto area from 2008 to 2013. Lung cancer cases were recruited at the hospitals in the network of the University of Toronto. Controls were selected randomly from individuals registered in the family medicine clinics databases and were frequency matched with cases on age and sex. All subjects were interviewed, and information on lifestyle risk factors, occupational history and medical and family history was collected using a standard questionnaire. Tumors were centrally reviewed by the reference pathologist (a member of the International Association for the Study of Lung Cancer (IASLC) committee) and a second pathologist in the University Health Network. If the reviews conflicted, a consensus was arrived at after discussion. Coding of histology was based on 2001 WHO/IASLC. Genomic DNA was extracted based on standard protocol.</p> <p><b>The New England Lung Cancer Study (NELCS).</b> NELCS is a population-based case-control study of lung cancer among residents of Northern and Central New Hampshire counties and the bordering region of Vermont. Cases with histologically confirmed primary incident lung cancer were identified from 2005 to 2007 using the New Hampshire State Cancer Registry and the Dartmouth-Hitchcock Medical Center (DHMC) Tumor Registry. Control participants were identified using a commercial database and matched to lung cancer cases within 5-year age groups, sex and county. Genomic DNA was isolated from blood or buccal specimens provided by consenting participants. The study complied with requirements of the Dartmouth College&#39;s Committee for Protection of Human Subjects</p> <p><b>The Nijmegen Lung Cancer Study.</b> The Netherlands patients with lung cancer were identified through the population-based cancer registry of the Netherlands Comprehensive Cancer Organisation in Nijmegen, the Netherlands. Patients who were diagnosed in one of three hospitals (Radboud university medical center and Canisius Wilhelmina Hospital in Nijmegen and Rijnstate Hospital in Arnhem) since 1989 and who were still alive at April 15th, 2008 were recruited for a study on gene-environment interactions in lung cancer. 458 patients gave informed consent and donated a blood sample. This case series was expanded with 94 patients to a total of 552 by linking three other studies to the population-based cancer registry in order to identify new occurrences of lung cancer among the participants of these other studies. All three other studies (i.e., POLYGENE, the Nijmegen Biomedical Study, and the Radboudumc Urology Outpatient Clinic Epidemiology Study) were initiated to study genetic risk factors for disease and participants to these studies gave general informed consent for DNA-related research and linkage with disease registries. Information on histology, stage of disease, and age at diagnoses was obtained through the cancer registry. Lifestyle information was collected through a structured questionnaire and whole blood for DNA isolation was collected by the regional thrombosis services. </p> <p>The cancer-free controls (46% males) were selected from participants of the &#34;Nijmegen Biomedical Study&#34; (NBS), an age- and sex-stratified random sample of the general population of the municipality of Nijmegen, The Netherlands. All participants provided extensive lifestyle information by structured questionnaires and blood samples for DNA isolation, serum and plasma. All controls are of self-reported European descent. The study protocols of the NBS were approved by the Institutional Review Board of the Radboudumc and all study subjects signed a written informed consent form.</p> <p><b>Northern Sweden Health and Disease Study Cohort (NSHDS).</b> The Northern Sweden Health and Disease Study (NSHDS) encompasses several prospective cohorts, the current study involving study participants from the V&#228;sterbotten Intervention Project (VIP), a sub-cohort within NSHDS. VIP is an ongoing prospective cohort and intervention study intended for health promotion of the general population of the V&#228;sterbotten County in northern Sweden (12). VIP was initiated in 1985 and all residents in the V&#228;sterbotten County were invited to participate by attending a health check-up at 40, 50 and 60 years of age. Participants were asked to complete a self-administered questionnaire including various demographic factors such as education, smoking habits, physical activity and diet. In addition, height and weight were measured and participants were asked to donate a fasting blood sample for future research. A total of 243 incident lung cancer cases and 266 individually smoking-matched controls were available for this analysis.</p> <p><b>Norway National Institute of Occupational Health Study.</b> Early-stage NSCLC cases and healthy controls at the time of enrollment were Caucasians of Norwegian origin and were recruited from the same geographical region (Western Norway). The patients were enrolled in the study, whenever practically feasible among patients admitted for lung cancer at the Haukeland University Hospital in Bergen, Norway. The informed written consents covering analysis of molecular and genetic markers was signed by the patients prior to surgery. Only patients with histologically confirmed early-stage NSCLC were included in our study. The subjects included in this project are a subgroup recruited into the project &#34;lung cancer genetics&#34; at NIOH. The controls were recruited from the same geographical region of Western Norway and frequency-matched with cases on cumulative smoking dose (pack-years). Pack-years smoked [( 20 cigarettes per day) x years smoked] were calculated to indicate the cumulative smoking dose. The Cases and controls were interviewed using similar questionnaires and were categorized as never smokers, ex-smokers or current smokers. Never smokers are subjects indicating having smoked less than 100 cigarettes in their life time. Ex-smokers were defined as those having quitted at least 1 year before sampling, and current smokers were those indicating that they were smokers at the time of sampling. The project has been approved by the Regional Committee for Medical and Health Research Ethics in Southern Norway in accordance with the WMA Declaration of Helsinki. The ethical approval covered access to the NSCLC databank.</p> <p><b>PLCO.</b> The PLCO study, a randomized trial aimed at evaluating the efficacy of screening in reducing cancer mortality, recruited approximately 155,000 men and women age 55 to 74 years from 1992 to 20014. Screening for lung cancer among participants in the intervention arm included a chest x-ray at baseline followed by either three annual x-rays (for current or former smokers at enrollment) or two annual x-rays (for never smokers); participants in the control arm received routine health care. Screening-arm participants provided data on sociodemographic factors, smoking behavior, anthropometric characteristics, medical history, and family history of cancer, as well as blood samples annually for the first 6 years of the study (baseline [T0] and T1 through T5). Lung cancers were ascertained through annual questionnaires mailed to the participants, and positive reports were followed up by abstracting medical records or death certificates. Follow-up in the trial as of July 2009 was 96.7%. Patients were excluded because of missing baseline questionnaire, previous history of any cancer, diagnosis of multiple cancers during follow-up, missing smoking information at baseline, missing consent for utilization of biologic specimens for etiologic studies, or unavailability/insufficient quantity of serum or DNA specimens.</p> <p><b>The Resource for the Study of Lung Cancer Epidemiology in North Trent (REsolucent).</b> REsolucent is an ongoing study conducted in Sheffield from 2006 and due to complete recruitment in 2016. The study recruited pathologically confirmed lung cancer cases diagnosed at age 60 years or younger and family matched controls. Lung cancer cases diagnosed at ages older than 60 years were recruited if they reported a family history of lung cancer. The cases and matched controls were recruited through several major cancer treatment centres, however, the majority were recruited in North Trent. All participants completed a detailed lifestyle questionnaire which included questions about occupational exposures, education, medical history and family history of cancer and lung disease. Participants also donated blood samples for DNA extraction. The ReSoLuCENT study has been funded by the Sheffield Hospitals Charity, Sheffield ECMC and Weston Park Hospital Cancer Charity. First degree relatives were removed from the sample deposited to dbGAP. </p> <p><b>Roy Castle Lung Study.</b> The Roy Castle Lung Study of Liverpool Lung Project (LLP) is a case-control and cohort study which has recruited over 11,500 individuals since 1996 from the Liverpool region in the UK. Detailed epidemiological and clinical data is collected with associated specimens (i.e. tumour tissue, blood, plasma, sputum, bronchial lavage and oral brushings). The participants have completed a detailed lifestyle questionnaire at recruitment, with repeat questionnaires at intervals; updated data on clinical outcome and hospital events are collected through the Health and Social Care Information Center (including Office of National Statistics mortality data, Cancer Registry and Health Episode Statistics). The project is registered on the UK National Institute for Health Research (NIHR) lung cancer portfolio and has all the required ethical approvals and sponsorship arrangements in place. The lung tumours were reviewed by the reference pathologist.</p> <p><b>Seoul Bundang Lung Cancer Study.</b> Seoul Bundang Lung Cancer Study was conducted between 2005 and 2010 to discover genetic and environmental factors related with lung cancer development. Lung cancer cases were recruited at the Seoul National University Hospital in Bundang. Controls were selected randomly from individuals participated in health check-up program and were frequency matched with cases on age and sex. All subjects were interviewed, and information on lifestyle risk factors, occupational history and medical and family history was collected using a standard questionnaire. Tumors were reviewed by the pathologists in the hospital. If the reviews conflicted, a consensus was arrived at after discussion. Coding of histology was based on 2001 WHO/IASLC. Genomic DNA was extracted based on standard protocol.</p> <p><b>Shanghai Cohort Study (SCS).</b> The SCS cohort consisted of 18,244 men in Shanghai, China, who were 45-64 years old at the time of enrollment during 1986-1989. Approximately 80% of eligible men participated in the study. At the time of recruitment, each cohort subject was interviewed in-person by a trained nurse interviewer using a structured questionnaire that included background information, history of tobacco and alcohol use, current diet, and medical history. At the completion of the interview, the nurse collected a 10 ml blood and a single void urine specimen from the study participant. The buccal cell samples were collected from all surviving cohort members (~15,000) in the 2001-2002 follow-up interviews. The cohort has been followed for the occurrence of cancer and death through routine ascertainment of new cases from the population-based Shanghai Cancer Registry and Shanghai Vital Statistics Units. To maximize the cancer findings and minimize the loss of follow-up, we have recontacted each surviving cohort member annually. Retired nurses visit the last known address of each living cohort member and record details of the interim health history of the cohort member. As of December 31, 2014, cumulatively 612 (3.4%) original subjects were lost to follow-up, and 574 (3.1%) refused to our continued follow-up interview. </p> <p>A nested case-control study of incident lung cancer cases within the Shanghai Cohort Study was used to examine the association between serum levels of vitamin B6 and other compounds in the one-carbon metabolism pathway and risk of lung cancer. Briefly, 516 lung cancer cases were identified among cohort participants with available serum samples as of 12/31/2006. For each case, we randomly selected one control subject from all cohort members who were free of cancer and alive at the time of cancer diagnosis of the index case. Controls were matched to the index case by age at enrollment (&#177;2 years), date of biospecimen collection (&#177;1 month) and neighborhood of residence at recruitment, and smoking status (current, former and never smokers) as established previously for other studies. For former smokers, cases and controls were further matched by years since quitting smoking (&#60;10 vs &#8805;10 years). One serum vial per subject was retrieved from biorepository and all serum samples were sent to the laboratory (B-vital) for measurements. DNA samples of 250 lung cancer cases and 250 matched controls were available for the present study.</p> <p><b>Singapore Chinese Health Study (SCHS).</b> Briefly, the SCHS cohort consisted of 63,257 Chinese men and women in Singapore when they were 45-74 years old at the time of enrollment between April 1993 and December 1998. At recruitment, each study subject was interviewed in person by a trained interviewer using a structured questionnaire that emphasized current diet assessed via a validated, 165-item food frequency questionnaire. The questionnaire also requested information on demographics, lifetime use of tobacco, incense use, current physical activity, usual sleep duration, reproductive history (women only), occupational exposure, medical history, and family history of cancer. Blood or buccal cell, and spot urine samples were collected first from a random 3% sample of cohort participants in April 1994, and extended to all surviving cohort participants starting in January 2000. Overall approximately 60% of eligible cohort participants donated biospecimens. The cohort has been passively followed for death and cancer occurrence through regular record linkage with the population-based Singapore Cancer Registry and the Singapore Registry of Births and Deaths. Migration out of Singapore, especially among housing estate residents, was negligible. As of latest update, only 55 individuals from this cohort were known to be lost to follow-up due to migration and other reason.</p> <p>A nested case-control study of incident lung cancer cases within the Singapore Chinese Health Study was used to examine the association between serum levels of vitamin B6 and other compounds in the one-carbon metabolism pathway and risk of lung cancer. As of 12/31/2011, 422 lung cancer cases were identified among cohort participants with available prediagnostic plasma samples. For each case, one control subject was randomly selected from all eligible cohort members who were alive and free of cancer on the date of cancer diagnosis of the index case. The control subject was individually matched to the index case by gender, dialect group (Hokkien, Cantonese), age at enrollment (&#177;3 years), date of baseline interview (&#177;2 year), date of biospecimen collection (&#177;6 months), and smoking status (current, former, and never smokers). For current smokers, cases and controls were further matched by number of cigarettes per day (&#60;15, &#8805;15 cigarettes/day). For former smokers, cases and controls were further matched by years since quitting smoking (&#60;10, &#8805;10 years). One plasma aliquot per subject was retrieved from the biorepository and all plasma samples were sent to the laboratory (B-vital) for measurements, and one aliquot of DNA per subject for the present study. </p> <p><b>The IARC L2 study.</b> Lung cancer cases and controls were recruited through a multicentric case-control study coordinated by the International Agency for Research on Cancer in Russia, Poland, Serbia, Czech Republic, and Romania from 2005 to 2013. Cases were incident cancer patients collected from general hospitals. Controls were recruited from individuals visiting general hospitals and out-patient clinics for disorders unrelated to lung cancer and/or its associated risk factors, or from the general population. Information on lifestyle risk factors, medical and family history was collected from subjects by interview using a standard questionnaire. All study participants provided written informed consent. The current study included 1,133 lung cancer cases and 1,117 controls genotyped on the Oncoarray. </p> <p><b>The Washington State University Lung Cancer Study.</b> This study is a hospital case-control study of 511 subjects with newly-diagnosed (within 1 year of diagnosis) lung cancer and 820 race-, sex- and age-matched controls. Lung cancer cases were recruited from lung cancer clinics within the H. Lee Moffitt Cancer Center while controls were recruited from the Lifetime Cancer Screening Center, a H. Lee Moffitt Cancer Center affiliate. None of the controls were diagnosed with any form of cancer at the time of screening. Detailed questionnaire data and oral buccal cells were collected for all subjects.</p> <p><b>Total Lung Cancer (TLC) Study.</b> Molecular Epidemiology of Lung Cancer Survival: The Total Lung Cancer (TLC) Study is a hospital-based study that included 458 lung cancer patients recruited for Moffitt Cancer Center&#39;s Total Cancer Care&#8482; protocol between April 2006 and August 2010. Total Cancer Care&#8482; is a multi-institutional observational study of cancer patients that prospectively collects self-reported demographic and clinical data, medical record information and blood samples for research purposes. All patients used in this cohort were recruited from the Thoracic Oncology Clinic at the Moffitt Cancer Center.</p> <p><b>The Vanderbilt Lung Cancer Study (BioVU).</b> The Vanderbilt Lung Cancer Study is a case-control study nested within the Vanderbilt University Medical Center biobank, BioVU. BioVU is a biorepository of DNA extracted from blood drawn from patients seeking routine clinical care at Vanderbilt University Medical Center and linked to de-identified electronic health records for research purposes. Lung cancer cases and controls were identified from BioVU participants in February 2014. Lung cancer cases were identified from the Vanderbilt tumor registry. All specimens undergo pathologic review for determination of morphology. Coding of histology was based on SEER Program Coding Guidelines. Controls were randomly selected from BioVU participants, excluding cancer patients, and were matched to cases on age (&#177; 5 years), sex, and race. Relevant covariates were identified from electronic health records using natural language processing. Genomic DNA was extracted based on a standard protocol.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Cases</b></p> <p>All cases had to have received diagnosis of pathologically confirmed lung cancer. Tumors from patients were classified as adenocarcinomas (AD), squamous carcinomas (SQ), large-cell carcinomas (LCC), mixed adenosquamous carcinomas (MADSQ) and other non-small cell lung cancer (NSCLC) histologies following either the International Classification of Diseases for Oncology (ICD-O) or World Health Organization (WHO) coding. Tumors with overlapping histologies were classified as mixed. </p> <p>Tumors from patients were classified as adenocarcinomas (AD), squamous carcinomas (SQ), large-cell carcinomas (LCC), mixed adenosquamous carcinomas (MADSQ) and other non-small cell lung cancer (NSCLC) histologies following either the International Classification of Diseases for Oncology (ICD-O) or World Health Organization (WHO) coding. Tumors with overlapping histologies classified as mixed. All cases and controls were reported to be European ancestry. </p> <p><b>Controls</b></p> <p>Controls are selected to be free of lung and other nonmelanom skin cancers at the time of the recruitment. Controls have not been matched to smoking status for all studies except the M.D. Anderson Cancer Center study, which matches by smoking status. Most studies have frequency matched by age category (within 5 year intervals) and sex. </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="24880342"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22899653"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24681604"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="27697780"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Lung Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Adenocarcinoma"/>
+		<Disease vocab_source="MESH" vocab_term="Neoplasms, Squamous Cell"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Christopher Amos, PhD</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U19 CA148127</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="TRCL" url="www.u19tricl.org"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>This study brings together 24 studies that have all been genotyped on the Oncoarray platform. The data include Asian samples that have not previously been analyzed and excludes samples from Copenhagen and Germany that are included in a submitted Nature Genetics article but which cannot be shared.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="CADM" longName="Cancer in all age groups, other diseases in adults only, and methods"/>
+		<ConsentGroup groupNum="2" shortName="DS-CALD-PUB-NPU" longName="Disease-Specific (Cancer or Lung Diseases, PUB, NPU)"/>
+		<ConsentGroup groupNum="3" shortName="GRU" longName="General Research Use"/>
+		<ConsentGroup groupNum="4" shortName="LDS" longName="Lung Disease and Smoking"/>
+		<ConsentGroup groupNum="5" shortName="GRU-COL" longName="General Research Use (COL)"/>
+		<ConsentGroup groupNum="6" shortName="DS-CA-MDS" longName="Disease-Specific (Cancer, MDS)"/>
+		<ConsentGroup groupNum="7" shortName="LCEDOE" longName="Lung Cancer, Environmental, Diet, Occupational Exposures"/>
+		<ConsentGroup groupNum="8" shortName="HMB-PUB" longName="Health/Medical/Biomedical (PUB)"/>
+		<ConsentGroup groupNum="9" shortName="DS-CA-PUB-NPU" longName="Disease-Specific (Cancer, PUB, NPU)"/>
+		<ConsentGroup groupNum="10" shortName="HMB" longName="Health/Medical/Biomedical"/>
+		<ConsentGroup groupNum="11" shortName="DS-CA" longName="Disease-Specific (Cancer)"/>
+		<ConsentGroup groupNum="12" shortName="DS-CA-GSO" longName="Disease-Specific (Cancer, GSO)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001273.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001273.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001273.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Cancer in all age groups, other diseases in adults only, and methods</ConsentName>
+        <ConsentAbbrev>CADM</ConsentAbbrev>
+        <UseLimitation>The informed consent document signed by the study participants allows use of these data by investigators for discovery and hypothesis generation in the investigation of the genetic contributions to cancer in all age groups and other diseases in adults only, as well as development of novel analytical approaches for GWAS.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Cancer or Lung Diseases, PUB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-CALD-PUB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer or Lung Diseases.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Lung Disease and Smoking</ConsentName>
+        <ConsentAbbrev>LDS</ConsentAbbrev>
+        <UseLimitation>Use of the dataset is limited to scientific genetic research related to the etiology, molecular basis, and outcome of lung disease and smoking. General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="5">
+        <ConsentName>General Research Use (COL)</ConsentName>
+        <ConsentAbbrev>GRU-COL</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide a letter of collaboration with the primary study investigator(s).
+The letter of collaboration for this study is a "CARET DATA USE AGREEMENT" form from the Fred Hutchinson Cancer Research Center (FHCRC). A blank copy can be found at the end of the dataset''s Data Use Certification Agreement (see dbGaP study page). Requestor must provide this signed form documenting CARET approval. Approval can be obtained by contacting CARET@fhcrc.org.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="6">
+        <ConsentName>Disease-Specific (Cancer, MDS)</ConsentName>
+        <ConsentAbbrev>DS-CA-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="7">
+        <ConsentName>Lung Cancer, Environmental, Diet, Occupational Exposures</ConsentName>
+        <ConsentAbbrev>LCEDOE</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited to research on risk factors for the development of lung cancer; and its association with environmental, diet, and occupational exposures</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="8">
+        <ConsentName>Health/Medical/Biomedical (PUB)</ConsentName>
+        <ConsentAbbrev>HMB-PUB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor agrees to make results of studies using the data available to the larger scientific community.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="9">
+        <ConsentName>Disease-Specific (Cancer, PUB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-CA-PUB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="10">
+        <ConsentName>Health/Medical/Biomedical</ConsentName>
+        <ConsentAbbrev>HMB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="11">
+        <ConsentName>Disease-Specific (Cancer)</ConsentName>
+        <ConsentAbbrev>DS-CA</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+General methods development research is NOT allowed.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="12">
+        <ConsentName>Disease-Specific (Cancer, GSO)</ConsentName>
+        <ConsentAbbrev>DS-CA-GSO</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Use of the data is limited to genetic studies only.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd007215.1" type="protocol" createDate="2017-03-30" modDate="2017-04-18">
+      <OrigName>QC_procedures.docx</OrigName>
+      <DisplayName>OncoArray Data analysis QC procedures</DisplayName>
+      <Description>OncoArray Data analysis QC procedures</Description>
+      <displayStatus>stage-2</displayStatus>
+      <xmlStatus>develop</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

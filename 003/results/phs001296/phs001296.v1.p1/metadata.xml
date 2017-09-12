@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001296.v1.p1" parentStudy="phs001296.v1.p1" createDate="2017-02-14" modDate="2017-06-07">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Study Chair</td><td>Andrea Gropman, MD</td><td>Children&#39;s National Medical Center, Washington, DC, USA</td></tr>
+		<tr><td>Data Management</td><td>Jeffrey Krischer, PhD</td><td>Data Management and Coordinating Center, University of South Florida, Tampa, FL, USA</td></tr>
+		<tr><td>Funding Sources</td><td>U54-HD061221-06</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>UCD Imaging Study</StudyNameEntrez>
+	<StudyNameReportPage>Investigation of Brain Nitrogen Metabolism in Partial Ornithine Transcarbamylase Deficiency (OTCD) Using 1H MRS, DTI, and fMRI</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Observational</StudyType>
+		<StudyType>Cohort</StudyType>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>This project studies cognitive and motor dysfunction in adult and pediatric patients who are female carriers of ornithine transcarbamylase deficiency (OTCD) or are males with late onset presentation (outside of the newborn period) of OTCD, utilizing state of the art MRI (magnetic resonance imaging), a non-invasive technique. This project seeks to improve our understanding of the underlying neural mechanisms that contribute to metabolic, cognitive, sensory and motor abnormalities in urea cycle disorders, which although individually rare, collectively constitute a major cause of neonatal encephalopathy, leading to significant morbidity and mortality. </p> <p>As a result of this study, a greater understanding of the anatomic, cognitive, motor, and biochemical underpinnings of neurologic damage attributable to this metabolic disorder will be gained. Experimental approaches will combine sensory, cognitive and motor testing with structural, functional and molecular magnetic resonance imaging to study symptomatic and asymptomatic heterozygous female carriers of X-linked ornithine transcarbamylase deficiency (OTCD), and late onset hemizygous males. </p> <p>Participants to be included in the studies will range from ages 7-60 years and will be compared to an age-matched typically developed (TD) comparison group.</p> <p>For our research, we use anatomic MRI, functional Magnetic Resonance Imaging (fMRI), and magnetic resonance spectroscopy (MRS) to monitor brain activity. The technique of fMRI provides detailed maps of the brain areas underlying human mental activities. By using fMRI, we are able to observe how the brain is functioning while a person is performing a specific task, such as reading. We can not only observe differences in the structure of the brain, but can also measure differences in brain function and activity as well. This information will ultimately be used to provide a basis for designing more effective interventions and methods for early identification of learning disabilities in patients with OTCD and related disorders. We will also use MRS to study various brain chemicals such as glutamine using the non-invasive MRI imaging techniques. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Subject inclusion criteria: </b> <ol> <li> Patients with OTCD;</li> <li> Age range: 7-60 years</li> <li> Able to undergo neuroimaging safely (i.e. without presence of ferromagnetic devices)</li> <li> Subject has a documented full scale IQ &gt; 70 </li> </ol></p> <p><b>Subject exclusion criteria: </b> <ol> <li> Mental retardation (i.e., Full Scale IQ&lt; 70)</li> <li> Age range &lt;7 or &gt;60 years</li> <li> Presence of ferromagnetic device(s) that preclude safe imaging </li> <li> Pregnant female</li> </ol></p> <p><b>Control participant inclusion criteria: </b> <ol> <li> Healthy males and females without metabolic disease aged 7-60 years </li> <li> Subject has a documented full scale IQ &gt; 70</li> </ol></p> <p><b>Control exclusion criteria:</b> <ol> <li> Subjects with a documented history of an intellectual deficit (i.e., Full Scale IQ&lt; 70)</li> <li> Age range &lt;7 or &gt;60 years </li> <li> Presence of ferromagnetic device(s) that preclude safe imaging </li> <li> Pregnant female </li> </ol> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="18662894"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20488904"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22110002"/>
+		</Publication>
+		<Publication>
+			<Journal authors="Gropman AL, Shattuck K, Prust MJ, et al." title="Altered neural activation in ornithine transcarbamylase deficiency during executive cognition: An fMRI study." journal="Hum. Brain Mapp. Nov 23 2011."/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Urea Cycle Disorders, Inborn"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Study Chair">
+			<AttName>Andrea Gropman, MD</AttName>
+			<Institution>Children&#39;s National Medical Center, Washington, DC, USA</Institution>
+		</Header>
+		<Header title="Data Management">
+			<AttName>Jeffrey Krischer, PhD</AttName>
+			<Institution>Data Management and Coordinating Center, University of South Florida, Tampa, FL, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U54-HD061221-06</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p><ul> <li>Study Activated September 12, 2010</li> <li>First Accrual October 4, 2010</li> <li>Last DSMB review December 1, 2014</li> <li>Next DSMB review scheduled for January 12, 2016</li> <li>Study Closed to Accrual in data analysis on November 18, 2014</li> </ul> </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-PUB" longName="General Research Use (IRB, PUB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCATS</DacName>
+      <DacFullName>NCATS </DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001296.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001296.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001296.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB, PUB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB-PUB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Requestor agrees to make results of studies using the data available to the larger scientific community.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd007207.1" type="questionnaire" createDate="2017-02-21" modDate="2017-06-06" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007207.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001296.v1.p1&amp;phd=7207">
+      <OrigName>5107_DemographicsForm_13May10.pdf</OrigName>
+      <DisplayName>UCDC 5107: Demographic Information Form</DisplayName>
+      <Description>UCDC 5107: Demographic Information Form</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007208.1" type="questionnaire" createDate="2017-02-21" modDate="2017-06-06" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007208.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001296.v1.p1&amp;phd=7208">
+      <OrigName>5107_EligibilityForm_21May10.pdf</OrigName>
+      <DisplayName>UCDC 5107: Eligibility Form</DisplayName>
+      <Description>UCDC 5107: Eligibility Form</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007209.1" type="questionnaire" createDate="2017-02-21" modDate="2017-06-06" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007209.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001296.v1.p1&amp;phd=7209">
+      <OrigName>5107_Lab_Form_21Jun10.pdf</OrigName>
+      <DisplayName>UCDC 5107: Laboratory Form</DisplayName>
+      <Description>UCDC 5107: Laboratory Form</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007210.1" type="questionnaire" createDate="2017-02-21" modDate="2017-06-06" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007210.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001296.v1.p1&amp;phd=7210">
+      <OrigName>5107_NeurospychForm_27May10.pdf</OrigName>
+      <DisplayName>UCDC 5107: Neuropsychological Testing Form</DisplayName>
+      <Description>UCDC 5107: Neuropsychological Testing Form</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007211.1" type="questionnaire" createDate="2017-02-21" modDate="2017-06-06" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007211.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001296.v1.p1&amp;phd=7211">
+      <OrigName>5107_PhysExamForm_17May10.pdf</OrigName>
+      <DisplayName>UCDC 5107: Physical and Neurological Exam Form</DisplayName>
+      <Description>UCDC 5107: Physical and Neurological Exam Form</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007212.1" type="questionnaire" createDate="2017-02-21" modDate="2017-06-06" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007212.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001296.v1.p1&amp;phd=7212">
+      <OrigName>5107_PregnancyForm_28Jun10.pdf</OrigName>
+      <DisplayName>UCDC 5107: Pregnancy Screening Form</DisplayName>
+      <Description>UCDC 5107: Pregnancy Screening Form</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007213.1" type="questionnaire" createDate="2017-02-21" modDate="2017-06-06" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007213.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001296.v1.p1&amp;phd=7213">
+      <OrigName>5107_ReviewofMedicalRecords_22Jun2010.pdf</OrigName>
+      <DisplayName>UCDC 5107: History and Review of Medical Records</DisplayName>
+      <Description>UCDC 5107: History and Review of Medical Records</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007260.1" type="questionnaire" createDate="2017-06-01" modDate="2017-06-06" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007260.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001296.v1.p1&amp;phd=7260">
+      <OrigName>RDN3_ConclusionofStudyParticipation_09Dec2016.pdf</OrigName>
+      <DisplayName>Conclusion of Study Participation</DisplayName>
+      <Description>Conclusion of Study Participation</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd007207.1" sectionId="phd007207">
+      <phvList>
+        <phvRef variableId="292801"/>
+        <phvRef variableId="292802"/>
+        <phvRef variableId="292803"/>
+        <phvRef variableId="292805"/>
+        <phvRef variableId="292808"/>
+        <phvRef variableId="292809"/>
+        <phvRef variableId="292815"/>
+        <phvRef variableId="292816"/>
+        <phvRef variableId="292817"/>
+        <phvRef variableId="292818"/>
+        <phvRef variableId="292819"/>
+        <phvRef variableId="292820"/>
+        <phvRef variableId="292821"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007208.1" sectionId="phd007208">
+      <phvList>
+        <phvRef variableId="292822"/>
+        <phvRef variableId="292823"/>
+        <phvRef variableId="292824"/>
+        <phvRef variableId="292825"/>
+        <phvRef variableId="292826"/>
+        <phvRef variableId="292827"/>
+        <phvRef variableId="292828"/>
+        <phvRef variableId="292829"/>
+        <phvRef variableId="292830"/>
+        <phvRef variableId="292831"/>
+        <phvRef variableId="292832"/>
+        <phvRef variableId="292833"/>
+        <phvRef variableId="292834"/>
+        <phvRef variableId="292835"/>
+        <phvRef variableId="292836"/>
+        <phvRef variableId="292837"/>
+        <phvRef variableId="292838"/>
+        <phvRef variableId="292839"/>
+        <phvRef variableId="292840"/>
+        <phvRef variableId="292841"/>
+        <phvRef variableId="292842"/>
+        <phvRef variableId="292843"/>
+        <phvRef variableId="292844"/>
+        <phvRef variableId="292845"/>
+        <phvRef variableId="292846"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007210.1" sectionId="phd007210">
+      <phvList>
+        <phvRef variableId="292847"/>
+        <phvRef variableId="292848"/>
+        <phvRef variableId="292853"/>
+        <phvRef variableId="292854"/>
+        <phvRef variableId="292856"/>
+        <phvRef variableId="292859"/>
+        <phvRef variableId="292862"/>
+        <phvRef variableId="292863"/>
+        <phvRef variableId="292864"/>
+        <phvRef variableId="292868"/>
+        <phvRef variableId="292875"/>
+        <phvRef variableId="292878"/>
+        <phvRef variableId="292881"/>
+        <phvRef variableId="292884"/>
+        <phvRef variableId="292887"/>
+        <phvRef variableId="292890"/>
+        <phvRef variableId="292893"/>
+        <phvRef variableId="292902"/>
+        <phvRef variableId="292903"/>
+        <phvRef variableId="292904"/>
+        <phvRef variableId="292905"/>
+        <phvRef variableId="292906"/>
+        <phvRef variableId="292907"/>
+        <phvRef variableId="292908"/>
+        <phvRef variableId="292909"/>
+        <phvRef variableId="292910"/>
+        <phvRef variableId="292911"/>
+        <phvRef variableId="292912"/>
+        <phvRef variableId="292913"/>
+        <phvRef variableId="292914"/>
+        <phvRef variableId="292915"/>
+        <phvRef variableId="292916"/>
+        <phvRef variableId="292917"/>
+        <phvRef variableId="292918"/>
+        <phvRef variableId="292919"/>
+        <phvRef variableId="292920"/>
+        <phvRef variableId="292921"/>
+        <phvRef variableId="292922"/>
+        <phvRef variableId="292923"/>
+        <phvRef variableId="292924"/>
+        <phvRef variableId="292925"/>
+        <phvRef variableId="292926"/>
+        <phvRef variableId="292927"/>
+        <phvRef variableId="292928"/>
+        <phvRef variableId="292929"/>
+        <phvRef variableId="292930"/>
+        <phvRef variableId="292931"/>
+        <phvRef variableId="292932"/>
+        <phvRef variableId="292933"/>
+        <phvRef variableId="292938"/>
+        <phvRef variableId="292946"/>
+        <phvRef variableId="292949"/>
+        <phvRef variableId="292950"/>
+        <phvRef variableId="292951"/>
+        <phvRef variableId="292952"/>
+        <phvRef variableId="292953"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007211.1" sectionId="phd007211">
+      <phvList>
+        <phvRef variableId="292847"/>
+        <phvRef variableId="292848"/>
+        <phvRef variableId="292853"/>
+        <phvRef variableId="292854"/>
+        <phvRef variableId="292856"/>
+        <phvRef variableId="292859"/>
+        <phvRef variableId="292862"/>
+        <phvRef variableId="292863"/>
+        <phvRef variableId="292864"/>
+        <phvRef variableId="292868"/>
+        <phvRef variableId="292875"/>
+        <phvRef variableId="292878"/>
+        <phvRef variableId="292881"/>
+        <phvRef variableId="292884"/>
+        <phvRef variableId="292887"/>
+        <phvRef variableId="292890"/>
+        <phvRef variableId="292893"/>
+        <phvRef variableId="292902"/>
+        <phvRef variableId="292903"/>
+        <phvRef variableId="292904"/>
+        <phvRef variableId="292905"/>
+        <phvRef variableId="292906"/>
+        <phvRef variableId="292907"/>
+        <phvRef variableId="292908"/>
+        <phvRef variableId="292909"/>
+        <phvRef variableId="292910"/>
+        <phvRef variableId="292911"/>
+        <phvRef variableId="292912"/>
+        <phvRef variableId="292913"/>
+        <phvRef variableId="292914"/>
+        <phvRef variableId="292915"/>
+        <phvRef variableId="292916"/>
+        <phvRef variableId="292917"/>
+        <phvRef variableId="292918"/>
+        <phvRef variableId="292919"/>
+        <phvRef variableId="292920"/>
+        <phvRef variableId="292921"/>
+        <phvRef variableId="292922"/>
+        <phvRef variableId="292923"/>
+        <phvRef variableId="292924"/>
+        <phvRef variableId="292925"/>
+        <phvRef variableId="292926"/>
+        <phvRef variableId="292927"/>
+        <phvRef variableId="292928"/>
+        <phvRef variableId="292929"/>
+        <phvRef variableId="292930"/>
+        <phvRef variableId="292931"/>
+        <phvRef variableId="292932"/>
+        <phvRef variableId="292933"/>
+        <phvRef variableId="292938"/>
+        <phvRef variableId="292946"/>
+        <phvRef variableId="292949"/>
+        <phvRef variableId="292950"/>
+        <phvRef variableId="292951"/>
+        <phvRef variableId="292952"/>
+        <phvRef variableId="292953"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007212.1" sectionId="phd007212">
+      <phvList>
+        <phvRef variableId="293161"/>
+        <phvRef variableId="293162"/>
+        <phvRef variableId="293164"/>
+        <phvRef variableId="293165"/>
+        <phvRef variableId="293166"/>
+        <phvRef variableId="293167"/>
+        <phvRef variableId="293168"/>
+        <phvRef variableId="293169"/>
+        <phvRef variableId="293170"/>
+        <phvRef variableId="293171"/>
+        <phvRef variableId="293172"/>
+        <phvRef variableId="293173"/>
+        <phvRef variableId="293174"/>
+        <phvRef variableId="293175"/>
+        <phvRef variableId="293176"/>
+        <phvRef variableId="293177"/>
+        <phvRef variableId="293178"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007213.1" sectionId="phd007213">
+      <phvList>
+        <phvRef variableId="292954"/>
+        <phvRef variableId="292955"/>
+        <phvRef variableId="292959"/>
+        <phvRef variableId="292960"/>
+        <phvRef variableId="292961"/>
+        <phvRef variableId="292962"/>
+        <phvRef variableId="292963"/>
+        <phvRef variableId="292964"/>
+        <phvRef variableId="292966"/>
+        <phvRef variableId="292967"/>
+        <phvRef variableId="292968"/>
+        <phvRef variableId="292969"/>
+        <phvRef variableId="292971"/>
+        <phvRef variableId="292972"/>
+        <phvRef variableId="292974"/>
+        <phvRef variableId="292979"/>
+        <phvRef variableId="292982"/>
+        <phvRef variableId="292985"/>
+        <phvRef variableId="292986"/>
+        <phvRef variableId="292987"/>
+        <phvRef variableId="292988"/>
+        <phvRef variableId="292989"/>
+        <phvRef variableId="292991"/>
+        <phvRef variableId="292992"/>
+        <phvRef variableId="292995"/>
+        <phvRef variableId="292996"/>
+        <phvRef variableId="292997"/>
+        <phvRef variableId="292999"/>
+        <phvRef variableId="293001"/>
+        <phvRef variableId="293003"/>
+        <phvRef variableId="293005"/>
+        <phvRef variableId="293006"/>
+        <phvRef variableId="293007"/>
+        <phvRef variableId="293010"/>
+        <phvRef variableId="293013"/>
+        <phvRef variableId="293014"/>
+        <phvRef variableId="293015"/>
+        <phvRef variableId="293016"/>
+        <phvRef variableId="293017"/>
+        <phvRef variableId="293020"/>
+        <phvRef variableId="293023"/>
+        <phvRef variableId="293026"/>
+        <phvRef variableId="293027"/>
+        <phvRef variableId="293028"/>
+        <phvRef variableId="293029"/>
+        <phvRef variableId="293030"/>
+        <phvRef variableId="293031"/>
+        <phvRef variableId="293032"/>
+        <phvRef variableId="293033"/>
+        <phvRef variableId="293035"/>
+        <phvRef variableId="293037"/>
+        <phvRef variableId="293038"/>
+        <phvRef variableId="293039"/>
+        <phvRef variableId="293040"/>
+        <phvRef variableId="293041"/>
+        <phvRef variableId="293042"/>
+        <phvRef variableId="293043"/>
+        <phvRef variableId="293044"/>
+        <phvRef variableId="293045"/>
+        <phvRef variableId="293049"/>
+        <phvRef variableId="293052"/>
+        <phvRef variableId="293053"/>
+        <phvRef variableId="293055"/>
+        <phvRef variableId="293057"/>
+        <phvRef variableId="293058"/>
+        <phvRef variableId="293061"/>
+        <phvRef variableId="293064"/>
+        <phvRef variableId="293065"/>
+        <phvRef variableId="293067"/>
+        <phvRef variableId="293068"/>
+        <phvRef variableId="293072"/>
+        <phvRef variableId="293073"/>
+        <phvRef variableId="293075"/>
+        <phvRef variableId="293077"/>
+        <phvRef variableId="293078"/>
+        <phvRef variableId="293079"/>
+        <phvRef variableId="293080"/>
+        <phvRef variableId="293081"/>
+        <phvRef variableId="293082"/>
+        <phvRef variableId="293083"/>
+        <phvRef variableId="293084"/>
+        <phvRef variableId="293085"/>
+        <phvRef variableId="293086"/>
+        <phvRef variableId="293087"/>
+        <phvRef variableId="293088"/>
+        <phvRef variableId="293089"/>
+        <phvRef variableId="293090"/>
+        <phvRef variableId="293091"/>
+        <phvRef variableId="293092"/>
+        <phvRef variableId="293093"/>
+        <phvRef variableId="293094"/>
+        <phvRef variableId="293095"/>
+        <phvRef variableId="293096"/>
+        <phvRef variableId="293097"/>
+        <phvRef variableId="293098"/>
+        <phvRef variableId="293099"/>
+        <phvRef variableId="293100"/>
+        <phvRef variableId="293101"/>
+        <phvRef variableId="293102"/>
+        <phvRef variableId="293103"/>
+        <phvRef variableId="293104"/>
+        <phvRef variableId="293105"/>
+        <phvRef variableId="293106"/>
+        <phvRef variableId="293107"/>
+        <phvRef variableId="293108"/>
+        <phvRef variableId="293109"/>
+        <phvRef variableId="293110"/>
+        <phvRef variableId="293111"/>
+        <phvRef variableId="293112"/>
+        <phvRef variableId="293113"/>
+        <phvRef variableId="293114"/>
+        <phvRef variableId="293115"/>
+        <phvRef variableId="293116"/>
+        <phvRef variableId="293117"/>
+        <phvRef variableId="293118"/>
+        <phvRef variableId="293119"/>
+        <phvRef variableId="293120"/>
+        <phvRef variableId="293121"/>
+        <phvRef variableId="293122"/>
+        <phvRef variableId="293123"/>
+        <phvRef variableId="293133"/>
+        <phvRef variableId="293135"/>
+        <phvRef variableId="293136"/>
+        <phvRef variableId="293137"/>
+        <phvRef variableId="293138"/>
+        <phvRef variableId="293139"/>
+        <phvRef variableId="293140"/>
+        <phvRef variableId="293141"/>
+        <phvRef variableId="293148"/>
+        <phvRef variableId="293150"/>
+        <phvRef variableId="293154"/>
+        <phvRef variableId="293155"/>
+        <phvRef variableId="293156"/>
+        <phvRef variableId="293157"/>
+        <phvRef variableId="293158"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007260.1" sectionId="phd007260">
+      <phvList>
+        <phvRef variableId="292789"/>
+        <phvRef variableId="292790"/>
+        <phvRef variableId="292791"/>
+        <phvRef variableId="292794"/>
+        <phvRef variableId="292795"/>
+        <phvRef variableId="292796"/>
+        <phvRef variableId="292797"/>
+        <phvRef variableId="292798"/>
+        <phvRef variableId="292799"/>
+        <phvRef variableId="292800"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

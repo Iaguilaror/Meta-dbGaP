@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001055.v1.p1" parentStudy="phs001055.v1.p1" createDate="2015-12-30" modDate="2016-11-10">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Joseph Vockley, PhD</td><td>Inova Translational Medicine Institute, Inova Health System, Falls Church, VA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Whole Genome Study for De Novo Mutation Rates</StudyNameEntrez>
+	<StudyNameReportPage>Whole Genome Study for De Novo Mutation Rates</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Parent-Offspring Trios</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Germline mutations are the source of evolution and contribute substantially to many health-related processes. In this study, we use whole genome deep sequencing data from parents-offspring trios to examine the de novo point mutations (DNMs) in the offspring.</p> <p>We studied correlation between parental ages with de novo mutation rates. This study is published in Wong WS, Solomon BD, Bodian DL, Kothiyal P, Eley G, Huddleston KC, Baker R, Thach DC, Iyer RK, Vockley JG, Niederhuber JE. New observations on maternal age effect on germline de novo mutations. Nat Commun. 2016 Jan 19;7:10486 (PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/26781218" target="_blank">26781218</a>. Also, we studied differences in molecular signatures in paternal versus maternal origin of de novo mutations. This study is published in Jakob M. Goldmann, Wendy S.W. Wong, Michele Pinelli, Terry Farrah, Dale Bodian, Anna B. Stittrich, Gustavo Glusman, Lisenka E.L.M. Vissers, Alexander Hoischen, Jared C. Roach, Joseph G. Vockley, Joris A. Veltman, Benjamin D. Solomon, Christian Gilissen, John E. Niederhuber. Parent-of-origin specific signatures of de novo mutations. Nat Genet. 2016 Aug;48(8):935-9, PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27322544" target="_blank">27322544</a>.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion and Exclusion Criteria for Test Group</b></p> <p> <ul> <li>Inclusion Criteria for Mothers <ul> <li>Other than being admitted to the hospital for pre-term birth, the mother is in good general health</li> <li>Pre-term birth includes pregnancies that end between 23 and 36 weeks</li> <li>Age: &#8805; 18 years</li> <li>The study is not race-restricted</li> </ul> </li> <li>Exclusion Criteria for Mothers <ul> <li>Trauma responsible for induction of pre-term labor</li> <li>Transfusion- in the previous six months</li> <li>Thrombophilia</li> <li>Atypical cervix</li> <li>Previous surgery on the cervix</li> <li>Exposure to diethylstilbestrol (DES)</li> <li>History of alcohol abuse during pregnancy</li> <li>History of drug abuse during pregnancy</li> <li>Weight extremes (anorexia, morbid obesity) Body Mass Index (BMI) less than 15 or greater than 35</li> <li>Known exposure to hazardous chemicals (for example: dioxins)</li> <li>Known chromosomal disorders or genetic disease</li> <li>Cancer</li> </ul> </li> <li>Inclusion Criteria for Fathers <ul> <li>Good general health</li> <li>Age: &#8805; 18 years</li> <li>The study is not race-restricted</li> </ul> </li> <li>Exclusion Criteria for Fathers <ul> <li>Non-paternity (if discovered through genotyping, family will be silently dropped from the study as described in the informed consent)</li> <li>Alcohol abuse 3 months prior to date of conception</li> <li>Drug abuse 3 months prior to date of conception</li> <li>Exposure to hazardous chemicals 3 months prior to date of conception</li> <li>Known chromosomal abnormalities or genetic disease</li> <li>Cancer</li> </ul> </li> <li>Inclusion Criteria for Neonates <ul> <li>Babies who are born between 23 and 36 weeks gestation</li> <li>Exclusion Criteria for Neonates</li> <li>Transfusion</li> <li>Known chromosomal or genetic defect</li> <li>Gross anatomic defect</li> </ul> </li> <li>Inclusion Criteria for Multigenerational Family Members <ul> <li>Good general health</li> <li>Age: &#8805; 18 years</li> <li>The study is not race-restricted</li> <li>Positive family history of preterm birth </li> </ul> </li> <li>Exclusion Criteria for Multigenerational Family Members <ul> <li>Non-paternity (if discovered through genotyping, family will be silently dropped from the study as described in the informed consent)</li> </ul> </li> </ul> </p> <p><b>Inclusion and Exclusion Criteria for Control Group</b></p> <p> <ul> <li>Inclusion criteria for mothers <ul> <li>Mother is in good general health</li> <li>Delivery occurs after 36 weeks gestational age</li> <li>Age: &#8805; 18 years</li> <li>The study is not race-restricted</li> </ul> </li> <li>Exclusion criteria for mothers <ul> <li>Transfusion- in the previous six months</li> <li>Thrombophilia</li> <li>Atypical cervix</li> <li>Previous surgery on the cervix</li> <li>Exposure to diethylstilbestrol (DES)</li> <li>History of alcohol abuse during pregnancy</li> <li>History of drug abuse during pregnancy</li> <li>Weight extremes (anorexia, morbid obesity) Body Mass Index less than 15 or greater than 35 </li> <li>Known exposure to hazardous chemicals (for example: dioxins)</li> <li>Known chromosomal disorders or genetic disease</li> <li>Cancer</li> </ul> </li> <li>Inclusion criteria for fathers <ul> <li>Good general health</li> <li>Age: &#8805; 18 years</li> <li>The study is not race-restricted</li> </ul> </li> <li>Exclusion criteria for fathers <ul> <li>Non-paternity (if discovered through genotyping, family will be silently dropped from the study as described in the informed consent)</li> <li>Alcohol abuse 3 months prior to date of conception</li> <li>Drug abuse 3 months prior to date of conception</li> <li>Exposure to hazardous chemicals 3 months prior to date of conception </li> <li>Known chromosomal abnormalities or genetic disease</li> <li>Cancer</li> </ul> </li> <li>Inclusion Criteria for Neonates <ul> <li>Babies who are born after 36 weeks gestation</li> </ul> </li> <li>Exclusion Criteria for Neonates <ul> <li>Transfusion</li> <li>Known chromosomal or genetic defect</li> <li>Gross anatomic defect</li> </ul> </li> </ul> </p> <p><b>Vulnerable and Excluded Populations</b></p> <p> <ul> <li>Vulnerable <ul> <li>Neonates are considered to be a vulnerable population as they do not have the cognitive ability to understand the implications of participating in this study and do not have the ability to communicate their willingness to participate in the study. Thus informed consent is obtained from the mother.</li> </ul> </li> <li>Excluded <ul> <li>HIV infected populations are excluded because of the use of ARV drugs which could potentially be identified as the cause of pre-term birth.</li> <li>Populations exposed to hazardous chemicals to include environmental exposure, alcohol, illegal drugs, and OTC medications that represent a risk to mother or fetus which could potentially be identified as the cause of pre-term birth.</li> <li>Parents and neonates with chromosomal abnormalities or identifiable gene defects as these conditions could potentially be identified as the cause of pre-term birth.</li> </ul> </li> </ul> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26781218"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="27322544"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Preterm Birth"/>
+		<Disease vocab_source="MESH" vocab_term="Paternal Age"/>
+		<Disease vocab_source="MESH" vocab_term="Maternal Age"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Joseph Vockley, PhD</AttName>
+			<Institution>Inova Translational Medicine Institute, Inova Health System, Falls Church, VA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001055.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001055.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001055.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

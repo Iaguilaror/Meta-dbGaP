@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000924.v1.p1" parentStudy="phs000924.v1.p1" createDate="2015-05-29" modDate="2017-05-08">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Kelly Frazer, PhD</td><td>University of California San Diego, CA, USA</td></tr>
+		<tr><td>Funding Source</td><td>HL107442-03</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NextGen Consortium: The iPSCORE (iPSC Collection for Omic Research) Resource</StudyNameEntrez>
+	<StudyNameReportPage>NextGen Consortium: The iPSCORE (iPSC Collection for Omic Research) Resource for studying the impact of genetic variation on molecular and physiological phenotypes</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Control Set</StudyType>
+		<StudyType>Family</StudyType>
+		<StudyType>Twin</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The iPSCORE Resource of human induced pluripotent stem cells (hiPSCs) was created as part of the Next-Gen Consortium funded by the NHLBI. The overarching purpose of the iPSCORE Resource is to provide a large collection of hiPSCs for use in studying the impact of genetic variation on molecular and physiological phenotypes. This Resource is being used in a number of ongoing studies for which genomic data will be generated and deposited into public repositories and linked through dbGaP. A total of 273 individuals have participated in the study for which 222 have had hiPSCs generated from fibroblasts (available through WiCell (<a href="http://www.wicell.org/" target="_blank">http://www.wicell.org/</a>)). Of the 273 individuals, 181 are part of 55 families that include 24 monozygotic twin pairs and 5 dizygotic twin pairs, allowing for the incorporation of familial relationships into genetic analyses. Germline DNA has been sequenced from blood or fibroblast samples for all 273 individuals (see <a href="./study.cgi?study_id=phs001325">phs001325</a>) and other genomic data (RNA-seq, DNA methylation, and genotype arrays) has been generated from the 222 hiPSCs derived from a subset of these individuals (phs000924). Future studies will include differentiation of these hiPSCs to other cell types, including cardiomyocytes, and the generation of additional genomic data.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>The iPSCORE study had three recruiting approaches: 1) We targeted the recruitment of twins (monozygotic and dizygotic) and their immediate families from a southern California twin registry; 2) We worked with physicians to refer subjects (and their family members) into the study based on a diagnosed cardiovascular disease. In all cases where a physician referred an individual, the clinical diagnosis is provided; 3) Through advertisement on the internet and via fliers, we targeted the recruitment of large families, independent of the presence of twins or individuals with cardiovascular disease.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="28388430"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="28388429"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="28410642"/>
+		</Publication>
+		<Publication>
+			<Journal authors="Jakubosky, Matteo D&#39;Antonio, Christopher DeBoever, He Li, Hiroko Matsui, Erin N. Smith, Naoki Nariai, Kelly A. Frazer" title="Discovery, quality analysis and functional characterization of high resolution copy number variants derived from deep whole-genome sequencing data of 273 individuals" journal="In Progress"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Heart Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Cardiovascular Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Healthy Volunteers"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Kelly Frazer, PhD</AttName>
+			<Institution>University of California San Diego, CA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>HL107442-03</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="iPSCORE at UCSD" url="http://frazer.ucsd.edu/charvar.html#cohort"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>Elucidating the functions of regulatory variants is challenging because they often impact cell-specific phenotypes and therefore must be studied in relevant cell types. Projects such as the Roadmap Epigenomics have provided considerable insights into the role of tissue-specific regulatory DNA by identifying chromatin states across a wide number of tissues and cell lines, while <a href="./study.cgi?study_id=phs000424">GTEx</a> has examined how genetic variation affects gene expression, identifying quantitative trait loci (eQTLs) across several human tissue types. However, these studies are limited either by the fact that only a few individuals with different genetic backgrounds were examined (Roadmap Epigenomics) or by the ability to obtain sufficient biological material to perform multiple assays on a given sample (<a href="./study.cgi?study_id=phs000424">GTEx</a>). Therefore, the ability to functionally interrogate genetic variants underlying cell-type specific traits is limited.</p> <p>To overcome this challenge, we have developed the iPSCORE Resource comprising hiPSCs from hundreds of different individuals. We propose to use these hiPSCs to derive a variety of cell types including cardiomyocytes. The derived cell types will then be used as a model system to interrogate the functions of genetic variants associated with cell-type specific molecular and physiological traits. The data to be generated for the iPSC-derived cells will include RNA-seq, ATAC-seq, and DNA methylation arrays.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+		<ConsentGroup groupNum="2" shortName="DS-CMP-MDS" longName="Disease-Specific (Cardiomyopathy, MDS)"/>
+		<ConsentGroup groupNum="3" shortName="DS-CMP-MD-MDS" longName="Disease-Specific (Cardiomyopathy and Mitochondrial Disease, MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <Documents>
+    <Document phd="phd007225.1" type="questionnaire" createDate="2017-04-28" modDate="2017-04-28" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007225.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000924.v1.p1&amp;phd=7225">
+      <OrigName>PATIENTINFORMATIONSHEET.doc</OrigName>
+      <DisplayName>PATIENT INFORMATION SHEET</DisplayName>
+      <Description>PATIENT INFORMATION SHEET</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd007225.1" sectionId="V5">
+      <phvList>
+        <phvRef variableId="292596"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007225.1" sectionId="V6">
+      <phvList>
+        <phvRef variableId="292597"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007225.1" sectionId="V8">
+      <phvList>
+        <phvRef variableId="292595"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007225.1" sectionId="sec1.2">
+      <phvList>
+        <phvRef variableId="292600"/>
+        <phvRef variableId="292601"/>
+        <phvRef variableId="292602"/>
+        <phvRef variableId="292603"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001327.v1.p1" parentStudy="phs001327.v1.p1" createDate="2017-03-07" modDate="2017-08-25">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Co-Principal Investigators</td><td>Gregory T. Armstrong, MD, MSCE</td><td>St. Jude Children&#39;s Research Hospital, Memphis, TN, USA</td></tr>
+		<tr><td>Co-Principal Investigators</td><td>Lindsay M. Morton, PhD</td><td>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Smita Bhatia, MD, MPH</td><td>University of Alabama at Birmingham, Birmingham, AL, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Stephen J. Chanock, MD</td><td>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Leslie L. Robison, PhD</td><td>St. Jude Children&#39;s Research Hospital, Memphis, TN, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Childhood Cancer Survivor Study (CCSS)</StudyNameEntrez>
+	<StudyNameReportPage>Childhood Cancer Survivor Study (CCSS)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p><b>Background and Rationale for the Childhood Cancer Survivor Study (CCSS)</b><br/> Over the last several decades, advances in treatments for childhood and adolescent cancer have substantially improved survival following diagnosis. These improvements gave rise to the responsibility for investigating long-term treatment-associated morbidity and mortality. Early efforts to describe late effects were largely conducted through single-institution and limited consortia studies. However, by the mid-1980s, it became increasingly clear that these approaches had inherent limitations, including small sample size, convenience sampling, incompletely characterized populations, and limited length of follow-up. To overcome these limitations, the CCSS was proposed and funded by the National Cancer Institute (NCI) as a U01 grant in 1994. Subsequently, the strengths of the CCSS, including an efficient and extensive infrastructure, plus expanding database and biorepository, were recognized and appreciated. Thus, in consultation with the NCI, the CCSS was converted to a U24 (resource grant) funding mechanism to serve the scientific community in 2000. <br/> The overarching goal of the CCSS resource is to increase the conduct of innovative and high impact research related to pediatric cancer survivorship. CCSS has been used extensively by researchers from a wide range of disciplines to address a broad spectrum of topics. Strengths of the resource include its large size, comprehensive annotation of treatment exposures, ongoing longitudinal follow-up with characterization of a wide array of participant characteristics and outcomes, and an established biorepository.</p> <p><b>Design of the Childhood Cancer Survivor Study</b><br/> The Childhood Cancer Survivor Study (CCSS) is a multi-institutional, multi-disciplinary collaborative research resource comprised of a retrospective hospital-based cohort of survivors of childhood cancer and a comparison sibling cohort. Eligible survivors from 31 participating institutions were diagnosed between 1970 and 1999, prior to age 21 years, with selected common pediatric cancers (leukemia, central nervous system tumors, Hodgkin lymphoma, non-Hodgkin lymphoma, kidney tumors, neuroblastoma, soft tissue sarcoma, or bone tumors). All patients who survived five years from the date of diagnosis were eligible, regardless of disease or treatment status. The baseline questionnaire was completed by 24,368 survivors and 5,039 siblings recruited to serve as a comparison group. To date, participants have completed three general follow-up surveys, as well as a number of specialized surveys on specific topics (e.g. health care, insurance, screening practices, men&#39;s and women&#39;s health issues, adolescent health, sleep and fatigue). In addition, biological samples (buccal cells, saliva and/or blood) have been collected for over 11,000 participants. Full descriptions of the design and characteristics of the CCSS have been previously published (Robison et al; Leisenring et al.), and available data and samples are described at <a href="https://ccss.stjude.org/develop-a-study/gwas-data-resource.html" target="_blank">https://ccss.stjude.org/develop-a-study/gwas-data-resource.html.</a> </p> <p><b>Treatment Data in the Childhood Cancer Survivor Study</b><br/> A key feature of CCSS is the availability of detailed treatment data, which were collected by abstraction of medical records for each individual member of the cohort. Detailed abstraction included dates of therapy, protocol information, and specific details regarding surgery, chemotherapy and radiation. Quantitative dose details were collected for 22 specific chemotherapeutic agents, including alkylating agents, anthracyclines, platinum compounds and epipodophyllotoxins. In addition to individual agent doses, algorithms have been created to calculate cumulative doses of all drugs in a specific class, such as anthracyclines (doxorubicin, daunomycin and idarubicin) or platinum agents (cisplatinum and carboplatinum). Data abstracted for surgeries included dates and both the names and corresponding International Classification of Diseases (9th revision) code. For radiation treatment data, all relevant records were sent to the Radiation Physics Center at M.D. Anderson Cancer Center for detailed abstraction and dosimetry. Initial body region dosimetry was performed for all participants, followed by more detailed dosimetry as needed for specific studies.</p> <p><b>Genomics Data in the Childhood Cancer Survivor Study</b><br/> The NCI&#39;s Division of Cancer Epidemiology and Genetics and CCSS investigators collaborated to conduct genomics studies using samples from the CCSS Biorepository. Studies included all cohort participants with available DNA regardless of sex or ancestry. </p> <p><b>Phenotype Data in the Childhood Cancer Survivor Study</b><br/> Vital status and cause of death for both participants and non-participants is determined via linkage with the National Death Index (NDI). Identification of subsequent neoplasms is based on self-report, followed by validation using medical records, or via NDI. A wide array of additional health outcomes have been ascertained via a comprehensive set of questions on the CCSS questionnaires, covering potential adverse events across a range of organ systems (hearing/vision/speech, urinary, hormonal, heart and circulatory, respiratory, digestive, brain and nervous systems). In addition to health outcomes, longitudinal data have been collected on demographics, health behaviors, family history, screening practices, insurance status, and a range of psychosocial and neurocognitive factors. A full listing of available variables and copies of the CCSS questionnaires are available at <a href="http://ccss.stjude.org" target="_blank">http://ccss.stjude.org.</a></p> <p><b>Research Areas in the Childhood Cancer Survivor Study</b><br/> Extensive use by the research community has resulted in over 265 published manuscripts on a wide range of topics, including associations between treatment factors and mortality, subsequent neoplasms, chronic health conditions, cardiac events, neurocognitive sequelae, psychosocial factors, fertility, and health status. Additional topics have included health behaviors, screening practices, health care access and utilization, statistical and exposure assessment methodology, and development of risk prediction models. A full listing of published manuscripts using CCSS data is available on the CCSS website at <a href="https://ccss.stjude.org/published-research/publications.html" target="_blank">https://ccss.stjude.org/published-research/publications.html. </a> </p> <p><b>The Childhood Cancer Survivor Study as a Resource for Investigators</b><br/> The CCSS is an NCI-funded resource (U24 CA55727) to promote and facilitate research among long-term survivors of cancer diagnosed during childhood and adolescence. Interested investigators are encouraged to develop research ideas and propose projects within CCSS, whether or not they are from a participating CCSS institution. </p> <p>The CCSS is now accepting proposals to collaborate with CCSS and NCI investigators in the use of genomics data and corresponding outcomes-related data to address innovative research questions relating to potential genetic contributions to risk for treatment-related outcomes. Any researcher, or group of researchers, qualified to conduct genetic research can submit a proposal. There are no restrictions relative to country, institution, or prior involvement in CCSS. A full description of the process for developing a proposal for genetic research in CCSS can be found at <a href="https://ccss.stjude.org/develop-a-study/gwas-data-resource.html" target="_blank">https://ccss.stjude.org/develop-a-study/gwas-data-resource.html,</a> along with listings of approved proposals.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Eligibility criteria for CCSS:</b> <ul><li>Diagnosed at one of 31 participating institutions</li> <li>Diagnosed with childhood cancer (leukemia, central nervous system tumors, Hodgkin lymphoma, non-Hodgkin lymphoma, kidney tumors, neuroblastoma, soft tissue sarcoma, or bone tumors) prior to age 21</li> <li>Diagnosed between January 1, 1970 and December 31, 1999</li> <li>Survived at least five years after primary cancer diagnosis</li></ul></p> <p>Full descriptions of the design and characteristics of the CCSS can be found at:</p> <p>Robison LL, Mertens AC, Boice JD, et al. (2002) Study design and cohort characteristics of the Childhood Cancer Survivor Study: a multi-institutional collaborative project. Med Pediatr Oncol 38(4):229-39. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=11920786" target="_blank">PMID:11920786</a></p> <p>Leisenring WM, Mertens AC, Armstrong GT, et al. (2009) Pediatric cancer survivorship research: experience of the Childhood Cancer Survivor Study. J Clin Oncol 27(14):2319-27. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=19364957" target="_blank">PMID:19364957</a> </p> <p><b>Eligibility criteria for genotyping:</b> <ul><li>Participant in CCSS</li> <li>signed consent and provided a DNA sample (blood, buccal, saliva)</li> <li>Sufficient quantity and quality of DNA at the time the genomics study was initiated.</li></ul> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="11920786"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19364957"/>
+		</Publication>
+		<Publication>
+			<Journal authors="Lindsay M. Morton,      Joshua N. Sampson,       Gregory T. Armstrong,       Ting-Huei Chen,       Melissa M. Hudson,       Eric Karlins,       Casey L. Dagnall,             Shengchao Alfred Li,       Carmen L. Wilson,       Deo Kumar Srivastava,       Wei Liu,       Guolian Kang,       Kevin C. Oeffinger,       Tara O. Henderson,       Chaya S. Moskowitz,       Todd M. Gibson,       Diana M. Merino,       Jeannette R. Wong,       Sue Hammond,       Joseph P. Neglia,       Lucie M. Turcotte,       Jeremy Miller,       Laura Bowen,       William A. Wheeler,       Wendy M. Leisenring,       John A. Whitton,       Laurie Burdette,       Charles Chung,       Belynda D. Hicks,       Kristine Jones,       Mitchell J. Machiela,       Aurelie Vogt,       Zhaoming Wang,       Meredith Yeager,       Geoffrey Neale,       Matthew Lear,       Louise C. Strong,       Yutaka Yasui,       Marilyn Stovall,       Rita E. Weathers,       Susan A. Smith,       Rebecca Howell,       Stella M. Davies,       Gretchen A. Radloff,       Kenan Onel,       Amy Berrington de Gonz&#225;lez       Peter D. Inskip,       Preetha Rajaraman,       Joseph F. Fraumeni, Jr.,       Smita Bhatia,       Stephen J. Chanock,       Margaret A. Tucker,       Leslie L. Robison" title="Genome-Wide Association Study to Identify Susceptibility Loci That Modify Radiation-Related Risk for Breast Cancer After Childhood Cancer" journal="Journal of the National Cancer Institute, 2017 November 1; 109 (11) (in press)"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Neoplasm"/>
+		<Disease vocab_source="MESH" vocab_term="Disorder of cardiovascular system"/>
+		<Disease vocab_source="MESH" vocab_term="Metabolic disease"/>
+		<Disease vocab_source="MESH" vocab_term="Decreased fertility"/>
+		<Disease vocab_source="MESH" vocab_term="Heart Failure"/>
+		<Disease vocab_source="MESH" vocab_term="Stroke"/>
+		<Disease vocab_source="MESH" vocab_term="Cognitive impairment"/>
+		<Disease vocab_source="MESH" vocab_term="Chronic lung disease"/>
+		<Disease vocab_source="MESH" vocab_term="Obesity"/>
+		<Disease vocab_source="MESH" vocab_term="Kidney dysfunction"/>
+		<Disease vocab_source="MESH" vocab_term="Disorder of bone"/>
+		<Disease vocab_source="MESH" vocab_term="Dwarfism, Pituitary"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Co-Principal Investigators">
+			<AttName>Gregory T. Armstrong, MD, MSCE</AttName>
+			<Institution>St. Jude Children&#39;s Research Hospital, Memphis, TN, USA</Institution>
+		</Header>
+		<Header title="Co-Principal Investigators">
+			<AttName>Lindsay M. Morton, PhD</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Smita Bhatia, MD, MPH</AttName>
+			<Institution>University of Alabama at Birmingham, Birmingham, AL, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Stephen J. Chanock, MD</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Leslie L. Robison, PhD</AttName>
+			<Institution>St. Jude Children&#39;s Research Hospital, Memphis, TN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Joshua N. Sampson, PhD</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Margaret A. Tucker, MD</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U24 CA55727</AttName>
+			<Institution>NCI Intramural Program, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="CCSS" url="https://ccss.stjude.org/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p>1992 - baseline survey mailing begins for original cohort (survivors diagnosed 1970-1986)<br/> 2000 - first follow-up questionnaire mailing begins<br/> 2002 - second follow-up questionnaire mailing begins<br/> 2005 - third follow-up questionnaire mailing begins<br/> 2007 - fourth follow-up questionnaire mailing begins<br/> 2008 - baseline survey mailing begins for expanded cohort (survivors diagnosed 1986-1999) </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-MDS" longName="Health/Medical/Biomedical (MDS)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001327.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001327.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001327.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical (MDS)</ConsentName>
+        <ConsentAbbrev>HMB-MDS</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001011.v1.p1" parentStudy="phs001011.v1.p1" createDate="2015-10-23" modDate="2016-06-20">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>John.B. Harley, MD (Cytogenetics-Obesity, FSR,DSR, CLRR)</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Marc Rothenberg, MD, PhD (EoE)</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Sources</td><td>U01HG006828</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Sources</td><td>U01HG008666</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Sources</td><td>5U19AI066738 (EoE)</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>CCHMC-eMERGE-Phase IIIA</StudyNameEntrez>
+	<StudyNameReportPage>Cincinnati Children&#39;s Hospital Medical Center (CCHMC)-eMERGE Phase IIIA Data</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cohort</StudyType>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>This submission includes genotyping or sequencing data from separate cohorts, each is described in separate paragraphs below.</p> <p><u><b>Extreme early onset obesity</b></u></p> <p>Obesity is a serious epidemic condition and on the rise in the United States. Today, nearly one out of three children is overweight or obese in this country. According to the Center for Disease Control, 35.7% of American adults and 17% of American children are obese. The medical costs associated with obesity are estimated to be in the billions. Without a doubt, interplay of additive genetic effects and common environmental effects influence this complex disease. However, despite being exposed to so-called "obesogenic environment", a large proportion of the population remains of normal weight. These observations suggest that innate, non-environmental, factors make some individuals more susceptible to obesity providing support for biological mechanisms, and thus genetic factors, to underlie the individual&#39;s response to the obesogenic environment. In young children with severe obesity the relative role of genetics and in utero programming are likely to outweigh the short duration of environmental and lifestyle exposures. This group is therefore an ideal one to study as they are likely enriched for variants that influence the risk of developing obesity. The purpose of this project is to further study and understand obesity in childhood and to develop a repository of samples for future studies into obesity.</p> <p><u><b>Eosinophilic Esophagitis (EoE)</b></u></p> <p>Eosinophilic Esophagitis (EoE) is one of the manifestations of eosinophilic gastrointestinal inflammation which have profound effects on a patient&#39;s health and development. Results of epidemiologic studies performed through our center demonstrate that eosinophil-associated gastrointestinal disease is not an uncommon entity. While the epidemiology of eosinophilic esophagitis has not been thoroughly studied until recently, there appears to be a significant increase in the diagnosis of EoE in the last decade. Based on our research, this mainly reflects increased disease recognition, but there is also a bona-fide increase in disease incidence which coincides with the increasing incidence of asthma and allergic diseases in the industrialized world. In addition, many patients with intractable symptoms thought in the past to represent atypical GERD or other disorders are now being recognized as having EoE. Diagnosis of EoE requires endoscopy and biopsies to document the characteristic histologic findings of esophageal eosinophilia. In general, this study proposed to elucidate the mechanisms underlying eosinophil growth, survival, migration, and function, and to investigate and further characterize the pathophysiology of, clinical manifestations of, and spectrum of disease severity of eosinophilic esophagitis in humans. The de-identified genotyping and genome wide association data generated as part of this research will be used for further genome research.</p> <p><u><b>Familial Sample Repository (FSR) and Directed Sample Repository (DSR)</b></u></p> <p><i>De novo</i> mutations could cause many diseases, which has been demonstrated in mental retardation, autism and many rare genetic disorders. Family-based studies have a variety of advantages over case/control studies, including the elimination of analysis artifacts related to population stratification, the detection of genes that act through a recessive mechanism of inheritance and validation that the trait is not transmitted from a parent, something not possible using a case/control design. Additionally, DNA from families can be used to identify <i>de novo</i> mutations suggesting strong candidate causal polymorphisms. For this project, samples will be collected from families on an on-going basis. Families may be recruited because the patient either has a disease which is thought to be of genetic origin or from the general patient population to serve as controls or future identified diseases. Some phenotypes under study include Fibroblastic Rheumatism, Diaphragmatic hernia, Polymicrogyria, Severe Congenital neutropenia, Primary Sclerosing Cholangitis and Staph infection.</p> <p><b><u>CLRR-Cincinnati Lupus Registry and Repository</u></b></p> <p>Systemic lupus erythematosus (SLE) is a complex, partially understood autoimmune disorder. Genetic origins for SLE are supported by high heritability (&#62; 66%), familial aggregation, increased monozygotic twin concordance, genetic linkages, and candidate gene genetic association, including HLA genes, Fc receptors, and complement components. Relevant environmental factors likely include infections (Epstein-Barr virus), therapeutics, personal habits (smoking), and diet. To continue a research resource facility for collection of well-characterized pedigrees containing a proband with systemic lupus erythematosus we develop this repository.</p> <p><b><u>Juvenile Idiopathic Arthritis (JIA)</u></b></p> <p>Juvenile Idiopathic Arthritis (JIA) is a debilitating complex genetic disorder characterized by inflammation of the joints and other tissues and shares histopathological features with other autoimmune diseases. It is considered complex genetic traits. There are more than 50,000 children with JIA in the USA, approximately 1 per 1000 births, which is about the same incidence as juvenile diabetes. It is believed that genes in the major histocompatibility complex (MHC) play a role in defining genetic risk, and it can be hypothesized that loci in other chromosomal regions are involved in conferring risk in JIA. These candidate chromosomal regions can be identified using genome-wide association analyses. The long-term goal is a comprehensive understanding of the genetic basis of these disabling arthropathies for which the molecular basis is not presently understood. These data will contribute to a national resource for the study of autoimmunity in children.</p> <p><b><u>Better Outcomes for Children-Cytogenetics</u></b></p> <p>Since 2007, more than 4000 samples, enriched with various rare or common genetic diseases as well as specific chromosomal abnormalities such as deletions and duplications have been genotyped for the purpose of subsequent GWAS and Phewas analyses and uncovering main genetic effects.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><u><b>Extreme early onset obesity</b></u></p> <p>Using natural language processing we have developed and validated an NLP algorithm to detect cases and controls for extreme childhood obesity. Details of this algorithm can be found on the emerge network page (<a href="https://phekb.org/">https://phekb.org</a>), briefly:</p> <p>Case inclusion:</p> <ol> <li>Height/Weight measurement is available for same day</li> <li>Age (in days at time of measurement): &#62; 365 days and &#60; 2190 days</li> <li>2 or more BMI measurement &#62;= 99th percentile</li> <li>More than 50% of BMI Measurements &#62; 76th percentile</li> </ol> <p>Control inclusion:</p> <ol> <li>Age (in days) at measurement &#62; 1460 and &#60; 2920</li> <li>All BMI Measurements are &#62;=5th percentile and &#60;= 85th percentile</li> </ol> <p>The determination of the BMI-for-age percentile is according to CDC criteria or WHO criteria.</p> <p><u><b>Eosinophilic Esophagitis (EoE)</b></u></p> <p>Individuals need to meet at least one criterion from the list below in order to be included in the original study. Background information is required to analyze the data thoroughly including medical history, slides, and pathology reports, as well as information from CCHMC medical records:</p> <ol> <li>Patients undergoing diagnostic endoscopy, colonoscopy, venipuncture, and/or atopy testing at Cincinnati Children&#39;s Hospital Medical Center</li> <li>Patients cared for in CCHMC clinics, for example, Allergy/Immunology and Gastroenterology</li> <li>Participants will be no younger than one year of age and no older than 65 years of age</li> <li>Family members of patients diagnosed with an eosinophilic disorder</li> <li>Healthy human volunteers, including employees recruited from the laboratories at Cincinnati children research foundation and the Cincinnati Genomic Control Cohort.</li> </ol> <p><b><u>Familial Sample Repository (FSR) and Directed Sample Repository (DSR)</u></b></p> <p>Consistent with the hypothesis described above, this two studies will broadly target CCHMC patients (and their families) with suspected de novo genetic mutations predisposing them to physical developmental abnormalities, mental retardation, seizures, pulmonary dysfunction, and idiopathic inflammatory diseases, and the other disorders evaluated that can be identified with exome sequencing.</p> <p><b><u>CLRR-Cincinnati Lupus Registry and Repository</u></b></p> <p>The recruitment of subjects include Patients with lupus (affected) and non-affected family members enrolled through referrals from physicians and patients. To be enrolled as an affected, an individual is required to have a diagnosis that satisfies the 1982 American College of Rheumatology&#39;s criteria for the classification SLE as revised in 1997.</p> <p><b><u>Juvenile Idiopathic Arthritis (JIA)</u></b></p> <p>The overriding criteria for selection of all patients is the diagnosis of JIA according to the ACR criteria.</p> <p>Inclusion criteria for New Onset disease: </p> <ol> <li>No prior disease-remitting treatment</li> <li>Subject and/or parent or legal guardian must be willing to sign consent/assent forms</li> <li>Disease onset for less than 10 months (JIA) (If duration exceeds 10 months and the patient is about to start MTX therapy, enroll and contact the coordinating center for an exemption.)</li> <li>Patient has an established or probable diagnosis of pauciarticular, polyarticular or systemic onset JIA as determined by ACR criteria.</li> <li>Patient must have joints with active arthritis as defined by ACR or signs/symptoms of systemic JRA.</li> </ol> <p>Exclusion criteria for New Onset disease:</p> <ol> <li>Prior treatment with a DMARD</li> <li>Any uncontrolled, clinically significant pre-existing systemic disease, unrelated to the primary rheumatic disease, including hepatic, renal, neurological, endocrine, cardiac, gastrointestinal or hematologic diseases.</li> <li>The patient has a history or current substance abuse or psychiatric problem that, in the investigator&#39;s opinion, would interfere with the ability to give informed consent or comply with study requirements or physician instructions.</li> </ol> <p>Inclusion Criteria for Existing disease: </p> <ol> <li>Subject and/or parent or legal guardian must be willing to sign consent/assent forms</li> </ol> <p>Exclusion Criteria for Existing disease:</p> <ol> <li>Any uncontrolled, clinically significant pre-existent and systemic disease, hepatic, renal, neurological, endocrine, cardiac, gastrointestinal or hematologic diseases. Past or current substance abuse or psychiatric history that would interfere with the ability to give informed consent or comply with study requirements or physician instructions.</li> </ol> <p><b><u>Better Outcomes for Children-Cytogenetics</u></b></p> <p>A collection of pediatric samples with diagnoses of various developmental or genetic abnormalities (rare or common diseases) have been selected for high throughput SNP genotyping.</p><p></p> <p></p> <p></p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="24348519"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25477900"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8784786"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="8687456"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="20620568"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="10555018"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22354554"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="NA"/>
+		<Disease vocab_source="MESH" vocab_term="Arthritis, Juvenile"/>
+		<Disease vocab_source="MESH" vocab_term="Child Development Disorders, Pervasive"/>
+		<Disease vocab_source="MESH" vocab_term="Cholangitis, Sclerosing"/>
+		<Disease vocab_source="MESH" vocab_term="Developmental Disabilities"/>
+		<Disease vocab_source="MESH" vocab_term="Eosinophilic Esophagitis"/>
+		<Disease vocab_source="MESH" vocab_term="Hernia, Diaphragmatic"/>
+		<Disease vocab_source="MESH" vocab_term="Infection"/>
+		<Disease vocab_source="MESH" vocab_term="Lupus Erythematosus, Systemic"/>
+		<Disease vocab_source="MESH" vocab_term="Neutropenia"/>
+		<Disease vocab_source="MESH" vocab_term="Pediatric Obesity"/>
+		<Disease vocab_source="MESH" vocab_term="Polymicrogyria"/>
+		<Disease vocab_source="MESH" vocab_term="Rheumatic Diseases"/>
+		<Disease vocab_source="MESH" vocab_term="Staphylococcus aureus"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>John.B. Harley, MD (Cytogenetics-Obesity, FSR,DSR, CLRR)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Marc Rothenberg, MD, PhD (EoE)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01HG006828</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01HG008666</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>5U19AI066738 (EoE)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>N01AR42272 (JIA)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>P01AR048929 (JIA)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p><u><b>Extreme early onset obesity</b></u></p> <p>We have previously reported significant evidence of association of a number of genes in pediatrics BMI and confirm the previous findings and demonstrate that the BMI-percentile measurements can be successfully extracted from electronic medical records and linked to genomic data with meaningful confirmatory results. (Namjou et al 2013, <a href="http://www.ncbi.nlm.nih.gov/pubmed/24348519">PMID: 24348519</a>). </p> <p><u><b>Eosinophilic Esophagitis (EoE)</b></u></p> <p>Although the etiology of EoE is unknown, several lines of evidence support an allergic cause, including the high incidence of atopy in patients with EoE, the improvement in patient symptoms on an allergen-free diet, and the common findings of mast cell degranulation and mediators in tissue and stool samples. Prior work done in this area has focused on learning more about the biology of the eosinophil in vitro. One molecule that appears to be important in regulating eosinophilia is IL-5. This cytokine regulates the selective growth and differentiation of eosinophil progenitor cells and the post-mitotic survival and activation of mature eosinophils. Another molecule is eotaxin and its related family members eotaxin-2 and eotaxin-3, a set of eosinophil-specific chemokines. Previously, we have shown that EoE appears to have a strong genetic component based on the frequent presence of a familial inheritance pattern and the high sibling risk ratio (~80-fold). Based on screening a custom DNA array containing 738 SNPs, we have identified an association of EoE with SNPs associated with the gene encoding thymic stromal lymphopoietin (TSLP), a key cytokine known to regulate Th2 cell polarization. Notably, using an independent genome wide association study (GWAS) approach, we have preliminarily linked EoE with the same promising genetic locus (chromosome 5q22 near the TSLP and WDR36 genes). Our central hypothesis is that EoE has strong genetic components that can be elucidated by a candidate gene approach focused on genes involved in asthma and allergy and by a GWAS analysis.</p> <p><u><b>Familial Sample Repository (FSR) and Directed Sample Repository (DSR)</b></u></p> <p>Next Generation DNA sequencing has already demonstrated impressive clinical utility with molecular diagnosis. We have identified potential and interesting findings as a result of these sequencing data that require further confirmation. Ideally, this kind of personalized medicine would help identify a specific efficacious therapy. The deeper understanding of the molecular defects present in the patient introduces new possibilities for therapeutic intervention.</p> <p><b><u>Juvenile Idiopathic Arthritis (JIA)</u></b></p> <p>Prior studies have focused on both genes and gene expression in JIA with both subtype specific differences being demonstrated. The genome effect initially focused on the MHC (or HLA region) and several associations have been described and the field reviewed. Age sensitivity of these genetic effects is substantial. With the accumulation of multiplex as well as simplex JIA families we were able to study linkage between JIA and HLA and this has been demonstrated for both pauciarticular and polyarticular onset disease. While non-MHC genes to date have proven harder to find than were the HLA region genes, several candidate genes have been identified, a T cell receptor null gene (V&#223;6.1) and more recently cytokine gene effects for IL6 and IL4 have been documented.</p> <p><b><u>Better Outcomes for Children-Cytogenetics</u></b></p> <p>Some of phenotypes that have been actively under evaluation in this cohort include Autism and extreme obesity and BMI. As part of eMERGE phase 2, we have developed and validated a number of NLP algorithms, implement these algorithms in this dataset and identify potential cases and controls with high positive predicative values. We plan to expand and continue those efforts in these new datasets. </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-COL" longName="General Research Use (IRB, COL)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001011.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001011.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001011.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB, COL)</ConsentName>
+        <ConsentAbbrev>GRU-IRB-COL</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Requestor must provide a letter of collaboration with the primary study investigator(s).</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

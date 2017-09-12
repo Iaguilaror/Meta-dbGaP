@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001188.v1.p1" parentStudy="phs001188.v1.p1" createDate="2016-08-12" modDate="2017-06-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Michael Boehnke</td><td>University of Michigan, Ann Arbor, MI, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Francis Collins</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Karen Mohlke</td><td>University of North Carolina, Chapel Hill, NC, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Michael Stitzel</td><td>The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Stephen Parker</td><td>University of Michigan, Ann Arbor, MI, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>The FUSION Study - Islet Expression and Regulation</StudyNameEntrez>
+	<StudyNameReportPage>The Finland-United States Investigation of NIDDM Genetics (FUSION) Study - Islet Expression and Regulation by RNAseq and ATACseq</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Control Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>We analyzed mRNA extracted from pancreatic islets obtained from 31 deceased donors, along with genome-wide genotypes, and open chromatin information obtained from ATAC-seq experiments on two additional islet samples. 2500-5000 islet equivalents (IEQ) from each islet distribution were harvested for RNA isolation. 500-1000 IEQ were cultured as in Gershengorn (Science, 2004; PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/15564314" target="_blank">15564314</a>); genomic DNA isolated from islet cultures was used for genotyping. Messenger RNA was isolated using trizol extraction in the Collins lab at the NIH. The RNA was poly-A selected and 12-plex libraries were generated using the Illumina TruSeq directional mRNA-seq library protocol. RNA sequencing was performed on HiSeq2000 sequencers using 101bp paired-end reads at the NIH Intramural Sequencing Center (NISC). Genotyping on the Illumina Omni2.5M array was performed at the Genetic Resources Core Facility of the Johns Hopkins Institute of Genetic Medicine. Genotypes were imputed using the 1000 Genomes phase3 release 5 reference panel.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Islet samples from deceased donors were obtained from the Integrated Islet Distribution Program (IIDP), the National Disease Research Interchange (NDRI), and ProdoLabs.</p> <p>For RNAseq and eQTL analysis, we excluded individuals with non-European ancestry. Post-sequencing, two samples that failed RNAseq quality control procedures and one that was an outlier in genotype principal component analysis were removed from the study.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Journal authors="Varshney, et al." title="Genetic regulatory signatures underlying islet gene expression and type 2 diabetes" journal="PNAS, under review"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25201977"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Diabetes Mellitus, Type 2"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Michael Boehnke</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Francis Collins</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Karen Mohlke</AttName>
+			<Institution>University of North Carolina, Chapel Hill, NC, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Michael Stitzel</AttName>
+			<Institution>The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Stephen Parker</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Mike Erdos</AttName>
+			<Institution>National Human Genome Research Institute (NHGRI), National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Arushi Varshney</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Laura Scott</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Ryan Welch</AttName>
+			<Institution>University of Michigan, Ann Arbor, MI, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Lori Bonnycastle</AttName>
+			<Institution>National Human Genome Research Institute (NHGRI), National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Peter Chines</AttName>
+			<Institution>National Human Genome Research Institute (NHGRI), National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Sequencing Center">
+			<AttName>NIH Intramural Sequencing Center (NISC)</AttName>
+			<Institution>National Institutes of Health (NIH) Intramural Sequencing Center, Rockville, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Z1AHG0000024</AttName>
+			<Institution>National Human Genome Research Institute (NHGRI) Intramural, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Z1BHG0000196</AttName>
+			<Institution>National Institutes of Health (NIH) Intramural Sequencing Center, Rockville, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>5R00DK092251 (to Michael Stitzel)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R00DK099240 (to Steve Parker)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01DK093757 (to Karen Mohlke)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01DK105561 (to Karen Mohlke)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01DK072193 (to Karen Mohlke)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01DK062370 (to Michael Boehnke)</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>1-14-INI-07 (American Diabetes Association Pathway to Stop Diabetes Grant, to Steve Parker)</AttName>
+			<Institution>American Diabetes Association, Alexandria, VA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <Documents>
+    <Document phd="phd007269.1" type="protocol" createDate="2017-06-27" modDate="2017-06-27" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007269.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001188.v1.p1&amp;phd=7269">
+      <OrigName>DescriptionOfMetaAnalysisDataset.pdf</OrigName>
+      <DisplayName>Description of Meta Analysis Dataset</DisplayName>
+      <Description>Description of Meta Analysis Dataset</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

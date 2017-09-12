@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001265.v1.p1" parentStudy="phs001265.v1.p1" createDate="2017-01-05" modDate="2017-06-07">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>David J. Hunter, ScD</td><td>Harvard T.H. Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Peter Kraft, PhD</td><td>Harvard T.H. Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Sara Lindstr&#246;m,PhD</td><td>Harvard T.H. Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigators</td><td>Douglas F. Easton, PhD</td><td>University of Cambridge, Cambridge, UK</td></tr>
+		<tr><td>Genotyping Center</td><td>Center for Inherited Disease Research (CIDR)</td><td>Johns Hopkins University, Baltimore, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>DRIVE Breast Cancer OncoArray Genotypes</StudyNameEntrez>
+	<StudyNameReportPage>Discovery, Biology, and Risk of Inherited Variants in Breast Cancer (DRIVE) - OncoArray Genotypes</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+		<StudyType>Family</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Discovery, Biology, and Risk of Inherited Variants in Breast Cancer (DRIVE) was one of five projects funded in 2010 as part of the NCI&#39;s Genetic Associations and Mechanisms in Oncology (GAME-ON) initiative (<a href="http://epi.grants.cancer.gov/gameon/">http://epi.grants.cancer.gov/gameon/</a>). GAME-ON&#39;s overall goal was to foster an intra-disciplinary and collaborative approach to the translation of promising research leads deriving from the initial wave of cancer GWAS. Specific goals included replication of previous GWAS findings and identification of new susceptibility loci through meta analyses of existing GWAS data and fine mapping of identified loci to better pinpoint causal variants; and identify germline variants that are associated with risk of multiple cancers. The other four funded GAME-ON projects were: the ColoRectal TransdisciplinaryStudy (CORECT), Elucidating Loci Involved in Prostate Cancer Susceptibility (ELLIPSE), Follow-up of Ovarian Cancer Genetic Association and Interaction Study (FOCI), and Transdisciplinary Research in Cancer of the Lung (TRICL).</p> <p>To identify additional cancer risk loci, improve the precision of fine-mapping, and facilitate cross-cancer analyses, the GAME-ON projects and other consortia formed the OncoArray network (<a href="http://epi.grants.cancer.gov/oncoarray/">http://epi.grants.cancer.gov/oncoarray/</a>), which developed and genotyped a new custom genotyping array (the "OncoArray") in large numbers of cancer cases and controls (over 400,000 samples). The OncoArray is a custom array manufactured by Illumina. The array includes a backbone of approximately 260,000 SNPs that provide genome-wide coverage of most common variants, together with markers of interest for each of the five GAME-ON cancers identified through genome-wide association studies (GWAS), fine-mapping of known susceptibility regions, sequencing studies, and other approaches. The array also includes loci of interest identified through studies of other cancer types, and other loci of interest to multiple cancer types (including loci associated with cancer related phenotypes, drug metabolism and radiation response). Additionally, SNPs relating to quantitative phenotypes such as body mass index (BMI), height, and breast density that correlate with common cancer risks are also included.</p> <p>The DRIVE data included under this dbGAP submission include OncoArray data from 60,015 breast cancer cases and controls genotyped at the Center for Inherited Disease Research (CIDR), University of Cambridge, National Cancer Institute, University of Copenhagen, University of Southern California and Mayo Clinic. Details on an additional approx. 80,000 breast cancer cases and controls genotyped at other centers can be found at <a href="http://bcac.ccge.medschl.cam.ac.uk/bcacdata/oncoarray/">http://bcac.ccge.medschl.cam.ac.uk/bcacdata/oncoarray/</a>. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>This project includes OncoArray data from 60,231 breast cancer cases and controls that were genotyped at the Center for Inherited Disease Research. These subjects were drawn from seventeen studies, listed below, and were not excluded based on any of the following criteria: genotyping data call rate &#60; 90%; genotyping data discordant from same sample&#39;s previous data (where available); duplicates within a study; male or gender unclear (XO, XXY); extreme heterozygosity in genotype data; phenotype and/or genotype data not consented for sharing via dbGAP.</p> <p>This project includes data on subjects from the following studies: The Two Sister Study (2SISTER); Breast Oncology Galicia Network (BREOGAN); Copenhagen General Population Study (CGPS); Cancer Prevention Study-II Nutrition Cohort (CPSII); European Prospective Investigation Into Cancer and Nutrition (EPIC); Melbourne Collaborative Cohort Study (MCCS); Multiethnic Cohort (MEC); Nashville Breast Health Study (NBHS); Nurses Health Study (NHS); Nurses Health Study 2 (NHS2); NCI Polish Breast Cancer Study (PBCS); The Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial (PLCO); Study of Epidemiology and Risk factors in Cancer Heredity (SEARCH); The Sister Study (SISTER); Swedish Mammography Cohort (SMC); Women of African Ancestry Breast Cancer Study (WAABCS); and the Women&#39;s Health Initiative (WHI)</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27697780"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Breast Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>David J. Hunter, ScD</AttName>
+			<Institution>Harvard T.H. Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Peter Kraft, PhD</AttName>
+			<Institution>Harvard T.H. Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Sara Lindstr&#246;m,PhD</AttName>
+			<Institution>Harvard T.H. Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Douglas F. Easton, PhD</AttName>
+			<Institution>University of Cambridge, Cambridge, UK</Institution>
+		</Header>
+		<Header title="Genotyping Center">
+			<AttName>Center for Inherited Disease Research (CIDR)</AttName>
+			<Institution>Johns Hopkins University, Baltimore, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>HHSN268201200008I, NIH contract &quot;High throughput genotyping for studying the genetic contributions to human disease&quot;</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U19 CA148065</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>X01 HG007491</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="EGRP" url="http://epi.grants.cancer.gov/oncoarray/"/>
+		<Url name="BCAC" url="http://bcac.ccge.medschl.cam.ac.uk/bcacdata/oncoarray/"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="CADM" longName="Cancer in all age groups, other diseases in adults only, and methods"/>
+		<ConsentGroup groupNum="2" shortName="DS-BROC" longName="Disease-Specific (Breast and Ovarian cancer)"/>
+		<ConsentGroup groupNum="3" shortName="DS-BRCA-PUB" longName="Disease-Specific (Breast Cancer, PUB)"/>
+		<ConsentGroup groupNum="4" shortName="DS-BCEMOPCA-NPU-MDS" longName="Disease-Specific (Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer, NPU, MDS)"/>
+		<ConsentGroup groupNum="5" shortName="DS-BOED-MDS" longName="Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS)"/>
+		<ConsentGroup groupNum="6" shortName="DS-CA" longName="Disease-Specific (Cancer)"/>
+		<ConsentGroup groupNum="7" shortName="DS-CA-NPU-GSO" longName="Disease-Specific (Cancer, NPU, GSO)"/>
+		<ConsentGroup groupNum="8" shortName="GRU" longName="General Research Use"/>
+		<ConsentGroup groupNum="9" shortName="HMB-PUB" longName="Health/Medical/Biomedical (PUB)"/>
+		<ConsentGroup groupNum="10" shortName="HMB-PUB-NPU" longName="Health/Medical/Biomedical (PUB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001265.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001265.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001265.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Cancer in all age groups, other diseases in adults only, and methods</ConsentName>
+        <ConsentAbbrev>CADM</ConsentAbbrev>
+        <UseLimitation>The informed consent document signed by the study participants allows use of these data by investigators for discovery and hypothesis generation in the investigation of the genetic contributions to cancer in all age groups and other diseases in adults only, as well as development of novel analytical approaches for GWAS.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Breast and Ovarian cancer)</ConsentName>
+        <ConsentAbbrev>DS-BROC</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Breast and Ovarian cancer.
+Data CANNOT be used for general methods development research.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Disease-Specific (Breast Cancer, PUB)</ConsentName>
+        <ConsentAbbrev>DS-BRCA-PUB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Breast Cancer.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Disease-Specific (Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer, NPU, MDS)</ConsentName>
+        <ConsentAbbrev>DS-BCEMOPCA-NPU-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Breast, Colorectal, Endometrial, Melanoma, Ovarian, and/or Prostate Cancer.
+Use of the data is limited to not-for-profit organizations.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="5">
+        <ConsentName>Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS)</ConsentName>
+        <ConsentAbbrev>DS-BOED-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Breast, Ovarian, or Endometrial Disease.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="6">
+        <ConsentName>Disease-Specific (Cancer)</ConsentName>
+        <ConsentAbbrev>DS-CA</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="7">
+        <ConsentName>Disease-Specific (Cancer, NPU, GSO)</ConsentName>
+        <ConsentAbbrev>DS-CA-NPU-GSO</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.
+Use of the data is limited to not-for-profit organizations.
+Use of the data is limited to genetic studies only.
+General methods development research is NOT permitted.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="8">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="9">
+        <ConsentName>Health/Medical/Biomedical (PUB)</ConsentName>
+        <ConsentAbbrev>HMB-PUB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor agrees to make results of studies using the data available to the larger scientific community.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="10">
+        <ConsentName>Health/Medical/Biomedical (PUB, NPU)</ConsentName>
+        <ConsentAbbrev>HMB-PUB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

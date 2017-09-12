@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001295.v1.p1" parentStudy="phs001295.v1.p1" createDate="2017-02-10" modDate="2017-06-29">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>John Day, MD, PhD</td><td>Stanford University, Stanford, CA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Michael Shy, MD</td><td>University of Iowa Health Care, Iowa City, IA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Jeffrey Krischer, PhD</td><td>Data Management and Coordinating Center, University of South Florida, Tampa, FL, USA</td></tr>
+		<tr><td>Study Chairs</td><td>Sindhu Ramchandren, MD</td><td>Wayne State University, Detroit, MI, USA</td></tr>
+		<tr><td>Study Chairs</td><td>Denise Shereff</td><td>University of South Florida College of Medicine, Tampa, FL, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>INC Contact Registry Study</StudyNameEntrez>
+	<StudyNameReportPage>Development and Validation of a Disability Severity Index for Charcot-Marie-Tooth Disease (CMT)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Cross-Sectional</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>In Charcot-Marie-Tooth Disease (CMT) or inherited neuropathy research studies, it is the researcher who has selected what they believe to be important markers of impairment in function in patients. For example, it has been inferred that the wearing of ankle-foot-orthosis (AFOs), the use of walking aids such as canes, or the use of wheelchairs, are appropriate markers for &#8220;mild&#8221;, &#8220;moderate&#8221; or &#8220;severe&#8221; disability, respectively. Whether patients agree with this classification is unknown. By understanding what patients classify as mild, moderate and severe disability in CMT, we will know what our treatments need to target, to have a meaningful impact on the patients&#39; functional status. </p> <p><u>Primary objective:</u> The purpose of this study is to compare patient and healthcare provider impressions of what constitutes mild, moderate and severe disability in CMT. Target population: 200 patients who have self-registered at the Inherited Neuropathy Consortium Contact Registry, a web-based contact registry developed and supported by the Data Management and Coordinating Center (DMCC) for the Rare Diseases Clinical Research Consortium (RDCRN), located at the University of South Florida, and 200 health care professionals attending conferences about CMT, such as the 4th International CMT Consortium to be held in Potomac, Maryland, June 29-July 1, 2011 and the MDA Clinic Directors meeting in Las Vegas, NV March 4-7, 2012. </p> <p><u>Methods:</u> A brief, anonymous, 20-item survey, in which we measure what the physician and the patient think are important indicators of disability in CMT, will be distributed by paper to 200 health care professionals, and via an online link to 200 patients self-registered with the RDCRN contact registry. Out of the 200 patients, approximately 25 patients will be requested to take the survey twice in a 2 to 4 week period.</p> <p><u>Analysis:</u> We will measure the agreement between items in the physician and patient groups, and use items with high agreement in a Disability Severity Index. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion Criteria</b></p> <p>(a) Patients with CMT ages 8-100 - Eligible patients will be patients that have joined the INC RDCRN Contact Registry. These will be patients or guardians with known or probable inherited neuropathies.</p> <p>(b) Health care professionals who take care of patients with CMT - Eligible health care professionals who participate in the care of patients with inherited neuropathies (physicians, genetic counselors, physical and occupational therapists etc.) attending CMT conferences, including the 4th International CMT Consortium to be held in Potomac Maryland June 29-July 1, 2011 and the MDA Clinic Directors meeting in Las Vegas, NV March 4-7, 2012. </p> <p><b>Exclusion criteria: </b></p> <p>Does not read or speak English. </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="25157034"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Charcot-Marie-Tooth Disease"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Study Chairs">
+			<AttName>Sindhu Ramchandren, MD</AttName>
+			<Institution>Wayne State University, Detroit, MI, USA</Institution>
+		</Header>
+		<Header title="Study Chairs">
+			<AttName>Denise Shereff</AttName>
+			<Institution>University of South Florida College of Medicine, Tampa, FL, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>John Day, MD, PhD</AttName>
+			<Institution>Stanford University, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Michael Shy, MD</AttName>
+			<Institution>University of Iowa Health Care, Iowa City, IA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Jeffrey Krischer, PhD</AttName>
+			<Institution>Data Management and Coordinating Center, University of South Florida, Tampa, FL, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>1U54NS065712-01</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="INC" url="https://www.rarediseasesnetwork.org/cms/inc"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p> <ul><li> Study Activated June 28, 2011</li> <li>First Accrual August 15, 2011</li> </ul> </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-PUB" longName="General Research Use (IRB, PUB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCATS</DacName>
+      <DacFullName>NCATS </DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001295.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001295.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001295.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB, PUB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB-PUB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Requestor agrees to make results of studies using the data available to the larger scientific community.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd007206.1" type="questionnaire" createDate="2017-02-21" modDate="2017-05-09" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007206.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001295.v1.p1&amp;phd=7206">
+      <OrigName>INC6604SurveyProtocolVersion09May11.pdf</OrigName>
+      <DisplayName>Development and Validation of a Disability Severity Index for Charcot Marie Tooth Disease</DisplayName>
+      <Description>Development and Validation of a Disability Severity Index for Charcot Marie Tooth Disease</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd007206.1" sectionId="V1.1">
+      <phvList>
+        <phvRef variableId="283778"/>
+        <phvRef variableId="283779"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.10">
+      <phvList>
+        <phvRef variableId="283794"/>
+        <phvRef variableId="283795"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.11">
+      <phvList>
+        <phvRef variableId="283796"/>
+        <phvRef variableId="283797"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.12">
+      <phvList>
+        <phvRef variableId="283798"/>
+        <phvRef variableId="283799"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.13">
+      <phvList>
+        <phvRef variableId="283800"/>
+        <phvRef variableId="283801"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.14">
+      <phvList>
+        <phvRef variableId="283802"/>
+        <phvRef variableId="283803"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.15">
+      <phvList>
+        <phvRef variableId="283804"/>
+        <phvRef variableId="283805"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.16">
+      <phvList>
+        <phvRef variableId="283806"/>
+        <phvRef variableId="283807"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.17">
+      <phvList>
+        <phvRef variableId="283808"/>
+        <phvRef variableId="283809"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.18">
+      <phvList>
+        <phvRef variableId="283810"/>
+        <phvRef variableId="283811"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.19">
+      <phvList>
+        <phvRef variableId="283812"/>
+        <phvRef variableId="283813"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.2">
+      <phvList>
+        <phvRef variableId="283780"/>
+        <phvRef variableId="283781"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.20">
+      <phvList>
+        <phvRef variableId="283814"/>
+        <phvRef variableId="283815"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.3">
+      <phvList>
+        <phvRef variableId="283782"/>
+        <phvRef variableId="283783"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.4">
+      <phvList>
+        <phvRef variableId="283784"/>
+        <phvRef variableId="283785"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.5">
+      <phvList>
+        <phvRef variableId="283786"/>
+        <phvRef variableId="283787"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.6">
+      <phvList>
+        <phvRef variableId="283788"/>
+        <phvRef variableId="283789"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.7">
+      <phvList>
+        <phvRef variableId="283790"/>
+        <phvRef variableId="283791"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V1.9">
+      <phvList>
+        <phvRef variableId="283792"/>
+        <phvRef variableId="283793"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V2.1">
+      <phvList>
+        <phvRef variableId="283822"/>
+        <phvRef variableId="283823"/>
+        <phvRef variableId="283824"/>
+        <phvRef variableId="283825"/>
+        <phvRef variableId="283826"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V2.2">
+      <phvList>
+        <phvRef variableId="283821"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V2.3">
+      <phvList>
+        <phvRef variableId="283827"/>
+        <phvRef variableId="283828"/>
+        <phvRef variableId="283829"/>
+        <phvRef variableId="283830"/>
+        <phvRef variableId="283832"/>
+        <phvRef variableId="283834"/>
+        <phvRef variableId="283835"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V2.4">
+      <phvList>
+        <phvRef variableId="283816"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V2.5">
+      <phvList>
+        <phvRef variableId="283817"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V2.6">
+      <phvList>
+        <phvRef variableId="283818"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007206.1" sectionId="V2.7">
+      <phvList>
+        <phvRef variableId="283819"/>
+        <phvRef variableId="283820"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

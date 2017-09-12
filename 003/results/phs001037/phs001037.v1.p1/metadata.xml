@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001037.v1.p1" parentStudy="phs001037.v1.p1" createDate="2015-11-25" modDate="2016-11-10">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Jeffrey Krischer, PhD</td><td>University of South Florida, Tampa, FL, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Marian Rewers, MD, PhD</td><td>Barbara Davis Center for Childhood Diabetes, University of Colorado, Aurora CO, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Jin-Xiong She, PhD</td><td>Georgia Regents University, Augusta GA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Anette G. Ziegler, MD</td><td>Institute of Diabetes Research, Helmholtz Zentrum M&#252;nchen, and Klinikum rechts der Isar, Technische Universit&#228;t M&#252;nchen, and Forschergruppe Diabetes e.V., Neuherberg, Germany</td></tr>
+		<tr><td>Principal Investigators</td><td>Jorma Toppari, MD, PhD</td><td>University of Turku, Turku, Finland</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>The Environmental Determinants of Diabetes in the Young Study (TEDDY)</StudyNameEntrez>
+	<StudyNameReportPage>The Environmental Determinants of Diabetes in the Young Study (TEDDY)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Environmental Determinants of Diabetes in the Young (TEDDY) Study investigates genetic and genetic-environmental interactions, including gestational infection or other gestational events, childhood infections and other environmental factors after birth, in relation to the development of pre-diabetic islet autoimmunity and type 1 diabetes (T1D). Beginning in 2002, a consortium of six centers assembled to participate in the development and implementation of studies to identify environmental factors that trigger the development of islet autoimmunity and T1D in genetically susceptible individuals. The TEDDY study screened around 400,000 newborns and recruited 7,749 neonates from the general population with a pre-determined T1D risk of 3% and 919 neonates with first degree relatives who have T1D and who have a pre-determined T1D risk of 10%. Thus, TEDDY proposes to follow over 8,000 participants across six clinical centers worldwide (Finland, Germany, Sweden and three in the United States) until the age of 15.</p> <p>Participants are followed every three months for islet autoantibody measurements with blood sampling until four years of age and then at least every six months until the age of 15. After the age of four, autoantibody positive subjects continue to be followed at 3 month intervals and autoantibody negative subjects are followed at six month intervals. In addition to the analysis of autoantibodies, additional data and sample collection is performed at each visit. The parents collect monthly stool samples in early childhood. The parents also fill out questionnaires at regular intervals in connection with study visits and record information about diet and health status in the child&#39;s TEDDY Book between visits. Continued long-term follow-up of the currently active TEDDY participants will provide important scientific information on early childhood diet, reported and measured infections, vaccinations, and psychosocial stressors that may contribute to the development of type 1 diabetes and islet autoimmunity.</p> <p>DNA extracted from the 9-month TEDDY blood sample was used for SNP genotyping. Samples were available for 7,082 participants. SNPs were genotyped by the Center for Public Health Genomics at the University of Virginia, using the Illumina ImmunoChip SNP microarray of around 196,000 SNPs selected from 186 regions associated with 12 autoimmune diseases (including T1D) (<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=26010309">Hadley et al., 2015</a>). "Data quality control (QC) steps included eliminating subjects with a low call rate (&#62; 5% SNPs missing) and discrepancies between reported gender and prior genotyping at the HLA laboratory. Secondly, SNPs were removed from analysis due to low call rate, Hardy-Weinberg equilibrium P value &#60; 10<sup>-6</sup>, except for chromosome 6 due to HLA eligibility requirements)" (<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=25422107">T&#246;rn et al., 2015</a>). QC resulted in a total of 7,023 subjects with data on 176,586 SNPs.</p> <p>Additional information on the TEDDY study are available in the following articles: The Environmental Determinants of Diabetes in the Young (TEDDY) Study. TEDDY Study Group. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=19120261">Annals of the New York Academy of Science, 2008</a> and TEDDY - The Environmental Determinants of Diabetes in the Young - An Observational Clinical Trial. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=17130573">Annals of the New York Academy of Science, 2006</a></p> <p> Details of the TEDDY protocol can be found in The Environmental Determinants of Diabetes in the Young (TEDDY): Genetic Criteria and International Diabetes Risk Screening of 421,000 infants. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=21564455">Pediatric Diabetes, 2011</a></p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="17130573"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19120261"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21564455"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="26010309"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25422107"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Diabetes Mellitus, Type 1"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Jeffrey Krischer, PhD</AttName>
+			<Institution>University of South Florida, Tampa, FL, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Marian Rewers, MD, PhD</AttName>
+			<Institution>Barbara Davis Center for Childhood Diabetes, University of Colorado, Aurora CO, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Jin-Xiong She, PhD</AttName>
+			<Institution>Georgia Regents University, Augusta GA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Anette G. Ziegler, MD</AttName>
+			<Institution>Institute of Diabetes Research, Helmholtz Zentrum M&#252;nchen, and Klinikum rechts der Isar, Technische Universit&#228;t M&#252;nchen, and Forschergruppe Diabetes e.V., Neuherberg, Germany</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Jorma Toppari, MD, PhD</AttName>
+			<Institution>University of Turku, Turku, Finland</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>&#197;ke Lernmark, PhD</AttName>
+			<Institution>Lund University/CRC, Sk&#229;ne University Hospital SUS, Malm&#246;, Sweden</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>William A. Hagopian, MD, PhD</AttName>
+			<Institution>Pacific Northwest Diabetes Research Institute, Seattle WA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Olli G. Simell, MD, PhD</AttName>
+			<Institution>Turku University Hospital, Turku, Finland</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Beena Akolkar, PhD</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01 DK3829</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01 DK381</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01 DK3821</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01 DK385</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01 DK383</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>U01 DK3790</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>UC4 DK3829</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>UC4 DK381</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>UC4 DK3821</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>UC4 DK385</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>UC4 DK383</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>UC4 DK95300</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>UC4 DK100238</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>Contract No. HHSN27200700014C</AttName>
+			<Institution>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Allergy and Infectious Diseases (NIAID), National Institute of Child Health and Human Development (NICHD), National Institute of Environmental Health Sciences (NIEHS), National Institutes of Health, Juvenile Diabetes Research Foundation (JDRF), and Centers for Disease Control and Prevention (CDC)</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="TEDDY" url="http://teddy.epi.usf.edu/"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="DS-T1DR-IRB-RD" longName="Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIDDK</DacName>
+      <DacFullName>NIDDK Central Repository GWAS Data Access Committee</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001037.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001037.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001037.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Type 1 diabetes, its complications and other autoimmune diseases, IRB, RD)</ConsentName>
+        <ConsentAbbrev>DS-T1DR-IRB-RD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Type 1 diabetes, its complications and other autoimmune diseases and related disorders.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

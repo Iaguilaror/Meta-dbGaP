@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001020.v1.p1" parentStudy="phs001020.v1.p1" createDate="2015-10-28" modDate="2016-12-08">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Steven McCarroll, PhD</td><td>The Broad Institute of MIT and Harvard, Cambridge, MA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Carlos Pato</td><td>University of Southern California, Los Angeles, CA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Michele Pato</td><td>University of Southern California, Los Angeles, CA, USA</td></tr>
+		<tr><td>Funding Sources</td><td>Philanthropic gifts to the Stanley Center for Psychiatric Research</td><td>The Broad Institute of MIT and Harvard, Cambridge, MA, USA</td></tr>
+		<tr><td>Funding Sources</td><td>1U01MH105641 - 2/3-Whole Genome Sequencing for Schizophrenia and Bipolar Disorder in the GPC</td><td>National Institute of Mental Health, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genomic Psychiatry Cohort (GPC) Whole Genome Sequencing Pilot Study</StudyNameEntrez>
+	<StudyNameReportPage>Genomic Psychiatry Cohort (GPC) Whole Genome Sequencing Pilot Study</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Center for Genomic Psychiatry at the University of Southern California (USC) and an extensive network of academic medical centers have created the Genomic Psychiatry Cohort (GPC). The GPC consists of a large clinical cohort of patients with schizophrenia, bipolar disorder, and healthy controls. The pilot phase of whole genome sequencing of the GPC has been done in collaboration with the USC and the Broad Institute of MIT and Harvard. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Participants are recruited from urban, suburban, and rural populations across the United States and in selected sites abroad. Individuals suffering from schizophrenia or bipolar disorder are ascertained as in-patients in acute care or chronic care settings, out-patients, or community dwelling. All subject will be 18 or older. Both males and females will be actively recruited, including pregnant females and hospitalized patients. All cases meet lifetime diagnostic criteria for schizophrenia (any subtype) in accordance with the OPCRIT algorithms for DSM-IV and/or ICD-10 criteria. Control participants are drawn from the same geographic area as case participants, either within health care facilities or as community volunteers. Both potential cases (patients suffering with schizophrenia and bipolar disorder) and controls (unaffected participants) were asked to complete a questionnaire (Appendix: Screening Questionnaire) to assess their psychiatric history.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Steven McCarroll, PhD</AttName>
+			<Institution>The Broad Institute of MIT and Harvard, Cambridge, MA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Carlos Pato</AttName>
+			<Institution>University of Southern California, Los Angeles, CA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Michele Pato</AttName>
+			<Institution>University of Southern California, Los Angeles, CA, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>Philanthropic gifts to the Stanley Center for Psychiatric Research</AttName>
+			<Institution>The Broad Institute of MIT and Harvard, Cambridge, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>1U01MH105641 - 2/3-Whole Genome Sequencing for Schizophrenia and Bipolar Disorder in the GPC</AttName>
+			<Institution>National Institute of Mental Health, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Sources">
+			<AttName>5U54HG003067</AttName>
+			<Institution>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>The University of Southern California (USC Center for Genomic Psychiatry), the Massachusetts General Hospital (MGH), the Broad Institute (Stanley Center) and a nation-wide network of academic medical centers have created the Genomic Psychiatry Cohort (GPC). GPC is a large clinical cohort of patients with schizophrenia, bipolar disorder and controls, comprised of nearly equal numbers of European-Ancestry, African-Ancestry and Latino-Ancestry, that will be prospectively followed in order to allow ongoing careful assessment of phenotype and the possibility of future nested case-control studies. Members of the cohort are long-term patients that have agreed to participate in studies related to understanding the genetic and environmental risks for these disorders. This type of population study is critical to understanding risk, helping develop treatments, and understanding prevention of this major illness. </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-SZRD" longName="Disease-Specific (Schizophrenia and related disorders)"/>
+		<ConsentGroup groupNum="2" shortName="DS-BPD" longName="Disease-Specific (Bipolar Disorder)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NIMH</DacName>
+      <DacFullName>NIMH</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001020.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001020.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001020.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Disease-Specific (Schizophrenia and related disorders)</ConsentName>
+        <ConsentAbbrev>DS-SZRD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Schizophrenia and related disorders.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Bipolar Disorder)</ConsentName>
+        <ConsentAbbrev>DS-BPD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Bipolar Disorder.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

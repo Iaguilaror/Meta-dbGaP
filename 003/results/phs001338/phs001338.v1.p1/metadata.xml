@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001338.v1.p1" parentStudy="phs001338.v1.p1" createDate="2017-03-24" modDate="2017-06-29">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Chad D. Huff, PhD</td><td>University of Texas MD Anderson Cancer Center, Houston, TX, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Tatum S. Simonson</td><td>University of California San Diego, La Jolla, CA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Peter A. Robbins</td><td>University of Oxford, UK</td></tr>
+		<tr><td>Principal Investigators</td><td>Lynn B. Jorde</td><td>University of Utah, Salt Lake City, UT, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Josef T. Prchal</td><td>University of Utah School of Medicine and George E. Wahlin Veterans Administration Medical Center, Salt Lake City, UT, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Tibetan Population History and High Altitude Adaptation Study</StudyNameEntrez>
+	<StudyNameReportPage>A whole-genome sequencing study for evolutionary history of Tibetans and their genetic adaptations to high altitude</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Population</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Due to a unique adaptation to high altitude, the Tibetan Plateau population has been the subject of much research interest. In this study, we conducted whole genome sequencing of 27 Tibetan individuals. Through our analysis, we inferred a detailed history of demography and revealed the natural selection of Tibetan population. We provided evidence of genetic separation between the two subpopulations of Han and Tibetans as early as 44 to 58 thousand years ago, replicated previously reported high altitude adaptation genes, including <i>EPAS1</i> and <i>EGLN1</i>, and reported three new candidate genes, including <i>PTGIS</i>, <i>VDR</i>, and <i>KCTD12</i>.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>A total of 27 Tibetan individuals were recruited in our study.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="20466884"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25043035"/>
+		</Publication>
+	</Publications>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Chad D. Huff, PhD</AttName>
+			<Institution>University of Texas MD Anderson Cancer Center, Houston, TX, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Tatum S. Simonson</AttName>
+			<Institution>University of California San Diego, La Jolla, CA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Peter A. Robbins</AttName>
+			<Institution>University of Oxford, UK</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Lynn B. Jorde</AttName>
+			<Institution>University of Utah, Salt Lake City, UT, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Josef T. Prchal</AttName>
+			<Institution>University of Utah School of Medicine and George E. Wahlin Veterans Administration Medical Center, Salt Lake City, UT, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R00 HL118215</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R25CA057730</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>CA016672</AttName>
+			<Institution>National Cancer Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB" longName="General Research Use (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001338.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001338.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001338.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd007271.1" type="protocol" createDate="2017-06-28" modDate="2017-06-29" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007271.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001338.v1.p1&amp;phd=7271">
+      <OrigName>TibetanDataDescriptionupdate.docx</OrigName>
+      <DisplayName>Tibetan Data Description</DisplayName>
+      <Description>Tibetan Data Description</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

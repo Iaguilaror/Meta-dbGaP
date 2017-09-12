@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001256.v1.p1" parentStudy="phs001256.v1.p1" createDate="2016-12-09" modDate="2017-04-07">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Cecilia Lo, PhD</td><td>University of Pittsburgh, School of Medicine, Pittsburgh, PA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Lisa J. Martin, PhD</td><td>Cincinnati Children&#39;s Hospital Medical Center, Cincinnati, OH, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Dudley Woodrow Benson, MD, PhD</td><td>Medical College of Wisconsin, Milwaukee, WI, USA</td></tr>
+		<tr><td>Funding Source</td><td>University of Pittsburgh, School of Medicine</td><td>University of Pittsburgh, School of Medicine, Pittsburgh, PA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Hypoplastic Left Heart Syndrome Study</StudyNameEntrez>
+	<StudyNameReportPage>Genetic Etiology of Hypoplastic Left Heart Syndrome</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>To understand the genetic etiology of hypoplastic left heart syndrome (HLHS), patients with HLHS were consented and recruited, with blood drawn for DNA extraction and exome sequencing. Using the exome sequencing dataset obtained, rare coding sequence variants were recovered and enrichment analysis was carried out to identify genes and pathways that are likely to contribute to HLHS. </p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p> <b>Inclusion Criteria:</b><br/> <b>Case:</b> Hypoplastic left heart syndrome. It is defined by significant underdevelopment of the components of the left heart and the aorta, including the left ventricular cavity and mass. </p> <p> <b>Control:</b> 95 ethnically matched human CEU control subjects from the 1000 genomes project. </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Journal authors="Xiaoqin Liu, Hisato Yagi, Shazina Saeed, Abha S. Bais, George C. Gabriel, Zhaohan Chen, Kevin  A. Peterson, You Li, Molly C. Schwartz, William T. Reynolds,        Manush Saydmohammed, Brian Gibbs, Yijen Wu, William Devine, Bishwanath Chatterjee, Nikolai T. Klena, Dennis Kostka, Karen L. de Mesy Bentley,        Madhavi K.Ganapathiraju, Phillip Dexheimer1, Linda Leatherbury, Omar Khalifa, Anchit Bhagat, Maliha Zahid, William Pu, Simon Watkins, Paul Grossfeld,        Stephen Murray, George A. Porter, Jr., Michael Tsang, Lisa J.Martin, D.Woodrow.Benson, Bruce J. Aronow, Cecilia W. Lo" title="The complex genetics of hypoplastic left heart syndrome" journal="Nature Genetics (in publication)"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Hypoplastic Left Heart Syndrome"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Cecilia Lo, PhD</AttName>
+			<Institution>University of Pittsburgh, School of Medicine, Pittsburgh, PA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Lisa J. Martin, PhD</AttName>
+			<Institution>Cincinnati Children&#39;s Hospital Medical Center, Cincinnati, OH, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Dudley Woodrow Benson, MD, PhD</AttName>
+			<Institution>Medical College of Wisconsin, Milwaukee, WI, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>University of Pittsburgh, School of Medicine</AttName>
+			<Institution>University of Pittsburgh, School of Medicine, Pittsburgh, PA, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-NPU" longName="General Research Use (IRB, NPU)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001256.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001256.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001256.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB, NPU)</ConsentName>
+        <ConsentAbbrev>GRU-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

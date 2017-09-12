@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000343.v1.p1" parentStudy="phs000343.v1.p1" createDate="2011-03-01" modDate="2012-05-10">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Michele Sale, PhD</td><td>University of Virginia, CPHG, Charlottesville, VA, USA</td></tr>
+		<tr><td>Principal Investigator</td><td>Bradford Worrall, MD</td><td>University of Virginia, Department of Neurology, Charlottesville, VA, USA</td></tr>
+		<tr><td>Funding Source</td><td>U01 HG005160</td><td>GARNET: Genomics and Randomized Trials Network, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source for Genotyping</td><td>U01HG004438-01. NIH GEI grant &quot;JH/CIDR Genotyping for Genome-Wide Association Studies&quot;</td><td>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>The Genomics and Randomized Trials Network (GARNET) Vitamin Intervention Stroke Prevention (VISP) trial</StudyNameEntrez>
+	<StudyNameReportPage>The Genomics and Randomized Trials Network (GARNET) Vitamin Intervention Stroke Prevention (VISP) trial</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Multicenter</StudyType>
+		<StudyType>Randomized</StudyType>
+		<StudyType>Clinical Trial</StudyType>
+		<StudyType>Double-Blind</StudyType>
+		<StudyType>Controlled Trial</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The VISP trial (PI Jim Toole, M.D., Wake Forest University School of Medicine) was a multi-center, double-blind, 	randomized, controlled clinical trial that enrolled patients aged 35 or older with Hcy levels above the 25th percentile 	at screening and a non-disabling cerebral infarction (NDCI) within 120 days of randomization [Toole, 2002].  The 	trial was designed to determine if daily intake of a multivitamin tablet with high dose folic acid, vitamin B6 	and vitamin B12 reduced recurrent cerebral infarction (primary endpoint), and nonfatal myocardial infarction (MI) 	or mortality (secondary endpoints).  Subjects were randomly assigned to receive daily doses of the high-dose 	formulation (n=1,827), containing 25mg pyridoxine (B6), 0.4mg cobalamin (B12), and 2.5mg folic acid; or the low-dose 	formulation (n=1,853), containing 200&#181;g pyridoxine, 6 &#181;g cobalamin and 20&#181;g folic acid.  Enrollment in VISP began 	in August 1997, and was completed in December 2001, with 3,680 participants enrolled.</p> 	<p>Within the trial, 2,164 participants from 46 clinic sites provided DNA and agreed for it to be shared for use 	in a genetic subset study of VISP.  This study is part of the Genomics and Randomized Trials Network (GARNET, 	<a href="http://www.garnetstudy.org" target="_blank">http://www.garnetstudy.org</a>) funded by the National Human 	Genome Research Institute (NHGRI).  The overarching goal is to identify novel genetic factors that contribute 	to stroke through large-scale genome-wide association studies of treatment response in randomized clinical trials. 	Genotyping was performed at the Johns Hopkins University Center for Inherited Disease Research (CIDR).    Data cleaning and harmonization were performed at the GARNET Coordinating Center at the University of Washington.</p>   <p>The data of the VISP trial will be released to dbGaP users in several segments; the current segment,    version 1 (phs000343.v1.p1), consists of n=4 phenotype datasets, and all raw, cleaned and imputed genotype data.</p> 	<p>Toole, J. F. (2002). Vitamin intervention for stroke prevention. J Neurol Sci, 203-204, 121-4. PMID: 	<a href="http://www.ncbi.nlm.nih.gov/pubmed/12417369" target="_blank">12417369</a>.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p><b>Inclusion Criteria:</b> 		<ol> 			<li>Age at least 35 years on the date of randomization,</li> 			<li>Randomization within 120 days of stroke,</li> 			<li>Patient is geographically accessible for follow-up and adequate means of transportation between the patient&#39;s home and clinic facilities/personnel  can be arranged,</li> 			<li>Patient&#39;s compliance with study multivitamin during run-in period is 75% or higher,</li> 			<li>Patient agrees to take study medication,</li> 			<li>Patient signs informed consent</li> 		</ol> 	</p> 	<p><b>Exclusion Criteria:</b> 		<ol> 			<li>Stroke due to any form of intracranial hemorrhage, dissection of a cervico-cephalic artery, veno-occlusive disease, drug abuse, or vasculitis,</li> 			<li>CT or MRI of the brain showing lesion other than infarction as cause of syndrome,</li> 			<li>Modified Rankin score of 4 or 5 at the time of eligibility determination,</li> 			<li>Presence of specific potential sources of cardiogenic emboli:  atrial fibrillation within 30 days of stroke; or history of prosthetic cardiac valve, intracardiac thrombus or neoplasm, or valvular vegetation</li> 			<li>Presence of major neurologic illness apart from stroke that would prevent proper evaluation of recurrent stroke,</li> 			<li>Presence of cancer, pulmonary disease, or other illness which, in the opinion of the study physician, would limit the life expectancy of the patient to less than two years,</li> 			<li>Severe congestive heart failure,</li> 			<li>Renal insufficiency requiring dialysis,</li> 			<li>Untreated pernicious anemia or untreated B12 deficiency,</li> 			<li>Uncontrolled hypertension defined as systolic blood pressure &gt;185 mm or diastolic &gt;105 mm on two readings separated by five minutes at time of eligibility determination,</li> 			<li>Conditions that prevent reliable participation in the study, such as refractory depression, severe cognitive impairment, alcoholism, or other substance abuse,</li> 			<li>Use of medications (within the last 30 days) that affect homocyst(e)ine: methotrexate, tamoxifen, L-DOPA, or phenytoin or bile acid sequestrants that can decrease folate levels,</li> 			<li>Woman of childbearing potential, defined as not having reached menopause (natural or surgical),</li> 			<li>Participation in another trial in which active intervention is being received,</li> 			<li>Patients on multivitamin supplements or single vitamins of B6 or folic acid will be excluded unless they are willing to take the study supplements in place of the one(s) they usually take</li> 			<li>Any surgical procedure requiring a general anesthesia or hospital stay of three or more days, any type of invasive cardiac instrumentation, or an endarterectomy, stent placement, thrombectomy, or any other endovascular treatment of an abnormal carotid artery performed within 30 days prior to randomization or scheduled to be performed within 30 days after randomization</li> 		</ol> 	</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="18166191"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17106212"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14762035"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19153374"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="19955739"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="17937609"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16636231"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16239629"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="11174041"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="12417369"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="14762042"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Stroke"/>
+		<Disease vocab_source="MESH" vocab_term="Myocardial Infarction"/>
+		<Disease vocab_source="MESH" vocab_term="Coronary Heart Disease"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Michele Sale, PhD</AttName>
+			<Institution>University of Virginia, CPHG, Charlottesville, VA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigator">
+			<AttName>Bradford Worrall, MD</AttName>
+			<Institution>University of Virginia, Department of Neurology, Charlottesville, VA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01 HG005160</AttName>
+			<Institution>GARNET: Genomics and Randomized Trials Network, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source for Genotyping">
+			<AttName>U01HG004438-01. NIH GEI grant &quot;JH/CIDR Genotyping for Genome-Wide Association Studies&quot;</AttName>
+			<Institution>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>Original VISP Study Timeline</p> 	<p> 	<table border="1"> 		<tr> 			<th></th> 			<th>Pilot Test</th> 			<th>Recruitment</th> 			<th>Follow-up and Analysis</th> 		</tr> 		<tr> 			<td>Months 1-12 (Sept 96 -Aug 97)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 		<tr> 			<td>Months 13-18 (Sept 97 - Feb 98)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 		<tr> 			<td>Months 19-24 (March 98 - Aug 98)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 		<tr> 			<td>Months 25-30 (Sept 98 -Feb 99)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 		<tr> 			<td>Months 31-36 (March 99 - Aug 99)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 		<tr> 			<td>Months 37-42 (Sept 99 - Feb 00)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 		<tr> 			<td>Months 43-50 (March 00 - Oct 00)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 		<tr> 			<td>Months 51-74 (Nov 00 - Oct  02)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 		<tr> 			<td>Months 75-86 (Nov 02-Oct 03)</td> 			<td></td> 			<td></td> 			<td></td> 		</tr> 	</table> 	</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects."/>
+		<ConsentGroup groupNum="1" shortName="SR" longName="Stroke Research"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>nhgridac@mail.nih.gov</DacEmail>
+      <DacPhone></DacPhone>
+      <DacFax>301-480-2770</DacFax>
+      <DacUrl>http://grants.nih.gov/grants/gwas</DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000343.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+               http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000343.v1.p1
+            </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000343.v1.p1" FileName="GARNET_DUC_VISP-updated_10.3.10.pdf"/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Stroke Research</ConsentName>
+        <ConsentAbbrev>SR</ConsentAbbrev>
+        <UseLimitation>Limited to research of stroke.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd003411.1" type="questionnaire" createDate="2011-03-03" modDate="2012-05-03" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003411.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000343.v1.p1&amp;phd=3411">
+      <OrigName>BARA.pdf</OrigName>
+      <DisplayName>Barthel Stroke Questionnaire (BARA)</DisplayName>
+      <Description>Barthel Stroke Questionnaire (BARA)</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003452.1" type="protocol" createDate="2011-03-03" modDate="2012-05-03" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003452.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000343.v1.p1&amp;phd=3452">
+      <OrigName>VISP_PROTOCOL.pdf</OrigName>
+      <DisplayName>VISP Protocol</DisplayName>
+      <Description>VISP Protocol</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003528.1" type="protocol" createDate="2011-04-04" modDate="2011-04-29" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003528.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000343.v1.p1&amp;phd=3528">
+      <OrigName>VISP code book_edited_110325_part1.pdf</OrigName>
+      <DisplayName>VISP Documentation Part 1</DisplayName>
+      <Description>VISP Documentation Part 1</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003529.1" type="protocol" createDate="2011-04-04" modDate="2012-05-10" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003529.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000343.v1.p1&amp;phd=3529">
+      <OrigName>VISP code book_edited_110325_part2.pdf</OrigName>
+      <DisplayName>VISP Documentation Part 2</DisplayName>
+      <Description>VISP Documentation Part 2</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003530.1" type="protocol" createDate="2011-04-04" modDate="2011-04-29" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003530.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000343.v1.p1&amp;phd=3530">
+      <OrigName>VISP code book_edited_110325_part3.pdf</OrigName>
+      <DisplayName>VISP Documentation Part 3</DisplayName>
+      <Description>VISP Documentation Part 3</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd003531.1" type="protocol" createDate="2011-04-04" modDate="2011-04-29" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd003531.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs000343.v1.p1&amp;phd=3531">
+      <OrigName>VISP code book_edited_110325_part4.pdf</OrigName>
+      <DisplayName>VISP Documentation Part 4</DisplayName>
+      <Description>VISP Documentation Part 4</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd003411.1" sectionId="V10">
+      <phvList>
+        <phvRef variableId="159306"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V11">
+      <phvList>
+        <phvRef variableId="159310"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V12">
+      <phvList>
+        <phvRef variableId="159311"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V13">
+      <phvList>
+        <phvRef variableId="159312"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V14">
+      <phvList>
+        <phvRef variableId="159313"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V15">
+      <phvList>
+        <phvRef variableId="159314"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V16">
+      <phvList>
+        <phvRef variableId="159315"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V17">
+      <phvList>
+        <phvRef variableId="159316"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V18">
+      <phvList>
+        <phvRef variableId="159317"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V19">
+      <phvList>
+        <phvRef variableId="159318"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V20">
+      <phvList>
+        <phvRef variableId="159319"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V21">
+      <phvList>
+        <phvRef variableId="159320"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V22">
+      <phvList>
+        <phvRef variableId="159307"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V23">
+      <phvList>
+        <phvRef variableId="159321"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V5">
+      <phvList>
+        <phvRef variableId="159308"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V6">
+      <phvList>
+        <phvRef variableId="159324"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="V8">
+      <phvList>
+        <phvRef variableId="159325"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003411.1" sectionId="p1">
+      <phvList>
+        <phvRef variableId="159305"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003452.1" sectionId="sec.I.B">
+      <phvList>
+        <phvRef variableId="159385"/>
+        <phvRef variableId="159387"/>
+        <phvRef variableId="159388"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003452.1" sectionId="sec.I.E">
+      <phvList>
+        <phvRef variableId="159385"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003452.1" sectionId="sec.I.J">
+      <phvList>
+        <phvRef variableId="159387"/>
+        <phvRef variableId="159388"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003452.1" sectionId="sec.II.A.1.2">
+      <phvList>
+        <phvRef variableId="159385"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003452.1" sectionId="sec.II.C.1">
+      <phvList>
+        <phvRef variableId="159327"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003452.1" sectionId="sec.II.D.3">
+      <phvList>
+        <phvRef variableId="159327"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003452.1" sectionId="sec.II.D.9.3">
+      <phvList>
+        <phvRef variableId="159327"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec100">
+      <phvList>
+        <phvRef variableId="159358"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec103">
+      <phvList>
+        <phvRef variableId="159359"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec106">
+      <phvList>
+        <phvRef variableId="159360"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec109">
+      <phvList>
+        <phvRef variableId="159361"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec112">
+      <phvList>
+        <phvRef variableId="159329"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec114">
+      <phvList>
+        <phvRef variableId="159322"/>
+        <phvRef variableId="159323"/>
+        <phvRef variableId="159389"/>
+        <phvRef variableId="159391"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec119">
+      <phvList>
+        <phvRef variableId="159323"/>
+        <phvRef variableId="159391"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec140">
+      <phvList>
+        <phvRef variableId="159365"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec141">
+      <phvList>
+        <phvRef variableId="159367"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec142">
+      <phvList>
+        <phvRef variableId="159364"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec143">
+      <phvList>
+        <phvRef variableId="159376"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec144">
+      <phvList>
+        <phvRef variableId="159374"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec145">
+      <phvList>
+        <phvRef variableId="159366"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec146">
+      <phvList>
+        <phvRef variableId="159363"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec147">
+      <phvList>
+        <phvRef variableId="159373"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec148">
+      <phvList>
+        <phvRef variableId="159375"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec149">
+      <phvList>
+        <phvRef variableId="159370"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec150">
+      <phvList>
+        <phvRef variableId="159372"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec151">
+      <phvList>
+        <phvRef variableId="159369"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec152">
+      <phvList>
+        <phvRef variableId="159380"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec153">
+      <phvList>
+        <phvRef variableId="159378"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec154">
+      <phvList>
+        <phvRef variableId="159371"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec155">
+      <phvList>
+        <phvRef variableId="159368"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec156">
+      <phvList>
+        <phvRef variableId="159377"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec157">
+      <phvList>
+        <phvRef variableId="159379"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec29">
+      <phvList>
+        <phvRef variableId="159335"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec32">
+      <phvList>
+        <phvRef variableId="159345"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec35">
+      <phvList>
+        <phvRef variableId="159331"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec38">
+      <phvList>
+        <phvRef variableId="159336"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec41">
+      <phvList>
+        <phvRef variableId="159337"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec44">
+      <phvList>
+        <phvRef variableId="159338"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec47">
+      <phvList>
+        <phvRef variableId="159332"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec50">
+      <phvList>
+        <phvRef variableId="159339"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec53">
+      <phvList>
+        <phvRef variableId="159333"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec56">
+      <phvList>
+        <phvRef variableId="159346"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec59">
+      <phvList>
+        <phvRef variableId="159340"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec60">
+      <phvList>
+        <phvRef variableId="159349"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec62">
+      <phvList>
+        <phvRef variableId="159350"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec64">
+      <phvList>
+        <phvRef variableId="159341"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec67">
+      <phvList>
+        <phvRef variableId="159328"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec68">
+      <phvList>
+        <phvRef variableId="159342"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec71">
+      <phvList>
+        <phvRef variableId="159343"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec74">
+      <phvList>
+        <phvRef variableId="159300"/>
+        <phvRef variableId="159330"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec75">
+      <phvList>
+        <phvRef variableId="159334"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec78">
+      <phvList>
+        <phvRef variableId="159344"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec81">
+      <phvList>
+        <phvRef variableId="159327"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec82">
+      <phvList>
+        <phvRef variableId="159352"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec85">
+      <phvList>
+        <phvRef variableId="159353"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec88">
+      <phvList>
+        <phvRef variableId="159354"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec91">
+      <phvList>
+        <phvRef variableId="159355"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec94">
+      <phvList>
+        <phvRef variableId="159356"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd003528.1" sectionId="sec97">
+      <phvList>
+        <phvRef variableId="159357"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

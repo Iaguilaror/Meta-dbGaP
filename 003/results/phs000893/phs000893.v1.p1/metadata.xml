@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000893.v1.p1" parentStudy="phs000893.v1.p1" createDate="2015-03-27" modDate="2015-03-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Immaculata De Vivo, PhD</td><td>Brigham and Women&#39;s Hospital and Harvard Medical School, Boston, MA, USA and Harvard TH Chan School of Public Health, Boston, MA, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01 CA134958-01A1</td><td>National Cancer Institute, National Health Institute, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genome-Wide Association Study of Endometrial Cancer in E2C2</StudyNameEntrez>
+	<StudyNameReportPage>Genome-Wide Association Study of Endometrial Cancer in the Epidemiology of Endometrial Cancer Consortium (E2C2)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+		<StudyType>Nested Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Endometrial cancer, the most common gynecological malignancy in the United States, has both an environmental and genetic component. To this end, we conducted a genome-wide association study to identify genes involved in endometrial cancer using studies from the NCI-supported Epidemiology of Endometrial Cancer Consortium (E2C2). For the discovery stage we included samples from 6 cohort and 7 case control studies through 2007. The total number of cases genotyped were 2,307, white women of European descent, and 2,307 matched controls using the Illumina HumanOmniExpress platform. We conducted the replication using the Infinium HumanExome BeadChip, which successfully genotyped 177,139 variants in 1055 cases and 1778 controls from four ethnically diverse studies that are part of the Epidemiology of Endometrial Cancer Consortium (E2C2). The overall goal is to determine whether certain genotypes are predictive of future endometrial cancer risk, and whether the genotypes interact with established endometrial risk factors.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Cases included women who were newly diagnosed with endometrial cancer. Controls from nested case-control studies were cancer free at the time of case diagnosis. Controls from case-control studies must have had an intact uterus (i.e. no hysterectomies). All subjects must have provided biospecimens. Subject IDs whose genotyping did not pass quality control were excluded.</p> <p>Detailed inclusion/exclusion criteria can be found at: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3898362/bin/ 439_2013_1369_MOESM1_ESM.docx/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3898362/bin/439_2013_1369_MOESM1_ESM.docx</a> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="19132539"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24096698"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24810602"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Carcinoma, Endometrioid"/>
+		<Disease vocab_source="MESH" vocab_term="Endometrial Neoplasms"/>
+		<Disease vocab_source="MESH" vocab_term="Uterine Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Immaculata De Vivo, PhD</AttName>
+			<Institution>Brigham and Women&#39;s Hospital and Harvard Medical School, Boston, MA, USA and Harvard TH Chan School of Public Health, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01 CA134958-01A1</AttName>
+			<Institution>National Cancer Institute, National Health Institute, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Epidemiology of Endometrial Cancer Consortium (E2C2)" url="http://epi.grants.cancer.gov/eecc/"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-MDS" longName="General Research Use (MDS)"/>
+		<ConsentGroup groupNum="2" shortName="GRU-COL-MDS" longName="General Research Use (COL, MDS)"/>
+		<ConsentGroup groupNum="3" shortName="DS-CA" longName="Disease-Specific (Cancer)"/>
+		<ConsentGroup groupNum="4" shortName="DS-EC-MDS" longName="Disease-Specific (Endometrial Carcinoma, MDS)"/>
+		<ConsentGroup groupNum="5" shortName="DS-ENDOMETRIAL-MDS" longName="Disease-Specific (Endometrial Diseases, MDS)"/>
+		<ConsentGroup groupNum="6" shortName="DS-BOED-MDS" longName="Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS)"/>
+		<ConsentGroup groupNum="7" shortName="DS-CHRONIC" longName="Disease-Specific (Chronic Diseases)"/>
+		<ConsentGroup groupNum="8" shortName="CADM" longName="Cancer in all age groups, other disease in adults only and methods"/>
+		<ConsentGroup groupNum="9" shortName="HMB-PUB-NPU-MDS-GSO" longName="Health/Medical/Biomedical (PUB, NPU, MDS, GSO)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000893.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000893.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000893.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (MDS)</ConsentName>
+        <ConsentAbbrev>GRU-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>General Research Use (COL, MDS)</ConsentName>
+        <ConsentAbbrev>GRU-COL-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide a letter of collaboration with the primary study investigator(s).
+Use of the data includes methods development research (e.g., development of software or algorithms).
+A blank copy of the letter of collaboration for this study can be found at the end of the study&amp;#x2019;s Data Use Certification Agreement (see dbGaP study page). Requestor must provide this signed form documenting approval. Approval can be obtained by contacting Chu Chen at cchen@fhcrc.org.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Disease-Specific (Cancer)</ConsentName>
+        <ConsentAbbrev>DS-CA</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Cancer.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Disease-Specific (Endometrial Carcinoma, MDS)</ConsentName>
+        <ConsentAbbrev>DS-EC-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Endometrial Carcinoma.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="5">
+        <ConsentName>Disease-Specific (Endometrial Diseases, MDS)</ConsentName>
+        <ConsentAbbrev>DS-ENDOMETRIAL-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Endometrial Diseases.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+"Endometrial diseases" include any conditions with evidence of genetic relationships to the uterus or endometrium, such as endometrial cancer, endometriosis, adenomyosis, endometrial hyperplasia, uterine polyps or uterine fibroids</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="6">
+        <ConsentName>Disease-Specific (Breast, Ovarian, or Endometrial Disease, MDS)</ConsentName>
+        <ConsentAbbrev>DS-BOED-MDS</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Breast, Ovarian, or Endometrial Disease.
+Use of the data includes methods development research (e.g., development of software or algorithms).</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="7">
+        <ConsentName>Disease-Specific (Chronic Diseases)</ConsentName>
+        <ConsentAbbrev>DS-CHRONIC</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Chronic Diseases.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="8">
+        <ConsentName>Cancer in all age groups, other disease in adults only and methods</ConsentName>
+        <ConsentAbbrev>CADM</ConsentAbbrev>
+        <UseLimitation>The informed consent document signed by the study participants allows use of these data by investigators for discovery and hypothesis generation in the investigation of the genetic contributions to cancer in all age groups and other diseases in adults only, as well as development of novel analytical approaches for GWAS.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="9">
+        <ConsentName>Health/Medical/Biomedical (PUB, NPU, MDS, GSO)</ConsentName>
+        <ConsentAbbrev>HMB-PUB-NPU-MDS-GSO</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor agrees to make results of studies using the data available to the larger scientific community.
+Use of the data is limited to not-for-profit organizations.
+Use of the data includes methods development research (e.g., development of software or algorithms).
+Use of the data is limited to genetic studies only.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

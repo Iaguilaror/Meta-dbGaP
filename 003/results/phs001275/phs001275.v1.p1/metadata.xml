@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001275.v1.p1" parentStudy="phs001275.v1.p1" createDate="2017-01-26" modDate="2017-01-26">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Faruk Hadziselimovic, MD</td><td>Cryptorchidism Research Institute, Kindermedizinisches Zentrum Liestal, Switzerland</td></tr>
+		<tr><td>Co-Investigators</td><td>Katharina Gegenschatz-Schmid, DSc</td><td>Cryptorchidism Research Institute, Kindermedizinisches Zentrum Liestal, Switzerland</td></tr>
+		<tr><td>Co-Investigators</td><td>Gilvydas Verkauskas, MD</td><td>Children#39;s Surgery Centre Vilnius University, Vilnius, Lithuania</td></tr>
+		<tr><td>Co-Investigators</td><td>Mar&#205;a Jos&#233; Docampo Garc&#205;a, PhD</td><td>Cryptorchidism Research Institute, Kindermedizinisches Zentrum Liestal, Switzerland</td></tr>
+		<tr><td>Co-Investigators</td><td>Philippe Demougin</td><td>Biozentrum, Life Sciences Training Facility, University of Basel, Basel, Switzerland</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Differential Gene Expression in Cryptorchid Testes</StudyNameEntrez>
+	<StudyNameReportPage>Differential Gene Expression in Cryptorchid Testes</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Differential Gene Expression in Cryptorchid Testes Study uses whole-genome RNA profiling of testicular biopsies to determine a potential causative role of isolated congenital cryptorchidism in azoospermia and/or infertility in the context of our previously published GeneChip data. Cryptorchid patients, aged 7 months to 5 years and otherwise healthy, were enrolled in this prospective study. During surgery, testicular tissue biopsies were obtained for histological examination and RNA-sequencing (RNA-seq). Fifteen patients were selected based on the histological results and were divided into two groups. Seven were classified as belonging to the high infertility risk (HIR) and eight to the low infertility risk (LIR) group. Cryptorchid boys in the high infertility risk group lacked transformation of gonocytes into Ad spermatogonia due to impaired mini puberty. This group of patients will be infertile despite successful surgery.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Cryptorchid boys (seven unilateral and eight bilateral undescended testes) had a median age of 15 months (range 7-55 months). Patients had no prior hormonal or surgical treatment. Cryptorchid testis is defined as a testis localized outside the scrotum and incapable of being brought into a stable scrotal position. All undescended testes in this study were located in the inguinal region. Cryptorchid boys entering the study underwent an extensive clinical examination with no clinical signs of developmental malformations or syndromes. Performing clinical examination in accordance with STROBE-criteria for case-controlled studies, we excluded small testes, small penis, lack of normal scrotal rugae and pigmentation, gynecomastia and mild anemia. We further determined serum follicle stimulating hormone levels, luteinizing hormone levels, testosterone levels and inhibin levels [<a href="https://www.ncbi.nlm.nih.gov/pubmed?cmd=DetailsSearch&term=27321556">Verkauskas et al., 2016</a>]. No MRI scans of the brain and sella turcica were performed. No clinical symptoms were found for hyperprolactinemia, pituitary lesions (tumor, granuloma and abscess), Cushing syndrome, severe or chronic illness, trauma or surgery and genetic mutations as Prader Willi syndrome. None of our patients suffered from a systemic diseases such as hemochromatosis, sarcoidosis and histiocytosis X.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="27321556"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="27561106"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="21412036"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Cryptorchidism"/>
+		<Disease vocab_source="MESH" vocab_term="Idiopathic Hypogonadotropic Hypogonadism"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Faruk Hadziselimovic, MD</AttName>
+			<Institution>Cryptorchidism Research Institute, Kindermedizinisches Zentrum Liestal, Switzerland</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Katharina Gegenschatz-Schmid, DSc</AttName>
+			<Institution>Cryptorchidism Research Institute, Kindermedizinisches Zentrum Liestal, Switzerland</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Gilvydas Verkauskas, MD</AttName>
+			<Institution>Children#39;s Surgery Centre Vilnius University, Vilnius, Lithuania</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Mar&#205;a Jos&#233; Docampo Garc&#205;a, PhD</AttName>
+			<Institution>Cryptorchidism Research Institute, Kindermedizinisches Zentrum Liestal, Switzerland</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Philippe Demougin</AttName>
+			<Institution>Biozentrum, Life Sciences Training Facility, University of Basel, Basel, Switzerland</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Vytautas Bilius, MD</AttName>
+			<Institution>Children#39;s Surgery Centre Vilnius University, Vilnius, Lithuania</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Dalius Malcius, MD</AttName>
+			<Institution>Lithuanian University of Health Sciences, Kaunas, Lithuania</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Darius Dasevicius, MD</AttName>
+			<Institution>Institute for Pathology, National Centre of Pathology, Vilnius, Lithuania</Institution>
+		</Header>
+		<Header title="Co-Investigators">
+			<AttName>Michael B. Stadler, PhD</AttName>
+			<Institution>Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland       Swiss Institute of Bioinformatics, Basel, Switzerland</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>MetastasiX project of SystemsX.ch</AttName>
+			<Institution>Z&#252;rich</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>2015 - RNA isolation, - purification, - library preparation, - sequencing <br/> 2016 - RNA sequencing data analysis </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-CRYPT-IRB-PUB-NPU-GSO" longName="Disease-Specific (Cryptorchidism, IRB, PUB, NPU, GSO)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

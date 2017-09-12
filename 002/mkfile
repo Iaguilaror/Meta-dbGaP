@@ -1,0 +1,14 @@
+ < ../config.mk
+
+all:QV:
+	bin/targets | xargs mk
+
+results/%/index.html:Q:
+	set -x
+	mkdir -p `dirname $target`
+	wget -q -O - $BASE_URL/$stem/ \
+	| grep -v "^<" \
+	| grep -v "analyses/" \
+	| grep "/phs" \
+	| cut -d'"' -f2 > $target.build \
+	&& mv $target.build $target

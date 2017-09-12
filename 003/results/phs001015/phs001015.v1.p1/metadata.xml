@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001015.v1.p1" parentStudy="phs001015.v1.p1" createDate="2015-10-27" modDate="2016-09-27">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Vincent C. Lombardi, PhD</td><td>Nevada Center for Biomedical Research, University of Nevada, NV, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01 AI078234</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Deciphering the Pathophysiology of Chronic Fatigue Syndrome</StudyNameEntrez>
+	<StudyNameReportPage>Genome Wide Association Study of Subjects with Myalgic Encephalomyelitis (ME)/Chronic Fatigue Syndrome (CFS)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Myalgic encephalomyelitis, also known as chronic fatigue syndrome or ME/CFS, is a complex and heterogeneous disease that severely impacts the health and quality of life of those afflicted. Several lines of evidence support the possibility that ME/CFS development may involve a heritable component. In this pilot study, 42 cases that meet the diagnostic criteria of ME/CFS and 38 healthy controls were consented into this study. The goal of this study was to identify candidate polymorphisms that can be used for a large multi-center screening study.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Subjects who meet the 1994 <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=7978722">Fukuda et al.</a> criteria for chronic fatigue syndrome1 as well as 2003 Carruthers et al. criteria for myalgic encephalomyelitis.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="7978722"/>
+		</Publication>
+		<Publication>
+			<Journal authors="Carruthers B, Jain AK, De Meirleir K, Peterson D, Klimas N, Lerner A, et al." title="Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Clinical Working Case Definition, Diagnostic and Treatment Protocols." journal="J Chronic Fatigue Syndrome 2003; 11: 1-12"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Fatigue Syndrome, Chronic"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Vincent C. Lombardi, PhD</AttName>
+			<Institution>Nevada Center for Biomedical Research, University of Nevada, NV, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01 AI078234</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="DS-ME-CFS-IRB" longName="Disease-Specific (Myalgic Encephalopathy - Chronic Fatigue Syndrome, IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

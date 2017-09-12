@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001141.v1.p1" parentStudy="phs001141.v1.p1" createDate="2016-06-08" modDate="2016-06-24">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator and Study Chair</td><td>Manish Kohli, MD</td><td>Mayo Clinic, Rochester, MN, USA</td></tr>
+		<tr><td>Mayo Clinic, Florida Principal Investigator</td><td>Winston Tan, MD</td><td>Mayo Clinic Florida, Jacksonville, FL, USA</td></tr>
+		<tr><td>Mayo Clinic, Arizona Principal Investigator</td><td>Alan H. Bryce</td><td>Mayo Clinic Arizona, Scottsdale, AZ, USA</td></tr>
+		<tr><td>Co-Principal Investigator and Co- Chair</td><td>Leiwei Wang, MD, PhD</td><td>Mayo Clinic, Rochester, MN, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>Brian C. Costello, MD</td><td>Mayo Clinic, Rochester, MN, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>PROstate Cancer Medically Optimized Genome Enhanced ThErapy (PROMOTE)</StudyNameEntrez>
+	<StudyNameReportPage>PROstate Cancer Medically Optimized Genome Enhanced ThErapy (PROMOTE) of Castration Resistant Prostate Cancer (CRPC) Patients Treated with Abiraterone Acetate</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Prostate Cancer Medically Optimized Genome-Enhanced Therapy (PROMOTE) study uses genetic clues in castration-resistant prostate cancer that may identify an individualized treatment approach for men with the disease.</p> <p>Understanding the molecular biology behind castration-resistant prostate cancer has led to more treatment options, but there are still no definite conclusions about which specific drug best treats patients - maximum suppression of cancer growth while minimizing side effects.</p> <p>The PROMOTE study explores the genetic characteristics of each tumor to predict these treatment paradigms for the future, resulting in more effective and less toxic options for patients.</p> <p>Our long-term goal is to improve treatments for men with advanced prostate cancer by using genomic sequencing to increase life span and quality of life. We also will uncover novel vulnerable targets in the cancer genome that may provide new drug therapies.</p> <p><i><b>PARTICIPATION</b></i></p> <p>Eligible participants are men:</p> <p> <ul> <li>With castration-resistant prostate cancer or prostate cancer not responding to hormone treatments</li> <li>About to begin abiraterone acetate therapy</li> <li>Agreeable to undergoing two tumor biopsies</li> </ul> </p> <p>During the study, participants travel to Mayo Clinic for an initial biopsy (before beginning abiraterone acetate) and a second biopsy approximately three months later. The cell tissue collected is analyzed to identify gene alterations in the tumor that could eventually be targeted with treatments. Tissue is preserved for future research.</p> <p>Participants can continue to be treated by their local cancer care team during this period and beyond. In addition, the Mayo team carefully monitors participants&#39; cancer via follow-up studies and the genetic signature of tumors that were biopsied so that patients may benefit from future treatments.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion Criteria<br/> 3.11 Males age &#8805; 18 years.<br/> 3.12 Histological diagnosis of adenocarcinoma of the prostate or documented history in medical records of having received treatment for prostate cancer diagnosis.<br/> 3.13 Metastatic disease on chest, abdominal, or pelvic CT and/or bone scan amenable to biopsy.<br/> 3.14 The following laboratory values obtained &#8804;14 days prior to registration a. Hematology: HgB &#62;9.0 gm, ANC &#8805; 1500 cells /L, and platelets &#8805;100,000&#956;/L b. Creatinine &#8804; 1.5 x upper limit of normal (ULN). c. SGOT (AST) and SGPT (ALT) &#8804; 1.5 x ULN. d. Castrate serum testosterone level (&#60; 50 ng/dL-or-&#60; 1.7 nmol/L).<br/> 3.15 Progression while on or after androgen deprivation therapy defined as: a. Progressive measurable disease: at least a 20% increase in the sum of the longest diameters of measurable lesions over the smallest sum observed or the appearance of one or more new lesions as assessed by imaging during hormone ablation treatment. Measurable lesions are nodal or visceral soft-tissue lesions with nodal lesions &#8805; 20 mm in diameter or visceral/soft-tissue lesions &#8805; 10 mm in diameter (see Section 11.0). OR b. Bone Scan Progression: appearance of 2 or more new lesions on bone scan during hormone ablation treatment. OR c. Increasing serum PSA level: Two consecutive increases in PSA levels documented over a previous reference value obtained at least one week apart are required. If the third PSA value is less than the second, an additional fourth test to confirm a rising PSA is acceptable. A minimum starting value of 2.0 ng/mL is required for study enrollment. NOTE: Androgen deprivation therapy may have included either medical or surgical castration.<br/> 3.16 &#8805;14 days has passed since completing radiotherapy (exception for radiotherapy: &#8805; 7 days since completing a single fraction of &#8804; 800 cGy to 14 MC1351 Template revised: 1/30/2012 a restricted field or limited-field radiotherapy to non-marrow bearing area such as an extremity or orbit) at the time of registration.<br/> 3.17 Patients who may have received systemic chemotherapy or any novel therapeutic CYP-17 inhibitor and/or novel AR inhibitor agents previously for prostate cancer should have received the last dose of the previously administered systemic therapy &#8805;12 months from the date of registration.<br/> 3.18 Provide informed written consent.<br/> 3.19a Has recovered from any other therapy-related toxicity to &#8804; grade 2, (except alopecia, anemia and any signs or symptoms of androgen deprivation therapy).<br/> 3.19b Willing to provide tissue and blood samples for correlative research purposes (see Section 6.2, 14.1, and 17.1 of the protocol) <br/> 3.19c ECOG Performance Status (PS) 0, 1 or 2 (Appendix I).<br/> 3.19d Patient is considered a candidate for initiating CYP-17 inhibitors Abiraterone acetate and prednisone after failure of hormonal therapy and has no contra-indication to starting this combination as standard of care.<br/> 3.19e Patients have stopped any antiandrogen therapy (including bicalutamide) &#8805;4 weeks prior to first dose of study drug. In addition any other therapies for prostate cancer, other than GnRH analogue therapy, such as progesterone, medroxyprogesterone, progestins (megesterol), or 5-alpha reductase inhibitors (eg, finasteride or dutasteride), must be discontinued &#8805;2 weeks before the first dose of study drug.<br/> 3.2 Exclusion Criteria<br/> 3.21 Use of any of the standard therapies for CRPC stage &#8804;12 months prior to registration.<br/> a. Initiation of full dose chemotherapy with Docetaxel for CRPC stage &#8804;12 months prior to registration is an exclusion criterion. Note: Docetaxel for hormone sensitive prostate cancer is not an exclusion criterion.<br/> b. Use of Radium-223 for CRPC stage is an exclusion criteria.<br/> c. Use of Provenge vaccine for CRPC &#8804;12 months prior to registration is an exclusion criterion. Note: Less than 3 doses of Provenge vaccine &#8804;12 months prior to registration for CRPC is not an exclusion criterion. 15 MC1351 Template revised: 1/30/2012.<br/> d. Initiation of full dose chemotherapy with Mitoxantrone for CRPC stage with-in the previous 12 months is an exclusion criterion.<br/> e. Use of Cabazitaxel chemotherapy &#8804;12 months prior to registration is an exclusion criterion Note: Initiation of full dose chemotherapy with cabazitaxel for CRPC stage with-in the previous 12 months is an exclusion criterion.<br/> f. Use of Ketoconazole with steroids &#8804;12 months prior to registration for CRPC stage Note: Ketoconazole therapy taken for a time period of &#8804;12 weeks in the 12 month period prior to registration is not an exclusion criterion.<br/> g. Use of Enzalutamide for CRPC stage &#8804;12 months prior to registration is an exclusion criteria Use of any experimental or standard of care CYP-17 inhibitors &#8804;12 months prior to registration is an exclusion criteria.<br/> </p> <p> Note: Standard of care CRPC therapy with a CYP-17 inhibitor &#8804;7 days prior to registration is not an exclusion criterion. If taken for 8 days or more it will be counted as an exclusion criterion.</p> <p>3.22 Receiving any intermittent hormonal treatment GnRH analogues and has not yet achieved sub-castrate levels of testosterone (&#60;50 ng/dl or &#60;1.7 mmol/L).<br/> 3.23 History of or current documented brain metastasis or carcinomatous meningitis, treated or untreated. Note: brain imaging for asymptomatic patients is not required.<br/> 3.24 Current symptomatic cord compression requiring surgery or radiation therapy. Note: Once successfully treated and there has been no progression, patients are eligible for the study.<br/> 3.25 Active second malignancy (except non-melanomatous skin or superficial bladder cancer) defined as requiring anticancer therapy or at high risk of recurrence during the study.<br/> 3.26 Uncontrolled medical conditions such as heart failure, myocardial infarction, uncontrolled hypertension, disseminated on-going coagulopathy, stroke or treatment of a major active infection &#8804;3 months of registration, as well as any significant concurrent medical illness that in the opinion of the Investigator would preclude protocol therapy.<br/> 3.27 Planned concomitant participation in another clinical trial of an experimental agent, vaccine, or device.<br/> </p> <p>Note: Concomitant participation in observational studies is acceptable.</p> <p>3.28 Patients with a global or severe deterioration of health status such that it requires discontinuation of standard of care treatments for CRPC stage without evidence of disease progression &#8804; 12 weeks prior to registration.<br/> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26695660"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="27084275"/>
+		</Publication>
+		<Publication>
+			<Journal authors="Wang L. et al" title="Genome and transcriptome signatures of patients with primary resistance to abiraterone in metastatic castration resistant prostate cancer." journal="Nature Communication (in submission)"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Prostatic Neoplasms, Castration-Resistant"/>
+		<Disease vocab_source="MESH" vocab_term="Prostatic Neoplasms"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator and Study Chair">
+			<AttName>Manish Kohli, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Principal Investigator and Co- Chair">
+			<AttName>Leiwei Wang, MD, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Mayo Clinic, Florida Principal Investigator">
+			<AttName>Winston Tan, MD</AttName>
+			<Institution>Mayo Clinic Florida, Jacksonville, FL, USA</Institution>
+		</Header>
+		<Header title="Mayo Clinic, Arizona Principal Investigator">
+			<AttName>Alan H. Bryce</AttName>
+			<Institution>Mayo Clinic Arizona, Scottsdale, AZ, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Brian C. Costello, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Brendan P. McMenomy, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Patrick W. Eiken, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Thomas D. Atwell, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Rafael E. Jimenez, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Hu Li, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Richard W. Joseph, MD</AttName>
+			<Institution>Mayo Clinic Florida, Jacksonville, FL, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Thai H. Ho, MD, PhD</AttName>
+			<Institution>Mayo Clinic Arizona, Scottsdale, AZ, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Marissa S. Ellingson, MS, CGC</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Minetta C. Liu, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Richard Weinshilboum, MD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Eric D. Wieben, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Statistician">
+			<AttName>David W. Hillman, MS</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Statistician">
+			<AttName>Jeannette Eckel-Passow, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Statistician">
+			<AttName>Fang-Shu Ou, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Statistician">
+			<AttName>Rachel E. Carlson</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Statistician">
+			<AttName>Poulami Barman, MS</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Bioinformatician">
+			<AttName>Hugues Sicotte, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Bioinformatician">
+			<AttName>Liguo Wang, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Bioinformatician">
+			<AttName>Khrishna R. Kalari, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Bioinformatician">
+			<AttName>Steven N. Hart, PhD</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Bioinformatician">
+			<AttName>Peter T. Vedell</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Bioinformatician">
+			<AttName>Ying Li</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>FP00069182</AttName>
+			<Institution>Mayo Clinic Center for Individualized Medicine</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>A.T. Suharya and Ghan D.H.</AttName>
+			<Institution>A.T. Suharya and Ghan D.H.</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Joseph and Gail Gassner</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>Mayo Clinic Schulze Cancer for Novel Therapeutics in Cancer Research</AttName>
+			<Institution>Mayo Clinic, Rochester, MN, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U19GM61388</AttName>
+			<Institution>Pharmacogenomics Research Network (PGRN), National Health Institute, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>P30 CA015083</AttName>
+			<Institution>Mayo Clinic Cancer Center</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Prostate Cancer Study" url="http://mayoresearch.mayo.edu/center-for-individualized-medicine/prostate-cancer-study.asp"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCI</DacName>
+      <DacFullName>NCI</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001141.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001141.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001141.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

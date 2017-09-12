@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001328.v1.p1" parentStudy="phs001328.v1.p1" createDate="2017-03-08" modDate="2017-05-16">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Participating Site Principal Investigators</td><td>Paul Harmatz, MD</td><td>UCSF Benioff Children&#39;s Hospital Oakland, Oakland, CA, USA</td></tr>
+		<tr><td>Participating Site Principal Investigators</td><td>Sumar Shankar, MD</td><td>Emory University School of Medicine, Decatur, GA, USA</td></tr>
+		<tr><td>Participating Site Principal Investigators</td><td>Heather Lau, MD</td><td>New York University School of Medicine, New York, NY, USA</td></tr>
+		<tr><td>Participating Site Principal Investigators</td><td>Ronald Cohn, MD</td><td>Hospital for Sick Children, Toronto, Canada</td></tr>
+		<tr><td>Participating Site Principal Investigators</td><td>Morton Cowan, MD</td><td>UCSF Benioff Children&#39;s Hospital Oakland, Oakland, CA, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Longitudinal Studies of Brain Structure and Function in MPS Disorders</StudyNameEntrez>
+	<StudyNameReportPage>Longitudinal Studies of Brain Structure and Function in MPS Disorders</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Mucopolysaccharidosis (MPS) types I, II, IV, VI and VII, are inherited diseases that result from the bodies inability to break down large sugar molecules that are by-products of metabolism. MPS affects most organs of the body and causes abnormalities in the liver, spleen, bones, and brain. We are studying the central nervous system (primarily the brain) so we can better understand the nature of the problems individuals with MPS I, II, IV, VI and VII have so we can find ways of better treating these problems. We would like to find out about the changes in the brain of individuals with MPS I, II, IV, VI and VII using data from MRI and neuropsychological tests. This is a longitudinal study so patients who enroll will need to be seen 3 times over 5 years. The longitudinal nature of the study allows us to make conclusions about how changes in some structures of the brain and changes in cognitive ability are related.</p> <p>The research objectives are: <ol> <li>To identify abnormalities of brain (and central nervous system) structure and function in patients with MPS I, II, IV, VI and VII, regardless of how they are being treated or have been treated in the past; and to track disease progression over time.</li> <li>To examine the degree to which independent variables (e.g., age at first treatment, severity of disease, types of medical abnormalities, mutation, medical events, and sensory abnormalities) have an impact on both functional and structural outcomes as well as on quality-of-life.</li> <li>To identify, through longitudinal study, those measures that most accurately reflect the current disease state.</li> </ol> </p> <p>This is a longitudinal study of 75-100 individuals with either MPS I, II, IV, VI and VII. Those participating in the study will be evaluated 3 times over 5 years. The primary site for this study is the University of Minnesota but there are an additional 6 centers in the United States and Canada that are also participating and will provide data for analysis. You will need to be able to travel to Minnesota or one of the participating centers in order to be a part of this study.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Inclusion criteria: <ul> <li>Any MPS I, II, IV, VI or VII child or adult ages 6-25</li> </ul> </p> <p>Exclusion Criteria for Neuroimaging Participants with: <ul> <li>pacemakers</li> <li>any indwelling electronic device including programmable shunts</li> <li>orthodontic braces unless they are not made of metal</li> <li>other implanted metal in the body other than titanium </li> <li>unable to stay still during MRI because of low cognitive function, behavioral dysregulation, or young age if the patient is not a clinical patient having sedation/anesthesia</li> <li>pregnancy</li> </ul> </p> <p>Exclusion Criteria for Neuropsychological and Neurobehavioral Testing Participants who: <ul> <li>are too functionally impaired for testing</li> </ul> </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="22867884"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22974573"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24582005"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Mucopolysaccharidoses"/>
+		<Disease vocab_source="MESH" vocab_term="Mucopolysaccharidosis I"/>
+		<Disease vocab_source="MESH" vocab_term="Mucopolysaccharidosis II"/>
+		<Disease vocab_source="MESH" vocab_term="Mucopolysaccharidosis IV"/>
+		<Disease vocab_source="MESH" vocab_term="Mucopolysaccharidosis VI"/>
+		<Disease vocab_source="MESH" vocab_term="Mucopolysaccharidosis VII"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Study Chair">
+			<AttName>Chester Whitley, PhD, MD</AttName>
+			<Institution>University of Minnesota, Minneapolis, MN, USA</Institution>
+		</Header>
+		<Header title="Participating Site Principal Investigators">
+			<AttName>Paul Harmatz, MD</AttName>
+			<Institution>UCSF Benioff Children&#39;s Hospital Oakland, Oakland, CA, USA</Institution>
+		</Header>
+		<Header title="Participating Site Principal Investigators">
+			<AttName>Sumar Shankar, MD</AttName>
+			<Institution>Emory University School of Medicine, Decatur, GA, USA</Institution>
+		</Header>
+		<Header title="Participating Site Principal Investigators">
+			<AttName>Heather Lau, MD</AttName>
+			<Institution>New York University School of Medicine, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Participating Site Principal Investigators">
+			<AttName>Ronald Cohn, MD</AttName>
+			<Institution>Hospital for Sick Children, Toronto, Canada</Institution>
+		</Header>
+		<Header title="Participating Site Principal Investigators">
+			<AttName>Morton Cowan, MD</AttName>
+			<Institution>UCSF Benioff Children&#39;s Hospital Oakland, Oakland, CA, USA</Institution>
+		</Header>
+		<Header title="Participating Site Principal Investigators">
+			<AttName>Lynda Polgreen, MD, MS</AttName>
+			<Institution>LA BioMed at Harbor-UCLA Medical Center, Torrance, CA, USA</Institution>
+		</Header>
+		<Header title="Current Funding Source">
+			<AttName>U54-NS065768-06</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Lysosomal Disease Network" url="https://www.rarediseasesnetwork.org/LDN/"/>
+	</StudyURLs>
+	<StudyHistory><![CDATA[
+<p> <ul> <li>Study Activated September 19, 2010</li> <li>First Accrual December 17, 2010</li> </ul> </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB-PUB" longName="General Research Use (IRB, PUB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NCATS</DacName>
+      <DacFullName>NCATS </DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001328.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001328.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001328.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB, PUB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB-PUB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.
+Requestor agrees to make results of studies using the data available to the larger scientific community.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd007231.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007231.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7231">
+      <OrigName>6703_AdaptiveqolFcab_6Jan16.pdf</OrigName>
+      <DisplayName>Adaptiveqol Fcab</DisplayName>
+      <Description>Adaptiveqol Fcab</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007232.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007232.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7232">
+      <OrigName>6703_AgeAtVisit_6Jan16.pdf</OrigName>
+      <DisplayName>Age At Visit</DisplayName>
+      <Description>Age At Visit</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007233.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007233.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7233">
+      <OrigName>6703_BehavioralMeasures_6Jan16.pdf</OrigName>
+      <DisplayName>Behavioral Measures</DisplayName>
+      <Description>Behavioral Measures</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007234.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007234.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7234">
+      <OrigName>6703_BrainImaging_6Jan16.pdf</OrigName>
+      <DisplayName>Brain Imaging</DisplayName>
+      <Description>Brain Imaging</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007235.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007235.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7235">
+      <OrigName>6703_BrainVolumes_6Jan16.pdf</OrigName>
+      <DisplayName>Brain Volumes</DisplayName>
+      <Description>Brain Volumes</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007236.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007236.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7236">
+      <OrigName>6703_Cognitive4To6YearsOfAge_6Jan16.pdf</OrigName>
+      <DisplayName>Cognitive 4 To 6 Years Of Age</DisplayName>
+      <Description>Cognitive 4 To 6 Years Of Age</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007237.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007237.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7237">
+      <OrigName>6703_Cognitive6To8YearsOfAge_6Jan16.pdf</OrigName>
+      <DisplayName>Cognitive 6 To 8 Years Of Age</DisplayName>
+      <Description>Cognitive 6 To 8 Years Of Age</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007238.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007238.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7238">
+      <OrigName>6703_CognitiveAlternative_6Jan16.pdf</OrigName>
+      <DisplayName>Cognitive Alternative</DisplayName>
+      <Description>Cognitive Alternative</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007239.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007239.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7239">
+      <OrigName>6703_CognitiveOver8YearsOfAge_6Jan16.pdf</OrigName>
+      <DisplayName>Cognitive Over 8 Years Of Age</DisplayName>
+      <Description>Cognitive Over 8 Years Of Age</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007240.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007240.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7240">
+      <OrigName>6703_CognitiveUnder4YearsOfAge_6Jan16.pdf</OrigName>
+      <DisplayName>Cognitive Under 4 Years Of Age</DisplayName>
+      <Description>Cognitive Under 4 Years Of Age</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007241.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007241.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7241">
+      <OrigName>6703_ConclusionOfStudyParticipation_6Jan16.pdf</OrigName>
+      <DisplayName>Conclusion Of Study Participation</DisplayName>
+      <Description>Conclusion Of Study Participation</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007242.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007242.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7242">
+      <OrigName>6703_Demographics_6Jan16.pdf</OrigName>
+      <DisplayName>Demographics</DisplayName>
+      <Description>Demographics</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007243.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007243.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7243">
+      <OrigName>6703_Diagnosis_6Jan16.pdf</OrigName>
+      <DisplayName>Diagnosis</DisplayName>
+      <Description>Diagnosis</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007244.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007244.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7244">
+      <OrigName>6703_Eligibility_6Jan16.pdf</OrigName>
+      <DisplayName>Eligibility</DisplayName>
+      <Description>Eligibility</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007245.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007245.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7245">
+      <OrigName>6703_HealthAssessmentQuestionnaire_6Jan16.pdf</OrigName>
+      <DisplayName>Health Assessment Questionnaire</DisplayName>
+      <Description>Health Assessment Questionnaire</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007246.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007246.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7246">
+      <OrigName>6703_Labs_13Jul2010.pdf</OrigName>
+      <DisplayName>Labs</DisplayName>
+      <Description>Labs</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007247.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007247.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7247">
+      <OrigName>6703_MedicalHistory_6Jan16.pdf</OrigName>
+      <DisplayName>Medical History</DisplayName>
+      <Description>Medical History</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007248.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007248.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7248">
+      <OrigName>6703_MedicalHistoryAtDiagnosis_6Jan16.pdf</OrigName>
+      <DisplayName>Medical History At Diagnosis</DisplayName>
+      <Description>Medical History At Diagnosis</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007249.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007249.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7249">
+      <OrigName>6703_NeuropsychSummaryReport_6Jan16.pdf</OrigName>
+      <DisplayName>Neuropsych Summary Report</DisplayName>
+      <Description>Neuropsych Summary Report</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007250.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007250.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7250">
+      <OrigName>6703_PhysicalSymptomScore_6Jan16.pdf</OrigName>
+      <DisplayName>Physical Symptom Score</DisplayName>
+      <Description>Physical Symptom Score</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007251.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007251.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7251">
+      <OrigName>6703_PsychosocialHistory_6Jan16.pdf</OrigName>
+      <DisplayName>Psychosocial History</DisplayName>
+      <Description>Psychosocial History</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007252.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007252.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7252">
+      <OrigName>6703_TreatmentHistory_6Jan16.pdf</OrigName>
+      <DisplayName>Treatment History</DisplayName>
+      <Description>Treatment History</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007253.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007253.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7253">
+      <OrigName>RDN2_Concomitant Medications_10Oct2014.pdf</OrigName>
+      <DisplayName>Concomitant Medications 2014</DisplayName>
+      <Description>Concomitant Medications 2014</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd007254.1" type="questionnaire" createDate="2017-05-12" modDate="2017-05-16" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd007254.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001328.v1.p1&amp;phd=7254">
+      <OrigName>RDN2_Concomitant Medications_16Oct2009.pdf</OrigName>
+      <DisplayName>Concomitant Medications 2009</DisplayName>
+      <Description>Concomitant Medications 2009</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd007231.1" sectionId="phd007231">
+      <phvList>
+        <phvRef variableId="6312"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007233.1" sectionId="phd007233">
+      <phvList>
+        <phvRef variableId="6318"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007234.1" sectionId="phd007234">
+      <phvList>
+        <phvRef variableId="6309"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007235.1" sectionId="phd007235">
+      <phvList>
+        <phvRef variableId="6309"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007236.1" sectionId="phd007236">
+      <phvList>
+        <phvRef variableId="6305"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007237.1" sectionId="phd007237">
+      <phvList>
+        <phvRef variableId="6317"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007239.1" sectionId="phd007239">
+      <phvList>
+        <phvRef variableId="6304"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007240.1" sectionId="phd007240">
+      <phvList>
+        <phvRef variableId="6306"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007241.1" sectionId="phd007241">
+      <phvList>
+        <phvRef variableId="6315"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007242.1" sectionId="phd007242">
+      <phvList>
+        <phvRef variableId="6310"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007243.1" sectionId="phd007243">
+      <phvList>
+        <phvRef variableId="6316"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007244.1" sectionId="phd007244">
+      <phvList>
+        <phvRef variableId="6313"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007246.1" sectionId="phd007246">
+      <phvList>
+        <phvRef variableId="6308"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007247.1" sectionId="phd007247">
+      <phvList>
+        <phvRef variableId="6319"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007248.1" sectionId="phd007248">
+      <phvList>
+        <phvRef variableId="6319"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007252.1" sectionId="phd007252">
+      <phvList>
+        <phvRef variableId="6311"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007253.1" sectionId="phd007253">
+      <phvList>
+        <phvRef variableId="6307"/>
+      </phvList>
+    </DocumentPart>
+    <DocumentPart phd="phd007254.1" sectionId="phd007254">
+      <phvList>
+        <phvRef variableId="6307"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

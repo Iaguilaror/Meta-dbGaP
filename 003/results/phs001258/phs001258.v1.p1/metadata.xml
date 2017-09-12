@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001258.v1.p1" parentStudy="phs001258.v1.p1" createDate="2016-12-15" modDate="2016-12-15">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Kendall Van Keuren-Jensen, PhD</td><td>The Translational Genomics Research Institute (TGen)</td></tr>
+		<tr><td>Co-Investigator</td><td>Matthew Huentelman, PhD</td><td>The Translational Genomics Research Institute (TGen)</td></tr>
+		<tr><td>Funding Source</td><td>3UH3TR000891-03S1</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Total exRNA Profiles from Plasma, Saliva, and Urine of Healthy Subjects</StudyNameEntrez>
+	<StudyNameReportPage>Total exRNA Profiles from Plasma, Saliva, and Urine of Healthy Subjects</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Longitudinal</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>There are currently few datasets describing baseline expression levels for total cell-free circulating RNA from healthy control subjects. Total extracellular RNA was isolated from plasma, urine, and saliva samples from healthy controls. We sequenced small RNAs from 183 plasma samples, 204 urine samples and 46 saliva samples from 55 college athletes ages 18-25 years. Many of the participants provided more than one sample, weeks or months apart, allowing us to assess variability in an individual&#39;s exRNA expression levels over time. Several individuals provided all three biofluid types at one time, producing data on individual expression levels across several biofluid types. Here we provide a systematic analysis of small exRNAs present in each biofluid, as well as an analysis of exogenous RNAs. We find that a large number of RNA fragments in plasma (63%) and urine (54%) have sequences that are assigned to YRNA and tRNA fragments respectively. Surprisingly, while many miRNAs can be detected, there are few miRNAs that are consistently detected in all samples from a single biofluid.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="MicroRNAs"/>
+		<Disease vocab_source="MESH" vocab_term="Healthy Volunteers"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Kendall Van Keuren-Jensen, PhD</AttName>
+			<Institution>The Translational Genomics Research Institute (TGen)</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Matthew Huentelman, PhD</AttName>
+			<Institution>The Translational Genomics Research Institute (TGen)</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>3UH3TR000891-03S1</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB" longName="Health/Medical/Biomedical"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001258.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001258.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001258.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>Health/Medical/Biomedical</ConsentName>
+        <ConsentAbbrev>HMB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

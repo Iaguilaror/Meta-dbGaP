@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001062.v2.p2" parentStudy="phs001062.v2.p2" createDate="2017-07-28" modDate="2017-08-07">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Patrick Ellinor, MD, PhD</td><td>Massachusetts General Hospital, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>Steven Lubitz, MD</td><td>Massachusetts General Hospital, Boston, MA, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01HL092577</td><td>National Heart Lung and Blood Institute, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01HL092577S1</td><td>National Heart Lung and Blood Institute, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>R21DA027021</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: MGH Atrial Fibrillation Study</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: Massachusetts General Hospital (MGH) Atrial Fibrillation Study</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Massachusetts General Hospital (MGH) Atrial Fibrillation Study was initiated in 2001. The study has enrolled serial probands, unaffected and affected family members with atrial fibrillation. At enrollment participants undergo a structured interview to systematically capture their past medical history, AF treatments, and family history. An electrocardiogram is performed; the results of an echocardiogram are obtained; and blood samples are obtained.</p> <p>For the TOPMed WGS project only early-onset atrial fibrillation cases were sequenced. Early-onset atrial fibrillation was defined as an age of onset prior to 66 years of age.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Probands were included if they had a history of atrial fibrillation. In participants with an extensive family history of atrial fibrillation, additional affected and unaffected family members were enrolled.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="20173747"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22544366"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="25124494"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24486271"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="16133178"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="15629379"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Atrial Fibrillation"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Patrick Ellinor, MD, PhD</AttName>
+			<Institution>Massachusetts General Hospital, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Steven Lubitz, MD</AttName>
+			<Institution>Massachusetts General Hospital, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01HL092577</AttName>
+			<Institution>National Heart Lung and Blood Institute, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01HL092577S1</AttName>
+			<Institution>National Heart Lung and Blood Institute, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R21DA027021</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01HL104156</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>K24HL105780</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01HL65962</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>K23HL071632</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>K23HL114724</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>13EIA14220013</AttName>
+			<Institution>American Heart Association, National Center, Dallas, TX, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>14CVD01</AttName>
+			<Institution>Fondation Leducq, Paris, France</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="HMB-IRB" longName="Health/Medical/Biomedical (IRB)"/>
+		<ConsentGroup groupNum="2" shortName="DS-AF-IRB-RD" longName="Disease-Specific (Atrial Fibrillation, IRB, RD)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <Documents>
+    <Document phd="phd006969.2" type="protocol" createDate="2017-04-03" modDate="2017-08-01" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.2" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001062.v2.p2&amp;phd=6969">
+      <OrigName>TOPMed_for_dbGaP_April2016_v5_final.docx</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

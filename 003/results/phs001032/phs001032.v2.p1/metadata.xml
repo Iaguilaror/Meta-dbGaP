@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001032.v2.p1" parentStudy="phs001032.v2.p1" createDate="2017-01-17" modDate="2017-01-17">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Dan Roden, MD</td><td>Vanderbilt University, Nashville, TN,USA</td></tr>
+		<tr><td>Co-Investigator</td><td>M. Benjamin Shoemaker, MD</td><td>Vanderbilt University, Nashville, TN,USA</td></tr>
+		<tr><td>Funding Source</td><td>5U19 HL065962-14 (Roden)</td><td>National Heart Lung and Blood Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		<tr><td>Funding Source</td><td>2R01 HL092217-05A1 (Darbar)</td><td>National Heart Lung and Blood Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: The Vanderbilt Atrial Fibrillation Registry</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: The Vanderbilt Atrial Fibrillation Registry</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The Vanderbilt Atrial Fibrillation (AF) Registry was founded in 2001. Patients with AF and family members are prospectively enrolled. At enrollment a detailed past medical history is obtained along with an AF symptom severity assessment. Blood samples are obtained for DNA extraction. Patients are followed longitudinally along with serial collection of AF symptom severity assessments.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>Probands with AF, along with affected and unaffected family members are enrolled.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="25015694"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22544366"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24161141"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24072447"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22818067"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="22726630"/>
+		</Publication>
+		<Publication>
+			<Pubmed pmid="24727801"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Atrial Fibrillation"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Dan Roden, MD</AttName>
+			<Institution>Vanderbilt University, Nashville, TN,USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>M. Benjamin Shoemaker, MD</AttName>
+			<Institution>Vanderbilt University, Nashville, TN,USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>5U19 HL065962-14 (Roden)</AttName>
+			<Institution>National Heart Lung and Blood Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>2R01 HL092217-05A1 (Darbar)</AttName>
+			<Institution>National Heart Lung and Blood Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB" longName="General Research Use (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001032.v2.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001032.v2.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001032.v2.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area</ConsentName>
+        <ConsentAbbrev>EA</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only
+There is one consent group for this study: GRU-IRB.
+Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006969.1" type="protocol" createDate="2016-10-05" modDate="2016-12-19" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001032.v2.p1&amp;phd=6969">
+      <OrigName>TOPMed_document.txt</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

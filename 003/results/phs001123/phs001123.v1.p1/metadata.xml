@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001123.v1.p1" parentStudy="phs001123.v1.p1" createDate="2016-05-16" modDate="2016-10-03">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Kathleen Barnes, PhD</td><td>University of Colorado, Denver, CO, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01 HL104608</td><td>National Heart, Lung and Blood Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Consortium on Asthma among African-ancestry Populations in the Americas</StudyNameEntrez>
+	<StudyNameReportPage>Consortium on Asthma among African-ancestry Populations in the Americas (CAAPA)</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Population Genomics</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Asthma is a complex disease where the interplay between genetic factors and environmental exposures influences susceptibility and disease prognosis. Asthmatics of African descent tend to have more severe asthma and more severe clinical symptoms than individuals of European ancestry. Advances in genetic and genomic technologies have revolutionized gene discovery for several complex diseases, but going to the next step in gene discovery for asthma among populations of African descent requires considering unique characteristics of this ethnic group, including adequate sample sizes and population stratification due to (European and African) admixture. Thus far, coverage of common genetic markers both in public databases and commercially available SNP chips has been inadequate to detect and measure genetic associations among African admixed populations. The aim of this study was therefore to catalog genetic diversity in populations of African descent, especially those whose ancestry reflects the African Diaspora in the Americas.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>DNA samples of 1004 individuals of African ancestry were whole genome sequenced. These individuals were selected across North and South America, the Caribbean, and continental Africa, in order to represent a large spectrum of African ancestry. 87 samples from 2 populations were excluded due to regulatory constraints, leaving 917 samples for analysis. </p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Asthma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Kathleen Barnes, PhD</AttName>
+			<Institution>University of Colorado, Denver, CO, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01 HL104608</AttName>
+			<Institution>National Heart, Lung and Blood Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>In September, 2011, the Consortium on Asthma among African-ancestry Populations in the Americas (CAAPA) received support from the National Institutes of Health, National Heart, Lung and Blood Institute, to achieve two broad goals: Discovery of genes conferring risk to asthma among individuals of African ancestry catalog genetic diversity in populations of African descent, especially those whose ancestry reflects the African Diaspora in the Americas. To achieve these goals, CAAPA investigators have generated whole genome sequence data on ~1,000 asthmatics and non-asthmatics, all of African ancestry, selected across North and South America, the Caribbean, and continental Africa, to represent a large spectrum of African ancestry. </p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB" longName="General Research Use (IRB)"/>
+		<ConsentGroup groupNum="2" shortName="HMB" longName="Health/Medical/Biomedical"/>
+		<ConsentGroup groupNum="3" shortName="DS-LD" longName="Disease-Specific (Lung Disease)"/>
+		<ConsentGroup groupNum="4" shortName="HMB-IRB-NPU" longName="Health/Medical/Biomedical (IRB, NPU)"/>
+		<ConsentGroup groupNum="5" shortName="DS-FDO-IRB-NPU" longName="Disease-Specific (Focused Disease Only, IRB, NPU)"/>
+		<ConsentGroup groupNum="6" shortName="HMB-IRB" longName="Health/Medical/Biomedical (IRB)"/>
+		<ConsentGroup groupNum="7" shortName="DS-FDO-IRB" longName="Disease-Specific (Focused Disease Only, IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001123.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001123.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001123.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Health/Medical/Biomedical</ConsentName>
+        <ConsentAbbrev>HMB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Disease-Specific (Lung Disease)</ConsentName>
+        <ConsentAbbrev>DS-LD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Lung Disease.
+Informed consent restrict the use of data analysis related to lung diseases including asthma/allergies (immunologic disease), asthma related traits(e.g., obesity), drug response, genetic ancestry to adjust for differences between cases and controls and to identify new genes related to clinical phenotypes.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="4">
+        <ConsentName>Health/Medical/Biomedical (IRB, NPU)</ConsentName>
+        <ConsentAbbrev>HMB-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.
+These data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in this Study. 
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="5">
+        <ConsentName>Disease-Specific (Focused Disease Only, IRB, NPU)</ConsentName>
+        <ConsentAbbrev>DS-FDO-IRB-NPU</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Focused Disease Only.
+Requestor must provide documentation of local IRB approval.
+Use of the data is limited to not-for-profit organizations.
+These data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in this Study. 
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).
+This consent group allows for study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only. Use of these data to study other diseases (e.g. cancer, schizophrenia) is NOT allowed under the current consent.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="6">
+        <ConsentName>Health/Medical/Biomedical (IRB)</ConsentName>
+        <ConsentAbbrev>HMB-IRB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
+Requestor must provide documentation of local IRB approval.
+These data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in this study. 
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="7">
+        <ConsentName>Disease-Specific (Focused Disease Only, IRB)</ConsentName>
+        <ConsentAbbrev>DS-FDO-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Focused Disease Only.
+Requestor must provide documentation of local IRB approval.
+These data may not be used to investigate individual pedigree structures or individual participant genotypes for the purpose of identifying individuals or families; assess variables or proxies that could be considered as stigmatizing an individual or a group; perform phenotype-only analyses (note: investigators may request data for such phenotype-only analyses through NHLBI&amp;#x2019;s BioLINCC); or explore issues such as non-maternity and non-paternity. All research must be related to the etiology and prevention of morbidity and mortality of the U.S. Population consistent with the demographic distribution in this Study. 
+Data users will be required to obtain IRB approval for their projects from their respective institutions (please note that only full or expedited approvals will be accepted).
+This consent group allows for study of blood pressure, heart or other cardiovascular disease, obesity, diabetes, kidney disease, or lung disease and risk factors for these diseases only. Use of these data to study other diseases (e.g. cancer, schizophrenia) is NOT allowed under the current consent.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

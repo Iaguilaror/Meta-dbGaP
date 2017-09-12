@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001143.v1.p1" parentStudy="phs001143.v1.p1" createDate="2016-06-08" modDate="2017-06-08">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Kathleen Barnes, PhD</td><td>University of Colorado, Denver, CO, USA</td></tr>
+		<tr><td>Funding Source</td><td>R01 HL104608-S1</td><td>National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NHLBI TOPMed: The Genetics and Epidemiology of Asthma in Barbados</StudyNameEntrez>
+	<StudyNameReportPage>NHLBI TOPMed: The Genetics and Epidemiology of Asthma in Barbados</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Family</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Asthma is a complex disease where the interplay between genetic factors and environmental exposures influences susceptibility and disease prognosis. Asthmatics of African descent tend to have more severe asthma and more severe clinical symptoms than individuals of European ancestry. The baseline prevalence of asthma in Barbados is high (~20%), and from admixture analyses, we have determined that the proportion of African ancestry among Barbadian founders is similar to U.S. African Americans, rendering this a unique population to disentangle the genetic basis for asthma disparities among African ancestry populations in general. We therefore performed whole genome sequencing on 1,100 individuals from the Barbados Genetics of Asthma Study (BAGS), in order to generate additional discovery of rare and structural variants that may control risk to asthma.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>DNA samples of 1100 individuals from 190 Barbados families were whole genome sequenced (asthma cases and controls). Among all cases, asthma was defined as both a reported history of asthma and a documented history of physician-diagnosed asthma (past or current). For each of the asthma studies, a standardized questionnaire based on either American Thoracic Society or International Study of Asthma and Allergy in Childhood questionnaires was administered by a clinical coordinator. The identity and relationships of individuals were checked using IBD estimates, and individuals were excluded if discrepant. Samples that failed whole genome sequencing quality control were also excluded.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="19910028"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Asthma"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Kathleen Barnes, PhD</AttName>
+			<Institution>University of Colorado, Denver, CO, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>R01 HL104608-S1</AttName>
+			<Institution>National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>Epidemiologic studies of asthma have been underway in Barbados since 1991, when PI Barnes reported a relationship between modernization of the domestic environment in Barbados and increased risk of asthma. The baseline prevalence of asthma in Barbados is high (~20%), and from admixture analyses, we have determined that the proportion of African ancestry among Barbadian founders is similar to U.S. African Americans, rendering this a unique population to disentangle the genetic basis for asthma disparities among African ancestry populations in general. The primary outcome measure is asthma, and the approach for characterizing asthma in the Barbados population is based on the validated Respiratory Health Questionnaire (RHQ) designed from the 1978 American Thoracic Society questionnaire. Additional phenotype data include lung function measures, asthma severity, total serum IgE, and serum levels of various cytokines. In 1993, the Barbados Genetics of Asthma Study (BAGS) was initiated on nuclear and extended asthmatic families who self-reported as African Caribbean, resulting in the first evidence for linkage for asthma and tIgE in an African-ancestry population, and the development of novel family-based methods. Recruitment into the BAGS program was enhanced through its involvement in the international Genetics of Asthma International Network (1999-2001) and the current sample of &gt;1300 participants continues to grow through the efforts of collaborators and nursing staff at the Chronic Disease Research Centre in Barbados. Pediatric probands were recruited through referrals at local polyclinics or the Accident and Emergency Department at the Queen Elizabeth Hospital, and their nuclear and extended family members were subsequently recruited. All subjects gave verbal and written consent as approved by the Johns Hopkins Institutional Review Board (IRB) and the Barbados Ministry of Health.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="0" shortName="NRUP" longName="Subjects did not participate in the study, did not complete a consent document and are included only for the pedigree structure and/or genotype controls, such as HapMap subjects"/>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB" longName="General Research Use (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001143.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001143.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001143.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="999">
+        <ConsentName>Exchange Area (IRB)</ConsentName>
+        <ConsentAbbrev>EA-IRB</ConsentAbbrev>
+        <UseLimitation>Use by NHLBI WGS study investigators only. 
+There is one consent group for this study: GRU-IRB. 
+Use of the data is limited only by the terms of the model Data Use Certification. 
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+  <Documents>
+    <Document phd="phd006969.2" type="protocol" createDate="2017-04-03" modDate="2017-06-08" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006969.2" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001143.v1.p1&amp;phd=6969">
+      <OrigName>TOPMed_for_dbGaP_April2016_v5_final.docx</OrigName>
+      <DisplayName>TOPMed Whole Genome Sequencing Project</DisplayName>
+      <Description>TOPMed Whole Genome Sequencing Project</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+    <Document phd="phd006974.1" type="protocol" createDate="2016-11-01" modDate="2016-11-01" urlToXml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetDocumentXml.cgi?document_id=phd006974.1" urlToHtml="http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/document.cgi?study_id=phs001143.v1.p1&amp;phd=6974">
+      <OrigName>Asthma.docx</OrigName>
+      <DisplayName>Asthma / Affection Status</DisplayName>
+      <Description>Asthma / Affection Status</Description>
+      <displayStatus>public</displayStatus>
+      <xmlStatus>public</xmlStatus>
+    </Document>
+  </Documents>
+
+  <Annotations>
+    <DocumentPart phd="phd006974.1" sectionId="sec1">
+      <phvList>
+        <phvRef variableId="273201"/>
+        <phvRef variableId="273213"/>
+      </phvList>
+    </DocumentPart>
+  </Annotations>
+
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

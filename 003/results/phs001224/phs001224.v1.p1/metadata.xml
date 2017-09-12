@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001224.v1.p1" parentStudy="phs001224.v1.p1" createDate="2016-10-07" modDate="2016-10-07">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>David R Bentley</td><td>Illumina, Ltd, Little Chesterford, Essex, UK</td></tr>
+		<tr><td>Co-Investigator</td><td>Michael A Eberle</td><td>Illumina, Inc, San Diego, CA USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Platinum Genomes</StudyNameEntrez>
+	<StudyNameReportPage>Platinum Genomes</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Control Set</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Improvement of variant calling in next-generation sequence data requires a comprehensive, genome-wide catalogue of high-confidence variants called in a set of genomes for use as a benchmark. We generated deep, whole-genome sequence data of seventeen individuals in a three-generation pedigree and called variants in each genome using a range of currently available algorithms. We used haplotype transmission information to create a phased "platinum" variant catalogue of 4.7 million single nucleotide variants (SNVs) plus 0.7 million small (1-50bp) insertions and deletions (indels) that are consistent with the pattern of inheritance in the parents and eleven children of this pedigree. Platinum genotypes are highly concordant with the current catalogue of the National Institute of Standards and Technology for both SNVs (&#62;99.99%) and indels (99.92%), and add a validated truth catalogue that has 26% more SNVs and 45% more indels. Analysis of 334,652 SNVs that were consistent between informatics pipelines yet inconsistent with haplotype transmission ("non-platinum") revealed that the majority of these variants are <i>de novo</i> and cell-line mutations or reside within previously unidentified duplications and deletions. The reference materials from this study are a resource for objective assessment of the accuracy of variant calls throughout genomes.</p>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Journal authors="Michael A Eberle, Epameinondas Fritzilas, Peter Krusche, Morten K&#228;llberg, Benjamin L. Moore, Mitchell A. Bekritsky, Zamin Iqbal, Han-Yu Chuang, Sean J. Humphray, Aaron L. Halpern, Semyon Kruglyak, Elliott H. Margulies, Gil McVean and David R. Bentley" title="A reference dataset of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree" journal="Genome Research, In Press"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Computational Biology"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>David R Bentley</AttName>
+			<Institution>Illumina, Ltd, Little Chesterford, Essex, UK</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Michael A Eberle</AttName>
+			<Institution>Illumina, Inc, San Diego, CA USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyURLs>
+		<Url name="Platinum Genomes" url="https://www.platinumgenomes.org"/>
+	</StudyURLs>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001224.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001224.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001224.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

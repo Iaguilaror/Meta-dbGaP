@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs001139.v1.p1" parentStudy="phs001139.v1.p1" createDate="2016-06-07" modDate="2016-09-12">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigators</td><td>Thomas Quertermous, MD</td><td>Standford University, Stanford, CA, USA</td></tr>
+		<tr><td>Principal Investigators</td><td>Eric Schadt, PhD</td><td>Icahn School of Medicine at Mount Sinai, New York, NY, USA</td></tr>
+		<tr><td>Funding Source</td><td>U01HL107388</td><td>National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>NextGen/GENESiPS</StudyNameEntrez>
+	<StudyNameReportPage>NextGen Consortium: GENESiPS Study: Identifying the Gene Networks of Insulin Resistance</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Case-Control</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>Variability in induced pluripotent stem cell (iPSC) lines remains a roadblock for disease modeling and regenerative medicine. Through linear mixed models we have described different sources of gene expression variability from RNA sequencing data in 317 human iPSC lines from 101 individuals. We found that ~50% of genome-wide expression variability is explained by variation across individuals and identified a set of expression quantitative trait loci that contribute to this variation. These analyses coupled with allele specific expression show that iPSCs retain a subject-specific gene expression pattern. Pathway enrichment and key driver analyses, based on predictive causal gene networks, found that Polycomb targets explain a significant part of the non-genetic variability present in iPSCs within and across individuals. These publically available iPSC lines and genetic datasets will be a resource to the scientific community and will open new avenues to reduce variability in iPSCs and improve their utility in disease modeling.</p> <p>SNP array data from individuals included in RNA-seq transcriptome profiling study of human induced pluripotent stem cells to characterize gene expression variation across individuals and within multiple iPSC lines from the same individual. Genotyping was performed on patient blood.</p> Data availability: <ul> <li>SNP-genotyping: dbGaP - current study</li> <li>RNA-seq counts: <a href="http://www.ncbi.nlm.nih.gov/geo/">GEO</a> - GSE79636</li> <li>FASTQ files: <a href="http://www.ncbi.nlm.nih.gov/sra">SRA</a> - SRP072417</li> </ul>]]>
+	</Description>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Publications>
+		<Publication>
+			<Pubmed pmid="26727231"/>
+		</Publication>
+	</Publications>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Insulin Resistance"/>
+		<Disease vocab_source="MESH" vocab_term="Pluripotent Stem Cells"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigators">
+			<AttName>Thomas Quertermous, MD</AttName>
+			<Institution>Standford University, Stanford, CA, USA</Institution>
+		</Header>
+		<Header title="Principal Investigators">
+			<AttName>Eric Schadt, PhD</AttName>
+			<Institution>Icahn School of Medicine at Mount Sinai, New York, NY, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U01HL107388</AttName>
+			<Institution>National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU-IRB" longName="General Research Use (IRB)"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHLBI</DacName>
+      <DacFullName>National Heart, Lung, and Blood Institute DAC</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs001139.v1.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>12</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>yes</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001139.v1.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs001139.v1.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use (IRB)</ConsentName>
+        <ConsentAbbrev>GRU-IRB</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.
+Requestor must provide documentation of local IRB approval.</UseLimitation>
+        <IrbRequired>Yes</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>

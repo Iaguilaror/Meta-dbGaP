@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GaPExchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./dbGaPEx2.1.5.xsd">
+
+<MetaVariables>
+	<Submitter/>
+	<Method/>
+</MetaVariables>
+<MetaLinks/>
+
+<Projects>
+	<Project/>
+</Projects>
+
+<Studies>
+
+<Study source="dbGaP" accession="phs000655.v3.p1" parentStudy="phs000655.v3.p1" createDate="2016-01-15" modDate="2016-12-07">
+
+<Configuration>
+	<Data_Provider><![CDATA[
+		<table border="1">
+		<tr><th>Title</th><th>Name</th><th>Institute</th></tr>
+		<tr><td>Principal Investigator</td><td>Stacey Gabriel</td><td>The Broad Institute, Boston, MA, USA</td></tr>
+		<tr><td>Co-Investigator</td><td>Daniel MacArthur, PhD</td><td>Massachusetts General Hospital, The Broad Institute, Boston, MA, USA</td></tr>
+		<tr><td>Funding Source</td><td>U54 HG003067</td><td>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</td></tr>
+		</table>
+	]]></Data_Provider>
+	<StudyNameEntrez>Genetics of Inherited Muscle Disease</StudyNameEntrez>
+	<StudyNameReportPage>Genetics of Inherited Muscle Disease</StudyNameReportPage>
+	<StudyTypes>
+		<StudyType>Probands</StudyType>
+		<StudyType>Mendelian</StudyType>
+		<StudyType>Family</StudyType>
+	</StudyTypes>
+	<Description><![CDATA[
+<p>The samples are drawn from a collection of patients with a heterogeneous set of neuromuscular disorders, including congenital muscular dystrophy, congenital myopathy, limb-girdle muscular dystrophy, Emery-Dreifuss muscular dystrophy, and arthrogryposis, along with unaffected parents and siblings in some cases. The samples were collected by the following clinicians affiliated with the associated institutes: <ol> <li>Kathryn North and Nigel Clarke (Institute for Neuroscience and Muscle Research, Children&#39;s Hospital at Westmead, Australia)</li> <li>Hanns Lochmuller and Kate Bushby (The Newcastle Muscle Centre, Newcastle University, UK)</li> <li>Peter Kang (Boston Children&#39;s Hospital)</li> <li>Carsten Bonnemann (National Institutes of Health, Bethesda, MD, USA)</li> <li>Nigel Laing (University of Western Australia)</li> </ol> </p> <p> All exome sequencing was performed at the Broad Institute of Harvard and MIT; samples sequence capture was performed using Agilent SureSelect Human All Exon Kit v2 or Illumina&#39;s Rapid Capture Exome enrichment kit and sequencing was performed on an Illumina HiSeq 2000. In addition some samples were whole genome sequenced on Illumina HiSeq X Ten.</p>]]>
+	</Description>
+	<StudyInEx><![CDATA[
+<p>All samples are either patients with severe neuromuscular diseases or immediate relatives of patients with those diseases.</p>]]>
+	</StudyInEx>
+	<StudyProjects>
+		<Project/>
+	</StudyProjects>
+	<Diseases>
+		<Disease vocab_source="MESH" vocab_term="Muscular Dystrophies"/>
+		<Disease vocab_source="MESH" vocab_term="Myopathies, Structural, Congenital"/>
+		<Disease vocab_source="MESH" vocab_term="Arthrogryposis"/>
+	</Diseases>
+	<Attributions>
+		<Header title="Principal Investigator">
+			<AttName>Stacey Gabriel</AttName>
+			<Institution>The Broad Institute, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Co-Investigator">
+			<AttName>Daniel MacArthur, PhD</AttName>
+			<Institution>Massachusetts General Hospital, The Broad Institute, Boston, MA, USA</Institution>
+		</Header>
+		<Header title="Funding Source">
+			<AttName>U54 HG003067</AttName>
+			<Institution>National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA</Institution>
+		</Header>
+	</Attributions>
+	<DisplayPublicSummary>yes</DisplayPublicSummary>
+	<StudyHistory><![CDATA[
+<p>In study release 3, data of addidional subjects (n=263) and RNA sequencing data of n=56 samples have been added.</p>]]>
+	</StudyHistory>
+	<ConsentGroups>
+		<ConsentGroup groupNum="1" shortName="GRU" longName="General Research Use"/>
+		<ConsentGroup groupNum="2" shortName="DS-NMD" longName="Disease-Specific (Neuromuscular Disease)"/>
+		<ConsentGroup groupNum="3" shortName="HMB" longName="Health/Medical/Biomedical"/>
+	</ConsentGroups>
+</Configuration>
+
+  <AuthorizedAccess>
+    <DacInfo ssDacId="0">
+      <DacName>NHGRI</DacName>
+      <DacFullName>National Human Genome Research Institute</DacFullName>
+      <DacEmail>0</DacEmail>
+      <DacPhone></DacPhone>
+      <DacUrl></DacUrl>
+    </DacInfo>
+    <Policy Policy_ID="phs000655.v3.p1_policy" ref_ssDacId="0">
+      <DisplayResearchStatement>yes</DisplayResearchStatement>
+      <DisplayPublicSummary>yes</DisplayPublicSummary>
+      <EmbargoLength>0</EmbargoLength>
+      <YearsUntilRenewal>1</YearsUntilRenewal>
+      <WeeksCancelRequest>8</WeeksCancelRequest>
+      <PdfSupplementReqired>no</PdfSupplementReqired>
+      <AcknowledgementText>
+        <para>
+          http://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000655.v3.p1
+        </para>
+      </AcknowledgementText>
+      <DocumentSet>
+        <DataUseCertificate Label="Data Use Certificate" FilePath="https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=DUC&amp;view_pdf&amp;stacc=phs000655.v3.p1" FileName=""/>
+      </DocumentSet>
+    </Policy>
+    <ConsentGroups>
+      <ParticipantSet groupNum-REF="1">
+        <ConsentName>General Research Use</ConsentName>
+        <ConsentAbbrev>GRU</ConsentAbbrev>
+        <UseLimitation>Use of the data is limited only by the terms of the model Data Use Certification.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="2">
+        <ConsentName>Disease-Specific (Neuromuscular Disease)</ConsentName>
+        <ConsentAbbrev>DS-NMD</ConsentAbbrev>
+        <UseLimitation>Use of the data must be related to Neuromuscular Disease.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+      <ParticipantSet groupNum-REF="3">
+        <ConsentName>Health/Medical/Biomedical</ConsentName>
+        <ConsentAbbrev>HMB</ConsentAbbrev>
+        <UseLimitation>Use of this data is limited to health/medical/biomedical purposes, does not include the study of population origins or ancestry.</UseLimitation>
+        <IrbRequired>No</IrbRequired>
+      </ParticipantSet>
+    </ConsentGroups>
+  </AuthorizedAccess>
+
+
+</Study>
+
+</Studies>
+
+</GaPExchange>
