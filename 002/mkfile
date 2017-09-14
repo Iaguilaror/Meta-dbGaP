@@ -1,9 +1,10 @@
  < ../config.mk
 
-all:QV:
+all:V:
+	set -x
 	bin/targets | xargs mk
 
-results/%/index.html:Q:
+results/%/index.html:
 	set -x
 	mkdir -p `dirname $target`
 	wget -q -O - $BASE_URL/$stem/ \

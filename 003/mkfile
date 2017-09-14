@@ -1,10 +1,11 @@
 < ../config.mk
 
-all:VQ:
+all:V:
+	set -x
 	bin/targets | xargs mk
 
-results/%/metadata.xml:Q:
-	##set -x
+results/%/metadata.xml:
+	set -x
 	echo "[DEBUGGING] downloading $target"
 	mkdir -p `dirname $target`
 	wget -q -O - $BASE_URL/$stem/ \
@@ -12,4 +13,4 @@ results/%/metadata.xml:Q:
 	| grep 'GapExchange' \
 	| cut -d'"' -f2 \
 	| xargs wget -q -O - > $target.build \
-	&& mv $target.build $target || echo "[WARNING] No GapExchange .xml file found for $stem"
+	&& mv $target.build $target || echo "[WARNING] No GapExchange .xml file found for $stem" && rm $target.build
